@@ -1,0 +1,22 @@
+# secrets / local config
+.env
+.env.*
+*.local.json
+secrets/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# build / runtime (refine per product)
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+
+# private raw material is never committed
+evidence/raw/
+**/transcripts/raw/

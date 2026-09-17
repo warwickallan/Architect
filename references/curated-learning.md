@@ -1,0 +1,17 @@
+# Curated learning
+
+Supplements, selected **lesson by lesson** when a human visual explanation will make a concept stick. Never a forty-hour queue, never more authoritative than the official objective or product documentation.
+
+| Source | Best for | Type | Note |
+|---|---|---|---|
+| [Shane Young / PowerApps911](https://www.youtube.com/@ShanesCows) | Power Apps, Power Automate, Dataverse, Copilot Studio — practical visual walkthroughs | Free video | AB-410 heavy |
+| [Lisa Crosbie](https://www.youtube.com/@LisaCrosbie) | Accessible visual introductions to low-code and Copilot concepts | Free video | Microsoft hosts a curated creator page for her material |
+| [Lisa Crosbie — Copilot Studio beginner tutorial](https://www.youtube.com/watch?v=vF2Z4T97xcQ) | Copilot Studio foundation before deeper AB-620 work | Free video | Start here for AB-620 area 1 |
+| [Reza Dorrani](https://www.youtube.com/@RezaDorrani) | Topic-by-topic Power Platform / Copilot | Free video | Use per topic, not as a syllabus |
+| [Kuljot Singh Bakshi — AB-620 (Udemy)](https://www.udemy.com/course/copilot-studio-ai-agent-builder/) | AB-620 companion: MCP, APIs, RAG, multi-agent, Foundry, evaluation, ALM | Paid, optional | Per brief: updated Aug 2026, ~9.5h, 4.4/5 as of 2026-09-17. Budget unknown (A02). |
+| Microsoft Learn modules (per objective) | Official self-paced paths for AB-410 / AB-620 | Free | AB-100 has **no** learning path yet (S04) |
+| PMI CPMAI course | Official 21-hour course (unverified, A12) | Paid | Required/expected for the CPMAI exam per brief |
+
+## How to use this file
+
+When a lesson is created, pick at most one or two supplements for it and cite them in the lesson's `references.md` with the objective IDs they support. Add new sources here only after checking they're current (Copilot Studio changes monthly — anything over ~12 months old needs a caveat).
