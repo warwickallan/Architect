@@ -1,0 +1,29 @@
+[
+  {
+    "id": "FACT-001",
+    "text": "Warwick learns by making and looking at things; he is visual and process-minded, has ADHD, and retains little from reading alone. Something must exist on screen or be built for learning to stick.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["PAIN-001", "HYP-001"],
+    "tags": ["learning", "user"],
+    "objectives": ["CPMAI-2.1"]
+  },
+  {
+    "id": "FACT-002",
+    "text": "Concerto Studio, Launch and RAID were each built as a single-tab web app that was extended tab by tab as need arose. The pattern is proven for Warwick.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["DEC-001", "HYP-001"],
+    "tags": ["precedent"],
+    "objectives": ["CPMAI-2.2"]
+  },
+  {
+    "id": "FACT-003",
+    "text": "Claude Code is logged in on this machine (Yoga). Print mode (`claude -p`) runs on the subscription, so a local tool needs no Anthropic API key. Concerto Studio uses the same approach on the work machine.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["DEC-004", "SYS-002"],
+    "tags": ["environment"],
+    "objectives": ["CPMAI-3.4"]
+  }
+]

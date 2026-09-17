@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PAIN-001",
+    "text": "Markdown templates as the discovery interface are consultancy theatre: filling in a form is not how discovery happens and Warwick will not use them.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["FACT-001", "REQ-001"],
+    "tags": ["interface"],
+    "objectives": ["CPMAI-2.1"]
+  },
+  {
+    "id": "PAIN-002",
+    "text": "Discovery written as prose is not traceable: the same fact gets retyped into the process document, business case, assumptions, HIL model, requirements, ADRs and case study, and its origin is lost.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "ChatGPT proposal, endorsed by Warwick" },
+    "links": ["REQ-003", "MET-002"],
+    "tags": ["traceability"],
+    "objectives": ["CPMAI-1.5", "CPMAI-2.1"]
+  }
+]

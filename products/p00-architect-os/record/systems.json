@@ -1,0 +1,24 @@
+[
+  {
+    "id": "SYS-001",
+    "text": "GitHub repository warwickallan/Architect — the durable store for the record, artefacts, method and code.",
+    "authoritative": true,
+    "read": "file system / git", "write": "file system / git",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["DEC-003"],
+    "tags": [],
+    "objectives": ["CPMAI-3.3"]
+  },
+  {
+    "id": "SYS-002",
+    "text": "Claude Code CLI (logged in on Yoga) — LLM runtime for the interview via `claude -p`; no API key.",
+    "authoritative": false,
+    "read": "spawned process", "write": "n/a",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["DEC-004", "FACT-003"],
+    "tags": [],
+    "objectives": ["CPMAI-3.4"]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "STK-001",
+    "text": "Warwick — owner and sole user; requests, decides and approves; owns the process and the record; bears the risk if the tool is not used.",
+    "roles": { "requests": true, "performs": true, "decides": true, "approves": true, "ownsProcess": true, "ownsData": true, "operates": true, "bearsRisk": true },
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["DEC-001"],
+    "tags": [],
+    "objectives": ["CPMAI-2.1"]
+  },
+  {
+    "id": "STK-002",
+    "text": "Claude Code — builds the OS; runs the interview skill in the terminal; is the LLM runtime the OS calls.",
+    "roles": { "performs": true, "operates": true },
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["SYS-002"],
+    "tags": [],
+    "objectives": []
+  },
+  {
+    "id": "STK-003",
+    "text": "ChatGPT — method and syllabus steward; challenges architecture; co-owns the separate LMS with Claude.",
+    "roles": { "performs": true },
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": [],
+    "tags": [],
+    "objectives": []
+  }
+]

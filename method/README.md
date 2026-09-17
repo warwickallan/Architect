@@ -1,53 +1,78 @@
 # The delivery method — "Product Zero"
 
-Architect's reusable AI transformation / solution-architecture playbook. Built once on the first real product, reused and improved on each later one. By project two Warwick is operating his own method, not relearning discovery.
+Architect's reusable AI transformation / solution-architecture playbook: what to do, in what order, what evidence to capture, what decisions to make, and what must exist before moving on. Built on the first projects, reused and improved on every later one.
 
-**Version:** 0.1 (2026-09-17) — templates only; no worked example yet. Bump after each project's retrospective and log below.
+**Version:** 0.2 (2026-09-17) — lifecycle with gates and a structured record; no worked example yet. Bump after each project retrospective and log below.
 
-## Lifecycle → deliverable → template → lesson
+**Working interface:** the method runs through **Architect OS** (`products/p00-architect-os/`) — a conversational interface over a structured project record — with the same skills runnable from Claude Code in the terminal. **GitHub is the durable store**: the record and every rendered artefact live in the repo. Markdown is persistence and deliverable format, not the user interface.
 
-| Stage | Lens | Professional deliverable | Template | Taught by |
-|---|---|---|---|---|
-| 0 Candidate selection | CPMAI | Candidate briefs + scored selection | `templates/project-brief-template.md` | products/README.md exercise |
-| 1 Discovery | CPMAI (+AB-100) | **Discovery pack** (six parts, below) ending in a Discovery Decision | `templates/discovery/` | L001–L003 |
-| 2 Architecture | AB-100 | Architecture pack v0.1 (context, boundaries, authority, NFRs, diagrams), ADRs, trace table | `templates/adr-template.md`, `templates/trace-template.md` | L004 |
-| 3 Build | AB-410 / AB-620 | Requirements/backlog, security & authority model, implementation/config evidence, runbook | `templates/build-task-template.md` | JIT lessons |
-| 4 Evaluate | CPMAI / AB-620 / AB-100 | Test/evaluation datasets and results — **seeded from the discovery evaluation plan** | `05-evaluation-plan.md` → `tests/` | JIT lessons |
-| 5 Operate | CPMAI / AB-100 | Deployment/ALM evidence, monitoring/telemetry plan, governance & HIL model, adoption/change notes | (added when first needed) | JIT lessons |
-| 6 Review | CPMAI + AB-100 | Realised-value review, architecture review, lessons learned | (added at first product review) | — |
-| 7 Portfolio | — | Case study / portfolio pack; sanitised derivative for `publishable/` | (added at first case study) | — |
+## Lifecycle: stage → activities → artefacts → gate
 
-Templates for stages 5–7 are deliberately not written yet: they'll be drafted from the first real need, not speculated.
+A stage does not finish because someone clicked *Next*. It finishes when the gate's evidence conditions are demonstrably true in the record.
 
-**PMI-CPMAI domain mapping** (exam evidence comes from doing the stages, not from separate study): stage 0–1 ↔ Domain II *Business Needs & Solutions* and Domain III *Data Needs*; stage 4 ↔ Domain IV *Model Development & Evaluation*; stages 5–6 ↔ Domain V *Operationalise*; Domain I *Responsible & Trustworthy AI* is cited wherever privacy, transparency, bias, compliance or audit trail is actually handled, at every stage.
+| # | Stage | Lens | Activities (what the architect does) | Artefacts (durable outputs) | Gate (must be true to progress) |
+|---|---|---|---|---|---|
+| 0 | **Opportunity** | CPMAI D2 | Capture candidate pain points; light brief; score against criteria | Candidate brief | Candidate selected by Warwick |
+| 1 | **Discover** | CPMAI D2, D3, D1 · AB-100 1.1 | Interview stakeholders; map current state; establish authority; baseline; assess AI suitability per step; data/source-of-truth; risks; evaluation plan | Structured record + discovery pack (brief, current-state, value & suitability, data/authority/constraints, evaluation plan) | **Discovery Decision**: validated problem · current state · stakeholder authority · baseline · AI suitability · data feasibility · value hypothesis · risks · success criteria — then *proceed / reshape / stop* |
+| 2 | **Architect** | AB-100 · CPMAI 2.7 | Target architecture; source-of-truth decisions; AI/deterministic boundaries; trust/security boundaries; HIL authority; integration choices; NFRs | Architecture pack, ADRs, trace table | **Architecture baseline**: all of the above explicit, key ADRs accepted by Warwick, explain-back done |
+| 3 | **Mobilise** | CPMAI 2.6, 2.10 · PM practice | Scope; backlog; milestones; dependencies; RAID; resources; stakeholders & comms; change/adoption plan; environments & access | Backlog, plan, RAID, stakeholder/comms plan, environment/access confirmation | **Ready to build**: access confirmed, backlog sized, RAID owned, reviewers named |
+| 4 | **Build & Evaluate** | AB-410 · AB-620 · CPMAI D4 | Vertical slices; tests and eval set from the evaluation plan (continuous, not a phase after build); HIL; audit; error paths | Working software/config, tests, eval results, security & authority model, runbook | **Release readiness**: eval targets met on the defined set, failure & boundary cases pass, security/platform review done, UAT accepted |
+| 5 | **Deploy & Operate** | CPMAI D5 · AB-100 3.x · AB-620 3.2 | Deployment/ALM; monitoring/telemetry; governance; contingency; adoption; handover | ALM evidence, telemetry plan, governance & HIL model, runbook, handover pack | **Transition complete**: operated by its owners, monitored, incidents have a path |
+| 6 | **Review** | CPMAI 5.5 · AB-100 | Realised value vs hypothesis; architecture review against evidence; lessons; method changes; case study | Realised-value review, architecture review, case study / portfolio pack, sanitised derivative | **Value reviewed**: baseline vs actual recorded, method changelog updated, case study published (privately) |
 
-## The discovery pack
+Templates for stages 2–6 are drafted from the first real need, not speculated. Stage 1's artefacts are *renders* of the record (see below), not forms.
 
-| # | Artefact | Answers | Feeds |
-|---|---|---|---|
-| 01 | Discovery brief | What problem, for whom, how big, why it matters, what would stop us | everything |
-| 02 | Current-state pack | Real process (visual + steps), actors, systems, handoffs, decisions, controls, pain; stakeholder & authority model | 03, HIL design, architecture authority boundaries |
-| 03 | Value & suitability assessment | Baseline, value/ROI hypothesis, kill criteria; per-step intervention classification (eliminate / deterministic / conventional app / AI-assisted / agentic / human) with reasons | 06, ADRs, realised-value review |
-| 04 | Data, authority & constraints pack | Systems, entities, source of truth, read/write paths, permissions, sensitivity, unknowns; risks/assumptions/dependencies (linked to `ASSUMPTIONS.md`) | architecture, security model |
-| 05 | Evaluation plan | Business success + system/AI success metrics; seed test cases (happy / failure / boundary / HIL) | the actual test set — never a separate suite written later |
-| 06 | Discovery decision | Proceed / reshape / stop; intervention; MVP boundary; out of scope; assumptions; constraints; success criteria; inputs architecture must respect | formal handoff to AB-100 |
+## The structured record ("capture once, reuse everywhere")
 
-Rules: Warwick authors the content; Claude scaffolds, challenges and formats. Combine parts if a project is small — coverage matters, not file count. A pack that concludes "do not use AI here" is a successful pack.
+Everything learned about an initiative is an entity with a stable ID and a source pointer; artefacts reference or render entities rather than restating them. Architect OS manages the IDs — nobody types them.
+
+| Type | Prefix | Holds |
+|---|---|---|
+| Fact | `FACT` | Something true about the business/process/organisation ("PM approval exists to control budget") |
+| Pain | `PAIN` | A cost, waste, delay or risk experienced today |
+| Hypothesis | `HYP` | A belief to test ("budget governance can be preserved without PM involvement in routine bookings") |
+| Unknown | `UNKNOWN` | A question discovery must answer |
+| Stakeholder | `STK` | Person/role + what they request / perform / decide / approve / own / operate / bear risk for |
+| System | `SYS` | A system, the data it holds, whether authoritative, read/write paths |
+| Risk | `RSK` | Risk, assumption or dependency with treatment and owner |
+| Metric | `MET` | Baseline and target; business or system/AI |
+| Requirement | `REQ` | A constraint or need the solution must satisfy |
+| Decision | `DEC` | A decision taken, linking to its ADR where material |
+
+Each entity: `id`, `text`, `status` (pending → confirmed / rejected), `source` (session, timestamp), `links` (other IDs), `tags`, `objectives` (syllabus IDs it evidences). The set of types is expected to change during project one — that is the point of running the method before productising it.
+
+Traceability falls out of links: `ADR-0007 → REQ-012 → RSK-003 → FACT-006 → discovery session 2026-10-02 14:32`.
+
+## The skills (durable stage methods)
+
+| Skill | Stage | Status |
+|---|---|---|
+| `.claude/skills/discovery-interview/` | 1 Discover | v0.1 — first to be built |
+| `/architect` | 2 | not yet |
+| `/mobilise` | 3 | not yet |
+| `/build-review`, `/evaluate` | 4 | not yet |
+| `/operate` | 5 | not yet |
+| `/review-value` | 6 | not yet |
+
+A skill defines: purpose and gate; interview stages; question strategy; follow-up and challenge rules; evidence requirements; things never to assume; syllabus mapping; entities it may create/update; confirmation protocol; completion criteria; handoff. Architect OS loads the skill as the interview's system prompt; Claude Code can run the same skill in the terminal.
+
+## Teaching in context
+
+The OS teaches when a concept is hit, not in module order: when discovery identifies a system as authoritative, it offers the short *source of truth* lesson then. Lessons remain the learning artefacts (`lessons/`), but they are unlocked by the work.
 
 ## Learning artefacts vs professional artefacts
 
 | Learning (per lesson) | Professional (per product) |
 |---|---|
-| lesson, slides, narration/storyboard, diagram, curated resources, lab, quiz, explain-back, spaced retest, objective mapping | discovery pack, process model, value case, suitability assessment, data/authority model, architecture diagrams, ADRs, backlog, security/authority model, implementation evidence, test datasets & results, ALM evidence, telemetry plan, governance/HIL model, runbook, adoption notes, realised-value review, architecture review, case study |
+| lesson, slides, narration/storyboard, diagram, curated resources, lab, quiz, explain-back, spaced retest, objective mapping | record, discovery pack, process model, value case, suitability assessment, data/authority model, architecture pack, ADRs, backlog, RAID, security/authority model, implementation evidence, eval datasets & results, ALM evidence, telemetry plan, governance/HIL model, runbook, adoption notes, realised-value review, architecture review, case study |
 
-Don't duplicate: the professional artefact is the lab and the evidence wherever possible. One artefact may satisfy CPMAI, AB-100, AB-410 and AB-620 objectives at once — cite all the IDs, don't copy the file.
+Don't duplicate: the professional artefact is the lab and the evidence wherever possible; cite all objective IDs on the one artefact.
 
-## Traceability
-
-Each product keeps `TRACE.md` (`templates/trace-template.md`): problem → discovery evidence → requirement/constraint → ADR → implementation → test/evaluation → outcome → realised value → portfolio evidence. The coverage matrix's `Product`/`Evidence` columns point at these paths.
+**PMI-CPMAI domain mapping**: stages 0–1 ↔ Domain II *Business Needs* and Domain III *Data Needs*; stage 4 ↔ Domain IV; stages 5–6 ↔ Domain V; Domain I *Responsible & Trustworthy AI* is cited wherever privacy, transparency, bias, compliance or audit trail is actually handled, at every stage.
 
 ## Method changelog
 
 | Version | Date | Change | Triggered by |
 |---|---|---|---|
 | 0.1 | 2026-09-17 | Discovery pack (6 parts), trace table, lifecycle table defined | ChatGPT programme instruction; no project yet |
+| 0.2 | 2026-09-17 | Seven stages with explicit gates; Mobilise added; structured record with entity IDs; skills as stage methods; Architect OS as working interface; teach-in-context | Warwick's decision: OS first (visual/process learner; proven single-tab-and-iterate pattern) |

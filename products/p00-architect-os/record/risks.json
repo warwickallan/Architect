@@ -1,0 +1,28 @@
+[
+  {
+    "id": "RSK-001",
+    "type": "risk",
+    "text": "Building the OS delays the real business product (P01), which is where career evidence comes from.",
+    "impact": "P01 MVP slips beyond the 3–5 week target; evidence for the DEPT-type role arrives late.",
+    "treatment": "v0.1 scope is one tab only; P01 discovery starts the day the tab works; OS features are added only when a stage needs them.",
+    "owner": "Warwick",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "Claude's objection, accepted as a risk by Warwick" },
+    "links": ["MET-001", "DEC-001"],
+    "tags": [],
+    "objectives": ["CPMAI-2.3"]
+  },
+  {
+    "id": "RSK-002",
+    "type": "risk",
+    "text": "The OS is built on a generic web stack and exercises no AB-410/AB-620 objectives.",
+    "impact": "Microsoft-stack evidence is not produced by P00.",
+    "treatment": "Accepted. P01 (Tech PMO AI) is where Power Platform / Copilot Studio evidence comes from.",
+    "owner": "Warwick",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "Claude's objection, accepted as a risk by Warwick" },
+    "links": [],
+    "tags": [],
+    "objectives": ["CPMAI-2.3"]
+  }
+]

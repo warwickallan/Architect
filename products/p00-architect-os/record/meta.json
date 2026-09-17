@@ -1,0 +1,15 @@
+{
+  "id": "p00-architect-os",
+  "name": "Architect OS",
+  "kind": "tool",
+  "stage": 1,
+  "stageName": "Discover",
+  "gate": "Discovery Decision",
+  "gateStatus": "passed",
+  "created": "2026-09-17",
+  "recordVersion": "0.1",
+  "nextIds": {
+    "FACT": 4, "PAIN": 3, "HYP": 3, "UNKNOWN": 3, "STK": 4, "SYS": 3,
+    "RSK": 3, "MET": 3, "REQ": 8, "DEC": 9
+  }
+}

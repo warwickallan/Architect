@@ -1,33 +1,32 @@
 # Dashboard
 
-**Updated:** 2026-09-17 · **Stage:** Foundation · **Product:** none selected · **Method:** v0.1 (templates only)
+**Updated:** 2026-09-17 · **Stage:** Foundation · **Products:** P00 Architect OS (building v0.1) · P01 Tech PMO AI (candidate) · **Method:** v0.2
 
 ## Next action
 
-1. Build **L000** (stack-map orientation, short).
-2. Run **candidate selection** (`products/README.md` step 1) — Warwick lists real pain points; brief-depth only.
-3. Begin **discovery** on the chosen candidate (L001 → `discovery/01`, `02`).
-
-Architecture (L004) does not start until `discovery/06-discovery-decision.md` exists.
+1. **Build P00 v0.1** — Discovery tab: interview · knowledge canvas with confirm/edit/discuss · gate progress · rendered artefacts. ADRs 0001–0008 accepted.
+2. **Run P01 discovery through it** — Tech PMO AI; Discovery Decision within 14 days of the tab working (MET-001).
+3. L000 orientation lesson alongside; L001–L004 concepts unlock in context.
 
 ## Business track
 
-| Item | State |
-|---|---|
-| Candidate selected | No |
-| Discovery pack | — |
-| Discovery Decision | — |
-| Baseline metrics captured | No |
-| MVP shipped | — |
-| Realised-value review | — |
+| Item | P00 Architect OS | P01 Tech PMO AI |
+|---|---|---|
+| Stage | 1 Discover → 4 Build | 0 Opportunity |
+| Discovery Decision | Proceed (DEC-001, 2026-09-17) | — |
+| Baseline | MET-001/002 defined, not yet measured | — |
+| MVP | v0.1 in progress | — |
+| Realised-value review | — | — |
 
 ## Method track (Product Zero)
 
-| Stage templates | State |
+| Item | State |
 |---|---|
-| 0–2 candidate / discovery / architecture | templates exist, no worked example |
-| 3–4 build / evaluate | build-task template only |
-| 5–7 operate / review / portfolio | not yet drafted (by design) |
+| Lifecycle v0.2 (7 stages, gates) | defined |
+| Structured record (10 entity types) | first instance: P00 record, 30 entities |
+| `discovery-interview` skill | v0.1 written; untested on a real interview |
+| Stage 2–6 skills / templates | not yet (by design) |
+| Renderer (record → discovery pack) | to build in P00 v0.1 |
 
 ## Curriculum track
 

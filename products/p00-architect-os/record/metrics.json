@@ -1,0 +1,28 @@
+[
+  {
+    "id": "MET-001",
+    "kind": "business",
+    "text": "Time from 'Discovery tab works' to P01 Discovery Decision.",
+    "baseline": null,
+    "target": "≤ 14 days",
+    "measure": "dates in P01 record meta",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["RSK-001", "HYP-001"],
+    "tags": [],
+    "objectives": ["CPMAI-2.8"]
+  },
+  {
+    "id": "MET-002",
+    "kind": "system",
+    "text": "Facts retyped across artefacts (should be zero — artefacts render from the record).",
+    "baseline": "all (Markdown templates)",
+    "target": "0",
+    "measure": "review of rendered discovery pack vs record",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["PAIN-002", "REQ-003"],
+    "tags": [],
+    "objectives": ["CPMAI-2.8", "CPMAI-1.5"]
+  }
+]

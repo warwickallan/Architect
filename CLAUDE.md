@@ -10,9 +10,17 @@ Read, in order: `README.md` → `PROJECT.md` → `progress/DASHBOARD.md` → `cu
 
 Before substantive work, state: business outcome · architecture question · syllabus objective IDs affected · assumptions/dependencies · what Warwick should learn personally.
 
+## Architecture decisions are Warwick's
+
+Present options with rationale and trade-offs; he decides; then write the ADR. Do not announce a stack, a pattern or a structure as settled — that happened once on 2026-09-17 and was rightly called out.
+
+## Interfaces
+
+Architect OS (`products/p00-architect-os/`) is the working interface; Claude Code in the terminal is the second interface to the same record. Stage methods are skills under `.claude/skills/` (currently `discovery-interview`); the OS loads them as system prompts. The record is JSON under `products/<id>/record/`; rendered artefacts under `products/<id>/discovery/` are derived — never hand-edit them.
+
 ## Discovery-before-architecture rule
 
-CPMAI is the lifecycle/control loop; AB-100 the architecture spine (`PROJECT.md`). For any product: candidate brief → discovery pack (`templates/discovery/` 01–06) → Discovery Decision → *then* architecture v0.1 and ADRs → build → evaluation/operationalisation → architecture review. Never open with "build a Copilot Studio agent"; open with "what business problem exists and why?". A discovery that concludes *eliminate*, *deterministic flow*, *conventional app* or *no AI here* is a correct result — don't steer it toward the syllabus.
+CPMAI is the lifecycle/control loop; AB-100 the architecture spine (`PROJECT.md`). For any product: candidate brief → discovery interview (`/discovery-interview`, record + rendered pack) → Discovery Decision → *then* architecture v0.1 and ADRs → mobilise → build & evaluate → deploy & operate → review (`method/README.md`). Never open with "build a Copilot Studio agent"; open with "what business problem exists and why?". A discovery that concludes *eliminate*, *deterministic flow*, *conventional app* or *no AI here* is a correct result — don't steer it toward the syllabus.
 
 **Warwick authors discovery content.** You scaffold, draw the diagrams from his steps, challenge every "agentic" classification with a deterministic alternative, and format. A discovery pack you wrote is not evidence.
 

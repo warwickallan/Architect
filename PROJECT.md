@@ -13,6 +13,8 @@ Warwick is an experienced implementation/project professional who can already ma
 
 Where possible one artefact serves both: Warwick performing and defending the real AI-suitability assessment for the chosen product is better learning evidence than a practice worksheet.
 
+**Working interface (decided 2026-09-17):** Architect OS (`products/p00-architect-os/`, Project Zero) is the interface through which the method is run — a conversational discovery interview over a structured, human-confirmed project record, built as a React/Node web app and grown tab by tab as each stage needs it. GitHub is the durable store. Warwick chose this over Markdown-first because he learns by making and looking, and the single-tab-and-iterate pattern is how his previous products were built. The LMS is a **separate** app, owned by Claude and ChatGPT, with the syllabus staying in `curriculum/`. P01 Tech PMO AI proceeds only if it passes discovery.
+
 ## Target outcome
 
 **Career:** credible evidence for an AI transformation / solution architecture role of the kind discussed in relation to DEPT (roughly £70–80k). Evidence means *"here is a business problem I analysed, the architecture I designed, the trade-offs I recorded, the system I delivered, how I secured and evaluated it, and the measurable result"* — plus a delivery toolkit that shows it's repeatable. Exact DEPT competencies are an open assumption (`ASSUMPTIONS.md` A01).
@@ -61,7 +63,7 @@ Discovery must not begin with "build a Copilot Studio agent". It begins with "wh
 | L003 | CPMAI + AB-100 | Data, authority, stakeholders & constraints: sources of truth, read/write authority, identity, sensitivity, adoption constraints, evaluation criteria. | Data/authority/constraints pack; evaluation plan; **Discovery Decision** |
 | L004 | AB-100 | Architecture hypothesis v0.1 and material ADRs — only after discovery evidence exists. | Architecture pack; ADRs; trace table |
 
-Then descend into AB-410 / AB-620 just-in-time as the real project needs. Default sprint allocation once building: **60% building / 25% JIT learning / 15% evidence, reflection and syllabus backfill.**
+L000 remains a short standalone orientation. L001–L004 are **not prerequisites**: their concepts are unlocked in context by the discovery interview (source of truth, deterministic vs agentic, HIL authority, baseline, ROI, data readiness) and the lesson is offered at that moment. Then descend into AB-410 / AB-620 just-in-time as the real project needs. Default sprint allocation once building: **60% building / 25% JIT learning / 15% evidence, reflection and syllabus backfill.**
 
 **Visual learning is first-class.** Every substantial lesson ships a slide outline, narration script, storyboard/diagram, lab, quiz and evidence file (`templates/lesson-template.md`).
 
@@ -84,8 +86,9 @@ Claude may implement quickly, but **Warwick remains accountable for architecture
 
 | Stage | Window | Gate |
 |---|---|---|
-| Foundation | from 2026-09-17 | Repo, syllabus/version baseline, method v0, L000, **candidate selected**, **discovery pack complete → Discovery Decision** |
-| Architecture | after Discovery Decision | v0.1 hypothesis, first ADRs, trace table |
+| Foundation | from 2026-09-17 | Repo, syllabus/version baseline, method v0.2, **P00 Architect OS v0.1 (Discovery tab) working**, L000 |
+| P01 discovery | as soon as the tab works | Tech PMO AI interviewed through the OS → **Discovery Decision** (target ≤ 14 days, MET-001) |
+| Architecture | after Discovery Decision | v0.1 hypothesis, first P01 ADRs, trace table; OS grows an Architecture tab only if needed |
 | First product | ≈ 3–5 weeks after architecture | Safely usable MVP with measurable utility; tests from the evaluation plan |
 | Consolidation | Oct–Nov 2026 | Realised-value review; architecture review; method v1; CPMAI course; AB-100 refresh after 14 Oct |
 | Second product | Nov–Dec 2026 | Method reused, not relearned; AB-620 closure |

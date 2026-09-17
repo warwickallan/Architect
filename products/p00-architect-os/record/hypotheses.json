@@ -1,0 +1,20 @@
+[
+  {
+    "id": "HYP-001",
+    "text": "A conversational discovery interface with a live knowledge canvas will get discovery done, remembered and reused — where Markdown templates would not.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
+    "links": ["FACT-001", "FACT-002", "MET-001"],
+    "tags": ["value"],
+    "objectives": ["CPMAI-2.2", "CPMAI-2.5"]
+  },
+  {
+    "id": "HYP-002",
+    "text": "The method can be expressed as a skill (system prompt + rules) that both Architect OS and Claude Code run, and it will prove reusable on a second project.",
+    "status": "confirmed",
+    "source": { "session": "2026-09-17 claude-code", "ref": "ChatGPT proposal, endorsed by Warwick" },
+    "links": ["DEC-005", "UNKNOWN-001"],
+    "tags": ["method"],
+    "objectives": ["CPMAI-2.7"]
+  }
+]

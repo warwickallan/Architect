@@ -1,6 +1,6 @@
 # Lessons
 
-Visual-first lesson packages. None built yet. The opening sequence is fixed (below); everything after L004 is chosen just-in-time by what the selected product needs.
+Visual-first lesson packages. None built yet. L000 is a standalone orientation; L001–L004 are **unlocked in context** by the discovery interview (the skill emits `unlock` concepts — see `.claude/skills/discovery-interview/SKILL.md`) rather than taught as prerequisites; everything after is chosen just-in-time by what the selected product needs. The LMS that will eventually present these is a separate app from Architect OS.
 
 ## Numbering
 
