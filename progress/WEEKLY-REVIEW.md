@@ -8,7 +8,7 @@ One entry per week, newest first. Keep to the headings; the value is in the tren
 
 **Delivery track:** Repo bootstrapped and linked to GitHub. Programme model refined (CPMAI as lifecycle loop; discovery before architecture); delivery method v0.1 and discovery-pack templates created. No product yet — candidate selection pending.
 
-**Learning track:** Syllabus baseline established from live Microsoft study guides (AB-410, AB-620, AB-100). CPMAI outline blocked (A12).
+**Learning track:** Syllabus baseline established from live Microsoft study guides (AB-410, AB-620, AB-100) and the official PMI-CPMAI ECO (Sept 2025) supplied by Warwick — 203 objectives registered.
 
 **Objectives moved:** none.
 
@@ -16,7 +16,7 @@ One entry per week, newest first. Keep to the headings; the value is in the tren
 
 **Warwick did personally:** —
 
-**Blockers / decisions needed:** A03 licences & environments; A12 CPMAI outline; A13 name reviewers; run selection exercise.
+**Blockers / decisions needed:** A03 licences & environments; A13 name reviewers; A14 price the CPMAI Exam Prep Course; run candidate selection.
 
 **Allocation (target 60/25/15):** n/a this week — setup.
 

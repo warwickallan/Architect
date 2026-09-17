@@ -1,6 +1,6 @@
 # 06 — Discovery decision: <product>
 
-**Objective IDs:** CPMAI-1.1.1 · AB100-1.1.1 · AB100-1.3.3
+**Objective IDs:** CPMAI-2.4 · CPMAI-2.7 · CPMAI-3.8 · CPMAI-1.5 · AB100-1.1.1 · AB100-1.3.3
 **Decided by:** Warwick · **Date:** · **Status:** Proposed | Decided
 
 ## Decision

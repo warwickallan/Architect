@@ -15,7 +15,8 @@ Anything not yet known enters here rather than being quietly guessed. Resolve by
 | A09 | Microsoft syllabi will change (AB-100 confirmed for 2026-10-14) | Coverage matrix stale | Retrieval dates + `references/VERSION-WATCH.md` diffs | Claude | Open |
 | A10 | AI-assisted building can produce false confidence | Artefacts without competence | Manual reps, explain-backs, delayed retests, evidence rule | Warwick | Open |
 | A11 | Course publication may expose customer/IP material | Governance problem | Strict private/publishable separation | Warwick | Open |
-| A12 | CPMAI exam content outline not retrievable by automation (pmi.org HTTP 403, 2026-09-17) | CPMAI objectives are phase-level and unverified | Warwick retrieves the official outline; Claude updates `gen_objectives.py` | Warwick | Open |
+| A12 | ~~CPMAI exam content outline not retrievable by automation~~ | — | **Resolved 2026-09-17:** Warwick supplied the official PMI-CPMAI ECO (Sept 2025); register rebuilt with 37 tasks in 5 domains | Warwick | Resolved |
 | A13 | Business reviewer, platform/security reviewer and architecture peer are unnamed | Reviews may not happen | Name them before the first consequential deployment | Warwick | Open |
+| A14 | PMI-CPMAI exam requires completion of PMI's paid Exam Prep Course first (ECO p.13); course cost, duration and timing unconfirmed | Exam target slips or budget (A02) is exceeded | Price the course + exam bundle; decide by end Oct 2026 whether CPMAI stays first in the exam order | Warwick | Open |
 
 A04–A08 are carried from the founding brief's P01 hypothesis; they matter only if that candidate is selected (`products/README.md`).

@@ -19,6 +19,8 @@ Architect's reusable AI transformation / solution-architecture playbook. Built o
 
 Templates for stages 5–7 are deliberately not written yet: they'll be drafted from the first real need, not speculated.
 
+**PMI-CPMAI domain mapping** (exam evidence comes from doing the stages, not from separate study): stage 0–1 ↔ Domain II *Business Needs & Solutions* and Domain III *Data Needs*; stage 4 ↔ Domain IV *Model Development & Evaluation*; stages 5–6 ↔ Domain V *Operationalise*; Domain I *Responsible & Trustworthy AI* is cited wherever privacy, transparency, bias, compliance or audit trail is actually handled, at every stage.
+
 ## The discovery pack
 
 | # | Artefact | Answers | Feeds |

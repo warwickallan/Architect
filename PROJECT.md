@@ -32,6 +32,8 @@ These outcomes are measured separately — see `progress/DASHBOARD.md`.
 | **AB-410** | **Enterprise process / data / workflow foundation** | How do the business process, data, workflow, application, environment and deterministic automation layers work? |
 | **AB-620** | **Intelligent / agentic layer** | How do agents, knowledge, RAG, tools, MCP/APIs, HIL and agent evaluation work? |
 
+**Exam route:** PMI-CPMAI (≈ month 2–3; PMI's paid Exam Prep Course must be completed first — `ASSUMPTIONS.md` A14) → AB-620 (≈ month 3–4) → AB-100 (≈ month 4–6). AB-410 is learned fully; its exam is optional because either AB-620 or AB-410 satisfies the AB-100 Associate prerequisite (verified 2026-09-17 — `references/SOURCE-REGISTER.md`). AB-100's English objectives change on **2026-10-14** — `references/VERSION-WATCH.md`.
+
 AB-100 is the spine; CPMAI surrounds the whole lifecycle. After implementation CPMAI and AB-100 *return*: did this solve the problem? was the value hypothesis right? what risks or adoption issues appeared? how should it operate and be governed? is the architecture still correct now there is evidence?
 
 ## Operating loop

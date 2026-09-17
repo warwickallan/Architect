@@ -1,6 +1,6 @@
 # 03 — Value & AI-suitability assessment: <product>
 
-**Objective IDs:** CPMAI-1.1.1 · CPMAI-1.1.2 · AB100-1.1.1 · AB100-1.3.1 · AB100-1.3.2 · AB100-1.3.3
+**Objective IDs:** CPMAI-2.2 · CPMAI-2.3 · CPMAI-2.5 · CPMAI-2.8 · CPMAI-2.9 · AB100-1.1.1 · AB100-1.3.1 · AB100-1.3.2 · AB100-1.3.3
 **Author:** Warwick · **Date:** · **Status:** Draft | Reviewed
 
 ## Baseline (measured before anything is built)

@@ -1,6 +1,6 @@
 # 04 — Data, authority & constraints pack: <product>
 
-**Objective IDs:** CPMAI-1.1.2 · AB100-1.1.2 · AB100-1.1.3 · AB100-3.4.6 · AB100-3.4.7 · AB620-1.1.1 · AB620-1.1.2 · AB620-1.1.5
+**Objective IDs:** CPMAI-1.1 · CPMAI-2.3 · CPMAI-3.1 · CPMAI-3.3 · CPMAI-3.6 · CPMAI-3.7 · CPMAI-3.8 · AB100-1.1.2 · AB100-1.1.3 · AB100-3.4.6 · AB100-3.4.7 · AB620-1.1.1 · AB620-1.1.2 · AB620-1.1.5
 **Author:** Warwick · **Date:** · **Status:** Draft | Reviewed
 
 ## Systems and data

@@ -1,6 +1,6 @@
 # 05 — Evaluation plan: <product>
 
-**Objective IDs:** CPMAI-1.1.5 · CPMAI-1.1.6 · AB100-3.1.4 · AB100-3.2.1 · AB620-3.1.1 · AB620-3.1.2
+**Objective IDs:** CPMAI-2.8 · CPMAI-4.2 · CPMAI-4.6 · CPMAI-5.4 · AB100-3.1.4 · AB100-3.2.1 · AB620-3.1.1 · AB620-3.1.2
 **Author:** Warwick + Claude · **Date:** · **Status:** Draft | Reviewed
 
 This plan becomes the real test set. Test cases below are copied — not reinvented — into `products/<id>/tests/` at build time and results are recorded against the same IDs.

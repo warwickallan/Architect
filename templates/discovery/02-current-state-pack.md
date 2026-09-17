@@ -1,6 +1,6 @@
 # 02 — Current-state pack: <product>
 
-**Objective IDs:** CPMAI-1.1.1 · AB100-1.1.1 · AB410-1.1.1
+**Objective IDs:** CPMAI-2.1 · CPMAI-2.6 · CPMAI-3.2 · AB100-1.1.1 · AB410-1.1.1
 **Author:** Warwick · **Date:** · **Status:** Draft | Reviewed
 
 ## Process map (as it really happens, including workarounds)

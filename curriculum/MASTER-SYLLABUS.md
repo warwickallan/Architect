@@ -4,16 +4,16 @@ One programme, four frameworks, interleaved by project need. This file explains 
 
 | Framework | Register | Objectives | Role in Architect | Exam |
 |---|---|---|---|---|
-| PMI-CPMAI | `objectives/cpmai.md` | 6 phases (provisional — see A12) | Lifecycle / control loop | Take first |
+| PMI-CPMAI | `objectives/cpmai.md` | 37 tasks in 5 domains | Lifecycle / control loop | Take first |
 | AB-100 | `objectives/ab-100.md` | 74 | Architecture spine | Take last |
 | AB-410 | `objectives/ab-410.md` | 48 | Enterprise process / data / workflow foundation | Learn fully; exam optional |
 | AB-620 | `objectives/ab-620.md` | 44 | Intelligent / agentic layer | Take |
 
-`COVERAGE-MATRIX.csv` has one row per objective (172 today). `GAP-BACKLOG.md` lists objectives the current project won't reach and how they'll be covered.
+`COVERAGE-MATRIX.csv` has one row per objective (203 today). `GAP-BACKLOG.md` lists objectives the current project won't reach and how they'll be covered.
 
 ## Objective IDs
 
-`CODE-area.subarea.n`, e.g. `AB620-2.2.2` = "Configure MCP tools". IDs are stable: a syllabus refresh may retire an ID but never renumbers one. All work — lessons, ADRs, evidence, commits — cites IDs so coverage can be audited mechanically.
+`CODE-area.subarea.n`, e.g. `AB620-2.2.2` = "Configure MCP tools"; PMI-CPMAI has no sub-area level so its IDs are `CPMAI-domain.task`, e.g. `CPMAI-2.5` = "Determine ROI". IDs are stable: a syllabus refresh may retire an ID but never renumbers one. All work — lessons, ADRs, evidence, commits — cites IDs so coverage can be audited mechanically.
 
 ## How the four layers interleave on any piece of work
 
@@ -30,9 +30,11 @@ CPMAI opens and closes every cycle (discovery before architecture; evaluation, o
 
 L000 orientation → L001 business problem & value (CPMAI) → L002 AI suitability (CPMAI + AB-100) → L003 data, authority, constraints, evaluation plan, Discovery Decision (CPMAI + AB-100) → L004 architecture hypothesis v0.1 (AB-100) → then AB-410/AB-620 just-in-time. Detail in `../lessons/README.md`; artefacts in `../templates/discovery/`.
 
-## CPMAI coverage is provisional
+## CPMAI: methodology phases vs exam domains
 
-The six `CPMAI-1.1.n` rows are phase-level placeholders from the founding brief, not the official exam content outline (pmi.org blocks automated retrieval — `ASSUMPTIONS.md` A12). Do not treat them as a complete objective map; do not mark CPMAI *Exam-ready* against them. When Warwick supplies the official outline the CPMAI section of `gen_objectives.py` is rebuilt with official domains/tasks and the six placeholder IDs are retired.
+The CPMAI *methodology* is six phases (Business Understanding → Data Understanding → Data Preparation → Model Development → Model Evaluation → Model Operationalisation) and that is the lifecycle taught in `method/README.md`. The *exam* (PMI-CPMAI, September 2025 ECO) is five domains: Responsible & Trustworthy AI 15% · Business Needs & Solutions 26% · Data Needs 26% · Model Development & Evaluation 16% · Operationalise 17%. The register holds the 37 exam tasks. Domain II reads almost exactly like the discovery pack (`templates/discovery/`) — that is where most CPMAI evidence will come from. Domain I (responsible AI) cuts across every stage and must be cited wherever privacy, transparency, bias, compliance or audit trail is actually handled, not collected in a separate lesson.
+
+Six earlier placeholder IDs (`CPMAI-1.1.1`–`1.1.6`) were removed on 2026-09-17 with no progress recorded against them; they were never official objectives.
 
 ## Status ladder
 

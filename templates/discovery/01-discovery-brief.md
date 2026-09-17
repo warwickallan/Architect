@@ -1,6 +1,6 @@
 # 01 — Discovery brief: <product>
 
-**Objective IDs:** CPMAI-1.1.1 · AB100-1.1.1 (add others as evidenced)
+**Objective IDs:** CPMAI-2.1 · CPMAI-2.4 · AB100-1.1.1 (add others as evidenced)
 **Author:** Warwick · **Date:** · **Status:** Draft | Reviewed
 
 ## Problem / opportunity
