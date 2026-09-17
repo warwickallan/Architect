@@ -6,7 +6,7 @@ One entry per week, newest first. Keep to the headings; the value is in the tren
 
 ## Week of 2026-09-14
 
-**Delivery track:** Repo bootstrapped and linked to GitHub. Programme model refined (CPMAI as lifecycle loop; discovery before architecture); delivery method v0.1 and discovery-pack templates created. No product yet — candidate selection pending.
+**Delivery track:** Repo bootstrapped and linked to GitHub. Programme model refined (CPMAI as lifecycle loop; discovery before architecture); method v0.2. Warwick decided P00 = Architect OS first; ADR-0001–0008 accepted; **Architect OS v0.1 (Discovery tab) built and smoke-tested the same day** — interview via `claude -p`, human-confirmed record, rendered discovery pack. P01 Tech PMO AI awaits its interview.
 
 **Learning track:** Syllabus baseline established from live Microsoft study guides (AB-410, AB-620, AB-100) and the official PMI-CPMAI ECO (Sept 2025) supplied by Warwick — 203 objectives registered.
 

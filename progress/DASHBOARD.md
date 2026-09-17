@@ -1,21 +1,21 @@
 # Dashboard
 
-**Updated:** 2026-09-17 · **Stage:** Foundation · **Products:** P00 Architect OS (building v0.1) · P01 Tech PMO AI (candidate) · **Method:** v0.2
+**Updated:** 2026-09-17 · **Stage:** Foundation → P01 discovery · **Products:** P00 Architect OS (v0.1 built, smoke-tested) · P01 Tech PMO AI (candidate) · **Method:** v0.2
 
 ## Next action
 
-1. **Build P00 v0.1** — Discovery tab: interview · knowledge canvas with confirm/edit/discuss · gate progress · rendered artefacts. ADRs 0001–0008 accepted.
-2. **Run P01 discovery through it** — Tech PMO AI; Discovery Decision within 14 days of the tab working (MET-001).
-3. L000 orientation lesson alongside; L001–L004 concepts unlock in context.
+1. **Warwick runs Architect OS** (`products/p00-architect-os/RUNBOOK.md`), creates the *Tech PMO AI* initiative and starts the interview. MET-001 clock starts now: Discovery Decision within 14 days.
+2. Fix what the first real use exposes (record shape, questions, UI) — Method v0.2 → v0.3 from evidence.
+3. Explain-backs for ADR-0001–0008; L000 orientation lesson; concept lessons as they unlock.
 
 ## Business track
 
 | Item | P00 Architect OS | P01 Tech PMO AI |
 |---|---|---|
-| Stage | 1 Discover → 4 Build | 0 Opportunity |
+| Stage | 4 Build & Evaluate | 0 Opportunity |
 | Discovery Decision | Proceed (DEC-001, 2026-09-17) | — |
 | Baseline | MET-001/002 defined, not yet measured | — |
-| MVP | v0.1 in progress | — |
+| MVP | **v0.1 built and smoke-tested 2026-09-17** | — |
 | Realised-value review | — | — |
 
 ## Method track (Product Zero)
@@ -24,9 +24,9 @@
 |---|---|
 | Lifecycle v0.2 (7 stages, gates) | defined |
 | Structured record (10 entity types) | first instance: P00 record, 30 entities |
-| `discovery-interview` skill | v0.1 written; untested on a real interview |
+| `discovery-interview` skill | v0.1; smoke-tested (2 turns) — extraction, challenge and gate assessment behave as specified |
 | Stage 2–6 skills / templates | not yet (by design) |
-| Renderer (record → discovery pack) | to build in P00 v0.1 |
+| Renderer (record → discovery pack) | built; P00's pack rendered to `discovery/` |
 
 ## Curriculum track
 

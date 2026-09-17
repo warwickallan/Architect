@@ -4,7 +4,7 @@ One folder per product, each run through the delivery method (`method/README.md`
 
 | ID | Product | Kind | Stage | Note |
 |---|---|---|---|---|
-| **P00** | [Architect OS](p00-architect-os/README.md) | Tool (Project Zero) | 1 Discover → building v0.1 | The working interface for the method. v0.1 = one tab, Discovery. Its own discovery record was seeded from the decision conversation on 2026-09-17. |
+| **P00** | [Architect OS](p00-architect-os/README.md) | Tool (Project Zero) | 4 Build & Evaluate — **v0.1 built** | The working interface for the method. v0.1 = one tab, Discovery: interview · knowledge canvas with confirm/edit/discuss · gate · rendered artefacts. Run: `RUNBOOK.md`. |
 | **P01** | Tech PMO AI *(candidate)* | Business product | 0 Opportunity | Becomes P01 **only if it passes discovery** — run through Architect OS `/discover`. Where the AB-410/AB-620 evidence comes from. |
 
 Nothing is pre-architected. The answer to "what should we build?" is produced by discovery, and *don't use AI here* is an acceptable answer.

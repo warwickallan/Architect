@@ -1,6 +1,6 @@
 # P00 — Architect OS
 
-**Kind:** tool (Project Zero) · **Stage:** 1 Discover (record seeded) → building v0.1 · **Owner:** Warwick · **Builder:** Claude Code
+**Kind:** tool (Project Zero) · **Stage:** 4 Build & Evaluate — v0.1 built 2026-09-17, smoke-tested, awaiting Warwick's first real use · **Owner:** Warwick · **Builder:** Claude Code
 
 The working interface for the delivery method. Conversational discovery over a structured project record, with a live knowledge canvas, gate progress as evidence conditions, and artefacts rendered from the record. GitHub is the durable store.
 
@@ -40,4 +40,8 @@ Explicitly out of scope for v0.1: any other tab, dashboards, architecture editor
 
 ## Run
 
-See `RUNBOOK.md` once the app exists.
+`cd products/p00-architect-os && npm install && npm run dev` → http://localhost:5177. Details in `RUNBOOK.md`.
+
+## Smoke test (2026-09-17)
+
+Two turns on a throwaway initiative: opener asked for a concrete recent instance; second turn separated the control's stated purpose from observed practice, proposed 10 typed entities (PAIN, FACT×3, STK×2, SYS×2, MET, UNKNOWN), unlocked `source-of-truth`, moved five gate conditions to *partial*, and asked the right follow-up. Session resume worked. Turn cost dropped from ~$0.75 to cents after `--strict-mcp-config` (FACT-004).

@@ -3,18 +3,40 @@
     "id": "UNKNOWN-001",
     "text": "Which entity types, fields and links actually matter — to emerge from running P01 discovery through the OS, not designed up front.",
     "status": "confirmed",
-    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
-    "links": ["HYP-002", "DEC-003"],
-    "tags": ["data-model"],
-    "objectives": ["CPMAI-3.1"]
+    "source": {
+      "session": "2026-09-17 claude-code",
+      "ref": "decision conversation"
+    },
+    "links": [
+      "HYP-002",
+      "DEC-003"
+    ],
+    "tags": [
+      "data-model"
+    ],
+    "objectives": [
+      "CPMAI-3.1"
+    ]
   },
   {
     "id": "UNKNOWN-002",
     "text": "Whether `claude -p` (print mode) or the Claude Agent SDK behaves better on Windows for streaming and session continuity.",
     "status": "confirmed",
-    "source": { "session": "2026-09-17 claude-code", "ref": "decision conversation" },
-    "links": ["DEC-004"],
-    "tags": ["technical"],
-    "objectives": ["CPMAI-2.2"]
+    "source": {
+      "session": "2026-09-17 claude-code",
+      "ref": "decision conversation"
+    },
+    "links": [
+      "DEC-004"
+    ],
+    "tags": [
+      "technical",
+      "resolved"
+    ],
+    "objectives": [
+      "CPMAI-2.2"
+    ],
+    "resolution": "`claude -p --output-format json` with --session-id/--resume works on Windows (native claude.exe); ~3-12 s per turn without streaming. Agent SDK not needed for v0.1.",
+    "resolved": "2026-09-17"
   }
 ]
