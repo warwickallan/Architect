@@ -1,10 +1,22 @@
 # Lessons
 
-Visual-first lesson packages. None exist yet; the first (`L000` — how the Microsoft stack fits together) is the next lesson to build after the project-selection exercise.
+Visual-first lesson packages. None built yet. The opening sequence is fixed (below); everything after L004 is chosen just-in-time by what the selected product needs.
 
 ## Numbering
 
-`L<nnn>-<slug>/`. Tens are reserved for sequencing within a theme; e.g. `L000` stack map, `L010` business problem & AI suitability, `L020` data authority & system of record. Numbers are stable once used.
+`L<nnn>-<slug>/`. L000–L004 are the opening sequence; later lessons take the next free tens number within a theme. Numbers are stable once used.
+
+## Opening sequence
+
+| Lesson | Primary lens | Purpose | Produces (professional artefact) | Status |
+|---|---|---|---|---|
+| L000 stack-map | all four | Short visual orientation: four viewpoints + lifecycle. No product decisions. | — | planned |
+| L001 business-problem-and-value | CPMAI | Problem, people, current process, why the control exists, scale, baseline, value hypothesis. No solution design. | `discovery/01`, `discovery/02` | planned |
+| L002 ai-suitability | CPMAI + early AB-100 | Is AI justified; deterministic vs language vs human; failure consequences; go/no-go/reshape. | `discovery/03` | planned |
+| L003 data-authority-constraints | CPMAI + AB-100 | Stakeholders, authority, sources of truth, read/write, identity, sensitivity, evaluation criteria; Discovery Decision. | `discovery/04`, `05`, `06` | planned |
+| L004 architecture-hypothesis | AB-100 | First end-to-end hypothesis and material ADRs, from discovery evidence only. | `design/`, ADRs, `TRACE.md` | planned |
+
+For L001–L004 the lab **is** the real artefact: Warwick fills the discovery template for the selected product and defends it. No practice worksheets.
 
 ## Package contents (from `templates/lesson-template.md`)
 

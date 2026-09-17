@@ -6,9 +6,19 @@ Priorities, in order: (1) ship useful products safely and quickly; (2) teach the
 
 ## Session start
 
-Read, in order: `README.md` → `PROJECT.md` → `progress/DASHBOARD.md` → `curriculum/MASTER-SYLLABUS.md` → the current product README (if one exists) → relevant `architecture/` files and ADRs.
+Read, in order: `README.md` → `PROJECT.md` → `progress/DASHBOARD.md` → `curriculum/MASTER-SYLLABUS.md` → `method/README.md` → the current product README, its `discovery/06-discovery-decision.md` and `TRACE.md` (if they exist) → relevant `architecture/` files and ADRs.
 
 Before substantive work, state: business outcome · architecture question · syllabus objective IDs affected · assumptions/dependencies · what Warwick should learn personally.
+
+## Discovery-before-architecture rule
+
+CPMAI is the lifecycle/control loop; AB-100 the architecture spine (`PROJECT.md`). For any product: candidate brief → discovery pack (`templates/discovery/` 01–06) → Discovery Decision → *then* architecture v0.1 and ADRs → build → evaluation/operationalisation → architecture review. Never open with "build a Copilot Studio agent"; open with "what business problem exists and why?". A discovery that concludes *eliminate*, *deterministic flow*, *conventional app* or *no AI here* is a correct result — don't steer it toward the syllabus.
+
+**Warwick authors discovery content.** You scaffold, draw the diagrams from his steps, challenge every "agentic" classification with a deterministic alternative, and format. A discovery pack you wrote is not evidence.
+
+## Two artefact kinds
+
+Learning artefacts (lesson package) and professional artefacts (discovery pack, architecture pack, ADRs, evaluation set, runbook, reviews, case study — `method/README.md`). Where possible the professional artefact *is* the lab and the evidence. Never create a second copy of an artefact to satisfy a certification structure — cite all objective IDs on the one artefact.
 
 ## Teaching-first rule
 
@@ -49,6 +59,10 @@ Business behaviour · data authority · privacy/security · external write permi
 
 Do not interrupt for trivial implementation choices that follow existing ADRs and standards.
 
+## Traceability
+
+Each product keeps `TRACE.md` (`templates/trace-template.md`). Update it when a Discovery Decision is made, an ADR is accepted, a feature ships, a test run is recorded or a review is held. Point the coverage matrix's `Product`/`Evidence` columns at real artefact paths, not at lesson names alone. Test cases come from `discovery/05-evaluation-plan.md` IDs — never write an unrelated suite later.
+
 ## Session end
 
-Update `progress/DASHBOARD.md` (state + next action), add to the current week in `progress/WEEKLY-REVIEW.md`, and commit with a message naming the objective IDs touched. Push only when Warwick has said to.
+Update `progress/DASHBOARD.md` (state + next action), add to the current week in `progress/WEEKLY-REVIEW.md`, update the product `TRACE.md` if anything in its chain moved, and commit with a message naming the objective IDs touched. Push only when Warwick has said to.

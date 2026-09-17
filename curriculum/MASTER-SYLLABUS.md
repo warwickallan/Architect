@@ -4,10 +4,10 @@ One programme, four frameworks, interleaved by project need. This file explains 
 
 | Framework | Register | Objectives | Role in Architect | Exam |
 |---|---|---|---|---|
-| PMI-CPMAI | `objectives/cpmai.md` | 6 phases (provisional — see A12) | Business / value / delivery methodology | Take first |
-| AB-100 | `objectives/ab-100.md` | 74 | Architecture spine above every lesson | Take last |
-| AB-410 | `objectives/ab-410.md` | 48 | Power Platform implementation foundation | Learn fully; exam optional |
-| AB-620 | `objectives/ab-620.md` | 44 | Agent / integration layer | Take |
+| PMI-CPMAI | `objectives/cpmai.md` | 6 phases (provisional — see A12) | Lifecycle / control loop | Take first |
+| AB-100 | `objectives/ab-100.md` | 74 | Architecture spine | Take last |
+| AB-410 | `objectives/ab-410.md` | 48 | Enterprise process / data / workflow foundation | Learn fully; exam optional |
+| AB-620 | `objectives/ab-620.md` | 44 | Intelligent / agentic layer | Take |
 
 `COVERAGE-MATRIX.csv` has one row per objective (172 today). `GAP-BACKLOG.md` lists objectives the current project won't reach and how they'll be covered.
 
@@ -18,13 +18,21 @@ One programme, four frameworks, interleaved by project need. This file explains 
 ## How the four layers interleave on any piece of work
 
 ```
-CPMAI   Why are we doing this? Value? Data? Success criteria? Risk?
-AB-100  What should the solution be? Agent or not? Build/buy/extend? Boundaries?
-AB-410  Data model, flows, approvals, business logic, environments
-AB-620  Agent design, tools, MCP/APIs, knowledge, HIL, evaluation, ALM
+CPMAI   lifecycle / control loop — should we? why? value? data? risk? evaluate? operate? govern? improve?
+AB-100  architecture spine — given requirement and constraints, what is the end-to-end solution?
+AB-410  enterprise process / data / workflow / deterministic automation foundation
+AB-620  intelligent / agentic layer — agents, knowledge, RAG, tools, MCP/APIs, HIL, evaluation
 ```
 
-The lesson that teaches "Dataverse relationships" is an AB-410 lesson, but it must also answer the AB-100 question (why is this the data-authority choice?) and the CPMAI question (what data does the value depend on?). Lessons therefore map to IDs across frameworks, not one.
+CPMAI opens and closes every cycle (discovery before architecture; evaluation, operationalisation and realised value after build); AB-100 reviews the architecture against that evidence. The lesson that teaches "Dataverse relationships" is an AB-410 lesson, but it must also answer the AB-100 question (why is this the data-authority choice?) and the CPMAI question (what data does the value depend on?). Lessons therefore map to IDs across frameworks, not one, and one professional artefact may evidence objectives in all four — cite them all on the one artefact rather than duplicating it.
+
+## Opening sequence
+
+L000 orientation → L001 business problem & value (CPMAI) → L002 AI suitability (CPMAI + AB-100) → L003 data, authority, constraints, evaluation plan, Discovery Decision (CPMAI + AB-100) → L004 architecture hypothesis v0.1 (AB-100) → then AB-410/AB-620 just-in-time. Detail in `../lessons/README.md`; artefacts in `../templates/discovery/`.
+
+## CPMAI coverage is provisional
+
+The six `CPMAI-1.1.n` rows are phase-level placeholders from the founding brief, not the official exam content outline (pmi.org blocks automated retrieval — `ASSUMPTIONS.md` A12). Do not treat them as a complete objective map; do not mark CPMAI *Exam-ready* against them. When Warwick supplies the official outline the CPMAI section of `gen_objectives.py` is rebuilt with official domains/tasks and the six placeholder IDs are retired.
 
 ## Status ladder
 

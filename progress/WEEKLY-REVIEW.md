@@ -6,7 +6,7 @@ One entry per week, newest first. Keep to the headings; the value is in the tren
 
 ## Week of 2026-09-14
 
-**Delivery track:** Repo bootstrapped and linked to GitHub. No product yet — selection exercise pending.
+**Delivery track:** Repo bootstrapped and linked to GitHub. Programme model refined (CPMAI as lifecycle loop; discovery before architecture); delivery method v0.1 and discovery-pack templates created. No product yet — candidate selection pending.
 
 **Learning track:** Syllabus baseline established from live Microsoft study guides (AB-410, AB-620, AB-100). CPMAI outline blocked (A12).
 
@@ -20,4 +20,4 @@ One entry per week, newest first. Keep to the headings; the value is in the tren
 
 **Allocation (target 60/25/15):** n/a this week — setup.
 
-**Next week:** selection exercise → L000 stack-map lesson → product README + first ADRs.
+**Next week:** L000 stack-map lesson → candidate selection → discovery on the chosen candidate (L001, `discovery/01`–`02`). No architecture until the Discovery Decision.

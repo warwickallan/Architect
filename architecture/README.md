@@ -2,6 +2,8 @@
 
 Cross-cutting principles that apply to every product, plus the ADR register. Product-specific architecture lives with the product (`products/<id>/design/`) — none exists yet.
 
+**Architecture v0.1 for a product is written only after its `discovery/06-discovery-decision.md` exists** (L004). The decision's MVP boundary and constraints are the inputs; architecture may challenge them, but a change goes back as an amendment to the decision, not a silent divergence.
+
 ## Principles (from the founding brief; challenge them via ADR, don't silently drop them)
 
 1. **Authoritative systems stay authoritative.** Systems of record for project/customer/commercial data (in Warwick's context, Concerto) remain the master unless the organisation explicitly decides otherwise. Dataverse holds only what the Microsoft solution needs plus solution-specific operational state, decisions and history — never an independent editable project master.

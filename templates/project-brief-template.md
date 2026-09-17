@@ -1,34 +1,34 @@
-# Project brief — <candidate name>
+# Candidate brief — <candidate name>
 
-Used in the selection exercise (`products/README.md`). Fill to *candidate* depth first (sections 1–6, a few lines each). Sections 7–9 are completed only for the selected project. This is CPMAI Phase I and AB-100 area 1 done for real.
+Used in the candidate-selection exercise (`products/README.md`). **Candidate depth only** — a few lines per section, enough to score and choose. Full discovery happens afterwards, on the selected candidate, using `templates/discovery/`. Do not design a solution here.
 
 **Date:** · **Author:** Warwick · **Status:** Candidate | Selected | Rejected
 
-## 1. The pain (business problem)
+## 1. The pain
 
-Who suffers, how often, what it costs in time/quality/risk. No technology yet.
+Who suffers, how often, what it costs in time/quality/risk. No technology.
 
-## 2. Current manual process
+## 2. Current process, briefly
 
-Steps as they happen today, including the workarounds. Where does judgement actually occur?
+The steps as they happen today. Where does judgement actually occur? Why does the process/control exist?
 
-## 3. Data and systems involved
+## 3. Systems and data touched
 
-Which systems hold which data; which is authoritative; what's readable/writable; what's unknown (→ `ASSUMPTIONS.md`).
+Which systems, which is authoritative, what's readable/writable, what's unknown.
 
 ## 4. What "better" would measure
 
-Baseline you could capture *before* building, and the target. See business metrics in `PROJECT.md`.
+A baseline you could capture before building, and a plausible target.
 
-## 5. Where AI plausibly adds value — and where it doesn't
+## 5. First instinct on intervention — to be tested, not trusted
 
-Which steps are language/ambiguity/judgement (agent candidates) vs lookup/threshold/write (deterministic). Which decisions must stay human.
+Which steps look like eliminate / deterministic / conventional app / AI-assisted / agentic / human. One line each. Discovery may overturn this.
 
 ## 6. Feasibility and risk
 
 Access, licences, data sensitivity, DLP, who must approve, what could go wrong.
 
-## Selection score (all candidates)
+## Selection score
 
 | Criterion (`products/README.md`) | Score 1–5 | Note |
 |---|---|---|
@@ -39,18 +39,3 @@ Access, licences, data sensitivity, DLP, who must approve, what could go wrong.
 | Access realistic | | |
 | Safe with sanitised data | | |
 | Portfolio-quality evidence | | |
-
----
-*Selected projects only:*
-
-## 7. MVP boundary
-
-Input · context · AI responsibility · deterministic responsibility · human responsibility · outputs.
-
-## 8. Architecture hypothesis v0.1
-
-Diagram + the open architecture questions. Provisional by definition; each material choice → ADR.
-
-## 9. Syllabus objectives this project will naturally exercise
-
-IDs by framework; the remainder goes to `curriculum/GAP-BACKLOG.md`.
