@@ -1,0 +1,28 @@
+# Model Routing & Custom AI Models | Pass the Microsoft AB-100 Exam (Ep 3.7)
+# Coding With Chuck — AB-100 — video 17
+# https://www.youtube.com/watch?v=BIUTkOChMw0
+# captions: en (auto-generated)
+
+[00:00] Hi there and welcome to lecture 7. Here's a reality check. Not every task [music] needs your most expensive model. Sometimes a lighter weight model would work just fine. Model routing is the strategy of matching tasks to the right model. This lecture shows you how to think about routing and when if ever you actually need custom models.
+
+[00:31] Let me start with economics. A large sophisticated model cost more per call than a smaller faster model. So the question becomes can I get good results with a cheaper model for this particular task? That's what model routing is. You set up rules. So simple tasks like is this email span go to a lightweight model. Complex tasks like summarize this contract and flag legal risks go to a premium model. The key part in Azure AI foundry you can make this automatic and dynamic. You don't have to manually say use model A under this condition or use model B under this condition. Instead, the system evaluates
+
+[01:24] the query complexity and routes accordingly. Let's make this concrete. Picture a customer support agent. A customer says, "My password isn't working." That's a simple query. Route to a lightweight model. Response. We'll reset that for you. Check your email. The cost a fraction of a cent per call. Now, the same agent, but a different customer. This customer says, "I'm on the enterprise plan, but this particular feature isn't working." And it was working last month. This is blocking our workflow. That's complicated. The root cause might be a setting change or a bug or a feature update. So, we're going to route that to a premium model that can explore the context, ask for clarifying
+
+[02:16] questions, and provide detailed troubleshooting. This is going to cost a few cents per call and doesn't sound like much of a difference, but over thousands of calls, routing intelligently saves you real money while keeping the quality where it matters. So, what criteria do you actually use to build routing rules? There are four key dimensions. One is query complexity.
+
+[02:46] Simple yes or no questions. Route to the cheap model. For open-ended analysis, route to premium models. Latency is also important. So time-sensitive tasks might justify a faster model even if it cost a bit more. So also cost targets. If you're targeting a specific cost per query, build that threshold right into your routing rules.
+
+[03:16] In addition, your accuracy requirements. Safety critical or compliance sensitive decisions always need your best model. The key uh is combining these. A real routing policy balances all four dimensions based on your business priorities. Now, here's the important question. When do you go beyond routing and prompt engineering to actually build a custom model? The answer, not very often, rarely. But there are three clear triggers. First, domain accuracy.
+
+[03:58] That's mission critical. So, for example, a legal document analysis. The cost of a hallucination here is lawsuits. So, you would want to fine-tune a model on thousands of real contracts from your firm. It learns your specific language and your tone as well as your risk patterns and your edge cases. The upfront investment is worth it because the cost of failure is enormous. Second, compliance demands isolation.
+
+[04:28] For example, a health care company with strict data residency requirements. Patient data can't leave your environment. You deploy a fine-tuned model in your own Azure uh subscription. There you have full control and full compliance. Third, long-term volume that would justify the upfront cost. Let's say you're processing a million emails per year. A 2% accuracy improvement saves $500,000 in downstream issues. Finetuning costs $50,000 upfront and so it pays for itself in about 3 months. Here's the exam insight, and this is critical. Most scenarios don't hit these thresholds.
+
+[05:17] The best answer on the exam is almost always start with routing and advanced prompting. Evaluate performance with clear metrics and only escalate to custom models if evaluation shows persistent gaps you can't close in any other way. Think of it as an escalation ladder. Rallying is the first rung.
+
+[05:43] Prompt engineering and grounding come next. Custom models are the top rung and most organizations never need to climb that high. That's the pattern the exam rewards. You're not overengineering. You're solving with the simplest effective approach and escalating only with evidence. So four points to remember here. First, model routing balances cost and performance dynamically. Use it as your first move.
+
+[06:16] Second, custom models solve specific problems only where routing and prompting aren't enough. Third, always justify model decisions with metrics, accuracy improvements, cost savings, and compliance needs. And fourth, on the exam, show you understand the tradeoffs and start with the simplest effective approach. Next up, organizing your business data for AI interoperability because even the best model strategy falls apart if the data that's feeding your agents is siloed and inconsistent.
+
+[06:58] So, I'll see you in lecture 8. >> [music]

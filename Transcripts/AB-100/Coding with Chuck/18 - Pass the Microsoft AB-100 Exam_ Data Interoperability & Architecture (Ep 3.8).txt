@@ -1,0 +1,30 @@
+# Pass the Microsoft AB-100 Exam: Data Interoperability & Architecture (Ep 3.8)
+# Coding With Chuck — AB-100 — video 18
+# https://www.youtube.com/watch?v=Ol7vEHe7Epw
+# captions: en (auto-generated)
+
+[00:00] Hey, welcome to lecture 8. So, back in lecture two, we assessed data readiness and quality and relevance and availability. Now, we're going to be on the other side of that assessment. You've identified the gaps. This lecture is about architecture. How do you actually organize data so that multiple agents and systems can use it consistently and securely?
+
+[00:28] Let me start with the problem. Uh most large organizations have data scattered across all kinds of systems. You have CRM data in Dynamics 365, product data in a legacy database, customer service tickets in Zenesk, knowledge articles in SharePoint, financial data in SAP. Now you want to build an agent that helps customers. That agent needs access to all of that to give good answers. But if the data is in silos like different schemas, different formats, different governance models, the agent gets confused. It will hallucinate because it doesn't have consistent context.
+
+[01:14] That's what interoperability solves. You architect the data layer so that information flows consistently and securely across all these different systems. And here's the thing, this is not a one-time project. It's an ongoing practice. So, here are three practices that matter. First, semantic organization.
+
+[01:40] Define common terms. So like customer should mean the same thing across all of your systems. Order status should mean the same thing and have consistent values. You're creating a shared vocabulary that agents can understand. Second, governed access. Just because an agent can access customer data doesn't mean that it should set permissions and audit access. Ensure compliance. If you're touching regulated data, you need to track it. Third, uh, real time or near realtime synchronization.
+
+[02:20] If the agent reads from a data copy that's 3 days old, it will always give stale answers. You need systems that keep data fresh. So, those are your principles. Now, let's look at the specific tools that Microsoft gives you to put them into practice. So, first off, there's Purview. This cataloges all of your data. It scans your Azure resources, your SQL databases, SharePoint, and creates a unified catalog with lineage.
+
+[02:56] Where does customer data live? What's the quality? Who owns it? Purview answers that next data versse. This is your common data platform. Different systems can write to the data versse using connectors and agents query data versse directly. It has built-in governance and relationship tracking. In fact, you saw us use data versse in the uh copilot studio example earlier.
+
+[03:28] Not everything goes into data versse, but your most critical business entities should. connectors and model context protocol or MCP. These integrate external systems. A connector pulls data from your legacy database into the data versse. Model context protocol or MCP allows agents to interact with external systems in a standardized way. Here's the architecture I recommend. And this is the uh pattern you'll want for the exam. Four layers. Layer one sources your existing systems. That's Dynamics, SAP, SharePoint, databases. You don't need to replace anything here. Layer two, your catalog. Use Purview to map
+
+[04:21] and classify everything. You're not moving data anywhere. You're just creating a map. Layer three common platform for critical business data. Pull it into data versse for transactional data like customers and orders or fabric for analytics and reporting. This is your single source of truth layer. Layer four, your agent access. Your agents can query data versse with governance built in and use connectors to reach systems that don't feed into that common platform. So that's your blueprint. Now let me show you what it would look like in the real world. So let's say in a healthcare organization that we have patient data that lives in an electronic health
+
+[05:13] record system. uh insurance data lives in a separate claim system and billing data is in yet another system. You'll use connectors to sync the critical fields like patient ID, insurance status, account balance, and things like that into data versse daily. You'll set permissions so that agents can see the data that they need to be able to see.
+
+[05:39] A front desk agent sees insurance status but not medical records. An agent answering patient questions like what is my co-pay? Well, that pulls from the data versse fast and governed and consistent or a patient might ask what test did I have last year? That goes to the electronic health record system via secure connector. That's interoperability.
+
+[06:08] data is organized, governed, and accessible. And here's your exam tip. When you see a scenario about scattered and inconsistent data, think through it layer by layer. Catalog with purview, pull critical entities into data versse, connect the remaining systems, and then lock down governance for agent access. If your answer touches all four of those, then you've nailed it. So, here are key takeaways.
+
+[06:41] Four things to lock in. First, siloed data causes agent failures. Interoperability is foundational. Second, semantic organization means consistent terminology across all systems. Third, leverage purview for cataloging, data versse for critical data and connectors for integration.
+
+[07:09] And finally, fourth, governance. Governance and access control to prevent compliance violations. So, next we have our final lecture of section 3, pre-built agents and when to use them. We're tying it all together in that lecture. So, we'll see you there in lecture number nine.

@@ -1,0 +1,32 @@
+# Microsoft AI Landscape: Copilot Studio vs. AI Foundry (Ep 2.1)
+# Coding With Chuck — AB-100 — video 05
+# https://www.youtube.com/watch?v=kCYUBas5DpU
+# captions: en (auto-generated)
+
+[00:01] Hi, welcome to section two. This is where we're going to get into the good stuffs. We're going to map out the entire Microsoft AI landscape, compare the key platforms, and most importantly, show you how they all fit together for real enterprise agentic solutions. Here's something the exam is going to test you on repeatedly.
+
+[00:28] Agentic solutions are almost never built on just one tool. Microsoft has a whole ecosystem of platforms and the exam loves throwing scenarios at you where you need to pick the right combination. Picture this question. A company wants to automate customer support with escalation to human agents and integration into Dynamics 365 sales.
+
+[00:57] Now, you got to figure out which platforms to combine. That's the game. And here's the key insight. The exam focuses on business alignment, not deep technical expertise in any single tool. You don't need to be a C-pilot Studio developer. You need to know what Copilot Studio is and when it's the right choice versus something else.
+
+[01:26] So let's quickly run through the five major platforms you absolutely need to know. First, Copilot Studio. This is your no code agent builder. Quick deployment, easy to use and it covers all three agent types. Second, Azure AI foundry and previously we referred to that as the Microsoft Foundry, but the technical name is Azure AI Foundry. This is the heavy machinery of custom tools, custom models, fine-tuning and enterprise scale orchestration.
+
+[02:05] Third, power platform. Think of this as your integration layer. It has connectors, automated flows, and bridges everything together. Fourth, Dynamics 365. These are your domainspecific apps, sales, service, finance, supply chain. Each has its own embedded AI capabilities.
+
+[02:33] And fifth, Microsoft 365 C-pilot. This extends AI into the productivity tools that your users already live in like Teams and Outlook and Word and PowerPoint and so forth. Uh, let me break these down a bit more because understanding where to use each one is really the core of what the exam is testing. Co-pilot Studio is your go-to when you need to build something fast. All three agent types, task agents, autonomous agents, prompt and response agents are part of co-pilot.
+
+[03:12] You can build them all here without writing any code. Seriously, you can go from idea to deployed agent in a few hours or a day or so, not months. Azure AI foundry is where you go when the off-the-shelf stuff isn't cutting it anymore. You need to fine-tune a model on your company's proprietary data. This is where you go. Foundry. Uh you need uh complex multi- aent orchestration.
+
+[03:43] Foundry need models that understand your industry specific terminology. You guessed it, Foundry. Now, Power Platform is the glue. It provides hundreds of connectors to ground your agents in real enterprise data. It bridges C-Pilot Studio to your back-end systems. Don't underestimate this one. It's how agents actually get work done in the real world. Now, Dynamics 365 is interesting because it comes with pre-built agents for specific business scenarios like sales copilot, service co-pilot. These aren't generic.
+
+[04:25] They understand customer relationship CRM and the L and the ERP concepts right out of the box. And Microsoft 365 Copilot, think of it as bringing AI to where people already work. Your agents can show up in Teams, help in Outlook, assist in Word. It's about meeting users in their natural workflow.
+
+[04:51] Now, here's where it gets interesting. Uh, in real enterprise scenarios, these platforms don't work in isolation. They work together. Let me paint you a picture. An agent uh that's built in Copilot Studio receives a customer request. It needs specialized reasoning. So it calls a custom model hosted in Foundry. Based on that response, it triggers a power automation flow that updates a record in Dynamics 365.
+
+[05:23] All of this happens while respecting the governance and security policies defined in Microsoft 365. That's not hypothetical. It's a Tuesday afternoon in an enterprise environment. Questions will often ask for the best combination of platforms. There's usually a tradeoff uh that you need to navigate. Speed versus customization, cost versus capability, simplicity versus scale. The exam wants to see if you can think through these tradeoffs.
+
+[05:58] Let me give you the four things to remember from this lecture. One, Microsoft AI ecosystem is modular. You can mix and match platforms to get the best fit. There's no single right tool for everything. Uh, number two, AB 100 test platform selection based on business requirements. They give you a scenario, you pick the platform combination.
+
+[06:25] Three, always factor in governance, scale, and cost in your answer. The exam loves these considerations. You always need to make sure that there's uh some security. Even if you have to compromise some other feature that's required in the in the scenario, we always want governance and security to be part of that answer. Number four, uh, know when to pick speed with Copilot Studio versus customization with Azure AI Foundry. That's probably the most common decision point that you'll face.
+
+[07:02] All right. In the next lecture, we're going to zoom in on agent types, the specific differences between prompt and response agents, task agents, and autonomous agents. We'll cover when to use each one and how they map across all of these platforms that we just discussed. All right, I'll see you there.

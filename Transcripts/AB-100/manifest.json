@@ -1,0 +1,409 @@
+{
+  "exam": "AB-100",
+  "retrieved": "2026-09-18",
+  "courses": [
+    {
+      "course": "Coding with Chuck",
+      "channel": "Coding With Chuck",
+      "playlist": "https://www.youtube.com/playlist?list=PLXd94bZTzZ-SGw8yMHD44d9xKgMKTZUVF",
+      "folder": "Coding with Chuck",
+      "videos": [
+        {
+          "course": "Coding with Chuck",
+          "index": 1,
+          "videoId": "lAyVrHEA6Bg",
+          "title": "Pass the Microsoft AB-100 Exam: Complete Prep Course (Ep 1.1)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 2,
+          "videoId": "NDE7M1MVYPM",
+          "title": "What is Agentic AI? Key Concepts for the AB-100 Exam (Ep 1.2)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 3,
+          "videoId": "ExKFWwe1XSk",
+          "title": "AB-100 Exam Structure & Scoring Explained (Ep 1.3) | Microsoft AB-100 Agentic AI Exam Study Guide"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 4,
+          "videoId": "eCn6YvROHqY",
+          "title": "AB-100 Study Plan: Best Resources & Strategies (Ep 1.4)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 5,
+          "videoId": "kCYUBas5DpU",
+          "title": "Microsoft AI Landscape: Copilot Studio vs. AI Foundry (Ep 2.1)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 6,
+          "videoId": "MMbZ438ej58",
+          "title": "Microsoft AI Agent Types & Capabilities Explained (Ep 2.2)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 7,
+          "videoId": "dURb6be6gik",
+          "title": "Copilot Studio Core Concepts: Topics, Tools & Connectors (Ep 2.3)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 8,
+          "videoId": "eCYnwXGPF3U",
+          "title": "Azure AI Foundry Tools & Model Selection | AB-100 Prep (Ep 2.4)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 9,
+          "videoId": "-z6gCrqSoXI",
+          "title": "How AI Agents Talk to Each Other: MCP & Agent2Agent Protocol (Ep 2.5)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 10,
+          "videoId": "BHMJz8RtduA",
+          "title": "When to Build Custom AI Models in Azure Foundry | AB-100 Exam (Ep 2.6)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 11,
+          "videoId": "o195eZ5n6g4",
+          "title": "Requirement Analysis for Agentic AI Solutions | AB-100 Exam (Ep 3.1)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 12,
+          "videoId": "GKsCqgBGH2c",
+          "title": "Data Grounding Readiness for AI Agents | AB-100 Exam (Ep 3.2)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 13,
+          "videoId": "dtBs8UQMG6U",
+          "title": "The Cloud Adoption Framework for AI: AB-100 Exam Prep (Ep 3.3)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 14,
+          "videoId": "MJI3LzOdck8",
+          "title": "Build vs. Buy vs. Extend for AI Agents: AB-100 Exam Prep (Ep 3.4)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 15,
+          "videoId": "yfVWp7M0BtU",
+          "title": "ROI & Total Cost of Ownership for AI Agents: AB-100 Exam Prep (Ep 3.5)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 16,
+          "videoId": "AO5WYvDdF8o",
+          "title": "Prompt Engineering & Prompt Libraries for AI Agents: AB-100 Exam Prep (Ep 3.6)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 17,
+          "videoId": "BIUTkOChMw0",
+          "title": "Model Routing & Custom AI Models | Pass the Microsoft AB-100 Exam (Ep 3.7)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 18,
+          "videoId": "Ol7vEHe7Epw",
+          "title": "Pass the Microsoft AB-100 Exam: Data Interoperability & Architecture (Ep 3.8)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 19,
+          "videoId": "I3p2RichGdI",
+          "title": "Prebuilt AI Agents vs. Small Language Models (SLMs) | AB-100 Exam Prep (Ep 3.9)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 20,
+          "videoId": "xckuY4D8V1c",
+          "title": "Agentic AI System Components & Design Patterns: AB-100 Exam Prep (Ep 4.1)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 21,
+          "videoId": "TPSqS6ltifE",
+          "title": "Orchestration Patterns & Multi-Agent Workflows | AB-100 Exam Prep (Ep 4.2)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 22,
+          "videoId": "6VASx93olhU",
+          "title": "Copilot Studio Design: Topics, Tools, and Flows | AB-100 Prep (Ep 4.3)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 23,
+          "videoId": "3gBczGHIuks",
+          "title": "Designing Copilot for Sales & Service | AB-100 Exam Prep (Ep 4.4)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 24,
+          "videoId": "JFRTywnMYZU",
+          "title": "Dynamics 365 Finance & SCM AI Design | AB-100 Exam Prep (Ep 4.5)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 25,
+          "videoId": "JnZqWEkqAvQ",
+          "title": "Microsoft 365 Copilot & Teams Agent Design | AB-100 Exam Prep (Ep 4.6)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 26,
+          "videoId": "mPX0g0khSxM",
+          "title": "Grounding, Knowledge Sources & Data Processing | AB-100 Exam Prep (Ep 4.7)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 27,
+          "videoId": "Z7aGPB4RC1w",
+          "title": "MCP, RPA & Agent Behaviors: Advanced Extensibility | AB-100 Exam (Ep 4.8)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 28,
+          "videoId": "CcsYjjFXpPY",
+          "title": "Power Platform Well-Architected for AI Solutions | AB-100 Exam Prep (Ep 4.9)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 29,
+          "videoId": "ndB00F87FPU",
+          "title": "Custom Models in Microsoft Foundry | AB-100 Exam Prep (Ep 4.10)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 30,
+          "videoId": "GlgxRe_IPkA",
+          "title": "Monitoring & Telemetry for AI Agents: KPIs, Reliability & Cost Control | AB-100 Exam Prep (Ep 5.1)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 31,
+          "videoId": "iy10SdZxCLA",
+          "title": "Testing Strategy for Agentic Solutions: 5-Layer AI Testing Pyramid | AB-100 Exam Prep (Ep 5.2)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 32,
+          "videoId": "hlS-Jrh_YsA",
+          "title": "ALM for Agentic AI: Versioning, Promotion & Governance for Agents, Models & Data | AB-100 (Ep 5.3)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 33,
+          "videoId": "aIauvvwH370",
+          "title": "AI Governance for Agentic Systems: Fairness, Transparency & Accountability | AB-100 (Ep 5.4)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 34,
+          "videoId": "ZbrhSzaAU-g",
+          "title": "AI Security for Agents: Prompt Injection, RBAC & Defense-in-Depth | AB-100 Exam Prep (Ep 5.5)",
+          "access": "members-only (Learner tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 35,
+          "videoId": "HWXrESb1m-s",
+          "title": "Compliance & Data Residency for AI Agents: GDPR, CCPA, HIPAA & EU AI Act | AB-100 Exam Prep (Ep 5.6)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 36,
+          "videoId": "RzbpeYqKNl8",
+          "title": "How to Diagnose AI Agent Metrics: Telemetry, Root Cause & Tuning Actions | AB-100 Exam Prep (Ep 5.7)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 37,
+          "videoId": "qnd0CC-ysvc",
+          "title": "Continuous Improvement for AI Agents: Feedback Loops, A/B Testing & Copilot Tuning | AB-100 (Ep 5.8)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 38,
+          "videoId": "dpjzWt7f1fg",
+          "title": "Validate Custom AI Models: Accuracy, Fairness, Drift & End-to-End Testing | AB-100 Exam (Ep 5.9)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 39,
+          "videoId": "RzzMVtu0IjE",
+          "title": "AB-100 Exam Strategy & Time Management: How to Win on Test Day (Ep 6.1)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 40,
+          "videoId": "kLjQPRkgUpw",
+          "title": "AB-100 Cross-Domain Scenario Walkthrough: Plan, Design, Deploy (Ep 6.2)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 41,
+          "videoId": "AHXBSJovklg",
+          "title": "AB-100 Exam Traps & How to Pick the Best Answers (Ep 6.3)",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 42,
+          "videoId": "E4X3tn23e4o",
+          "title": "AB-100 Mock Exam (Questions 1-10) | Agentic AI Certification Practice Test",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 43,
+          "videoId": "LuEx8k7XtNY",
+          "title": "AB-100 Mock Exam (Questions 11-20) | Agentic AI Certification Practice Test",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 44,
+          "videoId": "8gg08Eid8Bw",
+          "title": "AB-100 Mock Exam (Questions 21-30) | Agentic AI Certification Practice Test",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 45,
+          "videoId": "srEOtlwsgIo",
+          "title": "AB-100 Mock Exam (Questions 31-40) | Agentic AI Certification Practice Test",
+          "access": "members-only (Pro tier)"
+        },
+        {
+          "course": "Coding with Chuck",
+          "index": 46,
+          "videoId": "n7bGxXsBB8U",
+          "title": "AB-100 Mock Exam (Questions 41-50) | Agentic AI Certification Practice Test",
+          "access": "members-only (Pro tier)"
+        }
+      ]
+    },
+    {
+      "course": "Microsoft Learn",
+      "channel": "Microsoft Learn",
+      "playlist": "https://www.youtube.com/playlist?list=PLWkuMDqdJEw4",
+      "folder": "Microsoft Learn",
+      "videos": [
+        {
+          "course": "Microsoft Learn",
+          "index": 1,
+          "videoId": "PXrv_8v65hk",
+          "title": "Course Preview | AB-100 | Architecting agentic AI business solutions"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 2,
+          "videoId": "xHIu7S9uhcY",
+          "title": "Course Introduction | AB-100 | Episode 1"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 3,
+          "videoId": "vroI1gWHNFE",
+          "title": "Introduction to agentic AI business solutions | AB-100 | Episode 2"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 4,
+          "videoId": "G5xFHBU3478",
+          "title": "Analyze requirements for AI-powered business solutions | AB-100 | Episode 3"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 5,
+          "videoId": "1EOrrWRZRLo",
+          "title": "Design overall AI strategy for business solutions Part 1 | AB-100 | Episode 4"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 6,
+          "videoId": "ACqD5EcApn8",
+          "title": "Design overall AI strategy for business solutions Part 2 | AB-100 | Episode 5"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 7,
+          "videoId": "qFBj_83epp4",
+          "title": "Evaluate costs and benefits of AI solutions | AB-100 | Episode 6"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 8,
+          "videoId": "hiwsDBujqoE",
+          "title": "Design AI agents for business solutions Part 1 | AB-100 | Episode 7"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 9,
+          "videoId": "LUmzpAMpBLo",
+          "title": "Design AI agents for business solutions Part 2 | AB-100 | Episode 8"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 10,
+          "videoId": "DLFusBnEAZ0",
+          "title": "Design extensibility of AI solutions | AB-100 | Episode 9"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 11,
+          "videoId": "252woHA8Jf4",
+          "title": "Orchestrate configuration of prebuilt agents and apps | AB-100 | Episode 10"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 12,
+          "videoId": "JR6C87ZEtws",
+          "title": "Monitor, analyze, and tune AI agents | AB-100 | Episode 11"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 13,
+          "videoId": "a5BJ6b41obk",
+          "title": "Manage testing AI-powered business solutions | AB-100 | Episode 12"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 14,
+          "videoId": "bcKJaKNRT1c",
+          "title": "Design ALM process for AI-powered business solutions | AB-100 | Episode 13"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 15,
+          "videoId": "yG_Rq-VNJaU",
+          "title": "Design responsible AI security, governance, risk management, and compliance | AB-100 | Episode 14"
+        },
+        {
+          "course": "Microsoft Learn",
+          "index": 16,
+          "videoId": "V6UsWLkoHoI",
+          "title": "Course Closing | AB-100 | Episode 15"
+        }
+      ]
+    }
+  ],
+  "notes": "Videos with an \"access\" field are channel-members-only on YouTube (checked 2026-09-18) and cannot be fetched without a membership; fetch_transcripts.py skips them."
+}

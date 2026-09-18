@@ -1,0 +1,26 @@
+# Prompt Engineering & Prompt Libraries for AI Agents: AB-100 Exam Prep (Ep 3.6)
+# Coding With Chuck — AB-100 — video 16
+# https://www.youtube.com/watch?v=AO5WYvDdF8o
+# captions: en (auto-generated)
+
+[00:00] Welcome to lecture six. Here's something that separates mediocre agents from great ones. Prompts. The instructions you give an agent directly controls its behavior and its reliability. In this lecture, we'll cover how to write effective prompts and how to scale them across your organization. Think of the prompt as the agent's constitution. It defines what the agent cares about, what its priorities are, and when it should ask for help versus deciding on its own.
+
+[00:38] I'll give you the key techniques at a high level. Chain of thought prompting. Ask the agent to reason step by step before answering. This gives you transparency. what we call fshot examples that gives the agent two or three concrete examples of good answers. Examples beat descriptions every time. Also, role prompting. Tell the agent what role it's playing. Context changes behavior dramatically.
+
+[01:10] Now, your guard rails, these are boundaries that prevent bad decisions. For instance, never approve without legal review of IP rights are involved. This table summarizes it. Chain of thought improves reasoning. Fewshot ensures consistency. Roll prompting adds context and guard rails prevent errors.
+
+[01:36] You already practiced these techniques in the design section. for planning. The key insight was that prompts are a strategic asset, not an afterthought. Now, here's where most of the organizations fall short. They write a great prompt for one agent and then 12 months later, a different team writes basically the same prompt from scratch and it's subtly different and inconsistency spreads. Now, the solution is a centralized prompt library. This is a repository where you categorize prompts by their use case like customer service or finance or HR. You track test results in performance notes and you include a change log so that people understand what changed and why. It's like just a typical GitHub project,
+
+[02:28] right? When someone needs a new agent, they browse the library, find a similar prompt, and adapt it rather than starting from scratch. you get consistency, faster deployment and continuous improvement. Uh let me expand on governance because this is where the planning value really lives in ownership. Every prompt template should have an owner, a team or an individual that's responsible for maintaining it.
+
+[02:57] Just like you wouldn't deploy code without an owner, prompts need accountability as well. They need a review process. Before a prompt goes into production, it should be reviewed. Does it include guard rails? Does it handle edge cases? Is it consistent with your organization's tone and policy? Also, your testing cadence prompts can drift in their effectiveness as models update and your business rules change. Schedule reviews periodically, like quarterly at the minimum, for your prompts. Now, cross agent consistency.
+
+[03:34] If your organization has 15 agents in customer service, everyone should follow the same escalation guidelines. So, you define one escalation prompt template. Like if the customer is frustrated with an issue or the issue involves a refund exceeding so many dollars or the issue requires legal interpretation, escalate to a human. Every agent should use that template for consistency and coverage.
+
+[04:06] Now, a prompt works really well. So, you update it to version 1.1 with new edge cases. You can push that to all the agents at once. This ties directly to the cloud adoption framework. Remember, Cath and our center of excellence we discussed earlier. The center of excellence, the COE should own the prompt library. It's a governance function. So, here's an exam tip.
+
+[04:36] Answers that include, "We would establish a centralized prompt library with versioning, ownership, and governance score very well on the AB 100 exam." It shows you understand scaling and consistency. So, there's four takeaways, four things to remember. First, understand core techniques, chain of thought, fshot, guard rails. You applied them in design.
+
+[05:05] Second, build a centralized prompt library to ensure consistency across your agents. Third, govern prompts with ownership, review processes, and versioning. Fourth, tie prompt governance to your center of excellence and organizational strategy. Next, model selection and routing. Not every task needs a cutting edge model [music] and some will need specialized models.
+
+[05:35] So, let's talk about how to choose. We'll see you in lecture number seven.

@@ -1,0 +1,30 @@
+# Prebuilt AI Agents vs. Small Language Models (SLMs) | AB-100 Exam Prep (Ep 3.9)
+# Coding With Chuck — AB-100 — video 19
+# https://www.youtube.com/watch?v=I3p2RichGdI
+# captions: en (auto-generated)
+
+[00:00] Okay, welcome to the final lecture of section three. We've worked through the entire planning domain from requirements analysis all the way through data architecture. Now, we're going to tie it all together uh with a practical question. Do you always need to build from scratch? And the answer, of course, is no. Sometimes the fastest path is using what Microsoft already built or even using a smaller specialized model.
+
+[00:31] In lecture four, we covered the build versus buy versus extend framework. And you already know that buying or extending is usually the first choice. Now, let's get specific about where pre-built agents deliver the most value. So, we have co-pilot for sales. that's the best fit for deal management workflows. It summarizes customer relationship, suggest next actions, drafts emails, all grounded in your actual CRM data. If your team spends hours manually preparing for customer calls, this is of immediate value.
+
+[01:11] There's also co-pilot for service. This is best for frontline support. It will suggest solutions from an from knowledge articles. Uh it will draft responses. It handles escalations. The return on investment story here ties directly to what we calculated in lecture five. Reduced handle time, higher resolution rates.
+
+[01:38] Now co-pilot for Microsoft 365. This is best for productivity across your u applications like teams and word, excel, outlook, meeting summaries, email drafting and document creation are all of the features of the uh copilot 365. The key insight for planning pre-built agents are your fastest path to demonstrating value. They're ideal for pilots. You activate one, customize the prompts in Copilot Studio using your prompt library, and you're running in weeks or even days. That's why we said buy first in lecture 4.
+
+[02:22] But pre-built agents have limits. Highly specialized industry workflows and deeply customized integrations, processes that don't map to the standard CRM, ERP, or productivity patterns. uh in those cases you need to extend the pre-built capabilities or step into a different category entirely like small language models. So what are small language models?
+
+[02:53] Well, models like Fi3 which Microsoft developed u here's a a helpful analogy. GPT4 is a truck. It's massive, powerful, can haul anything. Fe3 is a scooter. It's small, nimble, and efficient, and it's actually faster for most people's daily commute. You don't need a truck to go get coffee.
+
+[03:19] Just kind of keep that image in mind. So, why pick the scooter? Well, four reasons. First, cost. Uh, fee three is dramatically cheaper per inference. when you're processing a million customer inquiries per month. That's that adds up pretty fast. Second, privacy. You can fine-tune F3 on your proprietary data and deploy it in your own Azure environment. Your data never leaves your organization.
+
+[03:53] Third, latency. Smaller models are faster. F3 can run on edge devices. your manufacturing floor, your retail store without waiting for a cloud round trip. And fourth, specialization. You fine-tune on domain specific examples and the model learns your terminology, your processes, your decision patterns. It becomes an expert in your business. Let me give you two concrete examples. So thousands of sensors are streaming data. You need an agent analyzing anomalies and recommending actions with latency under 100 milliseconds.
+
+[04:40] So sending data to the cloud uh for a large model query that's too slow. So we'll take F3 fine-tune deploy it locally. It runs in 50 milliseconds, saves 40% on inference cost, and never sends sensitive sensor data outside of the plant. Another example is financial services. Let's say you have trading rules that are proprietary.
+
+[05:07] Fine-tune F3 on your domain language and decision patterns. Deploy it internally so you have fully governed access. You get a performance and a cost advantage over a generic large model. Now, here's the exam insight. The best answers show pragmatism. So, we'd start with a pre-built co-pilot for service because it covers 80% of our needs. For that specialized edge case, we'd evaluate small language models because of lower cost and privacy benefits.
+
+[05:43] Custom large models only if neither pre-built nor SLMs will get us there. That's thinking like a business technologist. You're solving problems with the simplest, most coste effective approach. First, four points to take with you. First, pre-built agents are your first choice. Fast, governed, lower cost. Second, small language models excel for specialized, privacy sensitive, high volume tasks. I even have a SLM that I run on my local computer for certain tasks that I do.
+
+[06:26] Third, custom large models are the last resort when neither pre-built nor SLMs will suffice. And fourth, always ask what's the simplest solution that solves the problem. So, excellent work on section three. You've now mastered the planning domain for a Gentic AI. Before moving forward though, take that section three quiz to make sure that you solidified those concepts.
+
+[06:59] Then we're moving on to section four, which is about design. That's where you'll learn the detailed architecture. That's where you'll learn the detailed architectural patterns for building agentic solutions. So, I'll see you after that quiz.

@@ -1,0 +1,24 @@
+# What is Agentic AI? Key Concepts for the AB-100 Exam (Ep 1.2)
+# Coding With Chuck — AB-100 — video 02
+# https://www.youtube.com/watch?v=NDE7M1MVYPM
+# captions: en (auto-generated)
+
+[00:00] In this lecture, you'll get a clear exam ready definition of Aentic AI, plus the key terms that you'll see on the AB 100 exam. We'll separate the hype from the reality and give you a simple mental model that you can reuse in scenarios. By the end, you'll be able to explain what makes an AI system agentic and why that matters in business. Agentic AI is a system that can pursue a goal, select actions, and use tools to achieve outcomes, often with minimum human intervention.
+
+[00:42] That's the exam ready version. Now, let's unpack it in plain language. Goal oriented means it's not just reacting, it's trying to achieve a target. Action taking means it can decide what to do next, not just respond. And tool means it can call APIs, trigger workflows, query data, or delegate steps to other uh AI agents. In the Microsoft ecosystem, think of Copilot Studio agents calling connectors or foundry tools for custom models.
+
+[01:23] If you remember one sentence, remember this. Aentic AI equals goal plus reasoning plus tools plus action. Let's define the terms that you'll see in scenarios and multiplechoice questions. The goal is the target outcome. Reasoning decides what to do next. Tools are the traditional APIs, workflows, and data sources.
+
+[01:53] Finally, action executes steps to reach the goal. So, here's some quick definitions. The agent is the decision maker that chooses actions to reach a goal. The tools are there for the agent to use. These are APIs, workflows, data sources. Orchestration is the logic that coordinates the steps and the tool calls.
+
+[02:26] Planning is the process of breaking the goal down into smaller steps. And then finally, memory is what the agent retains to stay consistent over time. And finally, the other finally, guard rails are the safety and compliance constraints that keep the agent aligned with business policies.
+
+[02:51] So, here's a useful analogy. The think of the agent like a project manager. It receives a goal, figures out the steps, uses tools and people, and adapts as new information arrives. Now, this part matters for the exam. Many wrong answers describe systems that are not agentic.
+
+[03:17] It's not just a chatbot. Chat can be part of an agent, but an agent takes actions. It's not just traditional automation either. If it's purely if X then Y, it's not agentic. It is not a standalone model. The model is just one component of your agent system. Here's a simple test. If the system can't decide, act, and adapt, it's probably not agentic.
+
+[03:51] faster decisions through automated reasoning and reduced operational load by delegating routine tasks. It's scalable workflows that adapt to real world variability and better alignment between technical systems and business goals. In the exam, these benefits show up in scenario questions. You'll be asked to choose solutions that deliver business impact, not just technical novelty. Let's lock in the essentials.
+
+[04:25] Agentic AI is goal-driven tool using and actiontaking AI. Here's some key terms. Agent tools, orchestration, planning, memory, and guard rails. It's not just chat or automation. It's decision, action, and adaptation. The exam emphasizes business impact and safe deployment.
+
+[04:56] Now, in our next lecture, we'll dive into how the AB 100 exam is structured and what question types to expect. That way, you'll know exactly how to study smart. I'll see you next time.

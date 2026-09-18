@@ -1,0 +1,48 @@
+# Microsoft 365 Copilot & Teams Agent Design | AB-100 Exam Prep (Ep 4.6)
+# Coding With Chuck — AB-100 — video 25
+# https://www.youtube.com/watch?v=JnZqWEkqAvQ
+# captions: en (auto-generated)
+
+[00:00] Hey, welcome back. Uh so, we've covered Dynamics [music] 365 Copilots for sales, service, finance, and supply chain. >> [music] >> Now, we shift where knowledge workers live every [music] day. Microsoft 365, Teams, Outlook, Word, Excel, these apps already have Copilot built in, but the real exam focus is how you extend them with custom agents and external data.
+
+[00:29] Let's walk through the extensibility model. Uh Microsoft 365 Copilot can be extended four different ways, and the exam expects you to choose the right one for the given scenario. First, Copilot Studio plugins. You build a custom agent in Copilot Studio and expose it as a plugin inside Teams or Outlook. When a user asks a question, Copilot checks if a rel- if a relevant plugin exist, calls the agent, gets the data, and answers without the user leaving their app.
+
+[01:04] For example, your company uses monday.com for project tracking. You build a Copilot Studio agent that can query monday.com's API, and then make it available as a plugin. A user in Teams asks, "What's the status of project X?" and Copilot routes the question to your agent. Second, declarative agents. These are the most important new concept for the exam. A declarative agent is defined entirely by a JSON syntax manifest. No custom code. The manifest specifies the agent's instructions, which knowledge sources it can access, and which capabilities are enabled. You deploy it through the Teams admin center, and it shows up as an agent users can interact with. We'll go deeper
+
+[01:56] into that on the next slide. Third, graph connectors. Microsoft Graph is the unified API for all M365 data. Graph connectors let you expose external data like proprietary knowledge base or contract management systems through graph as if it were a native M365 data set. Once connected, Copilot in Word or Teams can search that external data just like it searches SharePoint.
+
+[02:26] Fourth, message extensions. These are card-based actions in the Teams compose box. So, you've seen those, right? The a little a user types in a command and gets a search result or an action card and then completes a task. Uh think quick lookups, approvals, or data entry. So, lower complexity than a full agent, but useful for simple interaction.
+
+[02:54] The exam tests your ability to match the extension type to the scenario. So, if it's simple scoped Q&A, the declarative agent is your answer. External system integration, then you're going to need a graph connector. Multi-step workflows, then Copilot Studio plugins. Or quick in-chat actions, a message extension. Declarative agents deserve a little extra attention because they're a newer concept and heavily exam relevant. A declarative agent is defined by a manifest file, a JSON document that tells M365 Copilot what this agent does and what data it can access and how it should behave. The manifest has three main sections, instructions that scope
+
+[03:46] the agent's behavior, knowledge sources that point to SharePoint sites or specific files or web URLs and capabilities that enable or disable features like code interpreter or image generation. So, here's why this matters. You don't write any code. You don't build a Copilot Studio flow. You just define the manifest and deploy.
+
+[04:12] The agent runs inside M365 Copilot's existing infrastructure. If an employee asks a question that falls within that agent's scope, Copilot routes to it. If the question is outside of that scope, the agent declines and Copilot handles it normally. When would you choose a declarative agent over a Copilot Studio plugin? Well, when the use case is straightforward, say policy question answer or onboarding guidance, department-specific help, you're scoping Copilot's behavior, not building custom logic.
+
+[04:50] When the use case requires calling external APIs or running multi-step workflows or complex branching, that's when you step it up to a Copilot Studio plugin. Now, graph connectors. When you build a graph connector, you define a schema that maps your external data into graph's internal structure. Each item gets properties, content fields, and semantic labels like title, body, URL, and so forth, so that Copilot understands the structure.
+
+[05:26] Crucially, each item must carry an access control list. Copilot respects these ACLs, so that it only returns items the user is authorized to see. Without item-level ACL, you risk surfacing confidential data to unauthorized users. That's governance failure and the exam will test it.
+
+[05:53] You also manage freshness. Schedule periodic crawls for batch updates or use push notifications for real-time changes. Stale data means wrong answers. Once you build your agents, how do users find them? And how do admins control what's available and to who? Well, agent discovery happens through the integrated apps catalog in Teams and the Microsoft 365 admin center.
+
+[06:24] Admins can enable, disable, or restrict agents by user group. This is important. You don't just deploy an agent and hope for the best. You can figure who can use it. You monitor adoption through your usage analytics and adjust based on what you see. The Copilot control system lets admins set data access boundaries and plug-in permissions.
+
+[06:50] If an agent shouldn't access HR data, the admin restricts it. If a plug-in should only be available to the sales team, the admin scopes it to that group. In 365 agents inherit the Microsoft 365 security stack, which is powerful, but only works if your data is classified. So, sensitivity labels are foundational here. Documents and data carry classifications like public, internal, confidential, restricted.
+
+[07:21] When Copilot retrieves data to answer a question, it checks the label against the user's access level. If the user can't see confidential data, Copilot doesn't return it. Also, data loss prevention policies or DLP policies prevent agents from surfacing or sharing restricted data. Conditional access enforces device location and compliance requirements.
+
+[07:50] And audit logging captures every agent interaction. Who asked? What was retrieved? What was returned? These logs are essential for your compliance and continuous improvement. So your examine site here, governance depends on data classification. If your documents don't have sensitivity labels, Copilot can't enforce access boundaries.
+
+[08:15] So classification comes first, then governance. All right, let's put this together with a practical example. Let's say a company's HR team is overwhelmed with repetitive questions like, how much sick time do I have? Or what are my benefits? Policy questions. Hundreds of tickets per week for information that's already documented somewhere. Like a Facebook group. Here's the design.
+
+[08:43] Step one, build a graph connector to the HRIS, the human resource information system. This exposes employee records through the graph with row-level security. Each employee can only see their own data, not other employees' data. Step two, load HR policy documents into SharePoint. Like leave policy, benefits guide, 401k plan, your code of conduct.
+
+[09:12] These are knowledge sources. Step three, create a declarative agent. So your manifest, your JSON file, scopes the agent to the HR domain, points it at the graph connector and the SharePoint policy docs, and includes instructions like, always cite the source document and escalate personal advice questions to an HR partner. Step four, deploy through the Teams admin center. The agent shows up in Teams for your employees across the organization. Now, the experience. So, an employee goes and asks, "Do I accrue sick days or is it unlimited?" The agent retrieves the leave policy from SharePoint, checks the employee's balance through the graph connector, and responds, "You accrue 10 sick days per year, and you've used
+
+[10:03] three so far, leaving you with seven." Source, leave policy section blah blah blah. For governance, personal data is protected by the row-level security. Policy answers are grounded in official documents, and the agent doesn't give personal advice. So, if someone asks, "Should I take leave now or wait?" the agent responds, "That's a personal decision. I'd recommend talking to your HR partner." So, your takeaways here, number one, 4 M365 extensibility options.
+
+[10:38] Copilot Studio plugins, declarative agents, graph connectors, and message extensions. Choose by complexity. Simple Q&A gets a declarative agent. External data gets a graph connector. Multi-step logic gets a Copilot Studio plugin. Number two, declarative agents are manifest-defined, no code, and scoped.
+
+[11:04] They're the lowest friction option for focused assistance, and it is a key exam concept. Number three, graph connectors must implement item-level access control list, ACL. Without it, Copilot could surface confidential data to unauthorized users. And number four, agent discovery and admin controls govern which agents are available to which users.
+
+[11:32] And all of it depends on data classification with sensitivity labels. Now, you've seen Copilots across Dynamics 365 and Microsoft 365. But every agent we've discussed needs real data to answer accurately. In the next lecture, grounding knowledge sources [music] and data processing, we'll cover how to design rag, retrieval augmentation generation, choose the right knowledge source, [music] and build trustworthy grounding architectures. Can't wait. We'll see you there.

@@ -1,0 +1,44 @@
+# Agentic AI System Components & Design Patterns: AB-100 Exam Prep (Ep 4.1)
+# Coding With Chuck — AB-100 — video 20
+# https://www.youtube.com/watch?v=xckuY4D8V1c
+# captions: en (auto-generated)
+
+[00:00] All right. Well, we made it to the halfway point. Welcome to section four, the design domain. This section covers about 25 to 30% of the AB 100 exam, and it's where everything gets real. We've spent three sections learning about the platform landscape and how to plan. Now, we're actually architecting Agentic Solutions.
+
+[00:29] This first lecture covers the essential building blocks every Agentic system needs, what they look like on the Microsoft platform, and how to decide the right level of autonomy for your agents. So, let's dive in. Now, every agentic system, whether it's a simple chatbot in Copilot Studio or a multi- aent orchestration in Azure AI foundry, it has six core components. Let me walk through each one. First, perception.
+
+[01:08] This is how the agent takes in information. A user types a question in Teams. An invoice arrives in Dynamics 365 or a sensor triggers an event in the factory. A Power Automate flow kicks off. Whatever the source, perception is the front door. Without good input, nothing else matters. Second, reasoning. This is the brain.
+
+[01:36] The large language model doesn't just retrieve text. It actually reasons through what to do next. It uses techniques like chain of thought, thinking through problems step by step, or react, which combines reasoning with acting. So for instance, when a sales rep asks, "What's our inventory status for widget A across all warehouses?" The LLM reasons. It thinks I need to call the inventory system and get the numbers for each warehouse and then aggregate the numbers and compare that to reorder thresholds.
+
+[02:17] Third, memory. There are two kinds of memory. Short-term memory is the conversation context. So, what's going on right there in front of us? What's being said in this current chat session? Long-term memory is persistent, stored in data versse or another database so that the agent remembers things across conversations. Now, here's why this matters. Without long-term memory, every conversation starts from scratch.
+
+[02:49] Imagine a support agent that forgets a customer called yesterday about the same exact issue. That's a terrible experience. Fourth, tools. These are the hands of the agent. The things that it can actually do. Say for instance, it can query a CRM record or send an email, update a database or kick off an approval workflow.
+
+[03:15] In the Microsoft ecosystem, tools are typically Power Platform connectors or custom APIs or Power Automate flows. could be MCP servers. MCP, you know, model context protocol. Fifth, execution runtime. The agent needs somewhere to run. Copilot studio is the primary runtime for most business agents. Azure AI foundry agent service handles complex multi- aent scenarios.
+
+[03:52] Azure container apps is an option for fully custom builds. The runtime manages the agents life cycle scaling, monitoring, and session management. Sixth, your guard rails. These are the safety systems and they're non-negotiable for enterprise deployment. Content filters prevent harmful outputs.
+
+[04:18] DLP policies stop sensitive information from going where it shouldn't. And authentication through intra ID ensures the agent only accesses what it's authorized to access. And escalation logic says if confidence drops below a certain threshold, bring in a human. Now, here's the key. These components don't work in isolation. They work in a cycle. Let me walk you through a concrete example. Let's say a customer sends a message through Teams asking about the status of their order.
+
+[04:54] Perception captures the message and identifies the intent. Reasoning checks memory and discovers that this is a repeat inquiry. The customer asked about the same order 2 days ago. Reasoning decides it needs fresh data. So, the agent calls a Dynamics 365 connector through the execution runtime. The tool then returns the order status. Reasoning evaluates the result and drafts a response.
+
+[05:25] Guard rails verify the customer is authenticated and that the order data is safe to share. The agent responds with the status and proactively mentions the shipping delay that it flagged last time. That's all six components in one cycle. On the exam, scenarios test this full cycle. They'll describe a business problem and expect you to identify which component is relevant or what's missing from a proposed design.
+
+[06:01] Now, let's connect each component to its Microsoft platform home. This mapping is critical for the exam. Perception maps to copilot studio triggers like teams messages, data versse events and power automate triggers. Reasoning is powered by Azure Open AI models like GPT40 access through Copilot Studio's generative orchestration engine.
+
+[06:30] Memory lives in data versse for structured data. Azure AI search for vector-based retrieval and shareepoint as a knowledge source. Tools are a power platform connector or MCP servers, power automate flows and custom APIs. execution runs on Copilot Studio for most scenarios, but Azure AI foundry agent service for your more complex multi- aent setups or even Azure container apps for your custom builds.
+
+[07:07] Guard rails include Azure AI content safety filters, DLP policies and power platform, intra ID for authentication, and responsible AI controls. When the exam describes a business need, you need to quickly map it to the right component in the right platform. That's the skill this table builds. Once you know the components, the next design decision is how much freedom to give the agent. This is the autonomy spectrum and it's one of the most important design choices you'll make. There are three levels. First co-pilot mode. The human drives. The agent assists. The agent suggests responses, surfaces relevant
+
+[07:59] information, drafts content, but the human makes every decision. This is where you start when your trust is low or the stakes are high. Think about a brand new agent reviewing legal contracts. You don't let it approve contracts on day one. It highlights risks, suggests edits, and the lawyer, the human decides.
+
+[08:24] Then there's semi autonomous. There the agent proposes actions, but a human approves before the execution. The agent does the analysis, makes a recommendation, and then waits. Like for instance, it will say, "I recommend reordering 500 units of widget A based on current demand trends. Do you approve?" This is common in regulated industries like financial services and healthcare, government, wherever there's a regulatory or a business reason for human oversight. I even see this in our design sessions for software.
+
+[09:04] Then there's fully autonomous. The agent acts on its own. The human monitors but doesn't approve every action. This works for high volume, low-risk tasks like routing support tickets to the right queue or answering routine questions like what's my account balance. The agent handles thousands of these daily issues and a human reviews exceptions after the fact. So, here's a key in exam insight. The right level of autonomy isn't a technology decision.
+
+[09:40] It's a business risk decision. Can the company afford the consequences? If the agent makes a mistake. If the cost of an error is low, then automate. If it's high, keep a human in the loop. And one more thing, autonomy isn't all or nothing within a single agent. The same agent that autonomously answers, "What time does the store close?" should pause and escalate when a customer asks to cancel a $50,000 contract.
+
+[10:14] Design your agents to shift autonomy based on the context and risk of each specific action. So, let me wrap up with four key points. One, every agentic system has six core components. Perception, reasoning, memory, tools, execution, and guardrails. None are optional. Two, know how each component maps to the Microsoft platform. The exam tests this mapping directly. Three, match autonomy level to business risk, co-pilot mode for high risk, fully autonomous for high volume but low risk. And four, AB 100 rewards designs that balance autonomy with strong governance. Don't ever build something clever. Build something safe
+
+[11:06] and auditable. Haven't we heard that before? Next lecture, we go deep on orchestration patterns. How do you coordinate multiple agents? When do you use sequential versus parallel versus hierarchical workflows? And how do you keep your governance tight when agents are talking to each other? I'll see you in that next lecture.

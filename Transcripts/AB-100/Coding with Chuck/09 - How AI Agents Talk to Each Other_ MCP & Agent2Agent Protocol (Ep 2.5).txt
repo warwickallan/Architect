@@ -1,0 +1,26 @@
+# How AI Agents Talk to Each Other: MCP & Agent2Agent Protocol (Ep 2.5)
+# Coding With Chuck — AB-100 — video 09
+# https://www.youtube.com/watch?v=-z6gCrqSoXI
+# captions: en (auto-generated)
+
+[00:00] Hey, welcome to uh lecture 5. As a solutions get more complex, open standards become absolutely essential. This lecture covers MCP and agentto agent, two protocols you'll see on the exam when questions involve extensibility and multi-agent design. Let's start with MCP, the model context protocol. Here's the key thing to understand. MCP is an open industry standard. It was originally developed by Anthropic and Microsoft has adopted it across their AI platforms. So why does that matter? Because it means you're not locked into any single vendor's approach. So what does MCP actually do?
+
+[00:49] It lets agents securely request tools, APIs, or context from external servers. Here's how it works in practice. Instead of hard- coding an API endpoint directly into your agent, which would be fragile and hard to govern, the agent calls an MCP server. That server acts as a secure intermediary.
+
+[01:15] Uh you can build and register your own MCP servers using Azure functions. You can create a custom service or use existing tools that support the protocol. I've actually written some MCP servers and they're they're really pretty easy to do. Why is this better than direct API calls? Well, a few reasons. One, secure access. You have central control over what agents can call. Instead of the agents reaching out to random endpoints, everything goes through your MCP server which is governed. Next, auditability.
+
+[01:57] All tool calls are logged and traceable. When the compliance team asks, "What did the agent access?" You'll have the answer. Next, reusability. You can share MCP servers across multiple agents. Build once, use them everywhere. Interoperability. MCP works across frameworks like Copilot Studio, Azure AI Foundry, and custom code. It doesn't matter where the agent runs. So, here's an exam example you might see. How do you let an Azure AI Foundry agent securely access a private database?
+
+[02:38] The answer, register an MCP server that connects to that database. The agent calls the MCP server. The server handles the database connection with the proper credentials and access control. Clean, secure, auditable. Now let's talk about agentto agent or A2A.
+
+[03:03] A2A is another open protocol. This one was originally developed by Google and Microsoft supports it for multi- aent interoperability. Notice the pattern here. Open standards, multiple vendors supporting them. That's intentional. It prevents lock in. While MCP handles agentto tool communications, A2A handles agentto agent communications.
+
+[03:33] Different problem, different protocol. A2A enables agents to communicate, delegate tasks, and collaborate across platforms. And here's where it gets powerful. Multi- aent workflows. One agent plans, another executes, and a third validates. They coordinate through A2A.
+
+[03:58] A co-pilot studio agent can delegate a task to a foundry agent. They don't have to be on the same platform. Agents can ask for clarification or hand off complex tasks to more capable agents. For example, a research agent finds relevant documents. It hands those documents to a summarizer agent that distills the key points. That summarizer passes the results to an approver agent that validates everything before surfacing it to the user. Three agents working together, coordinated through A2A. And it works across platforms.
+
+[04:40] Azure AI Foundry agents, Copilot Studio agents, custom code agents. They can all participate in the same workflow. Here's your exam tip for this lecture. When you see a question about orchestrating multiple agents securely, think A2A plus MCP. A2A handles the agentto agent communication. MCP handles the agentto tool communication. Together they cover both bases.
+
+[05:15] Here are four takeaways for this module. One, MCP equals secure auditable tool access across agents. It's the standard for how agents call external services. Two, A2A equals multi- aent collaboration and delegation. It's how agents coordinate with each other. Three, use both of these standards in the exam answer when it when it involves governance, scalability or interoperability.
+
+[05:48] They signal that you understand enterprisegrade design. Four, these protocols enable enterprisegrade agentic systems. Neither one alone is enough for complex scenarios. Final lecture of section two is up next. We're going deep on custom AI models and Azure AI foundry, specifically how to decide when to build custom models and design them for production. So, I'll see you there.

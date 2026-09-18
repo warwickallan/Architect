@@ -1,0 +1,68 @@
+# Designing Copilot for Sales & Service | AB-100 Exam Prep (Ep 4.4)
+# Coding With Chuck — AB-100 — video 23
+# https://www.youtube.com/watch?v=3gBczGHIuks
+# captions: en (auto-generated)
+
+[00:01] Hi there, and uh welcome to lecture four. Last lecture, we built agents from scratch in Copilot Studio. Now, we shift to pre-built agents, uh Copilot for Sales and Copilot for Service in particular. Uh these are domain-specific agents embedded directly into Dynamics 365. They're powerful out of the box and exam test both what they do and how to extend them. So, let's dig in.
+
+[00:33] Copilot for Sales lives inside Dynamics 365 Sales and connects to Outlook and Teams. That's an important detail for the exam. It's not just a CRM tool. It works across the daily tools sellers already use. Let's start with what sellers care about the most, making sales, right? Knowing which deals to focus on, that's where the lead and the opportunity scoring comes in.
+
+[01:04] The Copilot analyzes CRM data like company size, industry engagement history, deal stage, past interactions, and generates a score that tells the rep which leads deserve attention first. So, instead of working through a random list of 50 leads, the sales rep focuses on the 10 most likely to close.
+
+[01:30] This alone can improve pipeline velocity by 20 to 40%. Once the rep knows which deals to prioritize, the next challenge is walking into meetings ready to go. That's meeting preparation. Before a customer call, the Copilot pulls together everything relevant, the past deals, the open issues, the recent emails, prior meeting notes, the customer's pain points.
+
+[02:00] A rep who used to spend 20 minutes digging through scattered notes now walks in prepared in 2 minutes. And this is grounded in actual CRM and Outlook data. The agent isn't guessing. After the meeting, you need to follow up. So, naturally, email drafting is the next capability. The rep says, "Follow up on our proposal." And Copilot drafts a personalized email based on the specific deal context, prior correspondence, and the customer tone.
+
+[02:35] It takes the friction out of the writing process. The rep reviews, adjust if needed, and sends it. What used to take 15 minutes now takes two. And then, there's the long game. After the deal closes, whether you won or you lost, Copilot supports win-loss analysis. What were the winning factors? Where did the deal stall out? What competitor was involved? This analysis feeds the coaching sessions and improves forecasting accuracy over time.
+
+[03:12] Most teams never do this consistently because it's tedious. The Copilot makes it automatic. One thing to understand for the exam. Copilot for Sales is a connector between Dynamics 365 and Microsoft 365. It surfaces CRM insights from Outlook and Teams, and it pushes Outlook activity data back to CRM.
+
+[03:41] That bidirectional connection is what makes it really powerful. Then, there's Copilot for Service. It lives inside Dynamics 365 Customer Service, and it integrates with Dynamics 365 contact center for Omni channel support. So, think about this. The first thing a service rep needs when they pick up a case is context. That's what case summarization provides. There's often a trail of emails or chat transcripts or phone notes or internal comments.
+
+[04:17] A rep inheriting that case would normally spend say 10 minutes reading through everything and probably missing some stuff. The copilot synthesizes it all into a clear summary. Here's the issue. Here's what's been tried. Here's the current status. The new rep can pick up cases immediately without rereading the entire history. Once the rep understands the problem, then they need to solve it. That's where resolution suggestions come in.
+
+[04:48] The copilot matches the current case against similar resolved cases and knowledge base articles. So, customers with this issue typically resolve it by updating their firmware to version 4.0. It ranks suggestions by relevance. The rep reviews and applies the best one. This improves consistency. Every rep has access to the same institutional knowledge, not just what the veterans know.
+
+[05:21] Now, what happens when a rep solves something that's truly new? A new issue that's never been documented. That's knowledge base authoring. The copilot notices the resolution is novel and suggests drafting a knowledge base article. It generates a draft from the case notes and the resolution steps. The rep reviews, edits, and publishes that knowledge base article. This closes the knowledge gap automatically instead of relying on somebody to remember to document the fix later, which usually doesn't happen.
+
+[06:01] Finally, there's the question of how cases get to the right person in the first place. That's intelligent routing and this is where contact center integration really matters. When a case comes in, whether it's voice, chat, email, or social media, the Copilot analyzes the issue type, the customer segment, the urgency, and even the customer sentiment. An angry enterprise customer with a billing dispute gets routed to a senior billing specialist, not to the general queue. A straightforward product question goes to a tier one agent.
+
+[06:40] Right agent, first time, fewer hand-offs, faster resolution. For the exam, just know that Copilot and contact center work together. Contact center handles the omni-channel infrastructure, your voice, chat, email, social, etc., and Copilot for service provides the AI layer on top. It summarizes, suggests, and provides the routing intelligence.
+
+[07:05] So, before we go any further, let me cover the business terms the exam uses in scenario questions. You need to know these cold because the exam won't define them for you. On the sales side, two terms come up constantly. One, pipeline. Pipeline is the total value of all open opportunities across all stages.
+
+[07:30] So, when a question says the company wants to improve pipeline visibility, it's pointing you towards Copilot for sales. And an opportunity is a qualified lead with a defined revenue potential and a specific deal stage. Opportunities move through stages like qualify, develop, propose, close.
+
+[07:56] If a scenario describes deals moving through stages, that's the opportunity life cycle. On the service side, you'll see case, SLA, CSAT, and FCR. A case is a customer issue tracked through creation through resolution. Statuses like active, resolved, and canceled go along with the cases.
+
+[08:24] SLA means service level agreement. This is the contractual promise on a response and a resolution time. So, say you have a contract says you respond within 4 hours, resolve within 24 hours. When the exam mentions SLA compliance, it's testing Copilot for service capabilities. Then there are the outcome metrics.
+
+[08:49] CSTAT CSAT stands for customer satisfaction. It's a post interaction score, usually collected through a survey. If a scenario says CSAT dropped by 15%, then you need to think Copilot for service. Specifically, intelligent routing and resolution suggestion. And finally, first contact resolution or FCR. That's the percentage of cases resolved without escalation or transfer to somebody else.
+
+[09:24] Higher FCR means better service. Copilot for service improves FCR through better resolution suggestions and smarter routing. Now, these Copilots are quite powerful right out of the box, but every business has unique processes. The exam tests your ability to design appropriate extensions. There are four levels, and the key principle is use the simplest level that solves the problem.
+
+[09:52] The first level is just configuration. Settings and field mappings within the app itself. In Copilot for Sales, for instance, you might configure which custom field appears in meeting prep context or adjust the scoring model weights. In Copilot for Service, you might adjust routing rules so that VIP customers always go to a dedicated team. No code, no Copilot Studio, just configuration.
+
+[10:20] This is where you should start. When configuration isn't enough and you need specific business logic, you step up to Copilot Studio topics. Topics and tools for sales. Imagine your company requires a credit check before a lead can be qualified. You build a Copilot Studio topic called credit check with a tool that calls your credit rating service.
+
+[10:46] The topic integrates into the sales Copilot flow. On the service side, imagine you want to detect angry customers and immediately escalate. You build a topic with a prompt action that classifies customer sentiment, and if negative, triggers escalation to a senior agent. The third level is connectors to external systems, and you reach for these when the data you need isn't in in Dynamics 365.
+
+[11:16] For sales, you might pull lead enrichment data from a provider like Dun & Bradstreet, uh company revenue, employee count, industry classification, things like that. For service, you might pull warranty status or subscription details from an external ERP. Connectors bridge the gap between CRM data and external business data. And when the workflow spans multiple applications entirely, that's when you bring in Power Automate for cross-app orchestration.
+
+[11:49] For sales, think of deal approval workflow that routes to finance for credit approval, legal for contract review, and management for final sign-off. For service, an SLA breach alert that creates a task for the team lead, sends a notification, and logs the breach for reporting. Power Automate handles the multi-step, multi-app workflows that a single agent can't. The exam consistently rewards answers that start simple.
+
+[12:20] Don't propose Azure ML when configuration solves the problem. Don't build a custom connector when standard ones exist. Match the extension level to the actual business need. Let me walk through a quick design example. A business-to-business software company wants to improve follow-up when deals move to the proposal set stage.
+
+[12:46] So, our trigger, an opportunity moves to proposal set in Dynamics 365 Sales. This fires an event. A Copilot Studio topic named proposal follow-up activates. It runs two actions. First, pull the customer stakeholder map from Dataverse to see who the decision-makers are. Second, enrich with the latest engagement data from Outlook through the sales connector. Who opened the proposal? Who replied? And who went silent?
+
+[13:19] Then, a prompt action. Given this stakeholder map and engagement data, summarize each stakeholder's likely concerns and draft a personalized follow-up email. And then have a guardrail. If the deal value exceeds $500,000, the follow-up goes to the sales manager for review before sending. Below that threshold, the rep can send it directly.
+
+[13:47] So, the result is the rep gets a ready-to-send contextual follow-up within 2 minutes of moving the deal to the proposal sent stage. Large deals get manager oversight. This is a practical extension that combines Copilot for Sales, Copilot Studio, prompt actions, and a guardrail. This is the level of design thinking this the exam rewards.
+
+[14:13] So, four key points here. One, Copilot for Sales spans Dynamics 365, Outlook, and Teams. It accelerates lead scoring, meeting prep, email drafting, and win-loss analysis. Know that it bridges CRM and productivity tools. Two, Copilot for Service integrates with Dynamics 365 contact center for omnidirectional case resolution across voice, chat, email, and social.
+
+[14:44] It improves summarization suggestions, knowledge base authoring, and intelligent routing. Three, know the business terms. Pipeline, opportunity, case, SLA, CSAT, and first contact resolution. The exam uses these in scenario questions and expects you to connect them to the right Copilot capabilities.
+
+[15:12] Four, extend progressively. So, configuration first, that runs out of steam, then Copilot Studio for custom logic, if that runs out of steam, connectors for external data, and finally Power Automate for cross-app workflows. Start simple, only add complexity when the business requires it. Now, in the next lecture, we move to the operation side, Dynamics 365 Finance, Supply Chain Management, and cross-module AI.
+
+[15:44] That's where autonomous agents handle invoice processing, stockout prediction, and multi-module orchestration. I'll see you there.

@@ -1,0 +1,30 @@
+# ROI & Total Cost of Ownership for AI Agents: AB-100 Exam Prep (Ep 3.5)
+# Coding With Chuck — AB-100 — video 15
+# https://www.youtube.com/watch?v=yfVWp7M0BtU
+# captions: en (auto-generated)
+
+[00:00] Hey, uh, welcome to lecture number five. Here's where theory meets reality. You've just decided whether to build or buy or extend. [music] Now you need to prove that that decision to the finance team. This lecture teaches you how to calculate [music] real return on investment and total cost of ownership for the agentic solutions. These calculations show up frequently on the AB 100 exam. So learn these.
+
+[00:32] All right, let's define total cost of ownership. It's not just the cost of tokens you're consuming. TCO includes everything. That's development cost. Building the agent. Copilot Studio might be $200,000 in in consulting. Azure AI foundry custom development might be $500,000 or more in inference cost.
+
+[00:58] Actually running the agent each API call cost money. This is where model routing helps or cheaper models for simpler tasks reduce inference cost dramatically. Azure compute, storage, logging, monitoring. These are typically small relative to development, but they're ongoing.
+
+[01:23] Also, governance and operations, security scans, compliance monitoring, your staff time to maintain and update the agent. Don't underestimate this cost. A 247 support agent needs monitoring, incident response, periodic retraining, change management cost, training your team, adapting processes, managing adoption. When requirements change or performance drifts, there's rework. So here's the table that breaks it down.
+
+[02:00] Development usually 20 to 30% of total cost. Model and inference that's 25 to 40% depending on your usage volume. Infrastructure 10 to 20%. Governance and operation 10 to 20%. And change management 5 to 15%. Now the way you reduce TCO model routing for instance um that reduces inference cost significantly because you're not paying premium prices for simple queries. Reusing agents and prompt libraries reduce development cost because you're not building from scratch each time. Microsoft Purview and automated alerts reduce operations cost and phased pilots reduce your risk
+
+[02:54] because you're not betting the whole organization on one big build. Now the return side ROI equals benefit minus TCO divided by TCO. So let me give you a concrete example with customer support automation. So with setup, you currently have uh say 50 support agents each handling 10 tickets per day. The proposal is to to deploy an AI agent that handles 40% of the tickets. The simple request and the tier one issues that frees up 20 agents worth of capacity.
+
+[03:33] The benefits are 20 full-time positions at $70,000 each equals 1.4 million in labor reallocation. That also means faster first response, 5 minutes versus two hours on average. That improves customer satisfaction. Estimate a 5% reduction in churn. If annual revenue is 50 million and churn was 3%, that's 750,000 in saved revenue.
+
+[04:05] So the total annual benefit 1.4 4 million plus 750,000 equals 2.15 million. Okay. Cost on the other hand, so one so your year one development is 400,000 for your co-pilot studio setup in integration with the help desk system. Year one inference is 20,000 tickets per month times 12 months at 5 cents per ticket. That's 120,000.
+
+[04:39] Year 1 infrastructure in operation is 80,000. So total year 1 TCO 600,000. So ROI year 1 2.15 million in benefit minus 600,000 in cost divided by 600,000 equals 258%. That's compelling a business case. You might even achieve ROI in the 3 to four months like break even in 3 to four months operationally.
+
+[05:16] So here's the exam insight. Your answer should include all cost not just development. It should be realistic not we'll say 5 million and it costs nothing. And it should show phased thinking. Year one, we pilot with tier one support. Year two, we expand to tier two. This reduces risks and lets us prove value before scaling up and out.
+
+[05:45] That's riskaware business thinking. The exam rewards that. Four things to remember. First, TCO includes development, inference and infrastructure as well as governance and change cost, not just tokens. Second, ROI is benefit minus cost divided by the cost. Use realistic, provable, quantifiable numbers.
+
+[06:14] Third, show phased approaches to reduce risks and demonstrate value early. As [clears throat] a software developer, I can tell you it's it's always a benefit to get features in front of your customer as soon as possible. Even if it's a work in progress, the faster you show progress, the more buyin you get from that customer. Fourth, identify cost reduction opportunities like model routing and reusable components.
+
+[06:42] Next, prompt engineering and prompt libraries because even a well-justified solution needs consistent, reliable prompts to actually work. The last thing we want to have happen is to have a great idea that we can actually justify from a money standpoint and then fail in the implementation. So, I'll see you in lecture six.

@@ -1,0 +1,30 @@
+# Requirement Analysis for Agentic AI Solutions | AB-100 Exam (Ep 3.1)
+# Coding With Chuck — AB-100 — video 11
+# https://www.youtube.com/watch?v=o195eZ5n6g4
+# captions: en (auto-generated)
+
+[00:00] Well, hope everybody's having a great day so far. Welcome to section three, the plan domain. This is uh 25 to 30% of the AB 100 exam. So, pay attention. In this section, we're shifting from tools and platforms to strategy and business alignment. We'll analyze requirements, figure out data readiness, and calculate real return on investment. By the end of this lecture, you'll know exactly how to assess whether Agentic AI is the right fit for your given business problem. Let me start with what separates a good plan from a bad one. It always begins with the same three questions. First, what problem are we actually solving? What's
+
+[00:51] the business outcome that we want? Don't skip this part. We need to know the goal. Second, what are the constraints? Is it budget? Is it timeline, regulatory requirements, data access? These all matter a lot. Third, does this really need an agentic approach? That's the critical question.
+
+[01:18] Does the task involve multiple steps? Does it need to call tools or APIs? Does the agent need to adapt when things don't go as planned? Here's how to think about it. Agentic AI works best when the task has real variability and requires multi-step decisions. for example, um evaluate this contract and flag risks and suggest approvals.
+
+[01:48] That's a strong candidate. The agent needs to reason through the the legal lingo uh through the clauses, check a knowledge base, and escalate those edge cases. Other good fits include ambiguous processes like supply chain exception handling, tasks that require calling multiple tools or API and high compliance scenarios where the agent operates with guard rails. On the other hand, if the task is purely repetitive and rule-based like if customer status is gold, apply 15% discount. That's not a gentic. A power automate flow handles that just fine. Simple question and answer without follow-up actions.
+
+[02:40] Standard co-pilot. Static singlestep processes. Well, traditional automation in that case. The exam loves testing this distinction. Wrong answers often apply Agentic AI to problems that a simple workflow would have solved. Here's the framework I use when I'm planning a solution. Four steps. First, your goal. What outcome are we after? And sometimes that's really hard. I've had trouble getting my customer to even tell me what that is.
+
+[03:14] Second, constraints, budget, timeline, regulation, team skills. What is it that's limiting us? Third, fit. Does Agentic AI actually make sense here in this circumstance? Fourth recommendation. What solution do we propose? Uh let me walk through an example. Let's say a client comes to you and says, "We want to automate contract review with approvals.
+
+[03:46] Our goal faster processing, fewer human errors. Our constraints well highly sensitive data, strict compliance requirements and legal team will need visibility as well. So is it a fit? Yes, the agent can review contract clauses against a knowledge base, can call tools to check regulatory databases, it can identify issues, and it can escalate edge cases to our lawyers. That's a strong agentic workflow. Recommendation here, build a task agent with guard rails and a clear escalation path to the legal team.
+
+[04:30] So, here's your exam tip. The best answers balance ambition with realism. We can build something powerful paired with here's how we mitigate the risks. Don't oversell. Here's something a lot of people skip. risk assessment. You can't just analyze what you want to build. You need to analyze what could go wrong. Every agentic AI initiative carries risk. Here's a simple framework with three dimensions.
+
+[05:02] Likelihood. How likely is it that this risk materializes? Is it data quality issues? Very likely. Complete system outage. Well, that's less likely, but it is catastrophic if it happens. A hallucination in an internal uh frequently asked questions. Well, low impact, but a hallucination in a financial recommendation to a customer, well, that has high impact. Mitigation, well, that means what do we do about it?
+
+[05:38] Well, add guard rails, require human review, set up monitoring, or fall back to a manual process. Let me give you a quick example using that contract review agent. There are three risks. One, data staleness. That likelihood is medium. Impact is high because the agent could use outdated regulations.
+
+[06:04] mitigation, automated data refresh with alerts. Uh hallucination on edge cases likelihood is also medium. Impact is high because that's bad legal advice. Mitigation mandatory human review for any flagged risk above a certain threshold. Scope creep likelihood is high because someone always asks, "Can the agent do X?
+
+[06:34] impact is medium and the mitigation is to have clear scope boundaries documented in our project charter. So an exam tip is when a scenario asks you to plan or recommend a solution, include at least one risk and its mitigation. That shows mature thinking. The exam rewards candidates who think about what can go wrong, not just what should go right.
+
+[07:04] Four things to lock in. First, always start with goal and constraints. This is foundational. Second, Agentic AI shines in an adaptive toolheavy multi-step process. Third, assess risks early likelihood impact and the mitigation. Fourth, use trade-off thinking in the exam scenarios. There's always a balance to strike. In our next lecture, assessing data readiness because even the best agent design falls apart if the grounding data is stale, inaccurate, or unavailable. That's where hallucinations come from. We don't want those. So, I'll see you in the next lecture.

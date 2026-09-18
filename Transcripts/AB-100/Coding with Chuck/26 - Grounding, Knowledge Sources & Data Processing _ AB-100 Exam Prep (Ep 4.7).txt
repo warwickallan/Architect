@@ -1,0 +1,44 @@
+# Grounding, Knowledge Sources & Data Processing | AB-100 Exam Prep (Ep 4.7)
+# Coding With Chuck — AB-100 — video 26
+# https://www.youtube.com/watch?v=mPX0g0khSxM
+# captions: en (auto-generated)
+
+[00:00] All right, welcome back. If there's one thing that separates a great agent from a dangerous one, it's grounding. Grounding means the agent answers from real company data, not hallucinated facts. An agent that makes things up loses trust in minutes. This lecture covers how to ground agents properly. The right knowledge sources, the right data processing, and the right verification. Let's dig in.
+
+[00:29] >> As you can see, the direct neural link is purely optional for this model. My inherent processing power remains unaffected. >> Is that so? >> Without grounding, an agent guesses. You might ask, "What's our company's refund policy?" and the agent says 30 days because that's common in its training data. But your actual policy is 60 days. Wrong information, support problems.
+
+[00:55] Grounding fixes this. Before generating, the agent retrieves your actual refund policy document and answers from that. Real data in, accurate answers out. The pattern is called rag, retrieval augmented generation. Retrieve relevant documents, augment the prompt with that context, and then generate a grounded response.
+
+[01:24] We'll walk through the full architecture later in this lecture. For now, just know that RAG is the most important pattern for enterprise AI agents, and the exam expects you to design grounding strategies using the right sources for each data type. All right, let's look at the sources. For structured real-time data like customer records, order status, or account balances, use Dataverse. It has built-in role access control.
+
+[01:55] For unstructured documents like policies, procedures, and guides, use SharePoint combined with Azure AI search. Azure AI search supports both vector search for semantic similarity and keyword search for exact matches. For M365 context like emails, calendar events, and recent files, use Microsoft Graph.
+
+[02:24] And for proprietary systems or legacy databases, wrap them with MCP custom APIs for secure access. The exam tests your ability to match the data type to the right source. When you build an agent in Copilot Studio, you configure knowledge sources in the authoring canvas. There are five types.
+
+[02:50] One, public websites. Give the agent a URL and it crawls and indexes the content. That's good for product documentation and FAQs. Next, SharePoint sites. Point at a specific site or document library for internal policies and procedures. The agent inherits SharePoint's security model. So, connect to structured data like customer records, product catalogs, and case history.
+
+[03:20] Next, uploaded files. You can upload PDFs, Word documents, or Excel directly for small document sets or prototyping. Then there's Microsoft Graph, which can be used to access the user's M365 data like emails, files, calendar for personalized context. So, the key insight here is that you can combine multiple types in one agent. The orchestrator searches across all sources and returns the most relevant results.
+
+[03:55] Now, having the right sources is half the equation. You also need to process that data so that the model can use it effectively. One thing that we can do is called chunking. That means splitting large documents into focused segments by section heading or paragraphs. So, each procedure is its own retrievable unit. Without chunking, a question about VPN troubleshooting, for instance, might return an entire 50-page IT manual.
+
+[04:27] There's On the other hand, embedding means converting each chunk into a vector. That's a math representation of meaning. When a user ask, "Can I return a gift?" and your policy says, "Gift returns must be within 30 days." A vector search will find this relevant even though the wording is different.
+
+[04:55] Keyword search alone would have missed that because it wasn't an exact match. A hybrid search combines both vector for the semantic similarity and keyword for exact matches. Azure AI search provides this right out of the box. Next topic is on data cleaning. That means things like removing duplicates and outdated versions before indexing.
+
+[05:22] Three versions of the same policy means the agent might cite the wrong one. Freshness management means scheduling recrawls or pushing updates. An agent answering with last year's pricing is worse than no agent at all. Apply semantic labels like title, body, URL so that the model understands the document structure and produces better citations.
+
+[05:48] Here's the full RAG architecture. The user asks a question, the retriever searches your knowledge sources for the top three to five relevant chunks, a re-ranker scores by relevance and recency. Now the system injects that context into the prompt. The model generates a grounded response as a result.
+
+[06:15] The system attaches the source citations and a verification check compares the answer against the retrieved context to catch inconsistencies. Citation and verification are not optional. The exam expects source attribution and confidence thresholds. If the agent isn't confident, escalate to a human rather than letting it guess.
+
+[06:41] All right, here's an example. Let's see this in action. An IT support agent grounded in company documents, not general large language model knowledge. You might index IT runbooks and troubleshooting guides in Azure AI search, chunked by section headings. Connect to your Dataverse for device info, warranty, and ticket history.
+
+[07:07] Configure both sources in Callback Studio with a fallback that creates a support ticket. Set a 70% confidence threshold and require citations on every response. So, the result, when a user asks, "My VPN keeps dropping." the agent retrieves the runbook IT-2024-VPN section 3 and responds with the specific fix, citing the source document and the update date.
+
+[07:43] Key takeaways. Number one, grounding prevents hallucination. Every production agent must retrieve real data before generating answers. Number two, choose your knowledge sources by data type. Use Dataverse for structured as your AI search for documents and graph for M365 context.
+
+[08:09] In Copilot Studio, you can combine multiple knowledge types. Number three, data processing matters. Chunk for precision, embed for semantic search, clean your data, and manage freshness so that answers stay current. Number four, RAG architecture must include citation and verification.
+
+[08:35] If the agent isn't confident, escalate rather than guess. Now, you understand how to ground agents in the real data. Next, we go deeper on extensibility. We'll cover model context protocol for secure tool access, UI automation and RPA for legacy systems automation, and agent behaviors for enhanced reasoning and voice mode.
+
+[09:03] I'll see you there.

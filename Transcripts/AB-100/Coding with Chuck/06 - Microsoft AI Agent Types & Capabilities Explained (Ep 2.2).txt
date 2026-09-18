@@ -1,0 +1,24 @@
+# Microsoft AI Agent Types & Capabilities Explained (Ep 2.2)
+# Coding With Chuck — AB-100 — video 06
+# https://www.youtube.com/watch?v=MMbZ438ej58
+# captions: en (auto-generated)
+
+[00:01] Hey, welcome back. In the last lecture, we mapped out the Microsoft AI landscape. [music] Now, we're going to zoom in on something that comes up constantly in the exam, the different [music] agent types. You'll see questions like, uh, which agent type for this scenario over and over again. So, let's make sure you've got this one nailed down. Microsoft defines three main agent types and they're organized by how much autonomy they have and this is really the key distinction.
+
+[00:35] First up, prompt and response agents. These have low autonomy. They wait for the user input. They process it and maybe they do some reasoning and they give you an answer, but they don't go off and do things on their own. So, think of it as a chatbot, a chatbased support bot that answers questions or a simple Q&A type system. The user asks, the agent answers and that's it.
+
+[01:05] Second, task agents. These have some autonomy, medium autonomy. They can actually execute bounded tasks using tools. Key word here is bounded. They're not going rogue. They might escalate an issue to a human or look up data in a system or trigger an approval workflow, but they still typically need a human to kick things off.
+
+[01:35] Third, last is autonomous agents. These are in the high autonomy heavy hitter section. They can plan, reason, and act independently over multiple steps. Picture a supply chain monitoring agent that proactively watches inventory levels, flags issues and before they become problems and even adjusts the orders automatically.
+
+[02:03] Now, here's the trade-off you need to understand for the exam. Higher autonomy equals more power, but also more risks. An autonomous agent can do amazing things, but it can also do amazing damage if something goes wrong. That's why governance matters so much with these. Here's a simple framework for exam scenarios. So, when you see a question, ask yourself these three things. Does it need user input to start? If the answer is just responding to what someone asks, that's prompt and response.
+
+[02:44] Does it need to use tools or take actions? Now you're in the task agent type territory. Does it need to work independently, plan its own steps, run in the background? That's the autonomous agent. Now, uh let's map these agent types to the platforms that we covered in the last section. Copilot Studio supports all three types.
+
+[03:12] That's right. All three. You can build prompt and response task and autonomous agents there with uh an intuitive configuration. It's it's good for rapid development uh when you don't need a lot of heavy customization. The Azure AI foundry enhances autonomous agents. So when you need custom models or sophisticated reasoning or a multi- aent orchestration, that's when Foundry comes into play. Your standard models not cutting it. Foundry Dynamics 365 comes in with pre-built tasks and autonomous agents for sales and service scenarios. These are purpose-built for those domains. No coding required. And Microsoft 365
+
+[04:04] Copilot is mostly prompt and response. It's helping you with your documents, your emails, your meetings, but you can extend it with custom agents from Copilot Studio if you need more. Let me give you a classic exam example. A company wants a proactive supply chain agent that monitors inventories and flags issues before they escalate.
+
+[04:33] What type and platform? Well, the answer is autonomous agent because it needs to work proactively without waiting for user input and the platform either copilot studio or foundry depending on the complexity. If they mention needing custom models or complex reasoning, then you're going to lean towards Foundry. If it's uh simpler, Copilot Studio can probably handle it. Okay, three things to remember from this lecture. One, the three agent types know those cold.
+
+[05:11] Prompt and response for the low autonomy, task for medium, autonomous for high. Two, higher autonomy means more capability but more risk. The exam loves testing whether you understand that tradeoff. Three, always balance autonomy with governance in your answers. If a scenario gives you an autonomous agent without mentioning guard rails, that's usually a red flag. Next up, we're diving into co-pilot studio core concepts, topics, actions, connectors, and knowledge. This is where you'll design most of your agents in practice. So, it's essential material. I'll see you there.

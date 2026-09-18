@@ -1,0 +1,32 @@
+# Course Introduction | AB-100 | Episode 1
+# Microsoft Learn — AB-100 — video 02
+# https://www.youtube.com/watch?v=xHIu7S9uhcY
+# captions: en
+
+[00:00] [ Music ] GEORGIA KALYVA: Imagine this. You've been tasked with architecting an agentic AI solution that transforms how people work by bringing together information from collaboration tools and business workflows in one seamless experience. The goal is to unlock business productivity fast, but standing in your way are fragmented data, complex integrations, and strict governance demands.
+
+[00:31] So where do you begin, and how do you prove to leadership that your solution will deliver real value? Hi. I'm Dr. Kalyva, Lead Technical Trainer at Microsoft and author who loves making AI and cloud security concepts simple, practical, and fun to learn. I spent years as a Microsoft AI MVP and international speaker working in cloud technologies, AI, and cybersecurity, and specializing in designing and implementing secure and scalable solutions.
+
+[00:57] I'm very excited to be here and walk you through the AI-100: Architecting Agentic AI Business Solutions course. This advanced course walks you through best practices for designing AI-powered business solutions using agents, generative AI, and Microsoft Copilot to improve productivity and efficiency. It highlights key topics like analyzing business requirements, evaluating and organizing grounding data, designing an overall AI strategy, and deciding when to use prebuilt, extended, or custom AI solutions.
+
+[01:30] You'll also explore multi-agent design, prompt engineering, governance and compliance considerations, and adoption strategies that help turn AI ideas into scalable business value. Before you dive into this course, there are a few foundational areas you should be comfortable with. First, you should have a basic understanding of AI concepts. You don't need to be a data scientist, but you should know what things like generative AI, large language models, and AI agents are at a high level.
+
+[02:01] Second, it's important to be familiar with business process analysis. This course focuses on designing solutions to improve productivity, so you'll be expected to think in terms of real business scenarios like optimizing workflows, automating tasks, or supporting decision-making. Third, you should have some working knowledge of Microsoft tools and platforms. This includes services like Microsoft 365, the Power Platform, Copilot Studio, or Dynamics 365.
+
+[02:32] You don't need deep expertise, but understanding what these tools do will help you follow the architecture decisions we discuss. For some modules, it also helps if you're familiar with enterprise IT environments and how technology aligns with business strategy and organizational goals. If any of these areas feel new, don't worry. You can still follow along. Just keep in mind you may want to pair this with some additional Learn modules.
+
+[03:00] This virtual course consists of 15 sessions, which you can view in order, as recommended, or you can go straight away to the topics that interest you the most. We have started with this course introduction, and then we will dive into the foundations of agentic AI and how to analyze requirements for AI-powered business solutions. From there, we will move into designing your overall AI strategy, split across two sessions, followed by evaluating the costs and benefits of AI solutions.
+
+[03:32] Then, we will explore the process of designing AI agents tailored to real business needs using Copilot and Dynamics 365, which is also split into two sessions. We will then shift into solution extensibility, covering how to scale and customize AI solutions across platforms. Next, we look at orchestrating prebuilt agents and apps, and then move into monitoring, analyzing, and tuning AI agents for peak performance.
+
+[04:00] From there, we will cover testing strategies for AI-powered solutions and designing application lifecycle management processes. We will close with responsible AI security, governance, and compliance before wrapping up with our course closeout and your next steps towards certification or further learning. This course is focused on solution architecture, so there are no hands-on labs. Instead, we'll spend our time exploring best practices, design ideas, and real-world architectural patterns for building AI solutions that can truly improve business productivity.
+
+[04:38] Completing this course will give you a strong foundation from the Microsoft Certified: Agentic AI Business Solutions Architect exam, the AB-100, and help you understand the key areas to focus on. The exam also requires experience and practice to put those skills into action before you are truly well prepared. As you prepare, I want you to focus on three key study areas.
+
+[05:04] First, planning AI-powered business solutions makes up about 25 to 30% of the exam. Designing those solutions is another 25 to 30%. And the biggest one, deploying AI-powered business solutions, accounts for 40 to 45%. So make sure you spend extra time there. So what does it take to earn the Agentic AI Business Solutions Architect certification?
+
+[05:32] Great question. You'll need to already hold at least one prerequisite certification, and the good news is there are quite a few paths that qualify. If you're coming from the Dynamics 365 world, certifications like Business Central Developer, Finance Functional Consultant, Supply Chain Management, Customer Service, or Field Service all count. And if your background is more on the Power Platform side, the Functional Consultant, Developer, or Power Automate RPA Developer certifications will get you there, too.
+
+[06:06] There's also the Azure AI Apps and Agents Developer Associate path for those of you with a strong AI and cloud foundation. Consult the certification page for the full list and details. I am very excited to take you with me on this learning journey. Keep the momentum going by exploring the rest of the videos in this course, or discovering your next favorite topic on Microsoft Learn at aka.ms/learn.
+
+[06:33] Thank you for watching. Are you ready to take the next step in turning AI from an idea into real business impact?

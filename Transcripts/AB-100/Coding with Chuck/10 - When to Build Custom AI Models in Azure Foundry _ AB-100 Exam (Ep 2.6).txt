@@ -1,0 +1,28 @@
+# When to Build Custom AI Models in Azure Foundry | AB-100 Exam (Ep 2.6)
+# Coding With Chuck — AB-100 — video 10
+# https://www.youtube.com/watch?v=BHMJz8RtduA
+# captions: en (auto-generated)
+
+[00:00] Welcome to the final lecture of section two. We've been building up to this when and how to propose custom models in Azure AI Foundry. This directly maps to one of the AB 100's most critical decision points, the build versus buy versus extend question. [music] The exam will test whether you can justify when custom models make sense and when they're overkill. Let me give you the pragmatic hierarchy that the exam expects you to follow. So start here. Off-the-shelf models plus prompt engineering plus ra that's retrieval augmented generation.
+
+[00:44] For most business problems, this combination works. You take a general purpose model, craft good prompts and ground it in your own data through rag. Done. only escalate to custom fine-tuning when that approach fails. And fails has to mean something specific. Domain accuracy is critical, of course. Legal terminology, financial jargon, medical language. If generic models consistently get your specialized vocabulary wrong, that's when you consider fine-tuning.
+
+[01:19] Not because your boss thinks custom sounds impressive, but because the accuracy requirement demands it. Next could be data privacy or compliance requires tight control. Some organizations need their model to stay on their own infrastructure with their own audit trails. No data leaving their environment. In fact, that's probably most organizations.
+
+[01:46] Fine-tuning lets you create a model that you fully control. Scale demands cost optimization. If you're running thousands of queries a day, a smaller fine-tune model could potentially save millions compared to paying per token for a premium generalpurpose model. The math has to work for that to work though.
+
+[02:11] Proprietary patterns also matter like internal jargon and specialized business logic that no public model has been trained on. If your data patterns are genuinely unique, and that's rare, by the way, fine-tuning encodes that understanding. Here's the key exam insight. Don't jump to custom models.
+
+[02:36] Try simple solutions first. Be thoughtful about escalation. The exam punishes answers that rush to custom when simpler approaches would have worked. All right, let's say you've done the analysis and custom is genuinely justified. Here's how the Azure AI foundry process works. Step one, select a base model from the catalog. You're not training from scratch. You're starting with GPT4 or open-source Llama or another foundation model.
+
+[03:08] Step two, prepare your training data. This is where most of the work is going to happen. You're going to take that data, clean it, label it, format it for your domain. Garbage in, garbage out applies, and that's double for fine-tuning. Step three, fine-tune using Foundaries tools. Supervised fine-tuning for most cases, Laura adapters if you need efficiency.
+
+[03:37] The platform will handle the computation. Step four, evaluate rigorously and I mean rigorously. Test for accuracy for safety, bias, hallucination rate. This exam emphasizes this. Deploying without proper evaluation is always a wrong answer. Step five, deploy to agent service. Once the evaluation passes, you can deploy the service scales automatically.
+
+[04:12] Step six, expose via MCP. Now other agents can call your custom model securely just like any other tool. There's also an advanced option, dynamic routing. You can blend models, send simple queries to a cheap model, route complex queries to your premium fine-tuned model. Cost optimization at inference time. We actually do that with our u with our development tools. Uh with um VS Code, for instance, we have the option, we've got about 15 models to choose from, and we have the option to have it uh choose one that might be less expensive for a particular issue.
+
+[04:57] multi-agent orchestration so that your custom models can participate in larger workflows and builtin telemetry and governance. So that way you can track usage, cost, and even hallucination rates over time. Now, here's your exam tip. answers on the exam. Favor the phrase [snorts] start simple, escalate thoughtfully with strong governance and evaluation. If you see a scenario where outcome jumps straight to custom models without trying prompts for rag, for instance, first, it's almost always a wrong answer. Five things to carry with you from this lecture. One, custom models solve domain accuracy and compliance gaps. These are
+
+[05:47] legitimate reasons. Two, Azure AI foundry provides the tools for fine-tuning, for evaluation, and for hosting. It's your custom model headquarters. Three, always justify with business tradeoffs in exam scenarios. Cost, governance, performance. Show you're thinking about the whole picture.
+
+[06:12] Four, evaluate first, deploy second, monitor continuously. The exam never rewards skipping evaluation. Five, start simple, escalate thoughtfully. That's the exam mantra. Burn that into memory. You now understand the full Microsoft ecosystem. the platforms, the agent types, the core building blocks, the open standards, and when to go custom. Well, let's see if you're ready for that. Go take the section two quiz to lock in this knowledge, and then we'll move on to section three where we start planning AI powered solutions. [music] So, I'll see you after that quiz.

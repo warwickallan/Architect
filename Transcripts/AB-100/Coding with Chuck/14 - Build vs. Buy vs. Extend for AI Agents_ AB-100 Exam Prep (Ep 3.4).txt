@@ -1,0 +1,24 @@
+# Build vs. Buy vs. Extend for AI Agents: AB-100 Exam Prep (Ep 3.4)
+# Coding With Chuck — AB-100 — video 14
+# https://www.youtube.com/watch?v=MJI3LzOdck8
+# captions: en (auto-generated)
+
+[00:00] Hi, welcome back. Now that you understand requirements analysis, data grounding, and the organizational strategy, here's the practical question that comes up constantly. Should we build this agent ourselves, buy a pre-built solution, or extend what we already have. This lecture walks you through that decision making. Uh, let me give you a decision tree that actually works in real organizations.
+
+[00:27] build. You're writing custom code. Maybe you're using Copilot Studio with heavy customization. Maybe you're using the SDK. Uh maybe you're fine-tuning models in Foundry. This is where you have a truly unique workflow that no vendor solution covers. You have deep expertise on staff and you have the time and budget.
+
+[00:52] buy is where you're getting something off the shelf like Dynamics 365 copilots or co-pilot for sales, co-pilot for service. This is where the solution covers 80% or more of what you need right out of the box. Your team lacks the expertise to maintain custom code uh in the long term and you want Microsoft support and regular updates. and then extend. This is where you're taking a vendor solution and customizing it. This is actually the most common scenario. You start with a co-pilot studio solution and then you customize your prompts, your connectors and actions specific to your business.
+
+[01:36] The real answer in enterprise environments, well, most projects are extend by the foundation, customize on top. Here's the practical trade-off. Build has of course the highest upfront cost and the longest timeline, but you get exactly what you want and full control of it. The downside is that you own all the maintenance and the updates and often times that's actually more expensive going forward than the initial development.
+
+[02:09] Buy is the fastest way to value. You're live in a few weeks, but you're constrained by what that vendor gives you and you'll need workarounds for your edge cases. Extend is your middle ground. You get to the market reasonably fast and you have vendor support, but you add customization on top. Let me give you three quick scenarios and show you how you think through them.
+
+[02:36] Scenario one, a manufacturing company wants an agent to optimize production schedules based on real time supply and demand data. This is highly domain specific. Their thinking is we could buy a generic scheduling tool but it won't understand our specific constraints. Our decision built we need custom algorithms and tight integration into our existing manufacturing systems.
+
+[03:06] Scenario two is a financial services company that needs a co-pilot for customer service that handles basic FAQs and es escalates complex requests to humans. This is kind of standard. They're thinking co-pilot for service does almost everything we need right out of the box. We'll extend with one custom connector for our internal policy database. Fast, supported, lowrisk.
+
+[03:35] Scenario three is a retail chain that wants to personalize product recommendations using your customer purchase history and their browsing behavior. This is a common problem but they have unique data. So their decision is we'll extend we'll start with Azure AI foundry and connect it to our product catalog and our customer behavior database. So we're not building from scratch and we're not buying an off-the-shelf solution either. We're extending from a base. So the pattern is the decision comes down to two things.
+
+[04:11] How unique is your problem and how much expertise do you have on staff? And I found a lot of customers think that their problems are really super unique when they're actually not unique at all. Here's an exam tip. The best answers show that you understand the business tradeoffs, not just the technical options. We'd extend C-Pilot Studio because it gives us a baseline functionality fast, reduces our maintenance burden, and we can add our specific connectors on top. Always beats. We'll build everything ourselves because we need total control. So, four things to remember. First, build when the problem is truly unique or you have deep expertise or really both. Second, buy when the vendor solution covers 80%
+
+[05:02] or more of your needs. Third, extend, and that's usually the answer in an enterprise. Take a vendor solution and adapt it. Fourth, always factor in maintenance cost and ongoing cost of ownership. Also, your team expertise, not just the initial delivery. Next, we're going to get into cost modeling and return on investment calculation because even in the best technical decision will [music] fall apart if you can't justify the business case. So, I'll see you in lecture five.

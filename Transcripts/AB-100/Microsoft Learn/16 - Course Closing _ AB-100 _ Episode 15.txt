@@ -1,0 +1,26 @@
+# Course Closing | AB-100 | Episode 15
+# Microsoft Learn — AB-100 — video 16
+# https://www.youtube.com/watch?v=V6UsWLkoHoI
+# captions: en
+
+[00:00] [ Music ] GEORGIA KALYVA: Congratulations, you've made it! This concludes our course, "AB-100 Architecting Agentic AI Business Solutions". Let's recap what we've learned. In the first eight videos of this course, we explored how to design intelligent AI-powered business solutions using agentic AI and Microsoft's ecosystem, including Copilot and the Power Platform.
+
+[00:30] We started by understanding the role of the AI architect, how to connect technology with real business needs, and drive meaningful transformation. From there, we looked at how to analyze business requirements and data, identifying the right opportunities where agents can automate tasks, generate insights, and support better decision making. In Videos 9 to 15, we moved into designing end-to-end AI strategies, learning how to build scalable multiagent solutions, and when to use existing tools like Microsoft Copilot versus creating something custom.
+
+[01:06] We also covered how to evaluate value and impact thinking about cost, ROI, and making smart decisions about whether to build, buy, or extend solutions. Finally, we focused on what it takes to bring these solutions to life, testing, monitoring, and continuously improving AI systems so they deliver reliable real-world results. By now, you have the mindset and foundation to architect AI solutions that truly enhance productivity and transform the way businesses work.
+
+[01:40] Now, let's put that knowledge to work. The AB-100 exam, Architecting Agentic AI Business Solutions", is your path to proving you can lead AI-powered transformation at the enterprise level. As you prepare, I want you to focus on three key study areas. Planning AI-powered business solutions makes up about 25 to 30% of the exam. Designing those solutions is another 25 to 30%.
+
+[02:08] And the biggest one, deploying AI-powered business solutions accounts for 40 to 45%, so make sure you spend extra time there. And you have some great resources. Head over to the certification page where you can watch prep videos, review the study guide, try out the exam sandbox to get a feel for the experience, and even take a practice assessment. These tools are designed to build your confidence and set you up for success.
+
+[02:35] You got this! So, what does it take to earn the Agentic AI Business Solutions Architect certification? Great question. You'll need to already hold at least one prerequisite certification. And the good news is there are quite a few paths to qualify. If you're coming from the Dynamics 365 world, certifications like Business Central Developer, Finance Functional Consultant, Supply Chain Management, Customer Service, or Field Service all count.
+
+[03:06] If your background is more on the Power Platform side, the Functional Consultant Developer or Power Automate RPA Developer certifications will get you there, too. There's also the Azure AI apps and Agents Developer Associate path for those of you with a strong AI and Cloud foundation. Consult the certification page for the full list and details. Here's something important to keep in mind once you earn your certification.
+
+[03:33] You'll want to keep it current. Role-based and specialty certifications require annual renewal. But here's the great part, it's completely free. After you earn your certification, you'll have an annual expiration date. As that date approaches, you'll become eligible for renewal. The process is designed to be convenient. It helps you stay sharp on the latest technology changes without having to retake the full exam.
+
+[04:02] But your learning journey does not have to stop here. In fact, I hope it's just getting started. Let me highlight a few exciting paths you might explore next. The AI Agent Builder Associate course teaches you to design and build enterprise AI agents with Copilot Studio, perfect if you love the hands-on building side of things. If you're more focused on driving business outcomes, the AI Business Professional course shows you how to use Copilot to boost productivity across your organization.
+
+[04:34] For those of you in leadership roles, the AI Transformation Leader course is all about identifying opportunities and championing responsible AI adoption. And if you want to strengthen your fundamentals, the Copilot and Agent Administration Fundamentals course covers everything you need to manage and govern AI tools effectively. You can find all of these and more at Microsoft Learn. The AI landscape is evolving fast and you're in a great position to lead the way.
+
+[05:04] Thank you for joining us in this course. You're now one step closer to architecting AI that drives true productivity. Remember, there are many ways to continue your learning journey. Check out Microsoft Learn at aka.ms/learn for a variety of self-paced learning options.

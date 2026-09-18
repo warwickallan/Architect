@@ -1,0 +1,140 @@
+# Manage testing AI-powered business solutions | AB-100 | Episode 12
+# Microsoft Learn — AB-100 — video 13
+# https://www.youtube.com/watch?v=a5BJ6b41obk
+# captions: en
+
+[00:00] [ Music ] GEORGIA KALYVA: How can you be confident an AI solution will behave correctly across prompts, models, and connected business apps before it goes live? Hi and welcome. I'm Georgia, Lead Technical Trainer at Microsoft, and in this session, we'll cover how to test agents, validate customer AI models, and design end-to-end test scenarios.
+
+[00:26] Think of this as your blueprint for building trust in AI, because without rigorous testing, even the smartest AI solution is a liability. Let's get started! By the end of this video, you'll know how to design structured testing processes for AI agents and custom models, how to define measurable validation criteria, covering performance, safety, and compliance, how to implement scalable testing strategies using Copilot, and ensure your AI solution stays aligned with enterprise goals throughout their life cycle.
+
+[01:00] Before we dive into the best practices, let's talk about why measurable performance indicators matter so much. When you're testing AI, gut feelings aren't enough. You need hard numbers. This part zeroes in on five critical areas: accuracy, latency, stability, guard layer, adherence, and user experience quality. Your best practice here is to define these indicators before you build, not after.
+
+[01:29] Scalability. This is where many teams stumble. You can't manually test every prompt variation, every user scenario, every edge case. That is where Copilot comes in. This summary teaches you how to use Copilot to accelerate test case creation while maintaining consistency, coverage, and governance. Take a look before you move on. After this quick overview, let's start with recommending the process and metrics to test AI agents.
+
+[02:02] Every AI agent needs a testing framework, no exceptions. Before you write a single test case, define your testing objective. Ask yourself: does this agent meet its intended business outcome? Is it accurate and consistent across different scenarios? Are the guardrails, data boundaries, and compliance policies actually working? The goal is to detect issues early and establish a performance baseline you can tune against over time.
+
+[02:31] As a best practice, treat this framework as a living document. Agents evolve, business requirements shift, and your testing framework should evolve right alongside them. A solid test plan is your roadmap. It answers four critical questions. First, test scope. What features, workflows, channels, and scenarios are you covering?
+
+[02:58] Second, test data. Are you using representative prompts, real business cases, and realistic contextual inputs? Third, test roles. Who's executing tests, who's validating the behavioral outputs, and who's documenting findings? And fourth, success criteria. What are your measurable thresholds for accuracy, speed, safety, and usability? The best practice is to define all four before testing begins.
+
+[03:26] A vague test plan produces vague results, and vague results don't protect your enterprise. Testing AI agents isn't one size fits all. You can test manually or through automation, and typically you'll need both. Multiple types of testing apply to AI agents, and each one catches different kinds of issues. Over the next few slides, we'll explore scenario-based testing, performance testing, safety testing, and usability testing.
+
+[03:54] The best practice is to layer these testing types together. No single test type catches everything. Think of it like a security system. You need multiple layers of defense to be truly protected. Scenario-based testing is where you bring real-world context into your test environment. Use actual business workflows that reflect how employees will interact with the agents. Don't just test happy paths.
+
+[04:20] Include ambiguous, incomplete, and varied user inputs. Validate multi-turn reasoning, which means checking whether the agent remembers context and handles follow-ups correctly. And critically, ensure the agent's output matches expected outcomes for each scenario. As a best practice, involve actual business users in designing these scenarios. They know the edge cases that engineers miss, and those edge cases are exactly where agents tend to fail.
+
+[04:52] Performance and reliability testing is about stress testing your agent under real-world conditions? How does it perform under high request volume? What happens during long, extended interactions? Can it handle complex multi-step tasks without losing track? And what about concurrent sessions when dozens or hundreds of users hit it simultaneously? The best practice is to simulate peak loads and worst-case scenarios.
+
+[05:22] Test the boundaries so you know exactly what they are. Safety and compliance testing is non-negotiable for enterprise AI. You must confirm your agent respects every organizational constraint. Does it protect sensitive data? Does it enforce role-based access rules? Are policy triggers working correctly, things like restricted actions and data loss prevention rules? And critically, does it rejects disallowed instructions?
+
+[05:51] Make sure you test adversarially. Try to trick the agent into breaking the rules. If you can bypass a guardrail in testing, a real user or a bad actor will find it too. Usability testing brings the human perspective front and center. You can have an agent that's technically accurate but frustrating to use, and users will abandon it. Ask three key questions.
+
+[06:16] Are the answers concise, accurate, and understandable? Does the agent require excessive refinement, meaning users have to reprompt multiple times to get useful outputs? And do users understand how to prompt the agent effectively in the first place? Make sure you test with real users across different skill levels and backgrounds. What's intuitive to a power user may be baffling to someone new.
+
+[06:43] These are the core metrics every architect should track. Accuracy and relevance. What percentage of responses correctly address user intent and align with business processes? Response time. How fast and how consistently does the agent answer? Success rates. How often does it complete tasks without needing human intervention? Failure rates. How frequently do you see incorrect, incomplete, or unusable answers?
+
+[07:10] And token efficiency. For generative agents, are you getting quality output relative to cost, or is the agent being verbose and wasteful? Make sure you share threshold targets for each metric before the testing begins. Beyond the numbers, behavioral and quality metrics capture what quantitative data misses. User satisfaction. Are people rating the agent well?
+
+[07:36] Or are you seeing escalations and repeated attempts? Conversation quality. Is the agent coherent? Does it reason step-by-step, and can it handle follow-up questions naturally? And knowledge coverage. Does the agent have deep enough domain knowledge? Are the grounding sources complete? And where are the gaps? Pair these metrics and insights with your quantitative metrics. Numbers tell you what's happening, behavioral metrics tell you why.
+
+[08:04] You need both to truly understand agent performance. Observability and operational metrics keep your agent healthy in production. Stability measures: how many sessions complete without interruption and whether you're seeing error spikes or instability patterns. Load handling evaluates how the agent behaves under heavy usage and what your throughput capacity actually is.
+
+[08:31] Guardrail compliance tracks the counts of prevented actions and how often the agent approaches restricted content, even if it doesn't cross the line. Use this best practice. Build monitoring dashboards from Day 1, and don't wait for an incident to start tracking those metrics. Let me leave you with five key recommendations before we move on. First, create a unified testing blueprint that works across all your agent implementations.
+
+[09:00] Consistency is everything. Second, maintain a centralized log of test results so you can compare across releases and spot trends. Third, incorporate automation with repeatable scripts for standard interactions. Manual testing alone doesn't scale. Fourth, establish governance checkpoints before each deployment. No agent goes live without approval. And fifth, pair telemetry insights and qualitative feedback for continuous improvement.
+
+[09:30] These aren't optional best practices, they're your professional responsibilities. So, let's move on to our next topic: creating validation criteria for custom AI models. This is distinct from testing agents because custom models have their own unique challenges. Model validation is your quality assurance checkpoint. It answers fundamental questions.
+
+[09:56] Does the model generate correct, relevant, grounded outputs? Does performance remain stable under different workloads? Can it be trusted with sensitive or business-critical scenarios? And is its behavior aligned with established business intent? The key validation dimensions include performance metrics, quality and accuracy checks, safety and compliance alignments, cost and efficiency indicators, and user-centric metrics.
+
+[10:25] Approach validation as a multi-dimensional exercise, a model that's fast but inaccurate, or accurate but expensive, isn't truly validated. You need the full picture. Quantitative validation criteria give repeatable, measurable evaluation. Focus on six primary metrics. Accuracy rates. How often does the model produce correct outputs?
+
+[10:52] Latency and response time. Is it fast enough for mission-critical workflows? Throughput. Can it handle peak loads? Error rates: how frequently do you see invalid or incomplete responses? Token efficiency: what is the cost relative to output quality? And drift indicators: is output quality changing as data evolves? The best practice is to establish baselines for each metric during initial validation.
+
+[11:19] Then monitor for drift continuously. (inaudible) degrade over time, your criteria should catch that early. Qualitative validation captures what numbers alone can't. Think about relevance and completeness. Is the model providing the right level of detail without hallucinating? Consistency of reasoning.
+
+[11:44] Think about whether it follows logical steps that align with your enterprise workflows. Grounding integrity. Is the model drawing from approved organizational knowledge, or is it making things up? And user experience quality. Are the outputs clear, coherent, readable, and actually useful? Make sure you involve subject matter experts in qualitative reviews. They can spot subtle inaccuracies and reasoning flaws that automated metrics will miss entirely.
+
+[12:14] Human judgment is irreplaceable here. Safety and compliance validation is very important. No custom model should reach production without clearing this bar. Key criteria include role-based access, enforcement for restricted content, respect for data loss prevention policies, prevention of prohibited content generation, and maintaining full auditability and traceability.
+
+[12:41] Risk mitigation requires human-in-the-loop review for sensitive workflows, guardrail testing against disallowed instructions, and verified grounding exclusively in authorized knowledge sources. The best practice is to treat safety validation as a hard gate, not a soft guideline. There is no acceptable risk level for compliance failures. Operation validation ensures your model actually works in the real world, not just in a test environment.
+
+[13:12] Four areas matter here. Scalability. Does behavior remain stable under varying compute and workload patterns? Resilience. Can it recover from errors, timeouts, or dependency interruptions? Integration reliability. Does it work consistently with your APIs, connectors, and orchestration components? And monitoring support. Does it produce adequate telemetry for observability and triage?
+
+[13:39] Use this best practice. Test operational criteria in environments that mirror production as closely as possible. This workflow is your validation playbook. It starts with defining objectives, then sending metrics, creating test scenarios, running evaluation, analyzing results, tuning the model, and finally revalidating and approving. Four recommended practices make this workflow effective.
+
+[14:07] Use multiple data sets, including edge cases. Test multi-turn reasoning patterns, not just single calls. Document expected outcomes for every test scenario and compare against baseline models to quantify your gains. The best practice is to make this workflow mandatory and documented. This validation matrix is your quick reference checklist. Pause if you need to and take a look.
+
+[14:35] These numbers give you a starting point. Your organization's requirements should sharpen them. Next up, we will discuss how to validate effective Copilot prompt best practices. This might surprise you because it's not about building AI models, it's about the instructions we give them. Effective prompts share four core components, and each one needs validation.
+
+[15:01] First, the goal. What outcome or transformation should the prompt produce? Second, context. What background information, data sources, or rule framing does the model need? Third, instructions. What format, tone, structure, and constraints apply? And fourth, examples. But only when they add clarity, not clutter.
+
+[15:26] Validation asks whether a prompt is clear and unambiguous, contextual and grounded, structured for predictable output, safe and aligned with organizational guardrails, and suitable for repeated use at scale. Agentic AI architects validate prompts not as one-off instructions, but as repeatable system components in enterprise workflows.
+
+[15:52] The prompt validation lifecycle is your enterprise-grade approach to prompt management. It flows through eight steps: define the goal, add context, apply structure, run the prompt, evaluate the output, refine and retest, approve for use, and finally document. At each step you're validating something specific. Outcome expectations, clarity and specificity, grounding to relevant sources, constraints like tone and format, safety compliance, and multi-scenario consistency.
+
+[16:25] As a best practice, never approve a prompt after a single test run. Test across multiple phrasings, user types, and business context. How do you know if a prompt actually works well? Use these measurable quality metrics. Accuracy measures output correctness and alignment with user intent. Consistency checks whether quality holds across repeated runs.
+
+[16:50] Relevance ensures information stays focused on the intended task. Format compliance confirms the output follows your required structure. And tone alignment verifies it matches organizational or audience standards. On the behavioral side, track whether user reprompts decrease, clarifications requests drop, and hallucinations become less frequent. The best practice is to create a prompt scorecard using these metrics and evaluate systematically before approving any prompt for enterprise use.
+
+[17:27] Let me give you a practical formula for enterprise-ready prompts. Start with goal, then context, then constraints, always in that order. Use strong action verbs like summarize, analyze, rewrite, evaluate. Structure your instructions with bulleted lists, numbered steps, and expected formats. Avoid verbosity and multitask prompts that confuse the model.
+
+[17:54] And add explicit exclusions when clarity requires them. Tell the model what not to include. As a best practice, build a library of validated prompt patterns your team can reuse. Don't let every user reinvent the wheel. Two validation methods stand out for prompt testing. A-B prompt testing compares two prompt variations side by side on accuracy, clarity, relevance, and follow-up requirements.
+
+[18:23] This helps you identify which phrasing produces better results. Scenario-based testing evaluates prompts across multiple user types, business context, and task complexities, because a prompt that works for a senior architect may not work for new analysts. Use a structured evaluation checklist covering clear goal definition and adequate context.
+
+[18:50] Refinement is where good prompts become great prompts. Here are a few techniques to apply. Break long prompts into modular instructions. Smaller focused components are easier to test and maintain. Add any missing constraints you discovered during testing. Remove extraneous detail that creates noise and confuses the model. Ask Copilot itself to propose improvements. A simple question like "how can this prompt be clearer or more effective" can yield surprising insights, and validate with cross-functional teams before the final approval.
+
+[19:27] Now we're stepping up to one of the most complex challenges: designing end-to-end test scenarios for AI solutions that span multiple Dynamics 365 apps. In a multi-app Dynamics 365 environment, AI solutions interact with cross-up business processes like Order to Cash and Case to Resolution. This creates unique testing challenges.
+
+[19:53] AI decisions depend on data flowing across multiple apps. Workflow orchestration can break when even one app changes. Data may be duplicated, synchronized, or transformed between systems, and AI output quality relies on consistent, trusted, and well-timed input data. Map every data dependency across your app ecosystem before you design a single test case.
+
+[20:20] If you don't know where your data flows, you can't test whether it flows correctly. Designing an end-to-end test scenario starts with defining the complete business process your AI solution supports. Break it into components: the trigger event that kicks things off, the sequence of Dynamics 365 app interactions along the way, the expected outcomes at each stage, and the feedback signals or AI actions that occur throughout.
+
+[20:49] Write your test scenarios as user stories that follow the business process from start to finish. Don't think in technical terms first, think in business terms. What does the process look like from the perspective of the employee or customer who depends on it? Integration points are where things break and where your testing focus should be sharpest. Key components to test include data synchronization across entities like accounts, orders, cases, and journals.
+
+[21:19] AI predictions or insights that depend on multi-app data. Automations built with Power Automate, custom plugins, or event-based triggers, connectors to external systems like ERPs, CRMs, and data lakes, and security roles, privileges, and data boundary enforcement. Create an integration test matrix that maps every connection point between apps. When one system changes, your matrix tells you exactly which tests need to be rerun.
+
+[21:51] Building end-to-end test steps requires a structured approach. Every test scenario should include preconditions, your data setup, and environment readiness. Then, step-by-step execution that follows the business workflow, the AI action or prediction that gets triggered along the way. Cross app data movement to verify nothing gets lost or corrupted. Post-condition validation to confirm expected outcomes.
+
+[22:19] An exception path and negative tests to see how the system handles failures. Negative testing is just as important as positive testing. Knowing what happens when things go wrong is critical for enterprise resilience. Always include failure scenarios. Let's walk through a concrete example. Start by preloading customer product and financial data in Dynamics 365.
+
+[22:46] The trigger event is creating a lead in sales. AI identifies opportunity signals and surfaces an insight. The sales workflow creates a Sales Order, which automatically syncs to Finance. AI then validates credit risk based on Finance data. The order proceeds to fulfillment in Supply Chain, where AI monitors delivery exceptions.
+
+[23:12] Finally, the approval workflow executes and you validate outputs across all apps. Here, notice how this scenario tests AI decisions at multiple points. Your end-to-end tests should validate AI actions wherever they occur, not just at the final output. Validation criteria for end-to-end testing fall into three categories.
+
+[23:38] Functional validation confirms that AI actions triggered correctly. Data was sourced from the right Dynamics 365 app, and sequential workflows executed without breaks. Non-functional validation covers latency across the full workflow, error handling and recovery between apps, and consistency of AI recommendations. Outcome validation assesses relevance of AI insights, scoring accuracy, summarization quality, and overall task completion improvements.
+
+[24:09] The best practice is to define a pass-fail criteria for every validation category before you run the test. Ambiguous criteria produce ambiguous results, and ambiguous results don't give you confidence to deploy. This map visualizes the end-to-end testing flow. It shows how data moves from Dynamics 365 App A through AI orchestration, whether that's Copilot or Copilot Studio, then to Dynamics 365 App B through workflow automation, and finally to validation outputs.
+
+[24:46] Let's review the best practices for end-to-end test design, so make sure you pay attention. Test realistic high-value business processes, not toy examples. Validate AI using multiple phrasing variations so you catch inconsistencies. Include both structured and unstructured data scenarios. Test under normal load and stress conditions. Incorporate exception paths and regulatory constraints.
+
+[25:13] Document all test cases in repeatable templates and design for consistency and repeatability above all else. Think if a test can't be repeated with the same results, it's not a valid test. Repeatability is the foundation of trustworthy testing. Our final section focuses on building the strategy for creating test cases using Copilot. This is about working smarter, not harder.
+
+[25:41] Copilot is a powerful accelerator for test case creation, but it's not magic. It needs strategic direction from you. It can translate requirements or code into structured, testable scenarios, identify edge cases that humans might overlook, propose test data variations, and help maintain consistency as systems evolve. We must design the strategy around Copilot, not just use it reactively.
+
+[26:08] That means defining the prompts, validation criteria, governance requirements, and quality thresholds for every test case Copilot generates. The best practice? Copilot drafts; you validate. Never deploy a Copilot-generated test without human review. Before you ask Copilot to generate a single test case, get crystal clear on your objectives.
+
+[26:33] Clarify what test categories matter: unit tests, integration tests, regression tests, scenario-based tests. Identify the business rules and constraints that must be validated, then determine the risks that testing needs to mitigate, and consider any compliance or audit requirements that apply. When your objectives are clear, Copilot can generate aligned test scenarios. When they're vague, you get vague test cases that miss critical paths.
+
+[27:02] Make sure you write your testing objectives as a brief that you include in every Copilot prompt. Copilot performs best when it follows consistent patterns, and that's where your test case blueprint comes in. Define a standard template that includes a test ID, purpose and description, preconditions, inputs and parameters, execution steps, expected results, edge case variations, and dependencies on external systems.
+
+[27:32] When you provide this template in your prompts, Copilot outputs predictable high-quality test cases every time. Without it, you get inconsistent formats that are hard to review and impossible to maintain. Use this best practice: version-control your blueprint, and update it as your testing needs evolve. Creating effective prompts for Copilot test generation follows a clear pattern.
+
+[28:00] Start with the goal. Tell Copilot exactly what you want, like "generate 10 unit tests validating the logic for this workflow." Add context, provide business rules, code snippets, or system behavior descriptions. Specify constraints, define the format, coverage, depth, and required granularity. And set quality expectations. For example, include at least two negative tests per scenario.
+
+[28:26] Learn how to standardize your prompt patterns across the team. When everyone uses the same structure, the quality of generated test cases becomes predictable and reviewable. This strategy map shows the complete flow from business requirements to your final test case library. It starts with business requirements, flows into the architect's prompt plan, which includes goal, context, constraints, and a blueprint template.
+
+[28:53] Then to Copilot's test case drafts, through the architect's validation pass covering completeness, accuracy, edge cases, and compliance, and finally into the approved test case library. Notice that the architect is the quality gate, not Copilot. Your validation pass is what transforms Copilot's drafts into enterprise-grade test cases.
+
+[29:18] Never skip this step, no matter how good the initial output looks. Validating Copilot-generated test cases is your quality checkpoint and it covers four dimensions. Completeness. Are all acceptance criteria covered? Key workflows represented? And boundary conditions included? Accuracy. Does the logic match business rules and are preconditions and dependencies valid?
+
+[29:46] Clarity. Are steps actionable and unambiguous with measurable expected outcomes? And finally, maintainability. Are test cases reusable across versions with consistent naming conventions? Make sure you create a validation checklist based on these four dimensions and use it for every batch of Copilot-generated test cases. Systematic review catches issues that casual review misses.
+
+[30:13] To make Copilot-driven testing truly scalable, you need four capabilities. A reusable prompt library for different testing scenarios. Don't recreate prompts from scratch each time. Version control for prompts and test templates, so you can track changes and rollback if needed. Integration of Copilot output into your CI/CD workflows makes test generation part of your automated pipeline.
+
+[30:40] And regression triggers that request Copilot to generate updated tests when requirements change. Here's a good practice to follow: build toward automation incrementally. Start with a prompt library, add version control, then integrate into CI/CD. Each step compounds the value of the previous one. So let's review. In this video, you've learned how to design structured testing processes for AI agents, custom models, and multi-application scenarios.
+
+[31:13] You've defined measurable validation criteria for performance, safety, and compliance. You've explored scalable testing strategies using Copilot for consistency and coverage. And you've gained the tools to ensure AI solutions stay aligned with enterprise goals and remain trustworthy throughout their life cycle. Remember, testing isn't the final step before deployment, it is the ongoing discipline that makes AI trustworthy.
+
+[31:40] We've covered a lot in this session. There are many ways to continue your learning journey. Keep the momentum going by exploring the rest of the videos in this course or discovering your next favorite topic on Microsoft Learn at aka.ms/learn. Thank you for watching and don't forget, keep exploring, keep building, and keep transforming productivity with AI.

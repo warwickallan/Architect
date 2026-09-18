@@ -1,0 +1,36 @@
+# Pass the Microsoft AB-100 Exam: Complete Prep Course (Ep 1.1)
+# Coding With Chuck — AB-100 — video 01
+# https://www.youtube.com/watch?v=lAyVrHEA6Bg
+# captions: en (auto-generated)
+
+[00:00] Welcome to the Agentic AI business solutions exam prep course. I'm Chuck McCulla and I am so excited to have you here. Over the next several weeks, we're going to deep dive into one of the most transformative areas in enterprise AI atentic systems. Whether you're an architect, a business leader, or a technical professional looking to advance your career, this course will prepare you not just to pass the AB 100 exam, but to actually understand and build agents AI solutions that drive real business value. By the end of this course, you'll be able to design, deploy, and manage intelligent agents that automate complex business
+
+[00:52] processes. Let's get started. This course is structured around one central goal, getting you certified on the AB 100 exam. But we're not just teaching you test taking strategies. We're building a comprehensive understanding of a Gentic AI from the ground up. Here's what's inside. First, foundational knowledge.
+
+[01:19] You'll understand what a Gentic AI actually is. Not just the hype, but the real mechanics. What makes an agent different from traditional automation? How does it think, learn, and act? will demystify that architecture and show you how these systems work in practice.
+
+[01:44] Second, practical skills. You'll learn to design agentic workflows. Understand orchestration patterns and navigate the Microsoft ecosystem for building these solutions. These aren't theoretical. They're the same patterns used in enterprise environments right now. Third, exam alignment.
+
+[02:11] Every lecture is mapped to the AB 100 exam blueprint. You'll know exactly what you need to know, and we'll highlight the concepts that show up most frequently in the exam questions. And finally, confidence. By the time you finish, you won't just be memorizing answers. You'll understand what's behind each decision point.
+
+[02:41] This course is designed for business and technical architects that need to understand Agentic AI design, project managers and product leaders responsible for Agentic AI initiatives and technical professionals transitioning into AI focused roles and anyone preparing for the AB 100 exam and wanting to understand the material deeply. You don't need to be a machine learning expert or have deep Python experience.
+
+[03:15] We assume you have some basic knowledge of cloud concepts and business process and that's enough to get started. Now the AB 100 requires an active associate level Microsoft AI certification as a prerequisite. So you need to grab that before you take the AB 100 exam. We've organized this course into eight sections, each building on the previous one. So, section one, where we are right now, the welcome orientation, where we are right now.
+
+[03:49] Section two, Microsoft AI platform and ecosystem foundations, the tools you'll use along with some demos. Section three, plan AI powered business solutions, requirements and strategy. Section four, design AI powered business solutions. Architectural patterns. Section five, deploy, govern, and secure your AI solutions, enterprisegrade practices. Section six is our real world scenarios and case studies where we will apply those skills. Section seven is exam prep and practice. Those mock tests. And finally, section eight, capstone and wrap-up, end to end design
+
+[04:43] career paths. Each section has lectures, and each section ends with a quiz. The quizzes aren't just for testing. They're designed to reinforce the key concepts that you'll see on the AB 100 exam. Now, here's my recommendation for getting the most out of this course. Watch actively. Don't just play these videos in the background. Take notes on concepts, especially if they surprise you or you feel unfamiliar, and just pause when you need to.
+
+[05:18] Do the quizzes seriously. These aren't past fail gatekeepers. They're diagnostics. If you miss a question, rewatch that section again. The quiz is telling you what you need to focus on. Engage with scenarios. When we present real world examples, think of how they apply to your work context. That's where the learning sticks.
+
+[05:46] Also, budget your time. This course is comprehensive, but it's paced for busy professionals. Plan for about 45 to 60 minutes per lecture, plus some time for quizzes. Most people will complete this in about a month. Before we go deeper, let me clarify something important. Aentic AI is not just another automation tool. Traditional business automation is usually rule-based and linear. You define a process like if X happens then do Y. It's predictable but it's brittle.
+
+[06:24] When something unexpected happens, the process breaks or even needs human intervention. Agentic AI is goaloriented and adaptive. You tell an agent, here's your goal. Here are your tools. Go figure it out. The agent perceives its environment, reasons through the options, takes actions, and adjusts based on feedback.
+
+[06:53] It can handle ambiguity and novel situations within the guard rails that you define. If you want a visual here, think of a linear flowchart versus a feedback loop that re-evaluates as new information arrives. This is why agentic systems are transformative. They can handle complex unstructured business problems. Things that traditionally required human judgment, [snorts] customer support escalation, contract negotiation, supply chain optimization, strategic planning. These are the domains where agents are creating value today. But, and this is critical, this power comes with responsibility. We'll talk extensively
+
+[07:43] about safety, governance, and risk. You can't just deploy an agent and hope for the best. The AB 100 exam has three main domains. One, plan AI powered business solutions. That's about 25 to 30%. Design AI powered business solutions. That's about 25 to 30% as well and deploy AI powered business solutions.
+
+[08:12] That's 40 to 45% that includes governance evaluation and security. So it's a much bigger section. The exam is not testing deep machine learning knowledge or even coding ability. It's testing whether you understand how to plan, design, and deploy agentic systems in a business context. That's what we're training for. So, here's the deal. Over the next few hours of content, we're going to build a real understanding. You're going to walk away from this course not just ready for the exam, but ready to actually work on a Gentic AI projects. You'll understand the tradeoffs, the risks, the opportunities. That's real value.
+
+[09:00] The exam is just a certificate that says you have the knowledge. So let's jump in. In the next lecture, we're going to answer the fundamental question, what is Agentic AI really? We'll define the terms, look at what's happening in the industry, and set the foundation for everything that comes next. So I'll see you in the next lecture.

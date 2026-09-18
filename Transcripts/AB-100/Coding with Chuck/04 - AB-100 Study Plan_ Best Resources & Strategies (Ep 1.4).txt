@@ -1,0 +1,20 @@
+# AB-100 Study Plan: Best Resources & Strategies (Ep 1.4)
+# Coding With Chuck — AB-100 — video 04
+# https://www.youtube.com/watch?v=eCn6YvROHqY
+# captions: en (auto-generated)
+
+[00:00] Welcome to section one lecture 4. You understand what AI is and you understand how the AB 100 exam is structured. In this lecture, we'll build a practical study road map so that you can prepare efficiently. I'll show you how the course aligns to the exam waitings, how to pace your time, and which study habits make scenario questions easier. The goal here is simple. Make your study plan focused and effective. Now let's start with the big picture. The course is organized in eight sections. Section one is orientation, core definitions and the exam format.
+
+[00:40] The section two covers the Microsoft AI platform and ecosystem foundations along with some demonstrations. Section three focuses on planning. Section four is design, architecture and integrations. Section five is deployment, governance, and security. That's the biggest section. Section six brings in scenarios and case studies.
+
+[01:05] Section seven is your exam prep and practice exams. And section 8 is our wrap-up, capstone, and final review. Uh this slide gives you the priority order with with one glance. Start with deploy, govern, and secure. And then move to plan and design. Finally, round out your prep with platform fundamentals and scenario practice. That order mirrors how the exam is actually scored. Now, let's translate waitings into a simple time plan. Aim for roughly 40% of your study time on deploy, govern, and secure. plan and design together will get about 45% and the remaining 15% should go to platform fundamentals and scenario practice.
+
+[01:56] The point isn't perfection. The point is alignment. Your study time should mirror the exam weight, not your curiosity. If you're curious about something, go check it out, but it's not going to help you on the exam necessarily. Next, the habits that actually move the needle. First, active recall. Don't just read or listen. Explain the concept in your own words. Second, the scenario mindset.
+
+[02:22] Always identify the goal, the constraints, and the decision. Third, trade-off thinking. Most correct answers are a balance, a compromise, balancing capability with safety. And fourth, review wrong answers to understand the reasoning, not just the score. These habits compound. If you build them early, scenario questions get easier later. Here's a repeatable strategy for scenario questions. Step one, identify the goal. What is the business actually trying to achieve?
+
+[03:04] Two, note the constraints, risk, compliance, data access, timelines, things like that. Step three, choose the safest viable option that still delivers value that accomplishes the goal. Correct answers usually balance value and safety, not the extremes. Now, key takeaways. Now, let's lock in those essentials.
+
+[03:32] One, the road map mirrors the exam waitings. Deploy, govern, and secure is the heaviest. Allocate your study time by exam weight, not curiosity. Scenario questions, reward, tradeoff, thinking, and business alignment. Now you're ready for the section one quiz. It reinforces core definitions and exam format knowledge. It builds confidence before we move on to section two. After the quiz, we move on to Microsoft AI platform and ecosystem foundations.
+
+[04:08] [music] So, spend some time with the quiz and I'll see you in section two.

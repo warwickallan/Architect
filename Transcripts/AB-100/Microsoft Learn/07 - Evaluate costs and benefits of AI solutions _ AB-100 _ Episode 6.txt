@@ -1,0 +1,196 @@
+# Evaluate costs and benefits of AI solutions | AB-100 | Episode 6
+# Microsoft Learn — AB-100 — video 07
+# https://www.youtube.com/watch?v=qFBj_83epp4
+# captions: en
+
+[00:00] [ Music ] GEORGIA KALYVA: How do you prove an AI solution is worth the investment before committing budget, resources, and long-term support? Hi and welcome. I'm Georgia, Lead Technical Trainer at Microsoft, and in this session we'll see practical tools you need to justify AI investments, earn stakeholder trust, and ensure your solutions deliver real measurable value.
+
+[00:30] Let's get started. By the end of this video, you will be able to define ROI criteria, evaluate the total cost of ownership, build a solid ROI analysis, decide whether to build or buy or extend AI components, and implement model routing strategies. These are not just theoretical concepts. Whether you are new to AI or a seasoned architect, this module gives you a structured framework to make smarter AI decisions.
+
+[01:03] Let's start with selecting the right ROI or return on investment criteria for AI-powered business solutions, including total cost of ownership. Whether you are working with Copilot Studio agents, Microsoft 365 Copilot extensions, or custom AI workflows, every solution needs a rigorous ROI evaluation. As an agentic AI architect, your job is to capture not just financial impact, but also productivity gains, risk reduction, and the full lifecycle cost.
+
+[01:36] Here is a reality check: AI adoption often does not happen, and it is usually not because the technology does not work. It fails when organizations overestimate productivity gains, underestimate ongoing maintenance costs, lack clear measurement frameworks, or simply cannot articulate business value to leadership. Sounds familiar? That is why defining ROI criteria up front is so important.
+
+[02:04] Your ROI approach must be measurable, repeatable, aligned to business outcomes, and grounded in real usage analytics. As an agentic AI architect, your best practice is to set realistic expectations from Day 1 and tie every AI initiative to concrete, trackable metrics. This protects both the project and your credibility. Let's talk about productivity gains, the first of five core ROI categories.
+
+[02:34] This is often the most visible benefit of AI. Think about time saved per task, reduction in manual data entry, faster case resolution, and automated summarization or classification. These are the kinds of improvements that people notice right away. The key best practice here is to use built-in analytics to track time saved, per session, task automation rates, and user adoption metrics to not just estimate -- measure.
+
+[03:04] As an agentic AI architect, always ground your productivity claims in real telemetry data. Assumptions are the enemy of credibility when you are presenting to leadership. Make every number defensible. Next come cost savings. This is where AI starts speaking the language of finance. We are talking about reduced labor hours, lower operational overhead, decreased support ticket volume, and reduced manual review or compliance workload.
+
+[03:38] Built-in ROI dashboards can estimate cost savings per automated task per user and aggregate savings over time. Here is the best practice: Always calculate cost savings alongside productivity gains, not instead of them. They reinforce each other. As an AI architect, think of cost savings as your bridge to the CFO.
+
+[04:03] When you control dollars saved per task multiplied by thousands of tasks, this is when budgets get approved. Revenue impact is the third ROI category, and honestly, it is the one that gets executives most excited. We are talking about increased sales conversion, faster lead qualification, improved customer retention, and upsell or cross-sell recommendations powered by AI.
+
+[04:34] This category can be harder to measure directly, but it is incredibly powerful. The best practice is to connect your AI solution to specific revenue-generating outcomes, not just efficiency. As an agentic AI architect, always ask how does this solution help the organization make more money, not just save money? That dual lens of cost reduction plus revenue growth makes your business case nearly unbeatable.
+
+[05:05] Risk reduction is our fourth ROI category, and it is one that often gets overlooked: fewer compliance violations, reduced error rates, improved data consistency, and lower operational risk. These might not grab headlines, but they can save organizations millions in fines, rework, and reputational damage. Risk reduction is a first-class ROI driver, not an afterthought.
+
+[05:32] As an AI architect, build risk metrics into every evaluation from the start. Think about what happens when things go wrong without AI. The cost of errors, compliance breaches, and inconsistent data adds up fast. Quantifying risk avoided is just as important as quantifying time saved. The fifth and final ROI category is strategic and innovation value.
+
+[06:01] This one is about the bigger picture: new business models, enhanced customer experience, and competitive differentiation. These benefits are harder to put a dollar figure on, but they are often the most transformative. Think beyond immediate returns. As an agentic AI architect, your best practice is to frame strategic value as optionality. AI does not just solve today's problems.
+
+[06:26] It opens doors to capabilities your organization could not have before. When you present ROI, include this forward-looking dimension. It helps stakeholders see AI as a long-term investment, not just a cost center. Now we shift to total cost of ownership, and this is where many AI projects get into trouble.
+
+[06:52] TCO answers a fundamentally different question than ROI. ROI asks what you get back. TCO asks what you spend across the entire AI life cycle. Development costs are your starting point: data preparation, prompt engineering, agent design and testing, and integration with business systems. Here is the critical best practice: Never treat the initial build cost as the total investment.
+
+[07:21] Studies show organizations routinely underestimate AI project costs by more than 10%, and many miss by over 25%. As an AI architect, your job is to surface the true cost picture from Day 1. Deployment costs are the second TCO category, and they are often where hidden expenses start piling up. Infrastructure provisioning, licensing, security, and compliance setup, and API usage costs -- these can scale unexpectedly, especially with usage-based pricing models.
+
+[07:58] This is what catches many teams off guard. API costs that look manageable during a pilot can multiply dramatically at production scale. The best practice is to model your deployment costs at full scale, not just at pilot volume. As an agentic AI architect, always build headroom into your cost estimates for security, compliance, and infrastructure scaling. Better to overbudget and come in under than to face a surprise overrun.
+
+[08:30] Operational costs are the third TCO category, and they are the ones that keep running long after launch: monitoring and evaluation, model retraining, prompt library maintenance, support and troubleshooting, and user training, and adoption programs. AI is not a set-it-and-forget-it technology. Models drift. Prompts need updating. Users need ongoing training.
+
+[08:55] Your best practice is to budget 20-30% of your initial development cost annually for ongoing operations. Factor in continuous improvement cycles from the start. The organizations that succeed with AI are the ones that plan for the long run, not just launch. Change management costs are the fourth TCO category, and this is the one most frequently skipped in AI business cases.
+
+[09:23] Scaling and enablement, communication and rollout, business process redesign -- getting the technology right is only half the battle. Getting people to actually adopt and use it effectively is the other half. Change management is not optional; it's essential. As an agentic AI architect, budget real time and money for training, internal communications, and process redesign. The best AI solution in the world delivers zero value if nobody uses it.
+
+[09:53] Make adoption a first-class line item in every TCO model you built. Decommissioning costs round out our TCO picture, retiring outdated models and migrating to new architectures. This might seem premature to think about before you have even launched, but it is a hallmark of mature AI planning. AI technology evolves fast.
+
+[10:20] The model you deploy today may need to be replaced in 18 to 24 months. Your best practice is to design for portability from the start. Avoid deep vendor lock-in where possible, document your architecture thoroughly, and plan migration paths early. The total in TCO means total from the beginning to end. That is what makes your cost model credible.
+
+[10:50] Now let's talk about how built-in ROI analytics can power your evaluation. There are four key metric categories in Copilot Studio: usage metrics like total sessions, active users, and session duration; automation metrics, including completion rates, abandonment rates, and task success rates; cost savings metrics covering estimated time saved and cost savings per task; and quality metrics such as feedback scores, error rates, and escalation frequency.
+
+[11:22] The best practice here is to let the data to the talking. Make sure you connect these analytics directly to your ROI model. Real telemetry beats estimates every time. When you walk into an executive review with actual usage data and measured savings, your credibility goes through the roof. Here's your six-step ROI evaluation framework, and this is the methodology that ties everything together.
+
+[11:51] Step 1: Define specific business outcomes, like reducing call handling time by 20%. Step 2: Identify your ROI drivers across productivity, cost, revenue, and risk. Step 3: Calculate your full TCO. Step 4: Quantify benefits using analytics and real KPIs. Step 5: Compare benefits versus TCO to calculate payback periods, net present value, and ROI percentage.
+
+[12:24] Step 6: Validate with stakeholders from finance, operations, and your AI center of excellence. Follow this framework, as it gives you a structured, defensible process that earns stakeholder trust and survives scrutiny. Let's move on into our next topic, where we'll build a complete ROI analysis for a proposed AI solution.
+
+[12:50] This is where theory meets practice. Step 1 is framing the ROI scope, and this is where discipline matters most. Keep your analysis crisp, measurable, and tied to a single process. Name it clearly, like Tier 1 HR case triage or invoice exception handling. Define your boundaries: What is in scope, what systems are involved, and what will not change?
+
+[13:19] Establish a baseline period, typically a month or quarter, of steady-state operations. Capture baseline metrics like task volume, average handle time, error rates, and backlog. Here's a critical best practice: Always establish a no-AI baseline first. Every benefit you claim will be compared back to this baseline. Without it, your ROI analysis has no anchor.
+
+[13:49] Then we map AI value to measurable levers, and most process gains fall into three buckets: First, time saved per transaction, which is cycle time compression; second, quality lift, meaning error reduction, better first contact resolution, and fewer escalations; third, capacity and throughput, which means more work per person without adding headcount.
+
+[14:15] The key is to support each lever with observations you can actually measure. For example, which step does the agent automate? Which decision does it accelerate? Which draft does it prepare? Your best practice is to be specific about what the AI does at each step. Vague claims like it makes things faster will not survive stakeholder scrutiny.
+
+[14:42] Here's where the savings calculator becomes your best friend. You can configure savings per run for quick estimates when the run path is predictable or savings per tool for more granular estimates when an agent uses multiple tools with different impacts. Admins can disable money-based savings, but you can still track time and convert to currency in your ROI workbook. The best practice is to keep your savings model current by updating it on the agent analytics page as real data comes in.
+
+[15:15] Start with estimates, but replace them with actual telemetry as quickly as possible. The faster you move from projections to measured results, the stronger your business case becomes. Let us walk through the actual inputs you need for the savings calculator: time saved per run in minutes, successful runs in the period, and a fully loaded labor rate. Optionally, you can add tool-specific time or cost deltas for granular tracking.
+
+[15:45] Look at this example: six minutes saved per run, 20,000 successful runs per month at $60 per hour. That is $120,000 in monthly savings. The math is straightforward, but the impact is very big. Your best practice is to use conservative estimates, initially. It is far better to exceed expectations than to overpromise.
+
+[16:12] Then let the real numbers speak for themselves as they accumulate. Converting time savings into financial benefits requires a clear formula: annual benefits equals minutes saved per run divided by 60 times runs per year times labor rate plus error cost avoided plus any backlog or working capital effects.
+
+[16:42] Early field studies on Copilot-style tools show measurable time reductions in common knowledge work. Use these as directional anchors when setting your optimistic, expected, and conservative ranges. But here's the crucial best practice: Always validate external benchmarks against your own baseline. Every organization is different. You can use industry data to set the range, but let your own telemetry determine where you land within that range.
+
+[17:13] This is how you build a trustworthy model. This decision flow diagram ties our entire ROI and TCO methodology together. It starts with a business goal, then flows through picking the process, establishing your baseline, mapping AI levers, configuring savings per run or per tool, quantifying benefits, modeling TCO, calculating ROI and payback, applying sensitivity bands, piloting, and finally scaling.
+
+[17:45] Notice that it is not linear; it is iterative. Make sure you treat this as a learning process. You will loop back and refine your numbers as real data comes in during the pilot. The organizations that succeed with AI are the ones that pilot small, measure rigorously, and scale with confidence. Follow this flow. Now let's build a transparent TCL view across five cost drivers, starting with infrastructure.
+
+[18:16] This includes compute for inference, whether CPU or GPU storage, network and egress fees, and resiliency or high availability requirements. Many organizations underestimate infrastructure costs because they plan for average load, not peak load. As a best practice model, your infrastructure costs at production scale with burst capacity factor in. Also consider whether cloud, on-premises, or hybrid infrastructure best fits your security and compliance requirements.
+
+[18:51] The infrastructure decision is not just about costs; it's about reliability, latency, and governance. Get this foundation right, and everything else builds on solid ground. Development and integration is our second TCO cost driver. This covers agent design, orchestration flows, connectors and APIs, authentication, compliance engineering, and testing.
+
+[19:16] This is typically where scope creep lives. Integration with legacy systems routinely costs 25-35% more than initially projected. The best practice is to budget generously for integration complexity and build in contingency. Think of development not as a one-time cost but as the foundation for ongoing evolution. Design your architecture to be modular so that extending or replacing components later does not require a full rebuild.
+
+[19:47] This upfront investment in good architecture pays a lot over the entire solution life cycle. Data quality and preparation is the third cost driver, and frankly, it is the most underestimated -- cleansing, labeling, validation, grounding, indexing, refresh schedules, and drift monitoring. Data preparation alone can consume 60-80% of initial project timelines.
+
+[20:15] AI is only as good as the data it is built on. Your best practice is to invest heavily in data quality before you invest in model sophistication. Poor quality input leads to poor quality output. It is not a cliché. It's the number one reason AI projects do not deliver expected ROI. Build automated data quality pipelines and monitor for drift continuously. Your data infrastructure is your competitive advantage.
+
+[20:46] Expertise and staffing is the fourth cost driver. You will need architects, AI and machine learning engineers, MLOps specialists, subject matter experts, and people dedicated to change management and training. Here's what many organizations miss. Talent turnover is expensive and disruptive. Losing a key AI engineer midway through a project can set you back months.
+
+[21:12] Make sure you build cross-functional teams and document knowledge thoroughly. Your best practice is to plan for knowledge transfer and team resilience from the start. Do not let your AI initiative become dependent on any single person. Build a team culture where knowledge is shared and documented systematically. Operations and licensing round out our five TCO cost drivers.
+
+[21:40] This includes monitoring and telemetry, evaluation and retuning, incident response and consumption, or subscription fees. These are recurring costs that persist for as long as the solution is in production. The key insight is that operational costs are not static. They tend to grow as usage scales. Make sure you include operational cost projections that account for growth. Include scenarios for two times and five times current volume.
+
+[22:09] Also, negotiate licensing terms that give you flexibility to scale without punitive cost jumps. Predictable operational costs are the foundation of a sustainable AI investment. Now we'll bring it all together with the ROI payback and sensitivity view. Net benefit equals annual benefit minus the annual TCO.
+
+[22:34] ROI percentage equals net benefit divided by the annual TCO times 100. Payback in months equals initial one-time cost divided by net monthly benefits, but here is where it gets really powerful. Sensitivity analysis create optimistic expected and conservative cases by varying the adoption rate, minutes saved per run, labor rates, and quality effects.
+
+[23:03] Always present sensitivity bands to stakeholders. It shows you have thought through both the upside and the risk. Decision-makers trust analyzes that acknowledge uncertainty rather than presenting a single overly precise number. The executive one-slide summary is your opportunity to turn all this analysis into a clear decision. Include the problem and the scope, describing where the waste is today.
+
+[23:31] Describe the AI intervention and what the agent automates or augments. Show measured impact from analytics. Present the financials, annual benefit, TCO, ROI percentage, and payback. Include confidence and risks with sensitivity bands and key assumptions, and close with a clear decision, like pilot for eight weeks with specific success criteria. This one slide is the most important deliverable in your entire ROI process.
+
+[24:00] It needs to be crisp, compelling, and honest. Practice the art of executive communication. Less is more. Let's see all of this in action with a worked example. Customer email triage: 1.8 minutes saved for message for draft and categorization, 50,000 messages monthly, 60% adoption routed to the agents, labor rate of $45 per hour.
+
+[24:31] So let's see the annual savings: approximately $486,000. Year 1 TCO: $300,000. ROI: about 62%. And the payback? Roughly 7.4 months. This is a strong business case, but here's the best practice: Replace your initial assumptions with actual telemetry as it accumulates.
+
+[24:57] As an AI architect, the worked example gets you the pilot approval. The real data gets you the scale approval. The benefits waterfall gives you a visual way to tell your ROI story. Start with gross benefit, which is the sum of time savings, error avoidance, and throughput or capacity gains. Then subtract your total cost of ownership across all five categories: infrastructure, development, integration, data expertise, and operations.
+
+[25:30] What remains is your net benefit, expressed as an ROI percentage. This waterfall format is incredibly effective for executive presentations because it shows both the value you create and the investment required to create it. Use this visual in every business case. It makes complex financial analysis intuitive and accessible. Even for non-technical stakeholders, that clarity drives faster decisions.
+
+[26:01] Let's move on to analyzing whether to build, buy, or extend AI components. This is one of the most consequential decisions you'll make as a solution architect. It affects costs, time to value, risk, scalability, and long-term sustainability. Let's walk through the framework so you can make this call with confidence for each business process in your portfolio. Organizations accelerating AI adoption face three pathways, each with distinct strengths.
+
+[26:33] Build means creating AI components internally. This is best when you need deep customization, full control over data and IP, or your business processes are truly unique. Buy means acquiring pre-built AI capabilities. This shines when speed matters, internal AI maturity is low, or processes are standardized. Extends means customizing an existing platform.
+
+[27:00] This is the sweet spot for hybrid scenarios where you need both speed and customization. You need to learn how to recognize that the answer is often not one-size-fits-all. Different processes within the same organization may call for different approaches. Match the pathway to the process -- not the organizational preference. Using Microsoft AI agent cost structure is where the build, buy, or extend decision gets concrete.
+
+[27:29] You need to evaluate costs across five domains: infrastructure, development, data preparation, expertise, and operations. Each domain has different cost implications, depending on your chosen path. Infrastructure is expensive to build and maintain in-house, but comes bundled when you buy. Development requires significant engineering talent for build, but it is minimal for buy. Data preparation, interestingly, can be equally expensive whether you build or extend because your domain data still needs to be clean and well-structured.
+
+[28:02] Make sure you map out all five domains before committing. Honest cost modeling prevents budget overruns and credibility damage. This TCO comparison table is your quick reference for the build, buy, and extend decision. Notice the pattern: Build is high cost across almost every domain, but gives you maximum control. Buy is low-cost for most domains, but limits customization.
+
+[28:30] Extend sits in the middle, offering a balanced profile. Data preparation is interesting because it is high for both build and extend. That is because, regardless of your approach, your organization's data still needs to be cleaned, labeled, and maintained. As an agentic AI architect, use this table as a starting point, but customize it with actual cost estimates for your specific context. No two organizations have identical cost structures.
+
+[28:57] Make the generic framework specific to your reality. When should you build? Four clear signals. First, the AI solution defines your competitive advantage. If this is what differentiates you in the market, you want full control. Second, pre-built solutions do not meet your regulatory or compliance needs. Third, data sensitivity requires complete internal control.
+
+[29:27] Fourth, your organization has strong AI and machine learning engineering capability, but here is the honest truth: Building comes with significant risks, higher upfront costs, longer timelines, and the need for continuous maintenance investment. Only recommend build when the strategic value clearly outweighs these risks. Building for the safe control when buying would suffice is a common and expensive mistake.
+
+[29:56] So when should you buy? When efficiency and speed matter more than customization, when commercial capabilities adequately meet your business needs, when your organization's AI maturity is still developing, when you need robust vendor support and regular upgrades. Buying is not a sign of weakness. It is a strategic choice, but watch out for the risks: vendor lock-in, limited extensibility, and potential feature gaps for specialized processes.
+
+[30:26] Your best practice is to negotiate contracts that preserve data portability and exit options. Ask hard questions about API access and data export before signing. Smart buying means buying with your eyes open to the long-term applications. Extending is often the sweet spots, and here's why. Your organization wants an existing AI product to adopt your internal logic.
+
+[30:52] Domain knowledge can be added through grounding data, connectors, or plugins. The base model performs well, but needs enterprise-specific adaptation. Think about adding line-of-business-specific runs, incorporating internal documents, extending with custom actions, or supplementing with custom skills. Extending gives you balanced cost, faster deployment than building, and more customization flexibility than buying.
+
+[31:18] Make sure you explore the extend options thoroughly before defaulting to build. You might be surprised how much you can accomplish by extending what already exists. Here's your step-by-step decision framework, and this is the methodology that removes guesswork. Start by defining business requirements and processes. Determine strategic importance. Is this a differentiator or a commodity?
+
+[31:44] Assess available vendor solutions and the effort to implement them. Evaluate feasibility of extending existing tools versus building from scratch. Estimate TCO across all five cost domains. Forecast ROI, including time saved, cost avoided, error reduction, and throughput increases. Score each option on a weighted model. Select the approach that the optimal value-to-cost ratio has.
+
+[32:13] Follow every step. Skipping steps is how organizations end up with a wrong decision and expensive regret. And if that's not enough, the weighted scoring matrix makes your decision transparent and defensible. Look at these example scores. For strategic fit, build score is highest at 5. For time to value, buy wins at 5.
+
+[32:39] TCO favors buy at 4. Customization need goes to build at 5, and maintainability is a tie between buy and extend at 4 each. Notice that extend scores consistently well across all criteria, typically 4 or 5. This is why extend is often the best balanced choice. Customize these weights based on what matters most to your organization.
+
+[33:04] If time-to-value is critical, weight it more heavily. If strategic fit is paramount, weight that. The matrix makes trade-offs explicit and discussions more productive. So in this section, we'll talk about implementing a model router to intelligently route requests to the most suitable model. This is an advanced, but increasingly essential skill for AI architects.
+
+[33:34] The model router in Microsoft Foundry provides four key capabilities. First, a single unified endpoints, one endpoint for multiple models, which simplifies your application integration and reduces code complexity dramatically. You don't need separate integrations for each model. Second, intelligent routing that evaluates requests based on task type, model capabilities, cost constraints, latency requirements, and even custom rules.
+
+[34:05] This is not simple load balancing. It is smart traffic management for AI. Even if you're not a developer, you can appreciate what this means. You can swap or add models behind the scenes without changing your application code. That is architectural flexibility that future-proofs your AI investment. Intelligent routing is where the real magic happens.
+
+[34:30] The router evaluates each incoming request and matches it to the best model based on multiple criteria like task type, model capabilities, cost constraints, latency requirements, and custom rules you define. Think of it like a skilled air traffic controller directing each request to the right runway. Static model selection, where you pick one model for everything, is becoming obsolete.
+
+[34:56] Your best practice is to design for multimodal architectures from the start. The cost savings alone are compelling. Routing simple tasks to lightweight models while reserving expensive models for complex reasoning can dramatically reduce your inference costs. Dynamic model selection means you are not locked into a single model or vendor. The router supports Azure OpenAI models, fine-tuned models, custom models, multiple versions, and even third-party and open-source models.
+
+[35:29] This is a game changer for avoiding vendor lock-in. As the AI landscape evolves rapidly, what is best today may not be the best in six months. Model routing gives you the flexibility to adopt new models as they emerge without re-architecting your applications. This is one of the most important patterns to master. Build your systems to be model-agnostic behind the routing layer.
+
+[35:56] It gives you maximum flexibility and negotiating leverage. Centralized governance ties it all together. The model router provides versioning, monitoring, usage analytics, and safety and compliance controls -- all from a single management plane. This means you can track which models are being used, how they perform, what they cost, and whether they meet your compliance requirements.
+
+[36:22] Governance is not an optional thing for enterprise AI. As an AI architect, your best practice is to establish governance policies before you deploy your router, not after. Define who can add or remove models, set these cost thresholds and alerts, establish performance baselines, and ensure every model in your router meets your organization's responsible AI standards.
+
+[36:47] Governance enables scale with confidence. Why does model routing matter? To summarize, there are four reasons. First, cost optimization: Use small language models for simple tasks and large language models only when needed. This reduces token consumption significantly. Second, performance improvement: Route low-latency tasks to faster models and use specialized models for domain-specific work.
+
+[37:18] Third, reliability: Build in failover to backup models and automatic switching to newer versions. Fourth, support for hybrid AI strategies: Combine foundation, fine-tuned, and custom models; align with your build, buy, or extend strategy. Model routing is where your cost-benefit analysis meets operational reality. It is the mechanism that delivers the ROI you promised in your business case.
+
+[37:46] Let's dive into the routing criteria, starting with task type. Different tasks have fundamentally different model requirements. Summarization, classification, extraction, reasoning, and conversation each benefit from different model strengths. A classification task might work perfectly with a small efficient model, while complex multi-step reasoning needs a larger, more capable one. Your best practice is to catalog the task types in your workloads before designing routing rules.
+
+[38:16] Understanding your task distribution is essential. If 80% of your requests are simple classifications, you have a huge opportunity to route those to cost-effective models and save significantly. Complexity-based routing is your next criterion. The principle is elegantly simple: Simple tasks use small language models. Moderate complexity use fine-tuned models, and complex tasks use large language models.
+
+[38:47] This tiered approach ensures you are not paying premium prices for routine work. Think about it. Sending a straightforward yes or no classification to a frontier reasoning model is like hiring a brain surgeon to apply a band aid, expensive and unnecessary. Define clear complexity tiers for your workloads. Use token count, task type, and domain specificity as signals.
+
+[39:14] Then route accordingly. The single optimization can reduce your AI inference cost by 30-60%. Cost sensitivity as a routing criterion is all about matching your spend to the value of each request. High-volume tasks should be routed to cost-efficient, small language models. High-value tasks warrant the investment in large language models.
+
+[39:41] Not every request is equal, so why should they all cost the same? Think about this in terms of your ROI model. Remember those savings calculations from earlier? Model routing is how you actually deliver on those cost projections. Your best practice is to set cost budgets per task category and let the router enforce them. This gives you predictable, controllable AI spending. Finance teams love predictability.
+
+[40:09] Latency requirements add another dimension to your routing strategy. Real-time tasks that need instant responses should be routed to small, fast models. Batch processing tasks can tolerate longer processing times, and they can use larger, more accurate models. Think about user-facing chat responses versus overnight document analysis. They have completely different latency profiles.
+
+[40:36] Design your routing rules with these user experience in mind. As an agentic AI architect, map each use case to its latency requirements and route accordingly. A three-second response time is fine for a batch report, but unacceptable for a live customer interaction. Let latency needs drive the model selection. Domain specificity is a powerful routing criterion.
+
+[41:03] Industry-specific tasks should be routed to fine-tuned models that understand domain terminology, regulations, and context. General tasks can use foundation models just fine. A fine-tuned legal model will outperform a general purpose model on contract analysis, even if the general model is larger. In this case, bigger is not always better. More relevant is better. Your best practice is to invest in fine-tuning for your highest value domain-specific use cases and then route those tasks to your specialized models.
+
+[41:38] This combination of routing plus fine-tuning delivers the best accuracy-to-cost ratio for enterprise workloads. Safety and compliance is the final routing criterion, and for regulated industries it might be the most important one. Sensitive workflows need models with built-in moderation and domain-specific tuning. Think about healthcare data, financial transactions, or legal documents.
+
+[42:04] These cannot be processed by just any model. They need models that understand and enforce compliance boundaries. As an agentic AI architect, your best practice is to flag sensitive task categories in your routing configuration and ensure they only reach compliant models. Build safety into the routing layer itself, not as an afterthought. Compliance violations can undo all the ROI you worked so hard to demonstrate.
+
+[42:36] Designing routing rules is where architecture meets operations. Start by conducting routing rule design workshops with your team to identify and create rules tailored to your specific business tasks. These workshops bring together AI engineers, business stakeholders, and operations teams. Then adjust rules iteratively to reduce the cost while maintaining performance.
+
+[43:02] This is not a one-time configuration. It is an evolving practice. Start with simple, conservative rules and refine them based on real performance data. Do not try to optimize everything at once. Get your basic routing working, measure the results, and then iterate. Progressive refinement beats premature optimization every time. There are four routing rule types that give you the flexibility to handle any scenario.
+
+[43:28] Static rules provide direct mappings, like if the task is classification use a small language model. Weighted routing distributes traffic across models for A/B testing and gradual rollouts, which is perfect for evaluating new models safely. Fallback routing automatically redirects to a backup model if the primary fails, giving you built-in reliability. And version-based routing lets you manage model versions, routing to the latest stable version or directing some traffic to experimental versions.
+
+[44:01] Make sure you combine these rule types. Use static rules as your baseline, weighted routing for experimentation, fallback for resilience, and version routing for safe model upgrades. Here's your five-step implementation process. Step 1: Define your routing strategy, whether it is cost optimized, performance optimized, accuracy optimized, or a hybrid approach. Step 2: Register your models, including foundation, fine-tuned, and custom models.
+
+[44:31] Step 3: configure your routing rules using the rule types we just discussed. Step 4: Integrate the router with your applications, whether they are AI agents, Copilot extensions, backend services, or multi-agent systems. Step 5: Monitor and optimize by tracking latency, cost, accuracy, and model user distribution. Treat this as a continuous loop, not a one-time setup.
+
+[44:58] The best routing configurations evolve with your workload patterns in the AI model landscape. Let's review everything we have covered. You now have the tools to define ROI criteria and evaluate total cost of ownership for AI solutions. You can create a comprehensive ROI analysis for AI-powered business processes. You can analyze whether to build, buy, or extend AI components with a structured framework, and you can implement model routing strategies to optimize both performance and costs.
+
+[45:31] Remember, being a great agentic AI architect is not just about the technology. It is about making smart, evidence-based decisions that deliver measurable business value while managing risk responsibly. Take these frameworks back to your organization, apply them to real processes, and let the data guide your decisions. We've covered a lot in this session. There are many ways to continue your learning journey.
+
+[45:58] Keep the momentum going by exploring the rest of the videos in this course or by discovering your next favorite topic on Microsoft Learn at aka.ms/learn. Thank you for watching. You're now one step closer to architecting AI that drives true productivity.

@@ -1,0 +1,229 @@
+[00:00] [ Music ]
+
+[00:07] GEORGIA KALYVA: How do you build an AI strategy that scales without creating disconnected agents, duplicated efforts, or governance gaps? Hi, and welcome, I'm Georgia, Lead Technical Trainer of Microsoft. And in this video we'll cover the AI adoption process, how to design a strategy for building agents, when to use single-agent or multi-agent approaches, and how to decide between prebuilt, extended, and custom AI solutions.
+
+[00:33] Let's get started. By the end of this video, you'll be able to do two critical things: first, map the cloud adoption frameworks, AI adoption phases to the AI agent lifecycle, giving you a structured roadmap for bringing AI agents into your organization. Second, design an enterprise-ready operating model for AI agents, one that balances speed of delivery with governance and security.
+
+[01:01] These are not just theoretical skills. As an agentic AI architect, we need to connect business strategy to technical execution. Whether you are deploying a simple Software as a Service copilot or orchestrating a fleet of custom agents, the frameworks we cover here will help you make sound decisions. Let's dive into our first big topic, implementing the AI adoption process from the Cloud Adoption Framework for Azure.
+
+[01:29] This is where strategy meets structure. Think of the Cloud Adoption Framework as your GPS for cloud and AI adoption. It has seven stops: strategy, plan, ready, adopt, govern, secure, and manage. The first four follow a sequence like stepping stones. The last three, governance, security, and management, run continuously in the background.
+
+[01:56] The exciting part, Microsoft designed this specifically for AI too, so it is directly relevant to everything we are building with agents. Keep this image in mind as our foundation. So why do we need a unified model? Think of it this way, the cloud adoption framework gives you the big picture for AI on Azure that agents have their own journey, from planning to daily operations.
+
+[02:23] One side sets the guardrails, the other defines how your teams actually work with agents every day. When these two come together, you avoid chaos, reduce risk, and get to value faster. That alignment is really the architect superpower here. This is where it all starts, AI strategy maps to planning your agents. Your mission here is simply but crucial, figure out what business problems to solve, pick the right technology, and decide whether to build Software as a Service, or custom.
+
+[02:56] The output, a strategy brief and a technology plan. Here is the golden rule, nail the strategy and every decision after it gets easier. Skip it and you risk building solutions nobody actually needs. Continuing with the planning alignment, AI plan maps to plan agents as well. This is about creating a real adoption plan, picking your first project, and honestly, assessing your team's skills.
+
+[03:26] The big deliverables are an adoption plan and a proof of concept report. Pro tip, start small. A focused proof of concept builds confidence, gives you real data, and sets the stage for scaling. Do not try to do everything at once. Now we move into AI Ready. Here we were building the actual foundation, the infrastructure and governance your agents will run on.
+
+[03:53] Think landing zones, networking, security policies, and a solid data architecture. This is like laying the plumbing and electrical before you move into a new home. If this foundation is shaky, even brilliantly-designed agents will struggle in production. Take the time to get this right, it will pay down the road.
+
+[04:18] Continuing with the AI Ready phase, let us look at the concrete outputs and the checklist. Here are the concrete outputs from this phase. Configure landing zones, policy assignments, network segmentation, a governance charter, and a data access model. Think of it as building the house before moving in. Every single item on this checklist directly reduces risk when you start building and operating agents.
+
+[04:44] There are no shortcuts here.
+
+[04:49] This phase brings us govern AI plus secure AI. Here's where governance moves from paperwork to real enforcement. We are applying actual policies, monitoring risks, and locking down security controls across every agent. Think audit trails, prompt reviews, escalation procedures, the works. The outputs include a complete policy set, a risk register, and security controls for data, models, and endpoints.
+
+[05:19] This is where your rules stop being suggestions and start being reality. Now we reach the build agents phase. This is the exciting part, we are actually building agents. But here's the catch. Without standards, every team builds differently, and you end up with a mess. So we standardize with templates, evaluation gates, and CI/CD pipelines.
+
+[05:43] The architect secret, make the right way the easy way. When your templates are great, teams naturally build agents that follow the rules without even thinking about it.
+
+[05:57] Deploying an agent is not the finish line, it is actually the starting line. This phase is all about monitoring performance, managing costs, and continuously improving. You need clear SLOs, incident response plans, and a playbook for when things drift. Because here's the thing, an agent that works perfectly at launch can quietly degrade as data shifts and user needs evolve.
+
+[06:23] So continuous operations keep your agents sharp. This RACI chart is your cheat sheet for who does what. Four roles, clear assignments: accountable, responsible, consulted, and informed. Set this up early in your adoption journey. It sounds simple, but trust me, nothing slows a project down faster than confusion about ownership.
+
+[06:48] One clear chart eliminates a surprising amount of organizational friction. Take a moment to pause here, if you want, and study this image. It provides additional context on the roles and responsibilities we just discussed, illustrating how the various teams and activities connect across the AI adoption lifecycle.
+
+[07:12] As part of the ALM, or agent lifecycle management of an agent, it is critical to designate specific teams to different governance components. You can see how responsibilities flow across different teams and stages, from initial design through deployment and ongoing operations. Each lane represents a team or a function, and the flow shows handoff points, where governance decisions must be made.
+
+[07:38] Don't forget governance is not a single checkpoint, it is a process throughout the entire agent lifecycle. There are three essentials for your strategy checklist. First, build a use case inventory with actual numbers attached, expectant ROI, success metrics, the works. Second, make your platform decision, Software as a Service or custom, based on data, not gut feeling.
+
+[08:04] Third, assess your team's skills and create an upskilling plan. If any of these three are missing, you will hit roadblocks later. Think of it as your minimum viable strategy.
+
+[08:19] Moving on to the ready and foundations checklist. First, set up your landing zones with clear separation between external and internal workloads. Second, build your data foundation, identify your sources, define the access rules, and establish lineage. Here's the reality, data is fuel for your agents. If the fuel is bad, even the best agent produces unreliable results.
+
+[08:44] Investing in data-readiness pays off across every agent you deploy.
+
+[08:52] The govern and secure checklist has two major items. First, document your AI policies and define who approves what, because policies without enforcement are just wishful thinking. Second, lock down platform security and maintain a complete inventory of your AI assets. You need to know what exists, where it lives, and what it can access.
+
+[09:14] Blind spots in AI governance are exactly where risks sneak in. This is your security baseline which is nonnegotiable. Our final checklist covers build and operate. For building, standardize everything with templates and CI/CD pipelines. For operations, set up telemetry, define SLOs, and create runbooks so your team knows exactly what to do when things go sideways.
+
+[09:44] Together this creates a healthy cycle. Build consistently, monitor continuously, and improve based on real data. This is how you keep agents running strong.
+
+[09:58] Let's move on to our next topic, designing the strategy for building AI agents in business solutions. This section equips you with the skills to analyze, map, and design high-value business use cases for AI agents across the Microsoft platform. Let us be clear, AI agents are not just chatbots, they automate tasks, synthesize information, trigger workflows, and handle complex logic.
+
+[10:26] They are active players in your business processes. Take Dynamics 365 Copilots, for example. They already deliver summarization, guided actions, and customer support, right out of the box. So the lesson, always check what already exists before you build something new from scratch. Now let us look at the technology decision framework.
+
+[10:49] Always start with Software as a Service. Ask yourself, "Does an off-the-shelf agent do the job?" If yes, you get instant value, lower costs, and built-in security. Only go custom when Software as a Service genuinely cannot meet the need. Every layer of customization adds complexity and maintenance. This is not about limiting creativity, it is about being strategically smart with your resources.
+
+[11:18] When Software as a Service is not enough, Copilot Studio is your first stop. It is a local platform that is perfect for fast deployment, Dynamics 365 integration, and letting business analysts build and refine agents without waiting on developers. It comes with prebuilt connectors, AI Search integration, and built-in responsible AI.
+
+[11:41] The great thing about it is speeds value with moderate customization. Try it before jumping to pro-code options. Need more horsepower, that is where Microsoft Foundry comes in, your pro-code option for complex orchestrations and multi-agent workflows. You get flexible agent models, a hosted environment, and access to models from other providers.
+
+[12:07] Plus, it supports agent-to-agent communication, which is essential for sophisticated solutions. Reach for Foundry when your use case outgrows what low-code can handle. The third option is GPUs and containers, your full-control Infrastructure as a Service approach. You manage everything, infrastructure, models, and runtime.
+
+[12:31] This is for highly-regulated industries, proprietary models, or edge deployments, where data cannot leave specific boundaries. Most organizations will not start there. And that's fine. Recommend it only when compliance or control requirements genuinely demand that level of hands-on management. Beyond technology, agent architecture is also critical.
+
+[12:57] How do we choose between single-agent versus multi-agent systems? The guidance is very clear, you start with a single-agent and only move on to multi-agent when the use case crosses security or compliance boundaries, or maybe if it requires orchestration across multiple teams, or demands modular specialization. There is a natural temptation to design sophisticated multi-agent architectures from the start.
+
+[13:22] But that adds coordination overhead, it increases latency at handoffs, and expands your security surface. A well-designed single-agent with good retrieval, clear guardrails, and proper tool access can handle surprisingly complex scenarios. Many problems that seem to need multiple agents can actually be solved with persona switching, better retrieval, or policy controls.
+
+[13:50] The next architectural consideration is integrating agents with enterprise data. This is where agent reliability is made or broken. Data quality, relevance, and accessibility directly determine how well your agents perform. As an architect, you must define four things: grounding, data quality, retrieval for effective search, and least privilege access for security.
+
+[14:15] Dynamics 365 copilots are a great example of how deep domain data integration improves task success rates. When agents are well-grounded in high-quality relevant data, they produce reliable and trustworthy results. Here's a reality check, even the most elegant architecture will struggle if it does not fit your operational environment.
+
+[14:40] There are four factors here to validate: network isolation needs, latency and availability expectations, integration with your existing Azure monitoring, and how you will handle updates and change management. Always pressure test your design against these realities before committing. Architecture on paper and architecture in production are very different things.
+
+[15:05] This comparison table is your quick reference guide across the five dimensions: customization depth, security, complexity, development speed, and integration patterns. The big takeaway from here is that no single platform wins everywhere. Software as a Service is fast, but limited. Containers give total control, but demand the most effort.
+
+[15:27] Your job as architect is matching the right platform to each specific need, so keep this chart handy.
+
+[15:36] Let's move on to designing multi-agent solutions. Here we will explore when and how to use platforms like Microsoft 365 Copilot, Copilot Studio, and Microsoft Foundry, together in multi-agent architectures. When should you go multi-agent? The rule is simple, start with one agent and scale only when the evidence says you should.
+
+[16:01] A single-agent keeps things clean, simple, and governable. Multi-agent systems are powerful, but bring orchestration complexity and a bigger security surface. Go multi-agent when you are crossing compliance boundaries, when different teams own different data, or when the scope genuinely demands it. Otherwise, keep it simple.
+
+[16:24] But if you have decided to go multi-agent, you still need to assign the right platform to each agent role. Microsoft 365 Copilot as Software as a Service handles domain assistance embedded in Microsoft 365 experiences, for immediate productivity value, with limited customization. Copilot Studio, as low-code Software as a Service, lets you rapidly build task and retrieval agents with prebuilt connectors and guardrails, ideal for business-led processes and quick iteration.
+
+[16:56] Microsoft Foundry as pro-code, handles connected agents and sophisticated workflows with deeper control, best for strategic high-integration scenarios. Let's review the different patterns we have available. Sequential orchestration is the most straightforward pattern. Think of it as a pipeline, plan, then enrich, then verify, then act.
+
+[17:21] Each step completes before the next begins. This pattern works well when tasks have cleared dependences and must happen in a specific order. For example, an expense approval agent might first extract data from a receipt, then validate it against policy, then route for approval, and finally, update the finance system. The deterministic nature makes it predictable and easy to debug.
+
+[17:50] Here we see concurrent orchestration in action. In this pattern, multiple agents work on independent subtasks simultaneously, and their results are aggregated and reconciled afterward. This is powerful when you have tasks that do not depend on each other and can benefit from parallel execution. For example, when analyzing a market opportunity, one agent could research competitors while another analyzes internal sales data, and a third reviews customer feedback.
+
+[18:19] The results come together for a comprehensive view. The key benefit is speed, but you need a solid aggregation strategy. In the chat orchestration pattern, multiple agents participate in a mediated conversation. Each agent contributes proposals for perspectives, and a moderator agent decides which contributions to accept, combine, or request further input on.
+
+[18:47] Think of it like a virtual meeting where specialists debate a topic. This pattern is useful when you need diverse expertise applied to a complex decision, and there's no single linear path to the answer. The moderator agent is critical. It needs clear logic to prevent the conversation from going in circles. And here is the hand of orchestration pattern.
+
+[19:12] This is about transferring context and control from one agent to another, or to a human, when specific escalation triggers are met. A common example is a customer service scenario where a frontline agent handles routine questions but hands off to a specialist agent or human representative when the issue exceeds its capability or authority.
+
+[19:34] The key design considerations are defining clear escalation triggers, ensuring context is preserved during the handoff so the receiving agent or human has full visibility, and designing fallback paths for when the target agent is unavailable.
+
+[19:54] Finally, we have magentic orchestration, which enables a dynamic specialization. The concept is that a magnet agent pulls in the right expert agents at runtime, based on the task at hand. Unlike the other patterns, where the flow is more or less predetermined, magentic orchestration adapts dynamically. This is powerful for complex, unpredictable scenarios, where you cannot anticipate which specialists will be needed up front.
+
+[20:26] And here is an important reliability tip that applies to all patterns. Treat orchestration as workflow with state, branching, and error handling. Avoid prompt-to-prompt daisy chains, because they are brittle and unobservable. Proper orchestration gives you traceability, recoverability, and auditability. This mapping table gives you a quick reference for matching agent roles to platforms.
+
+[20:53] Domain assistance for productivity feel best on Microsoft 365 Copilot, because they deliver immediate value in the flow of work, typically using handoff or group chat orchestration. Business workflow agents fit best on Copilot Studio because of its rapid iteration capabilities, connectors, and guardrails, typically using sequential or handoff orchestration.
+
+[21:18] Integration and orchestration agents feed best on Foundry, because it provides pro-code tools, complex flow support, and custom evaluations, typically using concurrent, sequential, or magentic orchestration. Use this table as a starting point when assigning your platforms to agent roles in your architecture. Let us close this section with four nonnegotiable principles for multi-agent security.
+
+[21:46] First, least privilege. Give each agent only what it needs. Second, context hygiene. Pass IDs not raw data between agents. Third, observability. Track every handoff, every failure, every decision. Fourth, human-in-the-loop. Protect high-risk actions with approvals and always have a "break glass" option. These are not nice-to-haves, they are what separates a demo from a production-ready solution.
+
+[22:18] Let's continue into an exciting section, developing use cases for prebuilt agents. This is where we translate business needs into real agent-powered solutions that deliver value quickly without custom development. Prebuilt Copilot agents are ready to go right out of the box, across Microsoft 365. They shine when information is scattered, tasks are repetitive, and people already live in Teams, Outlook, and Word every day.
+
+[22:47] Think about it, every second saved on a high-frequency task multiplies across your entire workforce. These agents reduce effort and improve consistency, and the best part, you can still customize them with your own organizational knowledge. Time to play detective. Look across your organization through four lenses: where do people waste time searching for information, which steps are bogged down with manual review, what questions keep hitting your support teams, and which tasks follow a predictable pattern?
+
+[23:26] Walk through your processes with these questions and you will quickly build a strong shortlist of candidates for agent automation. Here is a handy mapping. Slow document searches map to retrieval. Repetitive writing maps to summarization and generation. Recurring policy questions map to knowledge Q&A. And pulling together daily updates maps to synthesis.
+
+[23:52] This exercise takes you from vague business needs to concrete agent capabilities. I highly recommend building your own version of this table for your specific organization. The third step in our mapping process is feasibility evaluation. And this is where you apply a reality check. Here are some questions you can ask, "Is the data actually in Microsoft 365, does the use case fit a conversational interaction, can you avoid complex multi-agent orchestration, and are users okay with retrieval-based answers rather than deep reasoning?"
+
+[24:28] If you get four yeses, then you're in great shape. If not, a custom solution might be the better path. Let us look at three concrete example use case blueprints to bring this to life. First, the HR policy assistant. The business need is clear, employees constantly ask HR policy questions, consuming HR team bandwidth. The agent retrieves relevant policy information, summarizes answers, and provides clear responses.
+
+[24:58] The expected outcome is lower HR workload, so fast self-service answers, and consistent guidance across the organization. Second, the operation's daily summary assistant. Managers spend valuable time consolidating updates from dashboards, chats, email. The agent summarizes daily updates and produces consolidated insights for planning, improving operational alignments, and decision speed.
+
+[25:27] Third, the travel guidance assistant. Employees need consistent guidance for corporate travel. The agent provides travel rules, health and safety guidelines, and documentation requirements, reducing confusion and support inquiries. Notice how each blueprint follows the same pattern, business need, agent actions, and expected outcome.
+
+[25:49] Use this template for your own use cases.
+
+[25:55] Now, let's discuss how to define solution rules and constraints when building AI components. Whether you're working in Copilot Studio, Microsoft Foundry, or using Foundry AI Tools, every AI solution needs clear guardrails. So let's explore what those look like. Here is the solution constraint pyramid. At the top are behavioral rules, the most specific constraints defining what agent can and cannot do.
+
+[26:24] In the middle sit data and tool constraints, governing what information agents access and which tools they can use. And at the base are environment, governance, and operation guardrails, the broad foundation everything else rests upon. Think bottom up when designing your constraints. Let's review each level. Think of behavioral rules as contracts for your agents.
+
+[26:50] What can it do? What is its limits? Be explicit. It may summarize, but it must never execute financial transactions. Use structured instructions so the agent cannot improvise in unsafe ways. And on the responsible AI front, mandate bias checks, require source citations and always keep a human in the loop for high-impact decisions.
+
+[27:15] This is a design principle, not a checkbox. Data governance is the bedrock of any AI solution. Give agents only the data they need, mask sensitive fields, and stick to curated sources. Be clear about storage. Should conversations be remembered or forgotten? Restrict cross-department data access, require human review or high-stakes decisions, and audit every tool invocation.
+
+[27:46] Getting this right is not optional, it is where your entire agent's ecosystem stands on. Let's talk environment and networking rules. Copilot Studio stays within your Microsoft 365 tenant. Foundry needs a proper setup with virtual networks and private endpoints. Make sure you always separate development, testing, and production.
+
+[28:11] Use private networking for sensitive workloads. Whitelist external domains and establish clear SLOs with health monitoring and rollback plans. These details might seem mundane, but they are what separate a proof of concept from a real production system. This table is your side-by-side comparison of rules across Copilot Studio and Foundry.
+
+[28:36] Copilot Studio gives you platform-enforced governance, which is simpler. Foundry gives you architect-led governance, which is more flexible, but more work. The golden rule, define one set of organizational rules, then adapt them to each platform. Consistency across platforms is what keeps governance manageable at scale.
+
+[29:02] Now let's talk about how to use generative AI and knowledge sources in agents built with Copilot Studio. This is where your agents get their intelligence and grounding. Here is the gamechanger, generative answers in Copilot Studio, instead of hand-building hundreds of topic flows, you point the agent at your knowledge sources and let it figure out how to answer naturally.
+
+[29:26] It interprets what users really need, pulls from multiple sources, and synthesizes coherent responses. And the result, faster development, easier maintenance, and a much more natural experience for your users. Generative orchestration load is like giving your agent a curious, well-connected mind. It searches across up to 25 knowledge sources, uses AI to find the most relevant information, and can even tap into general knowledge when needed.
+
+[30:00] Think of it as the difference between navigating a menu of options versus having a conversation with a knowledgeable colleague. For most modern deployments, this is where you want to start.
+
+[30:15] This comparison table between generative and classic orchestration is critical for architects making design decisions. In generative mode, topics are selected based on their purpose description. In classic mode, they match trigger phrases. Generative orchestration supports trialed and connected agents selected by description, while classic does not.
+
+[30:37] Tools can be called dynamically by name and description in generative mode, but only explicitly from within topics in classic. Knowledge is proactively searched in generative mode, versus being a fallback in classic. The agent can use combinations of topics, tools, and knowledge simultaneously in generative mode. It automatically generates questions for missing information and composes the responses from available data.
+
+[31:03] Classic mode requires authored question nodes and message nodes. The bottom line, generative orchestration is more flexible, more natural, and reduces development effort significantly. Choose classic only when you need very tight predictable control over conversation flow.
+
+[31:23] Knowledge sources work at three levels: globally across all conversations, within specific topics, or inside a generative answers node. Here's the reassuring path. Authentication happens automatically. Your agent only shows contents that the current user is allowed to see, inheriting your existing security model. So no need to rebuild permissions from scratch, the right knowledge at the right level is what makes agents truly useful and trustworthy.
+
+[31:53] Knowledge sources expand the breadth and depth of enterprise information an agent can reach. Here you can see various sources, including how documents, websites, and databases connect to serve both internal and enterprise queries. Make sure you understand how the different knowledge types integrate and flow through the system to generate grounded answers for your users.
+
+[32:18] The mountains of documents sitting in SharePoint, OneDrive, or other systems, unstructured knowledge sources turn those into searchable AI-ready content through vector embeddings. Keep in mind the limits, up to 500 knowledge objects per agents and five simultaneous sources in retrieval, with automatic syncing to stay fresh.
+
+[32:40] If your organization's richest content is in documents, this is how you unlock it for your agents. Azure OpenAI on your data takes things further by combining enterprise content with real model reasoning, just retrieval. A useful detail, node-level sources take priority over agent-level ones, giving you precise control.
+
+[33:04] This option is ideal when you need complex reasoning, deep domain understanding, or reach longform answers. As an agentic AI architect, reach for this option when your use case demands more intelligence than basic retrieval can provide. Azure AI Search is your heavy-duty engine for when you need vector search, semantic ranking, and enterprise scale indexing.
+
+[33:31] It support multiple authentication methods and metadata-based citations. When your knowledge base outgrows simple document retrieval and you need precision at scale, this is the architectural component that delivers it. Think of it as the power tool behind your agent's intelligence. Selecting the right generative knowledge architecture is one of the most impactful decisions you will make as a solution architect.
+
+[34:00] Base your decision on four dimensions. First, data complexity. Structured data maps to Dataverse, same as structured to Azure AI Search and unstructured content from SharePoint, OneDrive, or Salesforce Knowledge bases goes through Dataverse. Second, retrieval precision. High precision needs favor Azure AI Search with semantic ranking, while broad domain coverage calls for generative orchestration with multiple sources.
+
+[34:32] Third, governance and security. Sensitive documents need unstructured data with strict permission inheritance, and cross-domain search needs generative orchestration with filtering. Fourth, performance and latency. High-throughput scenarios put Dataverse with Azure AI Search, while low-complexity Q&A works fine with public sites or classic topic embedding.
+
+[34:59] Map your requirements to these dimensions and the right architecture emerges naturally.
+
+[35:08] Let's recap by reviewing the knowledge source decision matrix. This decision matrix is one you will want to pause and review. It compares six knowledge source types across precision, governance, data size, and best fit scenarios. Public websites for a fake use, uploaded documents for internal SOPs, SharePoint for governed enterprise content, Dataverse for transactional data, enterprise connectors for cross-system search, and Azure OpenAI for advanced RAG scenarios.
+
+[35:45] Match your scenario to the matrix, and you have your answer. Agents are not always the correct solution. Let's see when to build custom agents versus extending Microsoft 365 Copilot. This is one of the most important architectural decisions you'll make, and getting it right saves time, money, and headaches. Let's explore the first approach, extending Microsoft 365 Copilot.
+
+[36:12] You should extend Copilot when the core capabilities already perform most of the required tasks. The business scenario aligns with productivity workflows inside Microsoft 365 apps, like Word, Excel, Teams, and Outlook. You primarily need Copilot to use organizational knowledge and automate small tasks. The solution benefits from Microsoft's built-in responsible AI guardrails and custom logic actions, and data integrations remain relatively simple.
+
+[36:45] Extensions typically include creating connectors and plug-ins to bring in external data, adding organization-specific knowledge sources so Copilot understands your business, automating repetitive document and communication tasks, and enhancing Copilot behavior within existing applications. The key advantage is speed to value with minimal engineering investment, while inheriting enterprise-grade safety and compliance.
+
+[37:16] Now let us look at the other side, building custom agents. You should build custom agents when you need specialized workflows that Copilot simply cannot handle. Your scenario requires custom reasoning patterns, multistep logic, or complex orchestration. Integration demands direct system APIs, external applications, or operational autonomy beyond Microsoft 365.
+
+[37:40] You need multi-agent collaboration or complex domain-specific behavior, or you require execution outside Microsoft 365 environments entirely. Custom agents give you greater control over prompt engineering and orchestration design, data routing and grounding strategies, tooling integration and model selection, multi-agent collaboration patterns, and operational behavior, and finally, lifecycle management.
+
+[38:07] The tradeoff is more power and flexibility, but more responsibility for governance, monitoring, and maintenance.
+
+[38:18] These are the evaluation criteria for this approach. For simple retrieval or summarization tasks, extent Copilot. For complex multistep workflows or high-volume automation scenarios, build a custom agent. And for productivity-only context where users work from within Microsoft 365, extend Copilot. If the task is straightforward and lives within the Microsoft 365 ecosystem, extending Copilot is almost always the faster, safer, and most cost-effective path.
+
+[38:50] Reserve custom agents for scenarios that genuinely demand the additional complexity and control they provide. Here's a simple decision test. Ask two questions, "Where does the data live and what actions need to happen?" If both answers point to Microsoft 365, extend Copilot. If the data lives outside that ecosystem or you need specialized, multistep logic, build a custom agent.
+
+[39:19] This two-question test settles the "extend versus build" debate faster than most long analysis sessions. Be honest about your organization's readiness. Custom agents need you to build governance, monitoring, and evaluation from scratch, plus deep Azure AI expertise. Extending Copilot gives you built-in safety compliance in a much lower learning curve.
+
+[39:48] If your team is early in its AI journey, start by extending Copilot, deliver value now, build skills along the way, and tackle custom agents when you are ready.
+
+[40:01] We talked about custom agents, but what about custom models? In this section, we will talk about how to determine when custom AI models should be created. This is a high-stakes decision, with major implications and cost, so let us make sure we get the framework right. Before building a custom model, always ask, "Can an existing one do the job?"
+
+[40:26] Prebuilt models handle summarization, classification, drafting, and Q&A surprisingly well. If moderate accuracy works, if time-to-value matters, and if your data is not ultra-specialized, an off-the-shelf model is your best friend. Think email drafting, meeting recaps, document summaries. Exhaust these options first. Custom models should genuinely by a last resort.
+
+[40:56] Let us talk about when you actually need to build a custom AI model. There are five key considerations here. First, when your business requires domain-specific intelligence, think proprietary terminology, industry compliance rules, or unique business logic that general models simply cannot grasp; second, when off-the-shelf accuracy is not cutting it, you have tried prompt engineering, finetuning and retrieval augmentation, but precision and recall still falls short; third, when governance and compliance demand full control of model behavior, explainability, and data residency; fourth, in high-scale or high ROI scenarios, where even small per query savings multiply into massive cost reductions; and fifth, when you are building multi-agent systems that need custom reasoning, specialized planning, or explicit memory structures.
+
+[42:00] As an architect, your job is to confirm these conditions exist before committing to the complexity and cost of a custom build. Custom models sound exciting, but the prerequisites are serious. You need large volumes of clean, labeled domain data, strong governance processes, repeatable training pipelines, clear annotation guidelines, a retraining strategy, and skilled data scientists.
+
+[42:32] If your organization is not there yet, that is completely okay. Start by extending Copilot, build your data maturity over time, and graduate to custom models when you are genuinely ready. Here you can see the custom model lifecycle. It flows from data ingestion through data labeling, training, evaluation, alignment and safety checks, deployment, continuous monitoring, and iterative improvement.
+
+[43:02] Notice this is a cycle, not a straight line. Custom models require ongoing investment. As an agentic AI architect, plan for this full lifecycle from day one.
+
+[43:17] And on to the next topic, customized small language models, or SLMs. These are lightweight generative models optimized for speed, efficiency, and domain specificity. They represent a powerful middle ground in your AI architecture toolkit. Small language models, or SLMs, are like precision tools compared to the Swiss Army knives of large models.
+
+[43:43] You finetune them through domain tuning, behavioral tuning, or task optimization. The result, high performance with a small footprint and low latency. They are perfect for focused workflows, decision support, or embedded product features where a massive model would be overkill. Precision without the overhead, that is the SLM promise.
+
+[44:09] So when should you reach for a customized small language model? There are five key scenarios to keep in mind. First, domain-specific knowledge workflows. Think compliance, contract risk, or medical reasoning, where constraining the model around your enterprise data dramatically reduces hallucinations. Second, operationally-constrained environments like Edge devices, IoT, or high-volume inference where latency and cost really matter.
+
+[44:39] Third, enterprise security and safety, when you need full control over training data and want guardrails backed directly into the model. Fourth, enhanced productivity, tuning outputs to match your organization's writing style so they feel native and nongeneric. And fifth, reasoning heavy workflows where a well-tuned SLM can actually outperform larger models as an orchestrator in a multi-agent architecture.
+
+[45:09] As an agentic AI architect, your best practice is to match the model's scope to the problem scope. The narrower or more specialized the task, the stronger the case for a customized SLM. Risks are just as important to understand as the use cases. Common issues include wasting resources by building a custom SLM when retrieval-augmented generation over a general model would have been sufficient.
+
+[45:38] Another, underestimating the data curation and evaluation effort required. Don't forget, smaller models can hallucinate, too, and using SLMs for broad, creative reasoning tasks that are generally better suited to large language models. The risks include overfitting to narrow data, which makes your model brittle, more generalization to edge cases your training data did not cover, and governance gaps if safety tuning is rushed to meet deadlines.
+
+[46:09] As an architect, knowing when not to use an SLM is just as valuable as knowing when to use one. So let's say SLMs are the way to go. Let's set some requirements for data safety and deployment. First, data requirements. You need high-quality, curated datasets, domain-specific terminology, structured examples, and clean labeled text.
+
+[46:34] Without good data, your SLM will underperform. Second, safety and governance. Define safety boundaries and moderation requirements up front and evaluate the model against harmful or noncompliant outputs before deployment. Third, deployment and integration. Plan for integration with Copilot-based orchestration, ensure compatibility with agent tools and enterprise connectors, and conduct performance testing under real-world user loads.
+
+[47:05] These three pillars, data, safety, and deployment, must be addressed in your architecture design. Skipping any of them creates risk that will surface in production.
+
+[47:19] Finally, how do you know if your SLM is successful? You need a success scorecard with specific measurable metrics. Task accuracy or success rate tells you if the model is doing its job correctly. Latency targets confirm the model meets your performance requirements. Cost per 1,000 requests tracks your operational economics.
+
+[47:43] Safety incident rates measure how often the model produces harmful or noncompliant outputs. And drift or degradation over time reveals whether your model is maintaining quality as data and conditions change. As an agentic AI architect, establish these metrics before deployment and monitor them continuously. An SLM that was great at launch can degrade silently without proper measurement, so build monitoring into your architecture from day one.
+
+[48:15] In this video, you have learned how to map the Cloud Adoption Framework's AI adoption phases to the AI agent lifecycle and how to design an enterprise-ready operating model for AI agents. We've covered a lot in this session. There are many ways to continue your learning journey. Keep the momentum going by exploring the rest of the videos in this course or discovering your next favorite topic on microsoftlearn@aka.ms/learn.
+
+[48:44] Thank you for watching. Now it's your turn to shape an AI strategy that drives real business outcomes.

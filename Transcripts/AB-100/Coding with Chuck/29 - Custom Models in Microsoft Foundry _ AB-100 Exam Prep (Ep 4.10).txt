@@ -1,0 +1,36 @@
+# Custom Models in Microsoft Foundry | AB-100 Exam Prep (Ep 4.10)
+# Coding With Chuck — AB-100 — video 29
+# https://www.youtube.com/watch?v=ndB00F87FPU
+# captions: en (auto-generated)
+
+[00:00] Hey there, and uh welcome to the final lecture in section four. We've designed agents, extended copilots, and applied well-architected principles. Now, we tackle one of the most important design decisions you'll face on the exam, when and how to use custom AI models in Azure AI foundry. Not every problem needs a custom model.
+
+[00:25] But, when it does, foundry gives you the end-to-end tooling. So, let's walk through it. The exam explicitly tests whether you know when to propose custom models versus when pre-built models are sufficient. Here's the decision framework. If your task is standard, like question answering or summarization, or general text generation, a pre-built model like GPT-4O handles it well. No training, no data prep, just prompt engineering.
+
+[01:00] Most enterprise scenarios start here. If your domain has specialized language, like medical terminology, legal clauses, or financial regulations, a fine-tuned model will perform significantly better. You take a base model and train it on your domain-specific data so that it understands the nuances. If your task is truly unique, like classifying your company's proprietary product defects or pre- or predicting customer churn based on your specific data patterns, you need a custom-trained model.
+
+[01:41] This takes the most effort, but delivers the most differentiation. And if you have high-volume, cost-sensitive tasks, like classifying thousands of support tickets per hour, consider a small language model, or SLM. That gives you lower token cost, faster inference, and good enough accuracy for simpler tasks.
+
+[02:07] We covered SLMs back in section three, and this is where they fit in the design. The exam rewards pragmatism. Start with pre-built. Move to fine-tune only when accuracy demands it. And go fully custom only when the business case justifies the investment. Uh now, Azure AI foundry, which was formerly known as A Azure AI studio, provides a model catalog where you can browse and deploy models from Microsoft OpenAI, Meta, Mistral, and other providers. This gives you options across size, capability, and cost.
+
+[02:50] But, the catalog is just a starting point. Foundry also gives you the tools for full life cycle. For instance, prompt flow lets you prototype and test prompts visually, building a baseline from input through retrieval to model output. That's great for rapid experimentation. Evaluation tools test the model performance against labeled data sets, measuring accuracy, latency, and bias before production.
+
+[03:23] Fine-tuning tools train a base model on your domain data. Upload examples, configure the job, and Foundry handles the compute. Deployment tools publish your model as a managed endpoint with scaling, access controls, and monitoring built right in. The exam tests whether you can propose the right Foundry tool for each stage of project prototyping. So, are we in prompt flow, testing, evaluation tools, production, deployment, and monitoring?
+
+[04:03] Where are we? Here's the seven-step workflow for designing a custom model. So, step one, define the task. Are you classifying, extracting, generating, or predicting? The task type determines everything downstream from model selection to evaluation metrics. Step two, prepare your training data. You need labeled examples that are high quality, representative, and free of bias.
+
+[04:38] Step three, select a base model from the catalog. Match the model size to the task complexity. Step four, fine-tune. Upload your training data, configure hyperparameters, and run the training job. Foundry manages the computation. And then step five, evaluate. Test against data that you held out.
+
+[05:04] Measure accuracy, latency, and bias. If the results aren't good enough, revisit steps two or three. Step six, deploy. Publish as a managed endpoint with auto scaling and access controls. Step seven, integrate. Connect to your agents via MCP or Copilot Studio actions. Add monitoring for performance and model drift. Custom models need to connect to agents and workflows we've designed throughout this section.
+
+[05:38] In Copilot Studio, you add custom model as an action or as a tool. The agent calls the Foundry endpoint, passes input, gets a prediction or a generation, and uses it in the conversation flow. Model routing is critical for cost optimization. Route simple requests to small models, complex requests to larger or custom models. Same concept from section three applied at the design level. You can build multi-model pipelines. One model extracts entities from a document, another classifies the document type, a third generates a summary.
+
+[06:21] Each model is specialized for its own task, and governance is essential. Version your models for rollback, audit predictions for compliance, and monitor for drift as real-world data shifts. So, here's your key takeaways. Number one, use custom models only when pre-built models can't meet your domain, accuracy, or cost requirements.
+
+[06:46] Start with pre-built, fine-tune for domain accuracy, and go fully custom only when justified. Number two, Foundry provides end-to-end tools. Model catalog, prompt flow, fine-tuning, evaluation, deployment, and monitoring. Know which tool fits which stage. Number three, connect custom models to agents via MCP or Copilot Studio tools.
+
+[07:18] Use model routing for cost optimization and monitor for ongoing quality. Number four, govern custom models with versioning, prediction auditing, and drift monitoring. Production models will degrade over time as real-world data shifts. So, congratulations. You've completed section four, the design domain.
+
+[07:45] You now understand system components, orchestration patterns, Copilot Studio design, Dynamics 365, and M365 extensibility. You get grounding MCP well-architected principles and custom models. Next up, section five, where we deploy, govern, and secure. That's the heaviest weighted domain on the exam at 40 to 45%.
+
+[08:17] So, first, do the quiz to make sure you're ready to move on to the next section, and then I'll see you in section five.

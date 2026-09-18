@@ -1,0 +1,26 @@
+# Course Preview | AB-100 | Architecting agentic AI business solutions
+# Microsoft Learn — AB-100 — video 01
+# https://www.youtube.com/watch?v=PXrv_8v65hk
+# captions: en
+
+[00:00] [ Music ] GEORGIA KALYVA: Imagine this: You've been tasked with architecting an agentic AI solution that transforms how people work by bringing together information from collaboration tools and business workflows in one seamless experience. The goal is to unlock business productivity fast, but standing in your way are fragmented data, complex integrations, and strict governance demands.
+
+[00:35] So where do you begin? How do you prove to leadership that your solution will deliver real value? Let me introduce you to a course where you will learn how to tackle these real-world scenarios. Hello, I'm Georgia Kalyva, a lead technical trainer at Microsoft and author who loves making AI and cloud concepts simple, practical, and fun to learn. I'm here to take you through AB-100, Architecting Agentic AI Business Solutions, and give you a tour of what you can expect during this course.
+
+[01:08] This course is one of my personal favorite ways to learn about real-world business challenges with AI by combining strategy, architecture, and productivity-focused design. This advanced course walks you through best practices for designing AI-powered business solutions using agents, generative AI, and Microsoft Copilot to improve productivity and efficiency. It highlights key topics like analyzing business requirements, evaluating and organizing grounding data, designing an overall AI strategy, and deciding when to use pre-built, extended, or custom AI solutions.
+
+[01:48] You'll also explore multi-agent design, prompt engineering, governance and compliance considerations, and adoption strategies that help turn AI ideas into scalable business value. By the end of this course, you'll be better equipped to design AI solutions by choosing the right tools, defining the right approach, and preparing solutions that are built for real business impact.
+
+[02:14] This course is focused on solution architecture, so instead of hands-on labs, we'll spend our time exploring best practices, designing ideas, and real-world architectural patterns for building AI solutions that can really improve business productivity. This course is a great fit if you already have a solid understanding of AI concepts, some experience analyzing business processes, and familiarity with Microsoft tools and platforms.
+
+[02:45] It's also helpful if you have experience building secure, scalable, integrated solutions across multiple Microsoft services. Completing this course will give you a strong foundation for the Microsoft Certified Agentic AI Business Solutions Architect exam, the AB-100, and help you understand the key areas to focus on. However, to earn the certification badge, you'll also need to hold at least one of the available prerequisite certifications listed on the certification page.
+
+[03:20] The exam also requires experience and practice to put those skills into action before you are truly well-prepared. If you're looking to enhance your skills in architecting agentic AI business solutions with Microsoft AI Services, Microsoft 365, and Copilots, or are just preparing for the expert-level certification exam, this is the perfect course for you.
+
+[03:46] What's in it for you? Why should you take this course out of all the others out there? You'll gain practical skills to architect agentic AI solutions that solve real business problems, connect complex systems, and stand up to the demands of security and governance at scale. You can take this course using our self-paced training materials or join one of our instructor-led sessions taught by Microsoft trainers like me.
+
+[04:15] Our instructor-led training is designed to suit all learning styles. Whether you prefer listening, visual engagement, or hands-on experience, we've got you covered. Microsoft Trainers deliver classes using PowerPoint, demonstrations, and whiteboards, while incorporating real-world experience into the classroom. You'll have lots of opportunities to engage and ask questions, ensuring a comprehensive and interactive learning experience.
+
+[04:44] Let's wrap up. This course is designed to help you think like an agentic AI business solutions architect, so you can design secure, scalable, and business-focused AI solutions that connect data, workflows, and Microsoft technologies in meaningful ways. If you're ready to build the architectural skills needed to turn AI potential into real productivity impact, this course is a great place to start.
+
+[05:11] You are the most valuable resource an organization has. Let's make the best use of your day. Ready to enroll? Check out the description below for more details. Thanks for watching. [ Music ]

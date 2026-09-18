@@ -1,0 +1,22 @@
+# Data Grounding Readiness for AI Agents | AB-100 Exam (Ep 3.2)
+# Coding With Chuck — AB-100 — video 12
+# https://www.youtube.com/watch?v=GKsCqgBGH2c
+# captions: en (auto-generated)
+
+[00:00] Uh hey, welcome back. In the last lecture, we talked about analyzing requirements. Now, we're going to move into one of the most critical pieces of planning, data grounding. Even the best agent design falls apart if the underlying data is wrong, outdated, or inaccessible. This lecture shows you how to assess data readiness before you build anything. Uh let's start with what grounding actually means. Grounding is giving your agent real context to work with. Instead of letting the agent make up answers, you connect it to actual data sources, you might use retrieval augmented generation, which we call rag, rag, or connect to enterprise systems
+
+[00:50] through connectors or point the agent at knowledge bases. Without grounding, what happens? The agent hallucinates. It invents facts that sound plausible but are completely wrong and it will be very confident in providing those wrong answers to you as well. You don't want that. So here are the three dimensions you always assess.
+
+[01:18] First quality is the data accurate. Is it current? If you're pulling from a spreadsheet that hasn't been updated since 2023, that's a problem. Second, relevance. Does it match what the agent is actually trying to do? A knowledge base about product specs might be useless if the agent needs customer service history. Third, availability.
+
+[01:44] Can the agent access it securely, quickly, and reliably? If the data is locked behind permission layers or scattered across different systems, that breaks the agent. When you're getting ready for a solution, walk through this this checklist. Check for outdated data. That's your first warning sign. Check for silos. Is the data spread across different systems with no integration? Check for permissions. Can the agent actually access it? Check for governance. Is there a data owner? Are there policies around that data? The good news, Microsoft makes grounding easier than it used to be. In Copilot Studio, you can add knowledge sources directly. You saw that in our earlier demo where I put a word document, but you can provide all kinds of of sources
+
+[02:36] pointed at a SharePoint document or a data versse database or a public website. That's simple. In Foundry, you can build more advanced rag pipelines. If you need custom retrieval logic or you need to handle specialized document types, you have the flexibility with Power Platform connectors. You can access enterprise systems directly, SQL databases, CRM, ERP systems. The agent can pull live data. Now, here's what I want you to focus on in in the planning phase. Your job is to assess whether the data is ready and identify gaps in that.
+
+[03:24] The detailed architecture for how to organize and connect that data comes later. We'll cover that in in lecture eight on data interoperability. Right now, you're asking is the data good enough? and if not what needs to change before we build. So an exam tip that you'll see you'll see scenarios like our customer data is scattered across three legacy systems and the product knowledge base hasn't been updated in 6 months.
+
+[03:55] Your answer should be assess readiness first. Identify quality relevance and access gaps. recommend a governance approach and establish data refresh cadence before building that agent. That's proactive risk mitigation. Three things to remember. First, grounding prevents hallucinations.
+
+[04:22] Assess it early. Don't skip this. Second, focus on the three dimensions: quality, relevance, availability. And third, in exam answers, show proactive risk identification. Say what you'll do about data gaps before you build. You know, I've mentioned a time or two in the course that that uh security is very important and the exam emphasizes that and having garbage in garbage out is in an effect a security issue. So AI getting things wrong is always going to be a risk that the exam wants you to identify and avoid. Up next, the cloud adoption framework. This is how you scale from
+
+[05:12] one pilot in your organization to an organizationwide agentic AI strategy. So I'll see you in lecture three.

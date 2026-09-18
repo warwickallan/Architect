@@ -1,0 +1,132 @@
+# Analyze requirements for AI-powered business solutions | AB-100 | Episode 3
+# Microsoft Learn — AB-100 — video 04
+# https://www.youtube.com/watch?v=G5xFHBU3478
+# captions: en
+
+[00:00] [ Music ] GEORGIA KALYVA: What if you could quickly tell whether an AI agent will solve a real business problem or just add unnecessary complexity? Hi and welcome. I'm Georgia, Lead Technical Trainer at Microsoft. And in this session we'll cover how to assess where agents fit and task automation, analytics and decision-making.
+
+[00:26] We'll also talk about how to evaluate grounding data quality and how to organize business data. So other AI systems can use it effectively. Let's get started. By the end of this video you'll be able to explain how AI agents support task automation, analytics and decision-making. You will also learn to describe how Microsoft Copilot and generative AI boosts productivity across the enterprise.
+
+[00:52] We will cover how to assess scenarios where agents deliver real, measurable value, not just time. A big focus will be on evaluating grounding data quality across five critical dimensions. Accuracy, relevance, timeliness, cleanliness and availability. And finally, you will learn how to organize business data so AI systems can consume it reliably. As an agentic AI architect your role is to bridge business needs and technical implementation.
+
+[01:22] Think of this module as your foundation for making smart decisions about where AI agents fit and where simpler solutions might be better. Let's get started. We will start by discussing where AI agents truly add value. This is a critical skill for any agentic AI architect because not every process needs an agent. We will focus on use cases that split into three pillars.
+
+[01:48] Task automation, data analytics and decision-making. Throughout keep asking yourself, does this task require adaptive behavior? Or is it purely deterministic? That distinction will help guide every architecture decision you make. Let's explore what agents bring to the table. AI agents are software programs that use generative AI models to interpret inputs, reason through problems and decide on actions.
+
+[02:17] Unlike traditional apps with fixed rules, agents dynamically orchestrate workflows based on real-time context. Microsoft Copilot is a great example. Embedding these AI capabilities right into the tools people already use everyday. Like Word, Outlook, Teams, Dynamics 365. Generative AI is the engine underneath. Capable of creating original context across text, images, video, audio and code.
+
+[02:47] As an AI agentic architect, the best practice here is to understand the five core components of any AI agent. The generative AI model, as a reasoning engine, clear instructions that define scope and boundaries, retrieval for grounding data, actions that let the agent do things, and memory, for continuity across interactions. When you design agent solutions, always ensure each component is deliberately planned.
+
+[03:17] Let's talk about what agents actually do in task automation. Think of a task agent as a highly capable assistant that follows a detailed playbook. You hand it a task and it executes the steps. Extracting data, validating against policy, routing for approval and notifying the right people. Agents can draft documents and emails based on context. Summarize massive volumes of data from emails, meetings and chats and trigger multi-step processes, including approvals and content generation.
+
+[03:52] The key benefit here is reducing cognitive loads so teams can focus on strategic work instead of repetitive tasks. As an agentic AI architect the best practice is to define clear completion criteria for every task agent. What does done look like? If step three or five fails? How does the agent handle it? Always design for graceful partial failures.
+
+[04:18] Set timeouts to prevent infinite loops and log every action for audit purposes. These guardrails are what make an agent effective. This table gives you a practical view of how agents map to real work across four key areas. In communication agents draft emails, summarize Teams threads and create meeting recaps using Microsoft 365 Copilot.
+
+[04:45] For documentation they generate first draft reports and optimize content using tools like Word, OneNote and Loop. Process automation is where Copilot Studio and Power Automate come in. Triggering workflows and multi-step tasks. And for knowledge retrieval, agents answer questions using enterprise data through Copilot Search and Graph grounding. The best practice here is to map each agents use case to specific data sources that feed its responses.
+
+[05:16] If there are gaps in your data mapping the agent will hallucinate on those topics. Also, consider whether each task truly requires an agent. Or if a simpler automation tool would suffice. Agents shine where inputs are unstructured and steps require judgments. Save them for those scenarios. Now let's see how agents transform data analytics.
+
+[05:42] Instead of building dashboards the users must learn to navigate, analytics agents let people ask questions in plain language. What were our tough products last quarter? How does this month compare to last years month? Agents simplify analysis by converting natural language into insights. Summarizing complex data sets, identifying trends and outliers, and generating visualizations on demands.
+
+[06:08] Finally they can interpret dashboards with next steps suggestions. This is incredibly powerful because it democratizes data access for people who may have not advanced analytic skills. The best practice here is to assess where agent-based analytics add genuine value. It works best when users need ad hoc analysis that pre-built dashboards cannot cover. When data literacy varies across the user base and when multiple data sources need to be queried and correlated on the fly.
+
+[06:40] Always evaluate whether the analytics need justifies the agent complexity. This image shows the analytics workflow that AI agents follow. It starts with a user question which the agent interprets using natural language understanding. The agent then retrieves relevant data from connected sources. Generates insights by analyzing patterns and trends. And finally provides recommended actions.
+
+[07:07] What makes this different from traditional analytics? It's that the agent reasons through the question contextually, not just running a predefined query. It adapts to variations in how people ask questions and what data is available. As an architect remember that this workflow is only as good as the data feeding it. The best practice here is to test retrieval quality before building the agents.
+
+[07:33] Run sample queries against your knowledge base. If retrieval returns irrelevant or incomplete results, fix the data pipeline first. Do not build agents on weak foundations. Also, ensure all data sources are accessible with consistent response times. Because a slow source can break the agents entire reasoning chain. Decision-making is where agents get really interesting.
+
+[08:00] And also where they need the most guardrails. These agents evaluate options and would command or execute decisions. Think of an account reconciliation agent that analyzes transactions. Matches records against multiple criteria. Evaluates confidence levels and either auto-resolves matches or escalates low confidence items for human review. Agents can provide scenario recommendations based on historical data, identify risks through pattern recognition and summarize business context from documents, meetings and data sets.
+
+[08:36] As an agentic AI architect, decision-making agents require you to define three critical boundaries. First, decision boundaries. What can the agent decide autonomously? Versus what requires human approval. Second, confidence thresholds. Below a certainty level must the agent escalate. And third, audit requirements. How were decisions logged for review and compliance?
+
+[09:04] Wrong decisions from agents have direct business impact. So these guardrails are non-negotiable. Let's talk about the best practices for using AI agents responsibly and effectively. The number one rule, always start with a business outcome you want to improve. Do not start with a technology. Use agent automation to reduce repetitive work. Not to replace critical thinking.
+
+[09:31] Humans should remain in the loop for judgment calls. The six responsible AI principles are essential. They're not nice to have guidelines, they are the framework that ensures reliable secure AI adoption at scale. As an architect you should continuously monitor performance and refine prompts, workflows and data inputs. AI agents are not set and forget systems. They need ongoing tuning as business conditions change.
+
+[09:59] Also, invest in training your teams to use Copilot effectively. The best agent architecture in the world fails if people do not know how to work with it. Remember, the architects role is not just technical design, but enabling the organization to adopt AI confidently. Let's move on to talk about data review for grounding on five specific quality dimensions.
+
+[10:25] Accuracy, relevance, timeliness, cleanliness and availability. Every AI agents effectiveness is bound by the quality of its grounding data. Let's explore each of these five dimensions in detail. Before we dive into the best practices, let's understand what grounding actually means in the context of AI agents. Grounding is the process of connecting an AI agents to trusted domain-specific organizational data, to increase accuracy and reduce hallucinations.
+
+[10:57] Without grounding a large language model can only rely on its training data. Which may be outdated or generic. With grounding the model retrieves and uses your organizations actual documents, policies and data to generate responses. Microsoft Copilot and Copilot Studio uses semantic indexing the Microsoft Graph for precise content retrieval. The Copilot retrieval API fetches relevant text from SharePoint, OneDrive and other connected resources.
+
+[11:27] While respecting user permissions. As an agentic AI architect the best practice is to ensure AI systems only connect to approved access controlled data. This is fundamental to producing trustworthy outcomes. Remember grounding is the difference between a standard RAG or Retrieval-Augmented Generation application that follows deterministic retrieval. And an AI agent that adaptively decides which knowledge and tools use at each step.
+
+[12:00] There are five key activities for evaluating grounding data quality. First, assess data accuracy by verifying facts with subject matter experts and authoritative sources. No data owner assigned, that is a red flag. Second, ensure relevance by matching data to the agents intended use case and business domain. Data might exist, but if it does not cover the domain the agent serves, you'll get a high percentage of irrelevant results.
+
+[12:29] Third, maintain timeliness by updating data regularly to reflect the latest documents and policies. But updates running daily or weekly for data that changes hourly, that's another red flag. Fourth, improve cleanliness by removing duplicates, irrelevant metadata, and ensuring clear structure. Multiple records for the same entity with inconsistent naming will degrade the retrieval quality.
+
+[12:57] And fifth, always confirm availability by managing access controls and ensuring proper indexing in the Microsoft Graph. As an architect create a data assessment checklist. Invent resources, map data to agent scenarios, test retrieval quality, define freshness requirements and plan for data governance. This systematic approach prevents the most common agent failures.
+
+[13:26] Let's zoom into the first dimension. Accuracy. This one is foundational because inaccurate data leads to incorrect or harmful agent outputs. Data accuracy means the information reflects real, verifiable facts. The indicators you should look for are the threefold. Is the data verified by subject matter experts? Does it match authoritative sources?
+
+[13:51] And is it free from errors or outdated assumptions? As an agentic AI architect here's a common scenario to watch for. An HR agent correctly answers vacation policy questions for US employees, but gives wrong answer for UK employees. Even though policy documents for both regions are uploaded. The likely root cause, the UK documents may be outdated, drafts or have conflicting information.
+
+[14:17] The best practice is to assign a data owner for every source the agent uses. Establish a validation process. And schedule regular audits. Never import data from unknown sources without verification. Accuracy is not a one-time check, it's an ongoing discipline. The second dimension is relevance. Grounding data must match the intended use case of the agent.
+
+[14:43] When data is irrelevant, semantic search may retrieve content that is conceptually similar, but contextually wrong. For example, an agent designed to help with sales forecasting should not be pulling from HR policy documents. Just because they mention similar terms, like performance and targets. Relevance ensures the model surfaces information aligned with the users scenario, workflow, or business domain.
+
+[15:10] The best practice is to map every data source to specific agent scenarios during the planning phase. Ask yourself, for each agent use case which data sources feed which responses? If you find gaps that is where the agent will hallucinate. Generating plausible sounding, but incorrect answers. Test your retrieval with sample queries that mirror real user questions before deploying.
+
+[15:35] This upfront investment in relevance testing saves a lot of delays in production. Dimension three is timeliness and it is deceptively important. AI outputs degrades when data is stale. Think about it, if your agent is answering questions about company policy using a document from two years ago, the answers might be technically retrieved correctly, but substantively wrong.
+
+[16:04] The semantic index in Microsoft 365 continuously updates as content changes. Which helps keep the grounding layer current. But you need to think about timeliness holistically. Consider modified dates, seasonal or compliance related updates, and data refresh schedules. As an agentic AI architect the best practice is to define freshness requirements for each data source.
+
+[16:32] Real-time year end data and monthly policy documents have very different timeliness needs. A common red flag is when batch updates run daily or weekly for data that actually changes hourly. If there's no refresh pipeline defined, that is a problem waiting to happen. Build timeliness checks into your data governance framework, not as an afterthought, but as a core architectural requirement.
+
+[17:00] Dimension four is cleanliness. Clean data reduces noise and increases retrieval precision. Data pollution in AI refers to the degradation of data quality that negatively impacts AI system performance and reliability. What does clean data look like? It has a clear structure, no duplicates, minimal irrelevant metadata, and stable formatting with a predictable layout.
+
+[17:27] Cleaner data directly improved embedding quality. When you chunk documents for a RAG pipeline well structured content produces better embeddings. Which means the agent retrieves more appropriate contents. As an agentic AI architect the common red flags include multiple records for the same entity, inconsistent naming conventions across systems, and empty values in key fields. The best practice is to invest in data cleaning before building any agents.
+
+[17:57] To duplicate records, standardize formats, remove orphan metadata and ensure consistent taxonomy. This is not glamorous work, but it is a big factor in whether your agent succeeds or fails in production. The fifth and final dimension is availability. And it answers a simple but critical question. Can the agent actually access the data it needs at inference time?
+
+[18:24] Agents can only ground responses from the data the user has access to. The retrieval API respects permissions and will not return content beyond the users access scope. This is a security feature, not a limitation. Availability depends on three things. Data must be stored SharePoint, OneDrive, or connected systems. It must be properly indexed in the Microsoft Graph. And there must be clear access controls in place.
+
+[18:52] Common red flags include data trapped behind a VPN with no agent connectivity. A single point of failure in the data pipeline and no SLA on data source uptime. The best practice is to ensure every data source has redundancy, define uptime SLA's, and test that agents can reach all required sources under production conditions. A slow or unavailable data source is not just a grade one answer, it can break the agents entire reasoning chain.
+
+[19:26] This table is a quick reference for the five grounding data quality dimensions. Use it as an assessment framework for every agent project and score each data source across all five before building. If any dimension is weak, fix the data first. This is how Microsoft Copilot grounds AI responses in practice. The pipeline starts with a semantic index, which converts enterprise content into semantic representations.
+
+[19:55] When a user asks a questions the retrieval API searches across this index sources, respecting the users permissions and returning only content they are authorized to see. The retrieved content is then assembled into a prompt that the generative AI model uses to produce a ground response. Understanding this process highlights which dimension things can go wrong.
+
+[20:22] So let's review the best practices for reviewing grounding data before we move on. First, evaluate content quality before upload. Remove outdated or conflicting information proactively. Do not wait for the agent to surface by data to users. Second, store authoritative content in SharePoint or OneDrive. So it gets included in the semantic index. If content is not in an indexed location, the agent simply cannot find it.
+
+[20:52] Third, maintain consistent formatting. This improves cleanliness and retrieval precision. Inconsistent document structures produce poor embeddings and noisy retrieval results. Fourth, regularly review permissions. Invalid permissions mean the agent either exposes data it should not, or cannot access data it needs. And fifth, collaborate with domain subject matter experts to validate accuracy and contextual fit.
+
+[21:22] As an architect the best practice is to make these reviews a recurring process, not a one-time setup. Here, is where we shift from evaluating data quality to actually structuring and exposing data so AI agents across the organization can access it reliably. We are going to talk about how to organize data for discoverability, not just storage.
+
+[21:48] AI systems require high quality, structured, and accessible data to function reliably. Poorly organized data leads to weak grounding, hallucinations, and unreliable decisions. This is not just a technical requirement, it is a business imperative. When data is structured correctly, it becomes available for Copilot for Microsoft 365. AI agents build in Copilot Studio, custom AI apps built with Azure AI, RAG pipelines and analytics, and automation solutions.
+
+[22:20] Let's talk about Retrieval-Augmented Generation, or RAG, because it is the architecture that separates prototypes from trustworthy systems. A RAG pipeline performs all the steps needed to make AI work in production. Data ingestion's, dreaming, cleaning, chunking, embedding, indexing, retrieval, prompt assembly, orchestration and even monitoring. RAG gives your AI solution three critical advantages.
+
+[22:48] First, real-time data access. So the model works with current information. Second, data privacy preservation. Because you control what the model sees. And hallucination mitigation. Because responses are grounded in actual data. The best practice is to understand that RAG is not just a retrieval pattern. It is a full production pipeline. Each step from chunking strategy to embedding, model selection to index refresh management, is an architectural decision that affects agent quality.
+
+[23:22] Standard RAG applications follow deterministic retrieval. AI agents go further by using the generative model to decide which knowledge and tools to use at each step. This adaptive approach is powerful, but introduces behavior that requires robust testing and governance. Now let's see how Azure provides the foundational platform for organizing AI ready data.
+
+[23:48] The concept of a unified data estate means consolidating data from applications, logs, CRM, ERP, operations, and documents into a coherent hole. Modern data services like Azure Cosmos DB and more give you the storage and processing layer. Intelligence layers provide Azure AI Search, semantic ranking, embeddings, and vector search. Which are the capabilities that make your data retrievable by meaning, not just keywords.
+
+[24:17] And interoperability through APIs, event hubs, and data streaming allows multiple AI systems to consume the same data. As an agentic AI architect you should think in layers. Your operational databases store the data. Your analytical stores prepared curated data for AI workloads. Your intelligence layer enables grounding, retrieval and semantic search. And your AI apps and agents sit on top consuming everything below.
+
+[24:46] Design each layer deliberately and your agents will have the foundation they need. This table breaks down the Azure data state into four clear layers. And it is a framework you should internalize. At the bottom, operational databases store application and business data with structure. Handling day-to-day transactions. Above that analytical stores like Fabric lakehouse and data workhouses.
+
+[25:13] Prepare curated data for AI and machine learning workloads. The intelligence layer is where Azure AI Search, vector indexes and semantic search capabilities enable grounding and retrieval. And at the top, your AI apps and agents, whether Copilot, custom RAG applications, or autonomous agents consume from all the layers below. Design your architecture with clear boundaries and contracts between each layer.
+
+[25:43] Here we can see the data architecture for AI agents as guided by the Microsoft Cloud adoption framework. There are five key architectural components to get right. First, centralized knowledge sources including SharePoint, OneDrive, Dataverse, and Azure Storage. Second, semantic indexing that converts enterprise content into semantic representations for grounding. Third, a data governance layer, that enforces role-based access, sensitivity labels, and Microsoft Purview policies.
+
+[26:17] Fourth, APIs and connectors that ensure agents can access both structured and unstructured data. And fifth, a RAG ready architecture with vector stores. Embedding models and retrieval pipelines. As an agentic AI architect a critical best practice is to unify your data platform. Microsoft has OneLake serves as the central data lake when data domains create governed data products.
+
+[26:44] These become the primary inputs for AI across the organization. This consumption model enforces governance, preserves security boundaries and ensures agents operate on high quality inputs. But how do we choose databases that are AI ready? Azure SQL now supports vector data, semantic search, and JSON storage, making it a versatile choice for AI applications.
+
+[27:10] Cosmos DB offers low latency and native vector search. Ideal for AI-driven apps that need fast responses. PostgreSQL on Azure supports machine learning extensions and embeddings for more customized scenarios. And Microsoft Fabric provides a unified analytics platform for AI workloads. It's best to match your database technology to your workload characteristics.
+
+[27:36] Do not default to one database for everything. Consider latency requirements, data volume, query patterns and costs. For agents that need subsecond responses, Cosmos DB with its native vector search might be ideal. For complex analytical queries, Fabric lakehouse could be the better fit. These six best practices are your playbook for organizing business data for AI systems.
+
+[28:05] First, centralize your data using Azure, Dataverse, or Fabric to avoid silos. Fragmented data leads to fragmented agent responses. Second, normalize and structure data with standardized schemas, naming conventions, metadata, and taxonomy. Third, use semantic indexing for correct grounding. This is required by Microsoft 365 Copilot and essential for any agent solution.
+
+[28:33] Fourth, provide multiple access paths, APIs, search indexes, RAG pipelines and more. Different agents need different access patterns. Fifth, implement governance early with Microsoft Purview for access policies, sensitivity labels, lineage and data quality. Do not bulk governance on at the end. Build it from day one. And sixth, keep data authoritative and updated so AI systems always reference the latest information.
+
+[29:06] The principle is to organize data for discoverability, not just storage. Your goal is to make data easily findable by AI systems based on meaning and context. Let's review. In this video we talked about how AI agents support task automation, data analytics, and decision-making across the enterprise. Including role of Microsoft Copilot and generative AI in enhancing productivity through familiar tools.
+
+[29:34] You can now assess scenarios where AI agents add measurable value and equally important where simpler solutions might be better. And evaluate grounding data quality across the five critical dimensions. Accuracy, relevance, timeliness, cleanliness, and availability. And you can organize business solutions data for AI readiness and scalable consumption. We've covered a lot in this session.
+
+[30:00] There are many ways to continue your learning journey. Keep the momentum going by exploring the rest of the videos in this course. Or discovering your next favorite topic on Microsoft Learn. At aka.ms/learn. Thank you for watching. Now you can start turning real business needs into meaningful AI opportunities.
