@@ -1,17 +1,28 @@
 import { useEffect, useRef, useState } from "react";
-import { api, type RecordData } from "../api";
+import { api, type RecordData, type StageDef, type StageState } from "../api";
 import { createWebSpeechAdapter } from "../input/dictation";
 
 const dictation = createWebSpeechAdapter();
 
-export function Conversation({ rec, draft, setDraft, onTurn }: { rec: RecordData; draft: string; setDraft: (s: string) => void; onTurn: () => Promise<void> }) {
+const KICKOFF: Record<number, string> = {
+  0: "Begin capturing this candidate. Introduce yourself in one sentence and ask for the pain and a recent example.",
+  1: "Begin the discovery interview. Introduce yourself in one sentence and ask your first question.",
+  2: "Begin architecture. Restate the Discovery Decision from the record in one paragraph, confirm it still holds, then propose candidate architectures.",
+  3: "Begin mobilisation. Confirm scope from the record, then start deriving the backlog from the architecture.",
+  4: "Begin build & evaluate. Ask what has been built since the plan, and which metrics it touches.",
+  5: "Begin deploy & operate. Ask for the deployment sequence and rollback.",
+  6: "Begin the review. Read back the hypotheses and metrics from discovery and ask for actuals.",
+};
+
+export function Conversation({ rec, stage, state, draft, setDraft, onTurn }: { rec: RecordData; stage: StageDef; state: StageState; draft: string; setDraft: (s: string) => void; onTurn: () => Promise<void> }) {
   const [busy, setBusy] = useState(false);
   const [listening, setListening] = useState(false);
   const [interim, setInterim] = useState("");
   const [last, setLast] = useState<{ costUsd?: number; durationMs?: number; parseError?: string } | null>(null);
   const bottom = useRef<HTMLDivElement>(null);
+  const messages = rec.conversation.filter((m) => m.stage === stage.id);
 
-  useEffect(() => { bottom.current?.scrollIntoView({ behavior: "smooth" }); }, [rec.conversation.length, busy]);
+  useEffect(() => { bottom.current?.scrollIntoView({ behavior: "smooth" }); }, [messages.length, busy]);
 
   async function send(text: string) {
     const msg = text.trim();
@@ -19,15 +30,10 @@ export function Conversation({ rec, draft, setDraft, onTurn }: { rec: RecordData
     setBusy(true);
     setDraft("");
     try {
-      const r = await api.chat(rec.meta.id, msg);
+      const r = await api.chat(rec.meta.id, stage.id, msg);
       setLast({ costUsd: r.costUsd, durationMs: r.durationMs, parseError: r.parseError });
       await onTurn();
-    } catch (e) {
-      setDraft(msg);
-      alert((e as Error).message);
-    } finally {
-      setBusy(false);
-    }
+    } catch (e) { setDraft(msg); alert((e as Error).message); } finally { setBusy(false); }
   }
 
   function toggleMic() {
@@ -39,22 +45,23 @@ export function Conversation({ rec, draft, setDraft, onTurn }: { rec: RecordData
     );
   }
 
-  const started = rec.conversation.length > 0;
+  const started = messages.length > 0;
+  const readOnly = state.gateStatus === "passed";
 
   return (
     <>
       <div className="panel-head">
         <h2>{rec.meta.name}</h2>
-        <span className="muted">Stage {rec.meta.stage} · {rec.meta.stageName} · turn {rec.meta.turn ?? 0}</span>
+        <span className="muted">stage {stage.id} · {stage.name} · turn {state.turn}{readOnly ? " · gate passed" : ""}</span>
       </div>
       <div className="messages">
         {!started && (
           <div className="kickoff">
-            <p>No interview yet. Architect will interview you about this initiative — talk naturally; it extracts what it learns for you to confirm.</p>
-            <button className="btn primary" disabled={busy} onClick={() => send(`Begin the discovery interview for "${rec.meta.name}". Introduce yourself in one sentence and ask your first question.`)}>Start interview</button>
+            <p>Stage {stage.id} — <strong>{stage.name}</strong>. Gate: <em>{stage.gate}</em>. Talk naturally; Architect extracts what it learns for you to confirm.</p>
+            <button className="btn primary" disabled={busy} onClick={() => send(`${KICKOFF[stage.id]} Initiative: "${rec.meta.name}".`)}>Start {stage.name.toLowerCase()}</button>
           </div>
         )}
-        {rec.conversation.map((m, i) => (
+        {messages.map((m, i) => (
           <div key={i} className={`msg ${m.role}`}>
             <div className="who">{m.role === "user" ? "Warwick" : "Architect"} <span className="muted">· t{m.turn}{m.proposed ? ` · ${m.proposed} proposed` : ""}</span></div>
             <div className="text">{m.text}</div>

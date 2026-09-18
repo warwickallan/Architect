@@ -2,12 +2,13 @@ import express from "express";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
-  appendConversation, createProduct, GATE_CONDITIONS, listProducts, readMeta, readRecord,
+  appendConversation, createProduct, listProducts, passGate, readMeta, readRecord,
   resolvePending, setPending, updateEntity, writeMeta, type EntityType,
 } from "./record.js";
 import { buildSystemPrompt, runTurn } from "./llm.js";
 import { splitReply } from "./parse.js";
-import { renderPack, writePack } from "./render.js";
+import { renderStage, writeStagePack } from "./render.js";
+import { STAGES, stageById } from "./stages.js";
 
 const app = express();
 app.use(express.json({ limit: "1mb" }));
@@ -15,47 +16,61 @@ app.use(express.json({ limit: "1mb" }));
 const wrap = (fn: express.RequestHandler): express.RequestHandler => (req, res, next) =>
   Promise.resolve(fn(req, res, next)).catch((e: Error) => res.status(400).json({ error: e.message }));
 
-app.get("/api/products", wrap(async (_req, res) => res.json(await listProducts())));
+const stageParam = (req: express.Request) => {
+  const n = Number(req.params.stage);
+  stageById(n);
+  return n;
+};
 
+app.get("/api/stages", (_req, res) => res.json(STAGES));
+app.get("/api/products", wrap(async (_req, res) => res.json(await listProducts())));
 app.post("/api/products", wrap(async (req, res) => {
   const { id, name, kind } = req.body as { id: string; name: string; kind: "tool" | "business" };
   res.json(await createProduct({ id, name, kind: kind === "tool" ? "tool" : "business" }));
 }));
-
 app.get("/api/products/:id/record", wrap(async (req, res) => res.json(await readRecord(req.params.id))));
 
-app.get("/api/products/:id/artefacts", wrap(async (req, res) => {
+app.get("/api/products/:id/stages/:stage/artefacts", wrap(async (req, res) => {
+  const stage = stageParam(req);
   const rec = await readRecord(req.params.id);
-  const pack = renderPack(rec);
-  await writePack(req.params.id, pack);
+  const pack = renderStage(rec, stage);
+  await writeStagePack(req.params.id, stage, pack);
   res.json(pack);
 }));
 
-/** One interview turn: user message -> claude -p -> reply + pending proposals. */
-app.post("/api/products/:id/chat", wrap(async (req, res) => {
+/** One conversation turn in a stage: user message -> claude -p (stage skill) -> reply + pending proposals. */
+app.post("/api/products/:id/stages/:stage/chat", wrap(async (req, res) => {
   const id = req.params.id;
+  const stage = stageParam(req);
   const message = String((req.body as { message?: string }).message ?? "").trim();
   if (!message) throw new Error("empty message");
   const rec = await readRecord(id);
-  const turn = (rec.meta.turn ?? 0) + 1;
-  await appendConversation(id, { turn, role: "user", text: message, ts: new Date().toISOString() });
+  const st = rec.meta.stages[stage];
+  if (!st || st.gateStatus === "locked") throw new Error(`stage ${stage} is locked — pass the previous gate first`);
+  const turn = st.turn + 1;
+  await appendConversation(id, { turn, stage, role: "user", text: message, ts: new Date().toISOString() });
 
-  const system = await buildSystemPrompt(rec);
-  const result = await runTurn(message, system, rec.meta.interviewSessionId);
+  const system = await buildSystemPrompt(rec, stage);
+  const result = await runTurn(message, system, st.sessionId);
   const { reply, updates, parseError } = splitReply(result.raw);
 
   const meta = await readMeta(id);
-  meta.turn = turn;
-  meta.interviewSessionId = result.sessionId;
-  if (updates.gate) meta.gateAssessment = { ...(meta.gateAssessment ?? {}), ...updates.gate };
+  const ms = meta.stages[stage];
+  ms.turn = turn;
+  ms.sessionId = result.sessionId;
+  if (updates.gate) ms.gate = { ...(ms.gate ?? {}), ...updates.gate };
+  if (updates.complete) ms.complete = true;
   if (updates.unlock?.length) meta.unlocked = Array.from(new Set([...(meta.unlocked ?? []), ...updates.unlock]));
-  if (updates.complete) meta.complete = true;
   await writeMeta(id, meta);
 
-  const pending = await setPending(id, updates.proposed, turn);
-  await appendConversation(id, { turn, role: "assistant", text: reply, ts: new Date().toISOString(), proposed: updates.proposed.length });
+  const pending = await setPending(id, updates.proposed, turn, stage);
+  await appendConversation(id, { turn, stage, role: "assistant", text: reply, ts: new Date().toISOString(), proposed: updates.proposed.length });
+  res.json({ reply, pending, gate: ms.gate, unlock: updates.unlock ?? [], complete: Boolean(ms.complete), parseError, costUsd: result.costUsd, durationMs: result.durationMs });
+}));
 
-  res.json({ reply, pending, gate: meta.gateAssessment ?? {}, unlock: updates.unlock ?? [], complete: Boolean(meta.complete), parseError, costUsd: result.costUsd, durationMs: result.durationMs });
+app.post("/api/products/:id/stages/:stage/gate/pass", wrap(async (req, res) => {
+  const override = Boolean((req.body as { override?: boolean })?.override);
+  res.json(await passGate(req.params.id, stageParam(req), override));
 }));
 
 app.post("/api/products/:id/pending/:pid/confirm", wrap(async (req, res) => {
@@ -65,19 +80,9 @@ app.post("/api/products/:id/pending/:pid/confirm", wrap(async (req, res) => {
 app.post("/api/products/:id/pending/:pid/reject", wrap(async (req, res) => {
   res.json(await resolvePending(req.params.id, req.params.pid, "rejected"));
 }));
-
 app.patch("/api/products/:id/entities/:eid", wrap(async (req, res) => {
   res.json(await updateEntity(req.params.id, req.params.eid, req.body));
 }));
-
-app.post("/api/products/:id/gate/pass", wrap(async (req, res) => {
-  const meta = await readMeta(req.params.id);
-  meta.gateStatus = "passed";
-  await writeMeta(req.params.id, meta);
-  res.json(meta);
-}));
-
-app.get("/api/meta/gate-conditions", (_req, res) => res.json(GATE_CONDITIONS));
 
 if (process.env.NODE_ENV === "production") {
   const dist = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "dist");

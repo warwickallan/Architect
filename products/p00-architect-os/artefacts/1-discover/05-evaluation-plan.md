@@ -1,6 +1,6 @@
 # 05 — Evaluation plan: Architect OS
 
-> Rendered from `record/` by Architect OS on 2026-09-17 08:27. Do not edit — change the record.
+> Rendered from `record/` by Architect OS on 2026-09-18 17:46. Do not edit — change the record.
 
 ## Business success
 
@@ -14,4 +14,6 @@
 |---|---|---|---|---|---|
 | MET-002 | system | Facts retyped across artefacts (should be zero — artefacts render from the record). | all (Markdown templates) | 0 | review of rendered discovery pack vs record |
 
-_Seed test cases are added during architecture from these metrics._
+## Seed test cases
+
+_none yet_

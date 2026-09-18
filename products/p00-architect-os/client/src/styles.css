@@ -12,8 +12,16 @@ button, select, textarea, input { font: inherit; color: inherit; }
 .topbar { display: flex; align-items: center; gap: 12px; padding: 8px 14px; border-bottom: 1px solid var(--line); background: var(--panel); }
 .brand { font-weight: 700; letter-spacing: .02em; }
 .ver { color: var(--muted); font-weight: 400; font-size: 12px; margin-left: 6px; }
-.tabs .tab { background: transparent; border: 0; padding: 6px 12px; border-radius: 6px; color: var(--muted); }
-.tabs .tab.active { background: var(--panel-2); color: var(--text); }
+.tabs { display: flex; gap: 2px; }
+.tabs .tab { background: transparent; border: 1px solid transparent; padding: 5px 10px; border-radius: 6px; color: var(--muted); cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
+.tabs .tab.open { color: var(--text); }
+.tabs .tab.passed { color: var(--ok); }
+.tabs .tab.locked { opacity: .4; cursor: not-allowed; }
+.tabs .tab.active { background: var(--panel-2); border-color: var(--line); color: var(--text); }
+.tabnum { font-size: 11px; font-weight: 700; width: 16px; height: 16px; border-radius: 50%; border: 1px solid currentColor; display: inline-flex; align-items: center; justify-content: center; }
+.tick { color: var(--ok); font-size: 11px; } .lock { font-size: 11px; }
+.pill.ACT { color: #9ad0a0; } .pill.TEST { color: #d9a7ff; }
+.pill.status.locked { color: var(--muted); }
 .spacer { flex: 1; }
 select { background: var(--panel-2); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; }
 .btn { background: var(--panel-2); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; cursor: pointer; }

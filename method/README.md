@@ -45,14 +45,17 @@ Traceability falls out of links: `ADR-0007 → REQ-012 → RSK-003 → FACT-006 
 
 ## The skills (durable stage methods)
 
-| Skill | Stage | Status |
+| Skill (`.claude/skills/…`) | Stage | Status |
 |---|---|---|
-| `.claude/skills/discovery-interview/` | 1 Discover | v0.1 — first to be built |
-| `/architect` | 2 | not yet |
-| `/mobilise` | 3 | not yet |
-| `/build-review`, `/evaluate` | 4 | not yet |
-| `/operate` | 5 | not yet |
-| `/review-value` | 6 | not yet |
+| `opportunity` | 0 Opportunity | v0.1 (2026-09-18) — PoC, untested on a real candidate |
+| `discovery-interview` | 1 Discover | v0.1 — smoke-tested |
+| `architect` | 2 Architect | v0.1 (2026-09-18) — PoC, untested |
+| `mobilise` | 3 Mobilise | v0.1 (2026-09-18) — PoC, untested |
+| `build-evaluate` | 4 Build & Evaluate | v0.1 (2026-09-18) — PoC, untested |
+| `deploy-operate` | 5 Deploy & Operate | v0.1 (2026-09-18) — PoC, untested |
+| `review` | 6 Review | v0.1 (2026-09-18) — PoC, untested |
+
+All seven were built ahead of need on 2026-09-18 for a possible PoC demo (DEC-009); stages 2–6 are expected to change materially once a real project reaches them. Two entity types were added for the later stages: `ACT` (actions/backlog/milestones/runbook items) and `TEST` (evaluation cases with class and result).
 
 A skill defines: purpose and gate; interview stages; question strategy; follow-up and challenge rules; evidence requirements; things never to assume; syllabus mapping; entities it may create/update; confirmation protocol; completion criteria; handoff. Architect OS loads the skill as the interview's system prompt; Claude Code can run the same skill in the terminal.
 
@@ -76,3 +79,4 @@ Don't duplicate: the professional artefact is the lab and the evidence wherever 
 |---|---|---|---|
 | 0.1 | 2026-09-17 | Discovery pack (6 parts), trace table, lifecycle table defined | ChatGPT programme instruction; no project yet |
 | 0.2 | 2026-09-17 | Seven stages with explicit gates; Mobilise added; structured record with entity IDs; skills as stage methods; Architect OS as working interface; teach-in-context | Warwick's decision: OS first (visual/process learner; proven single-tab-and-iterate pattern) |
+| 0.2.1 | 2026-09-18 | Skills for all seven stages; ACT and TEST entity types; per-stage gate assessment, sessions and artefact renders; explicit gate override recorded on the record | Warwick: possible PoC demo — all tabs built ahead of need (DEC-009) |

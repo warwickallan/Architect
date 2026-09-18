@@ -62,20 +62,22 @@ function EntityRow({ e }: { e: Entity }) {
   );
 }
 
-export function Canvas({ rec, onChange, onDiscuss }: { rec: RecordData; onChange: () => Promise<void>; onDiscuss: (t: string) => void }) {
+export function Canvas({ rec, stage, onChange, onDiscuss }: { rec: RecordData; stage: number; onChange: () => Promise<void>; onDiscuss: (t: string) => void }) {
   const [showRejected, setShowRejected] = useState(false);
   const counts = ENTITY_TYPES.map((t) => rec.entities[t].filter((e) => e.status === "confirmed").length).reduce((a, b) => a + b, 0);
+  const pendingHere = rec.pending.filter((p) => p.stage === stage);
+  const pendingElsewhere = rec.pending.length - pendingHere.length;
   return (
     <>
       <div className="panel-head">
         <h2>Knowledge canvas</h2>
-        <span className="muted">{counts} confirmed · {rec.pending.length} pending</span>
+        <span className="muted">{counts} confirmed · {pendingHere.length} pending{pendingElsewhere ? ` (+${pendingElsewhere} in other stages)` : ""}</span>
       </div>
       <div className="scroll">
-        {rec.pending.length > 0 && (
+        {pendingHere.length > 0 && (
           <div className="section">
             <h3>I think I learned… <span className="muted small">confirm / edit / discuss / reject</span></h3>
-            {rec.pending.map((p) => <PendingCard key={p.pid} p={p} id={rec.meta.id} onChange={onChange} onDiscuss={onDiscuss} />)}
+            {pendingHere.map((p) => <PendingCard key={p.pid} p={p} id={rec.meta.id} onChange={onChange} onDiscuss={onDiscuss} />)}
           </div>
         )}
         {ENTITY_TYPES.map((t) => {

@@ -1,6 +1,6 @@
 # Dashboard
 
-**Updated:** 2026-09-17 · **Stage:** Foundation → P01 discovery · **Products:** P00 Architect OS (v0.1 built, smoke-tested) · P01 Tech PMO AI (candidate) · **Method:** v0.2
+**Updated:** 2026-09-18 · **Stage:** Foundation → P01 discovery · **Products:** P00 Architect OS (v0.2 — all seven stage tabs, PoC-ready; Discover smoke-tested) · P01 Tech PMO AI (candidate) · **Method:** v0.2.1
 
 ## Next action
 
@@ -24,9 +24,9 @@
 |---|---|
 | Lifecycle v0.2 (7 stages, gates) | defined |
 | Structured record (10 entity types) | first instance: P00 record, 30 entities |
-| `discovery-interview` skill | v0.1; smoke-tested (2 turns) — extraction, challenge and gate assessment behave as specified |
-| Stage 2–6 skills / templates | not yet (by design) |
-| Renderer (record → discovery pack) | built; P00's pack rendered to `discovery/` |
+| `discovery-interview` skill | v0.1; smoke-tested (3 turns) — extraction, challenge and gate assessment behave as specified |
+| Other six stage skills | v0.1 built 2026-09-18 for PoC (DEC-009); `opportunity` had one live turn; 2–6 untested |
+| Renderer (record → stage packs) | built for all seven stages; P00's packs render to `artefacts/` |
 
 ## Curriculum track
 

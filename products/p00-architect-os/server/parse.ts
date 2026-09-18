@@ -1,9 +1,9 @@
 /** Extract the ```record-updates block the skill appends to every reply. */
-import type { EntityType, GateCondition, GateState } from "./record.js";
+import type { EntityType, GateState } from "./record.js";
 
 export interface RecordUpdates {
   proposed: Array<{ type: EntityType; text: string; links?: string[]; tags?: string[]; objectives?: string[]; [k: string]: unknown }>;
-  gate?: Partial<Record<GateCondition, GateState>>;
+  gate?: Partial<Record<string, GateState>>;
   unlock?: string[];
   complete?: boolean;
 }

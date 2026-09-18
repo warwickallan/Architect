@@ -18,7 +18,7 @@
     "RSK": 3,
     "MET": 3,
     "REQ": 8,
-    "DEC": 9
+    "DEC": 10
   },
   "gateAssessment": {
     "validatedProblem": "met",

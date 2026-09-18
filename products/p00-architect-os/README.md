@@ -4,16 +4,16 @@
 
 The working interface for the delivery method. Conversational discovery over a structured project record, with a live knowledge canvas, gate progress as evidence conditions, and artefacts rendered from the record. GitHub is the durable store.
 
-## v0.1 scope — one tab: Discovery
+## v0.2 scope — all seven stage tabs (DEC-009, PoC)
 
-- Create initiative → conversational discovery interview (text; browser dictation optional)
-- Live knowledge canvas: extracted entities by type, each **confirm / edit / discuss** before it is committed
-- Gate progress: the Discovery Decision's evidence conditions, not a percentage
-- Artefacts: discovery pack rendered from the record
-- Interview method = `.claude/skills/discovery-interview/SKILL.md`, loaded as the system prompt
-- LLM via the local Claude Code login (`claude -p`) — no API key
+`Opportunity · Discover · Architect · Mobilise · Build & Evaluate · Deploy & Operate · Review`, unlocking left to right as gates pass.
 
-Explicitly out of scope for v0.1: any other tab, dashboards, architecture editor, exam/learning centre, multi-user, deployment off this machine.
+- Each tab: conversation driven by that stage's skill (`.claude/skills/<stage>/SKILL.md` as system prompt, one `claude -p` session per stage) · shared knowledge canvas with **confirm / edit / discuss / reject** on every proposal · gate panel with the stage's evidence conditions · artefacts rendered from the record to `artefacts/<n>-<stage>/`
+- Gate pass requires every condition *met*; **Override…** passes anyway and is recorded on the record as an override (for demos and judgement calls)
+- Twelve entity types: FACT PAIN HYP UNKNOWN STK SYS RSK MET REQ DEC + **ACT** (actions/backlog/milestones/runbook) and **TEST** (evaluation cases)
+- LLM via the local Claude Code login — no API key; `--strict-mcp-config` keeps a turn to ~500 context tokens
+
+Honest status: **Discover** has been exercised for real (smoke test); **Opportunity** had one live turn; **Architect → Review** are built to the method's definition but untested on a real project and expected to change. Still out of scope: dashboards, exam/learning centre, multi-user, deployment off this machine.
 
 ## Architecture decisions
 

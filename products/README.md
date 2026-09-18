@@ -4,7 +4,7 @@ One folder per product, each run through the delivery method (`method/README.md`
 
 | ID | Product | Kind | Stage | Note |
 |---|---|---|---|---|
-| **P00** | [Architect OS](p00-architect-os/README.md) | Tool (Project Zero) | 4 Build & Evaluate — **v0.1 built** | The working interface for the method. v0.1 = one tab, Discovery: interview · knowledge canvas with confirm/edit/discuss · gate · rendered artefacts. Run: `RUNBOOK.md`. |
+| **P00** | [Architect OS](p00-architect-os/README.md) | Tool (Project Zero) | 4 Build & Evaluate — **v0.2 built** | The working interface for the method: seven stage tabs unlocking by gate, conversation per stage, human-confirmed knowledge canvas, rendered artefacts. Discover is smoke-tested; stages 2–6 are PoC (DEC-009). Run: `RUNBOOK.md`. |
 | **P01** | Tech PMO AI *(candidate)* | Business product | 0 Opportunity | Becomes P01 **only if it passes discovery** — run through Architect OS `/discover`. Where the AB-410/AB-620 evidence comes from. |
 
 Nothing is pre-architected. The answer to "what should we build?" is produced by discovery, and *don't use AI here* is an acceptable answer.
@@ -23,10 +23,10 @@ Nothing is pre-architected. The answer to "what should we build?" is produced by
 pNN-<slug>/
   README.md        one-screen summary, stage, gate status, links
   record/          structured entities (JSON, one file per type) — the source of truth
-  discovery/       artefacts rendered from the record (01–06)
+  artefacts/       rendered from the record per stage: 0-opportunity/ 1-discover/ 2-architect/ …
   TRACE.md         problem → evidence → requirement → ADR → build → test → outcome → value
-  design/          architecture pack + ADR/ (from stage 2)
-  backlog.md, src/, tests/, runbooks/, evidence/   as the build needs them
+  design/ADR/      long-form ADRs (the record's DEC tagged `adr` is the register)
+  client/ server/ src/ tests/   as the build needs them
 ```
 
 ## Selection criteria (stage 0)
