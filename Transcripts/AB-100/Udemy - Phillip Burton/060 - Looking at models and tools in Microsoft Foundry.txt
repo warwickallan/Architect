@@ -1,0 +1,40 @@
+# Looking at models and tools in Microsoft Foundry
+# Udemy — Phillip Burton — AB-100 — lecture 060 (section 10: Agents and models in Microsoft Foundry)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In the previous video we created this agent which works on a particular model. So you can see the model that I'm currently using. Now for the remainder of this section we're largely going to be looking at models. So I've currently got two models which have been deployed and if I go into build models you can see here are these two deployments. But what other models are there? So if I go into the discover section we can see that we've got models and tools.
+
+[00:35] And if I click on models you can see that we've got over 11,000 models. And if I go into tools we've got 1500 which is a fair amount but isn't the totality of the connections that we've got in Copilot Studio. So let's go back to models. So in Copilot Studio we had access to a dozen models if that. Here we've got 11,000 and this is one of the major benefits of Microsoft Foundry. But which model to choose?
+
+[01:04] Well you can click on one for example I'll click on this GPT version. And we can see that we've got some information about it, pricing, technical specifications, training disclosures, distribution and more information. Now this is one of the much newer models so there is less information on this page about this model and in fact registration is required to use this model. So if I search for GPT and go to an older version then you can see we've got much more information about it.
+
+[01:46] So we can see technical specifications. Sometimes it's the provider has not supplied this information but we've got more information about it. We can click on deployments to see where it has currently been deployed. We can see certain benchmarks we'll have a look at those in just a moment. Responsible AI considerations and a license. So on the right hand side you can see the model provider, the type so different models have got different specialties.
+
+[02:16] Whether it is generally available or for example a preview or experimental. The input type again different models will have different input types and output type. And we can also see the pricing so if I click on that, that takes me to this open AI foundries pricing. But I found a better website is probably the open AI service pricing if you are looking at an open AI model.
+
+[02:47] So if I scroll down you should choose the relevant region and currency and you can see the pricing. So the pricing is generally in three parts. First of all the input part so this is the price per 1 million tokens. So you may remember that our communication with our agent in the previous video took around 2,000 tokens. So a token you can imagine a word being a token but it's not really that. It could be part of a word for example a syllable.
+
+[03:20] Cashed input is generally at about a tenth of the rate of input. So this is when it has used this input previously. And then we've got the output here you can see it's $14 per 1 million tokens for this particular model. Now if I scroll down to a different model for example the 4.1 series you can see that the pricing is much less for the output. So you need to weigh in multiple things before deciding what model you're going to be using.
+
+[03:54] So does it have the input type that you want? Does it have the life cycle? What about the pricing? So to help with this if I go into the overview section you can see that there is a model leaderboard. So we've got several things relating to the model leaderboard and if I go to the leaderboard itself we can see it in graphical form as well. So first of all we've got the quality index.
+
+[04:22] So this is an overall benchmark measuring model capabilities. We've got safety, so the average attack success rate for various behaviors. Throughput, the number of output tokens that are generated per second. And estimated cost per 1 million tokens. So for safety and estimated cost lower is better. For quality and throughput higher is better.
+
+[04:52] But this is one thing that you need to take into account. Other things as I say include can it do the job that you want? Does it have the right capabilities? If I go back to the model section then you can see underneath each of the model what the capabilities are. Now it would be nice if I could say I wanted to see all of the chat completion models. So that is a capability.
+
+[05:21] So I'll just expand capabilities. But you can see out of 11,000 models we've got around 300 models there. So if I check one of these capabilities I'm going to get a very small subset of the models. Now let's go into tools and you can see there are around 1500 tools at the time of recording. This will continually increase. So let's have a look for OneDrive and we can see that we've got four results. So we can connect to OneDrive to manage files.
+
+[05:54] We've got an MCP server and we've got access to Excel online on the OneDrive. If we go to SharePoint we can see that we've got an MCP server again and access to SharePoint lists. And if we look at Outlook then again we've got access to an MCP server. So there are much fewer tools than we saw in CoPilot Studio.
+
+[06:23] For example there were around 40-50 tools for Outlook including send an email. So this is one good thing about the model context protocol being made more popular. It's expanding the range of tools that Foundry can use. But it doesn't have all of those specific tools like send an email in Outlook. You're going to have to use something like an MCP server to do that. So in this video we've had a look at how you can compare different models.
+
+[06:56] So you can click on a model and go to benchmarks for example. If there is benchmarking data available for that model. You can see the different capabilities that a model has. For example audio generation, messages, responses. So to take a few examples chat completion are language models optimized for conversations. They're not just prompt response but conversations.
+
+[07:25] With a thread history, with a system role. So this is you are an agent that does this and messages. So that is part of a conversation. So that allows you to control the behavior. So what's the difference between chat completion and responses? Well this is an expanded version of chat completion. Microsoft says that it brings the best capabilities from the chat completions and assistance API. Application programming interface.
+
+[07:54] Together with the code interpreter tool. Which can write and run python code in a sandbox environment. Support for the computer use tool. You remember it wasn't available when we looked at it. And connection to model context protocol servers. It's also able to generate and edit images using text and image inputs. For other agents capabilities include messages, audio generation, video generation, embeddings. So that's converting information into vectors.
+
+[08:26] Vectors represent semantic meaning. And therefore you can compare different vectors like dog and puppy. Summarization, speech to text, text to image, image to image, data generation and image classification. And in this video we've also had a look at some of the tools that you can use with Microsoft Foundry. While there are not as many as you can use in CoPilot Studio. Because a lot of models allow you to use model context protocol.
+
+[08:56] That allows your agents in Microsoft Foundry. Hopefully the tools that they need.

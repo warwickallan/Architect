@@ -1,0 +1,12 @@
+# 11a, 37, 57, 64. Custom models
+# Udemy — Phillip Burton — AB-100 — lecture 064 (section 10: Agents and models in Microsoft Foundry)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're going to have a look at custom models. Now you may be saying but we've already had a look at fine-tune models and that is what I believe the exam requires you to know. However two days before I started recording this video Microsoft released a preview called custom models. Now this is an alternative way of creating custom models using the Fireworks inference runtime. So custom models allow you to experiment with the latest open source high performance models even before they're generally available on Microsoft Foundry.
+
+[00:36] They allow you to import or deploy custom model weights so you can decide what should be important for the model which it should have more weight on and you can also scale up so allow more people to use the custom model by using provisioned throughput so you can say this is how much throughput is going to have. Now custom models are not available in all regions. At the time of making this video it is available in six US regions and they are excluded from EU data boundary commitments.
+
+[01:10] So the files that you need to set up as part of the Fireworks inference are a model directory with config.json containing model configurations such as architecture and hyperparameters. Files with the safe tensors or bin extension so at the end.bin for example which contain the model weight fields. Files with the index.json extension containing weight shards maps and files starting with the word tokenizer. You would then go to models custom models and click add custom model. You would give a name for your custom model which are based on model architectures including DeepSeq, Kimi, KLM, OpenAI and Quen or Chuen and once you have done that so I'll select DeepSeq then you can run some code in the Azure Developer CLI the command line interface to upload your files.
+
+[02:12] After that you can deploy it and use it like any other model. So this is how you can create custom models using the Fireworks inference runtime. So you create a model directory offline you give it a name you say what base model architecture you want to use and then you can run a command using the CLI command line interface to upload your files.

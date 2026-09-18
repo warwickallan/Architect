@@ -1,0 +1,28 @@
+# 33. Apply the Microsoft Power Platform Well-Architected Framework
+# Udemy — Phillip Burton — AB-100 — lecture 095 (section 15: Create agents which use the Power Platform)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video, we're going to have a look at the Microsoft Power Platform Well-Architected Framework. It is intended to help improve the quality of your workflow. It aims to improve your design and outcomes using best practices, give you an understanding of risks and trade-offs, and improve your workload over time. However, everything within the Power Platform Well-Architected Framework needs to be compared with your business requirements and limitations. It uses five pillars, the first four of which are also used in the Azure Well-Architected Framework.
+
+[00:36] Reliability, Security, Operational Excellence, Performance Efficiency, and Experience Optimization. So let's have a look at these pillars in turn. First of all, we've got reliability. So this is resiliency, availability, and recovery. So some of the principles include design for business requirements. So user experience, workflows, data, and other features. You need realistic goals, expectations, and budget, and backing from relevant stakeholders.
+
+[01:12] Design for resilience. It should identify faults and outages for components, and you can use failure mode analysis or FMA. It should also compensate for them, for example, with error messages and steps for the user. Design for recovery. You should create recovery plans with specific targets and test these plans. Ensure that everyone who needs access to them has them. For example, support and operations team.
+
+[01:42] It's no good if something bad happens and the people who need access to them don't have them. Do not leave it until there is a problem to inform people of your plans. Design for operations. Incorporate monitoring so you know what errors or failures are happening, when they happen, and why. And do not make it more complicated than it needs to be, or keep it simple. Use your business requirements to remove or not include features or components that you don't need.
+
+[02:15] The next pillar is security. Data protection, threat detection, and mitigation. So principles include. Plan your security readiness. Have clear processes and responsibilities, together with the necessary resources. Design to protect confidentiality. Do not let unauthorized people have access to data. Ensure integrity. Use controls to stop unexpected changing of business logic, flows, deployment processes, data, or external components.
+
+[02:51] If any of these change unexpectedly, then this might lead to a breach. Ensure availability. Ensure sufficient availability guarantees, both for your applications, data, and external systems. And review security. Incorporating security is not just a one-off process. It needs to be reviewed and re-reviewed. The next pillar is operational excellence. So monitor to ensure standards with safe deployment practices.
+
+[03:24] So first of all, you should look at fusion development. You can scale application development using low-code, enabling faster and better applications. This brings together professional developers with low-code or citizen developers. Low-code can then be combined with code-first components, creating fusion applications. Use DevOps practices. Use your company's shared knowledge. Have goals and priorities which align with your business requirements, goals, and needs.
+
+[03:58] Have shared responsibilities between your IT professionals and citizen developers. Incorporate your standards. So we're talking style guides, technology or coding standards, and tools to help with consistency and maintenance. These should be checked with your quality assurance team. Improve operations using monitoring and insights. Good monitoring can reduce the time needed to react to problems.
+
+[04:28] Deploy with confidence using safe deployment practices, with tools that allow you to do this with automation, testing, monitoring, and versioning. And automate for efficiency. Removing repetitive tasks to AI frees your staff to do more creative work and can reduce errors. The next pillar is performance efficiency. Put the user first.
+
+[04:55] You should measure against realistic performance targets for your application, ensure that performance does not reduce over time, and optimize and increase efficiency. The final pillar is experience optimization. Put the user first with the user experience. Find out what your users needs and wants are and design the best solution to solve their problems. Involve users while you design the solution and get feedback.
+
+[05:32] Make sure that your solutions are inclusive and can be used by users with different cultures, context, backgrounds, and disabilities. Use consistent user interfaces across multiple platforms and screens. Make the interface coherent, consistent, and intuitive. Focus on what is important to the user and make it straightforward. Provide feedback to the users including progress bars and an indication that their input is being used.
+
+[06:08] And do the important things first and then build as necessary. And you can use the Power Platform Well-Architected Review to assess your workload using multiple choice or multiple response questions. Receive guidance based on your replies. You can use it multiple times and see how your score changes. So in this video we've had a look at the Microsoft Power Platform Well-Architected Framework with its pillars of reliability, security, operational excellence, performance efficiency, and experience optimization.

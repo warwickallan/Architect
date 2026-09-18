@@ -1,0 +1,16 @@
+# 10, 19. Determine when to build custom agents or extend Microsoft 365 Copilot
+# Udemy — Phillip Burton — AB-100 — lecture 084 (section 14: Using agents in Microsoft 365)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're looking at the difference between buy, build or extend. When to build custom agents or extend Microsoft 365 CoPilot. So let's start with extending. So extending Microsoft 365 CoPilot largely means adding additional systems that CoPilot can access. So if I go into the Microsoft 365 admin center and then go to settings. Now we can't see a setting so I'm going to have to click on show all and there we can see settings and then search and intelligence and go to the data sources tab. You can then click on manage CoPilot connectors.
+
+[00:42] We can go to the gallery tab. We can find the relevant service. Click add and enter the details. There are over 100 prebuilt connectors which can connect to both Microsoft and non-Microsoft services like Azure, Box, Confluence, GitHub, Google, MediaWiki, Sales and ServiceNow. So it allows you to use data from enterprise systems, customer relationship management, line of business databases and knowledge management systems.
+
+[01:19] You can analyze and summarize data from those sources and you can use CoPilot in Microsoft Search and ContextIQ to integrate this into CoPilot. The external data is then either brought into the Microsoft 365 service boundary and is then indexed. These are called synced connectors or connect to in real time. These are called federated connectors using Model Context Protocol, MCP. There no indexing is required. Now building refers to creating your custom agent.
+
+[01:57] Now this goes beyond what we have looked at in the course. You can use code using Microsoft 365 Agent Toolkit, Visual Studio and Visual Studio Code and GitHub. Now as this will need code to work this option is for developers and you will need a Microsoft 365 CoPilot license. Now buying refers to subscribing to Microsoft 365 CoPilot in the first place and employing external companies to create an agent for you. You should use this when you don't have the skills within your existing organization to efficiently create the agents.
+
+[02:35] So questions to ask about buy, build and extend include are we able to build this? What is your team's expertise? What are the time restrictions? And if you do have significant time restrictions then you might only have time to buy. Is it available elsewhere already? If so buying it can be convenient. And is our existing technology compatible with AI? If so then consider buying or extending. If not, if your technique is unique or proprietary then you might need to build custom AI models.
+
+[03:15] So in this video we've had a look at when to build custom agents or extend Microsoft 365 CorPilot and so analyze whether to build, buy or extend.

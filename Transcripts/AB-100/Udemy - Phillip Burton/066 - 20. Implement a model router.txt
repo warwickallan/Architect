@@ -1,0 +1,22 @@
+# 20. Implement a model router
+# Udemy — Phillip Burton — AB-100 — lecture 066 (section 10: Agents and models in Microsoft Foundry)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're going to use multiple prompts with the same interface. So it might be that some of your prompts would be more suited to one model than another. Models have got different strengths and weaknesses. So what we can do in Microsoft Foundry is use a model router. So this then sends your prompt to the most suitable LLM. This should reduce costs and latency, increase responsiveness, maintain quality and you can do this only using a single model deployment. Well almost.
+
+[00:37] The model router comes with access to multiple models and you won't actually need to install any of the underlying models apart from Claude if you want to use Claude. That one will need to be installed. Some of these models are in preview, you should note that some of these models are in preview and the context window limit for the models as used in the model router or router may be smaller than the full model. So let's install this in Microsoft Foundry.
+
+[01:07] So I'm in discover, models and I will say model router or router and here you can see that model. If I scroll down you can see the various models that are supported. Do bear in mind AI is rapidly moving and so you may have a different list. So I'm going to deploy this model. So I'll go to deploy and I can use the default settings or I can use a custom settings. So let's use the custom settings.
+
+[01:38] So we've got the deployment name and the deployment type. First of all there is global standard. Data can be processed anywhere in the world and then data zone standard. The disadvantage of this, so data might be processed anywhere within the Microsoft specified data zone but data storage remains in the AI resources Azure geography. So I'm going to use global storage.
+
+[02:06] You can if I expand the model router or router configuration, you can change the routing or routing mode. So do you want the most optimal cost, most optimal quality or a balance between the two. In this example I'm going to use quality because I want to ensure that it goes to the best LLM regardless of the cost. I can choose a version and I can use all supported models or a subset of the models. So I'm going to route or route to a subset of the models and I will select the versions.
+
+[02:43] So I will use a DeepSeek and a Claude model. As you can see there is a model version upgrade policy. So what happens if the model gets upgraded and the only option at the moment is upgrade once new default versions become available. You can also limit the number of tokens that will be used per minute and say which guardrails are going to be used.
+
+[03:12] We'll have a look at guardrails later on in this course. So I will click deploy and you can see that there is a problem. Claude is not already deployed. As I've already said if you want to use Claude you already need to have deployed it. So let's change Claude and substitute in another model say the GPT Nano. So let's deploy and this will just take a few seconds.
+
+[03:42] Now let's see what happens when we add a query. So let's add the query hello and you'll see that this is being tackled by the GPT Nano. Now if I was to do something a bit more complicated. For example implement a Monte Carlo tree search algorithm from scratch in Python to PlayConnect4. So let's run this and this will use a different model because the GPT Nano model is not ideal for this and so it will use DeepSeek.
+
+[04:19] So in this video we've had a look at the model router or router. It allows us to have one single model which then calls on multiple models and it looks at what is best for the query.

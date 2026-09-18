@@ -1,0 +1,34 @@
+# 8, 27. Define the solution rules and constraints using instructions
+# Udemy — Phillip Burton — AB-100 — lecture 019 (section 3: Creating Copilot generative AI single-agents)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In the previous video we created an agent using generative AI orchestration. Unfortunately it does make mistakes. So I have said how much leave does that employee have as an allowance and it has assumed that the employee is me. Now we have removed external sources other than the spreadsheet so you can see the reference source is just a spreadsheet. And if I click on rationale you can see that it is retrieving leave allowance data for me. So how can I say that I want it to double check who the employee is unless it is 100% sure?
+
+[00:40] Well let's go back to the overview tab. So we have got the name and description. As before you can click on edit to edit them. We've got the agent's model, we'll be looking at that later. And we have got these instructions. Now these have been created by the computer automatically when I entered my initial prompt of what I wanted the agent to do. And I can click on edit to edit them. So you can see you can go up to 8,000 characters in the instructions.
+
+[01:11] It uses markup language. So markup language has a hash or pound sign to indicate a heading 1. So in other words this is a heading for everything that follows. You can see two hashes or pound signs indicates heading 2. So we've got a heading 1 and within that we've got multiple headings 2. Then we have got this hyphen at the beginning. This indicates a list. And using lists is good either bulleted or numbered to separate items or actions.
+
+[01:45] So what are some best practices when creating instructions? Well you should use simple language. Avoiding jargon, slang or technical terms unless you explain those terms. You should use the present tense. So in other words do this, locate, search as opposed to you will do this future tense. Use the active voice. So this agent does this action instead of this action is done by this agent. You should give rules as to what the agent should not do.
+
+[02:18] For example if the agent is unsure of the answer say don't guess. For example it should say I'm sorry I don't know the answer or do you want this escalating or I think it's this and my confidence level is this much or here are my data limitations. In the instructions you should define the tone and personality whether it is formal or conversational, how the user should be addressed, whether technical jargon should be used or avoided and whether it should show chain of thought processing.
+
+[02:52] So in other words step by step or show the structure for the answer. Now when you think about designing an agent to begin with you might want to create a user story to specify the scope. So for example as a data analyst I want the agent to look at this data and produce a summary so that I don't have to do this manually or so I can do other things such as augment it. You might want to define success criteria so when this agent is successful then it does this when the user does that and you might want to start from a minimal viable product an MVP covering the most important use cases and then add additional or features later.
+
+[03:41] And all prompts must follow your company's responsible AI guidelines and we'll have a look at some responsible AI principles later on. So let's have a look at these instructions and we can see that the problem is in this identify employee section so it should ask the user for the employee id or email address. Now as we saw in the previous section it could be that the computer is thinking that it is matching my name with a name which is within the spreadsheet and going this is Philip there's only one Philip therefore this must be the answer.
+
+[04:17] But I did say how much leave does that employee have as an allowance. I haven't specified which employee so let's see if we can make this a bit tighter. So let's say something like do not assume that the employee is the logged in user. Do not use the user's identity email address or login context to infer the employee unless the user explicitly uses first person terms such as me, my leave or I.
+
+[05:01] If ambiguous terms are used like that employee, the employee or they ask the user to specify the employee name or id before proceeding and I might also say always ask the employee to specify the employee name or id before proceeding. So Copilot Studio works well with examples.
+
+[05:40] So I could say examples and let's put in three lines so I'm indenting the numbering user. How much leave does that employee have? Assistant, I need to know which employee you mean. User, how much leave do I have? Assistant may be able to infer what the employee is from the logged in user.
+
+[06:21] Now one other thing before I will test it. It says retrieve and interpret data from the uploaded spreadsheet and we indeed have uploaded a spreadsheet as knowledge. Now it would be better if we said which spreadsheet that is. We might have several spreadsheets. So I'm going to say the leave allowance spreadsheet. So let's test this. So I'll click save so it is processing the request. We just need to wait a few seconds and then I will start a new test session and I will copy this sentence and use that as the prompt again.
+
+[07:02] So let's see if there's any difference. And you can see it is so ambiguous that the computer is saying I'm sorry I'm not sure how to help with that. So it has had a look at this spreadsheet and then went I'm sorry I just don't know. And this is part of the thing with generative AI orchestration. It may be that you don't get the same answer each and every time. So if I try it again and maybe instead of saying that employee have an employee I might get a different response.
+
+[07:39] So again it's looking at the leave allowance and this time it is asking for the employee's name, ID or email address. So I will say Susan and then I should get the answer of 29 vacation days and 4 sick leave days. And if I ask the question again how much leave do I have?
+
+[08:11] Then hopefully it will look at who I am logged in as and give me the answer. But you can see no it doesn't. Please share your employee ID or email address. So there's quite a bit of testing that needs to be done with any changes so that there's nothing unanticipated that might happen with other prompts. So in this video we've had a look at the instructions to an agent. We've seen that they are organized using the markup language.
+
+[08:41] So that's using these pound signs or hashes and these hyphens to create lists. And we've seen that you should use simple language, the present tense, the active voice and you should specify when particular data sources, actions, tools, topics and agents should be used in the instructions.

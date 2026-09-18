@@ -1,0 +1,16 @@
+# 22. Design customizations of Copilot in Dynamics 365 apps
+# Udemy — Phillip Burton — AB-100 — lecture 100 (section 16: Add Dynamics 365 CRM into a Copilot Studio agent)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're going to design a co-pilot customization for a Dynamics 365 app. Now as we said before we're going to make these things as simple as possible. So this customization is just going to run a topic based on a question. So I'm going to say what is the WXY? And obviously CoPilotChat has no idea what the WXY is because it is something I've just made up. So it is going to be searching tables and columns and then giving up.
+
+[00:35] So let's program our CoPilot agent to answer that question. So I'll go back into CoPilot Studio make sure you are in the correct environment and I'll go to agents and select the agent that I want. So in this case CoPilot in Dynamics 365 sales and I will go to topics. So you can see there are an awful lot of topics here which you cannot modify because they are managed and non-customizable.
+
+[01:04] So while we can't modify existing topics we can create a new topic. So let's create a new topic from blank. So the trigger is what the agent chooses. What does the topic do? So this topic is to be used if someone asks what is the WXY? If that happens then I'm going to send a message saying the WXY is currently okay.
+
+[01:39] And then I'm going to end the conversation. So I will go to topic management and end conversation. So it is a very simple topic. Obviously you can make the topics as complicated as you want. So this is just to show the principle that you can add new topics. So let's call this the WXY topic and let's save this topic. And now let's publish this updated agent.
+
+[02:12] So now let's go back into Dynamics 365 and refresh this page. So we get hopefully the latest version of this co-pilot agent. And then let's ask the question it couldn't answer before. What is the WXY? And we'll get the answer the WXY is currently okay. So now that we've created a topic we can use it to do much more than that. It can interact with the end user using for example questions and conditions.
+
+[02:48] Maybe going to other topics using a tool and much more. So in this video we've had a look at how we can customize co-pilot in a Dynamics 365 app. We can go to the agent, add a new topic and then save and publish the topic.

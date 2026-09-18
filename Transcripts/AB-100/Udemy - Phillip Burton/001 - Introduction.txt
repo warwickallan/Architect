@@ -1,0 +1,14 @@
+# Introduction
+# Udemy — Phillip Burton — AB-100 — lecture 001 (section 1: Introduction)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] Hi there everyone, welcome to this Copilot course. With over 20 years of experience in data across a range of industries, I know what it takes to be effective. I'm Philip Burton of idodata.com and I'll be your instructor for this course. Data is all around us.
+
+[00:35] The ability to use AI and create agents is the key to increasing your organization's productivity. These agentic skills are now at your fingertips. This 10-hour Agentic AI Business Solutions Architect course covers all of the requirements for the AB100 exam. We'll start by creating AI solutions which involve a single agent. We'll look at classic and generated AI orchestrated agents, adding key phrases to a trigger, creating instructions and knowledge sources, and more.
+
+[01:11] We'll then look at autonomous agents which run based on an event, agents which use other agents, tools, model context protocol servers, and computer use tools. We'll also look at how to analyze, monitor, and tune AI-powered business solutions. Finally, we'll then look at other services which can use AI agents. We'll look at Microsoft Foundry, create custom models, use Foundry tools, and implement security and governance. We'll see how we can create agents in Microsoft 365 and SharePoint, and how we can use AI in PowerApps and the AI Hub, and how to modify existing agents and more in Dynamics 365.
+
+[01:56] This agentic course comes complete with regular quizzes, practice activities, and practice tests to support your learning along the way. By the end of the course, you'll be much more confident about creating agentic AI business solutions, and with a bit of practice, you'll be able to take and hopefully pass the AB100 exam. That would look great on your CV or resume. In the next video, we'll have a look at how we can make the most of the Udemy interface, and then we'll drill down into the detail of this course.
+
+[02:30] Remember, I do data, and so can you. Okay, let's make a start.

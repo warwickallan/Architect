@@ -1,0 +1,26 @@
+# 32. Design a business process to include AI in a Power Apps canvas app
+# Udemy — Phillip Burton — AB-100 — lecture 093 (section 15: Create agents which use the Power Platform)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video, we're going to add AI components into a Power App canvas app. So what is the difference between a model-driven app, which we have used in the last few videos, and a canvas app? Well if I open this model-driven app, you can see that it is very column-based and I'll be able to drag columns around, click on any of these items in this list and have a look at this form and then edit it.
+
+[00:30] Canvas apps are quite different, they are what's called pixel-perfect, so you can put individual components exactly where you need them to be. So let's create a canvas app. So I'll go to apps, and then new app, start with a page design, and I'm going to create from blank. So you can see other templates are available here, but I'm going to start from the very beginning. So I can either have a responsive canvas app, a tablet size, or a phone size.
+
+[01:02] So for the purposes of this video, I'm going to have a phone size. These two are much simpler to use than a responsive size. So let's click on phone. So this will just take a few seconds. And here we have got our blank canvas app. So there's plenty of things that I can insert. I can also add data from Dataverse tables, but I'm going to do a really simple canvas app for this example.
+
+[01:32] It's just going to have the AI component. So I'll go to insert and AI builder, and here you can see the components that we can add. A business card reader, a receipt processor, a form processor, an object detector, and a text recognizer. Well I'm going to insert a business card reader. So I just need to wait a few seconds and then it will appear. So you can see anyone using this app will need an AI builder license because this is a premium component.
+
+[02:10] So what I can do now is scan a business card. So if I play this app, click on scan business card, and I can now select my business card image. This is available in section one of this course. It is attached to the resources lecture. So let's click on that and click open. So what the component is doing is not just loading the image, it is also analyzing it as well. So I will stop playing and click okay, and we can still see that we've got this image loaded.
+
+[02:44] I'm just going to select it and resize it so we can see it a bit better. So what can I do to access the information which is contained within this business card reader? Well, I can insert a text label. So here is my text label, and this business card reader is currently called business card reader one. I can edit it if I want to by clicking on this pencil icon, but instead what I'll do is click on it, and in the text property, at the moment it's got a string literal, in other words, this is the text I want you to display called text, and it is enclosed by speech marks.
+
+[03:27] So instead I'm going to delete everything including the speech marks or double quotation marks, and I will say business card reader one, press tab to complete, dot, and here is the information that can be obtained from a business card. So I will say dot email, and here we can see the email from the business card. So I can change that to dot and scroll down, first name or full name, or maybe I want the address city. And what you can then do is use that information to save a row in Dataverse or send it elsewhere.
+
+[04:11] And if you save the row in Dataverse, you could then use that in conjunction with an autonomous agent, which has a trigger of add a new row into Dataverse. However, we don't need to go into this level of complexity for this course. So what I'm going to do is save this app. So this is a business card app, click save, and then go back. I might need to click on save and don't save to be able to exit this designer.
+
+[04:44] Now this is one way that we can include AI components in a Power Apps canvas app. The other way is by using the AI hub, and this is on the left hand side. So if I click on AI hub, and then AI models, and then click on all, we can see that we've got AI models such as the business card reader, extract information from business cards. Now if I click on this, you can see a preview of what it would look like.
+
+[05:16] So here are some business cards, and here is the information that was extracted from it. At the bottom right hand corner, I have got use prebuilt model. I can either use it in a Power Automate flow or in a canvas app. So if I click on use in an app, then a new canvas app is created which includes this AI component. And from there, I can extract the information as before by inserting a text label for example.
+
+[05:51] So in this video, we've had a look at how we can include AI components in a Power Apps canvas app. So you create the canvas app, and then you can insert the AI component by going to AI builder and inserting one of these components.

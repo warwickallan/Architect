@@ -1,0 +1,20 @@
+# Signing into Microsoft Copilot Studio
+# Udemy — Phillip Burton — AB-100 — lecture 007 (section 2: Creating Copilot Studio classic orchestrated single-agent)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] Hello, and in this section we're going to be signing into Microsoft CoPilot Studio and creating a basic agent. So what is Microsoft CoPilot Studio? Well it allows you to complete tasks and execute processes with agents. So the agents are the one which are handling all of the input and then giving an output.
+
+[00:31] Agents are expert systems that work on behalf of people or businesses using natural language and generative AI. So agents are at the heart of Microsoft CoPilot Studio. In fact it used to be called Microsoft Virtual Agents. Now please note that CoPilot is the name of Microsoft's artificial intelligence and Microsoft have put CoPilot in a lot of other applications such as the Power Platform, Power BI, Fabric and there's also one called Microsoft 365 CoPilot Studio which is to do with Microsoft Office.
+
+[01:09] This however is a standalone CoPilot maker. Now how much does Microsoft CoPilot Studio cost? Well if I click on see plans and pricing we can see that there is a pay-as-you-go version and there is a pay monthly where you can buy 25,000 messages per month for 200 US dollars. So that equates to 0.8 US cents per message.
+
+[01:38] So a message is a communication to and from the Microsoft CoPilot Studio. However depending on the complexity of the message then it may cost one message, it may cost multiple messages. So compared to 0.8 US cents per message the pay-as-you-go option costs 1 US cent per message. So if you are looking at a test environment, if you're looking at something which is fairly low volume then you'll probably be better off with the CoPilot pay-as-you-go version as opposed to the 200 dollar per month CoPilot Studio.
+
+[02:15] That can be extended. You can buy additional 25,000 messages blocks so you're not just limited to 25,000 messages. So let's go back and click on try for free. Now notice that you need to enter a work or school email address so you can't choose a personal email address like at hotmail.com for example. In the next video we'll have a look at how you can get a work email address if you don't already have one.
+
+[02:46] So I'm going to type in my email address and if I didn't have an existing account then it would ask me to create the account but I do so I'll click next. So the computer wishes to know that I am not a robot so I'll just solve its problems. That's called a capture.
+
+[03:14] And now I can sign in using my existing account. So you can see I already have a license for Microsoft CoPilot Studio. If I didn't then I would be granted one and I'll now click on get started. And here you can see I have now successfully logged into CoPilot Studio. So in this video we have signed into CoPilot Studio. In the next video we'll have a look at how you can get a free work email address if you don't already have one.
+
+[03:45] If you have been able to sign in successfully to CoPilot Studio then you can skip the next video.

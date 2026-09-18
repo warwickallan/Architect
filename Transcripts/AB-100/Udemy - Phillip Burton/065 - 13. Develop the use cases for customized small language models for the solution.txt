@@ -1,0 +1,24 @@
+# 13. Develop the use cases for customized small language models for the solution
+# Udemy — Phillip Burton — AB-100 — lecture 065 (section 10: Agents and models in Microsoft Foundry)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video, we're going to have a look at the use cases for customised small language models. So we've seen in the previous videos how you can create fine-tuned models, but we've been largely concentrating on large language models or LLMs. But what about small language models, SLMs? So there are two in particular I want to draw attention to. There is the PHI model, P-H-I. So what makes the PHI model to be a small language model?
+
+[00:34] Well, it's where the number of parameters, these are internal variables like weights and biases, which are developed during training, are measured in the few billions. So here you can see this particular model, 2.7 billion, not hundreds of billions or thousands of billions, in other words, trillions or more. Now, what do parameters do? Well, more parameters allow for greater complexity of response, but they also need increased processing time.
+
+[01:06] So PHI is an SLM. Another well-known SLM is Mistral. For example, Mistral Small. Now, do bear in mind that these models do come in a range of sizes. They're not all SLMs. So if I click on Mistral NEMO, for instance, that is an LLM. So what are the advantages of using an SLM? Well, they can include fast response time, so reduced latency. They are designed in accordance with Microsoft's six AI principles.
+
+[01:38] You can deploy them on a cloud or on your local machine. You don't even need a cloud connection to use them. This is called MAAS, model as a service. It can use pay-as-you-go billing using APIs, application programming interfaces, or you can use it for free using the Azure AI model catalog. They are so small that they can be stored on smartphones and other mobile devices. Other advantages of using an SLM can include multi-modal capabilities, so they can accept text, vision, and audio inputs.
+
+[02:14] They are lightweight and resource efficient. They are customizable. You can fine-tune it with your own data. And of course, it's easier and more affordable using SLMs to fine-tune because there's not as much processing that needs doing. Fine-tuning is not essential if you want to use the base model, but it is needed to create a model based on your own data. And you can still use Microsoft's AI content safety features like prompt shields, protected material, and groundedness detection.
+
+[02:46] And we'll be looking in a later video in more depth about these. So if that's when you should use an SLM, when should you use an LLM? Well, you should use it where you need more advanced reasoning, in-depth knowledge retrieval capabilities, data analysis, and understanding of context. You should use an LLM when you need to reason over larger amounts of data. So more useful for drug discovery, for example, reading huge amounts of scientific papers.
+
+[03:16] You should use an LLM when you have a complicated task, which can then be broken down into smaller tasks and then smaller. And when you want to use retrieval augmented generation rather than fine-tuning. RAG, or retrieval augmented generation, uses your work data to assist with creating a response. So those are the advantages of SLMs and LLMs. But when would you actually use an SLM? Well, they're useful when you need the data to be retained in your organization, for example.
+
+[03:49] So you might have regulations for certain industries. They can be useful for when you don't necessarily have connectivity to the internet, for example, in rural situations. They can be useful in autonomous systems when you need low or ultra low latency. For example, if the SLM is on your own computer, the latency will be significantly reduced compared to sending data to the cloud. They can be useful when you have high quality data.
+
+[04:18] This allows it to produce high quality responses based on your data. They can be useful when you have increased context length. So you can give it longer documents, web pages, and code. They can be useful when you want the cost of using AI to be cheaper, especially on simpler tasks, yet still have the model to be efficient. For example, where it does not require extensive reasoning. SLMs are particularly useful at math problems.
+
+[04:46] And because they're more efficient, they have improved environmental sustainability. CO2, for example, because of less compute. So what would you do with an SLM? Well, tasks can include summarizing a document, retrieving insights and trends from reports, creating product descriptions or social media posts, and answering basic questions about a subscription or upgrades. So in this video, we've had a look at some of the use cases for customized small language models.

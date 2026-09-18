@@ -1,0 +1,16 @@
+# 47. Orchestrate the configuration of Microsoft 365 Copilot for Sales/Service
+# Udemy — Phillip Burton — AB-100 — lecture 098 (section 16: Add Dynamics 365 CRM into a Copilot Studio agent)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're going to have a look at the configuration of Microsoft 365 Copilot for Sales and Copilot for Service. To use Copilot you will need to have a paid for not a trial license. Additional functionality may be available in higher level licenses. For example if you had Dynamics 365 Sales Enterprise Edition then you would have additional Copilot functionality. So to set up the configuration of either Microsoft Dynamics 365 Copilot for Sales or Customer Service go to the sales hub. So if I click on the top then we can see the sales hub. Now it might be called the sales trial if you've got a trial edition.
+
+[00:45] And then we can see on the left hand side all of the things we can do but at the bottom left we can change this list to a different area. So I'm going to go into app settings and then we can see general settings Copilot. Now if you can't see Copilot and that happens for example if I'm in Dynamics 365 Sales and I go to app settings we can't see Copilot there but I could search for sales Copilot to get the same result. Now here you can see we can turn Copilot on, off or use the default settings for individual apps.
+
+[01:30] The default settings is on for companies in regions where an Azure OpenAI service endpoint is available which provide consent for data movement across regions and which select the monthly release channel for this sales app. So I'm just going to turn it on globally for all sales apps. You can also modify it for individual apps as well. You may be able to turn audit on which allows Copilot to summarize changes since the seller last logged on or in the past seven days and to turn Dataverse search on so that sellers can search for records. So I will click save.
+
+[02:14] You may also be able to turn audit on which allows Copilot to summarize changes since the seller last logged on or in the past seven days and to turn Dataverse search on so that sellers can search for records. In the knowledge sources tab you can narrow down what SharePoint locations Copilot will use. So if you don't have any SharePoint locations added then all of the users SharePoint sites, libraries and folders will be used.
+
+[02:45] So we can click on configure SharePoint locations to narrow down the list. The other tabs opportunities, leads and accounts will allow you to configure which fields Copilot can use. You can also check the show the opportunity summary as a widget in the opportunity or leads or account form. So in this video we've seen how we can configure Microsoft 365 Copilot for sales and for service.
+
+[03:21] So we go into the app settings area, look for Copilot, search for it if needed and then we can set it up and use whatever fields we want for opportunities, leads and accounts for Copilot to use and narrow down the knowledge sources. Now at the top you'll notice that it says auditing is currently off, turning it on will allow Copilot to summarize the changes. So I'm going to click turn audit on as well.

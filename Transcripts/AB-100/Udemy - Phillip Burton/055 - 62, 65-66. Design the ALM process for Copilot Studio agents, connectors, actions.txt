@@ -1,0 +1,26 @@
+# 62, 65-66. Design the ALM process for Copilot Studio agents, connectors, actions
+# Udemy — Phillip Burton — AB-100 — lecture 055 (section 9: Analyze, monitor, and tune AI-powered business solutions)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're going to have a look at various ways where we can export an unmanaged solution from one environment to another. So I'm going to export the ab-100 dev solution. So I can check on it and go to export solution. Now you should before exporting it click on publish. So this publishes all customizations. So you can do that by clicking on publish in the new pane or before you check any solutions you could click on publish all customizations.
+
+[00:33] So this will just take a moment. So now it has been published let's click on next. So next it checks for any missing components and if any are missing it invites you to add to solution. It says that some default templates should be installed but I'm just going to ignore that for the moment and click next. We then need a version number so you can see the current version number is 1.0.0.0 it has changed it to 1.0.0.1 you can change this further.
+
+[01:08] And then you need to select whether you're going to export this so it can be imported as an unmanaged solution or a managed solution. So I'm going to say it's going to be a managed solution and click export. So this is going to just take a bit of a while. You can see it is currently exporting this solution. So alternatives to exporting a solution include cloning it. So I can clone a patch or clone solution.
+
+[01:37] So clone a patch represents a very small minor update to a solution. Clone a solution represent more wider changes but generally you would export and import a solution. So now you can see it has been exported successfully. So I can click download and it downloads as a zip file. And then I can go into my new environment. So ab-100 test go to dot dot dot solutions click on import solution at the top.
+
+[02:14] So it's going to be about there. Select my file so I'll go to browse and there is my managed solution. Click on it click open next and hopefully it will import if that required dependency didn't actually need to be there. So you can see these services use your credentials to sign into apps and create connections. So I need to click on each of them in turn.
+
+[02:42] So this is the computer use connection. Change what it is being connected to and then create the connection. Now if you're doing this multiple times then you might not want to export and import it each time. Instead you might want to create a pipeline. So to do this I will go to solutions. I will check the solution. Click on export solution and then start the deployment process.
+
+[03:15] So this is a more automated way of exporting one solution from one environment to another. So I can click on create new pipeline. So this is going to be my ab-100 pipeline. My target environment your solution will be copied to the environment you choose. So that's going to be the ab-100 test and you can see that all linked target environments will automatically become managed environments.
+
+[03:46] This enables admins to manage it more easily. So I'll click on turn on auto conversion. This will just take a few seconds and now you can see that we have a pipeline going from development to the test environment for the ab-100 dev solution. So I can then click on deploy here and you can say whether it is going to be deployed now or later and if so when. And then you can follow the instructions until you can update the version number and click on deploy.
+
+[04:23] Now there are other ways to use the ALM application lifecycle process for AI. So you can see we've got a source control status. So you can connect your solution to git and then it can maintain a history of certain objects. If you write apps using visual studio then that can be also integrated with source control such as azure devops and github. You can also use azure devops to export and unpack the solution and then integrate it with source control.
+
+[04:57] You could also use azure repos as the version control tool for your code. However creating apps using visual studio is outside of the requirements for this particular exam. Now you could also use microsoft dynamics 365 lifecycle services to help manage your finance and supply apps through their application lifecycle. And another tool is the ALM accelerator for makers part of the power platform center for excellence or COE starter kit.
+
+[05:30] So in this video we've had a look at how you can design the ALM process. So you have more than one environment maybe one for development one for testing and one for production. All of your objects go into solutions and you can export a solution from one environment to another either manually or by using data pipelines. So I can start the deployment process here or I can click on deploy if you have checked which solution you're going to deploy.

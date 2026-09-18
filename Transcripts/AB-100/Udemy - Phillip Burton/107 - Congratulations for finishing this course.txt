@@ -1,0 +1,8 @@
+# Congratulations for finishing this course
+# Udemy — Phillip Burton — AB-100 — lecture 107 (section 18: Congratulations)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English [Auto]
+
+[00:00] Congratulations for completing this course. Let's have a quick look at what we've covered. We created single agents in Copilot Studio, using both classic and generative orchestration. We also created autonomous agents, agents which call over agents, tools, and MCP servers. Finally, we saw how to use agents and models in Microsoft Foundry, use Foundry tools, create agents in Microsoft 365 and SharePoint, and use AI in PowerApps and Dynamics 365.
+
+[00:33] What will you do next? Keep practicing what you've learned on this course. Have a go at practice exam questions, and then why not take the official Microsoft exam? Whatever you choose to do with your new knowledge, I wish you luck. Thanks for joining me on this course. I'm Philip Burton. I do data. And so do you. Microsoft Mechanics www.microsoft.com www.microsoft.com

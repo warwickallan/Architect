@@ -1,0 +1,18 @@
+# 23. Design connectors for Copilot in Dynamics 365 Sales
+# Udemy — Phillip Burton — AB-100 — lecture 101 (section 16: Add Dynamics 365 CRM into a Copilot Studio agent)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In the previous video we created this trigger which answers the question what is the WXY. Now I chose this term because this is a unique term. CoPilot Studio would have no way of answering that question without this topic. Now suppose if somebody asks this topic we need it to be audited. We need to do something else, another action. This is when we can add a connector. So what I'm going to do is go back to the PowerApps portal and make sure that we are in the correct environment.
+
+[00:33] So it's one of these two sales trials. So we can see this sales trial environment will expire in 29 days. So it is that one and I will go into tables and create a new table. Start from blank the description table and it will have a column called description. Now if I was really doing this as a logging table then I would add additional things such as who asked the question, when and so on. So let's click update and save and exit, save and exit.
+
+[01:20] So now we can see this new table which currently has no data. So here we can see no rows. So what I'm going to do is add into our CoPilot Studio topic a tool. So click add a tool, go to connector and I will look for the Dataverse. And what I'm going to do is find the add a new row to the selected environment connector.
+
+[01:59] So it's just connecting, hopefully we'll get the green check mark and then click submit. So it needs three inputs, environment, table name and row name. So let's add these inputs. So I will click on the environment. So this is going to be one of the two sales trials.
+
+[02:30] So we'll know if it's the right sales trial if I can find a descriptions table and I don't think I can, so let's try and look at the other sales trial. And can I find the descriptions table? Yes I can. And we've got the description for me to add. So question about WXY asked. So we're connecting to the sales trial environment to the descriptions table and we are adding a new row using the description column. If you're wondering why we've got two different description columns, one of them is a string column and the other is a unique identifier because the table is called descriptions it's going to have a unique identifier also called description. So let's close that and we can see the errors have now been removed. So again I'm going to save and publish this. Now do make sure that you add this action before the end of conversation node otherwise it will never run.
+
+[03:55] So now this agent has been republished so let's go back into Dynamics 365 sales. Go back into copilot when it opens and I will ask the question what is the WXY? And you can see the WXY is currently okay and it's asking for my credentials to use to add a new row to the Microsoft Dataverse. So I will say allow. Now it says it's working on it let's go back to the power apps table, refresh it and there we can see a question about WXY has been asked.
+
+[04:47] So in this video we've had a look at how we can design connectors for copilot in Dynamics 365 sales. So we can go to a user defined topic so we can't edit the existing topic so it's either one we've just created or one that we will create and we can go to the add a node, add a tool, connector and define what tool you want to use.

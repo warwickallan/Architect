@@ -1,0 +1,10 @@
+# 49, 50. Using knowledge sources
+# Udemy — Phillip Burton — AB-100 — lecture 105 (section 17: Add Dynamics 365 ERP into a Copilot Studio agent)
+# https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/
+# captions: English
+
+[00:00] In this video we're going to see how you would use knowledge sources in a Copilot Studio app. So if I go to any app, suppose I wanted to add a table from Dynamics 365 Finance and Operations. Well I can do that by going to knowledge and click add knowledge and then selecting Dynamics 365. Now as mentioned in previous videos, the Dynamics 365 apps uses the Dataverse as the data storage location, just like the Power Platform does.
+
+[00:35] And so what you could do is scroll through all of these tables to find tables which start with MSERP underscore. So that is Microsoft Enterprise Resource Planning tables. And then if you wanted to add these knowledge sources to Dynamics 365 Finance or Supply Chain Management apps, then again you would just go to the relevant environment. So I'm going to select the sales trial just as an example and then you would go to agents and then select the agent, for example, Copilot for Finance and Operations app and then go to knowledge. You would then add the relevant knowledge sources, save the topic. You would then publish the agent and then go back into Dynamics 365, refresh the page and test your new knowledge sources in Copilot. So in this video we've had a look at how you would add knowledge sources which either use information within Dynamics 365 Finance.
+
+[01:42] You would click on add knowledge and go to Dynamics 365 and select the MSERP underscore table or alternatively we've seen how we can go to a particular agent in an environment and then add knowledge into that agent.
