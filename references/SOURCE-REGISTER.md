@@ -12,5 +12,6 @@ Primary sources are authoritative. Every entry records URL, what it's used for, 
 | S05a | [PMI-CPMAI certification page](https://www.pmi.org/certifications/ai-project-management-cpmai) | Course/exam pricing, bundle | — | — | Still not fetched (403). Warwick to check pricing for A14. |
 | S06 | [Copilot Studio — MCP](https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-extend-action-mcp) | Implementation reference when MCP work starts | — | — | Not yet fetched |
 | S07 | `deep-research-2026-09-17.md` (this folder) | Founding brief: programme design, structure, roles | 2026-09-17 | ChatGPT deep research, 17 Sep 2026 | Secondary. Contains unresolvable `citeturn…` citation tokens from the export; its own source table is the useful part. |
+| S08 | Udemy course 6919869 — Phillip Burton, *AB-100 exam prep: Agentic AI Business Solutions Architect* (enrolled) | Orientation listening; AB-620 lab prep; coverage cross-check | 2026-09-18 (curriculum via logged-in session, read-only) | last updated 2026-09-15 | Secondary/supplement. Curriculum + classification: `udemy-ab100-burton-curriculum.md`; analysis: `udemy-ab100-burton-analysis.md`; CSV for tooling. Never more authoritative than S03. |
 
 Curated human instructors and paid options are in `curated-learning.md` — they are supplements, never authority.

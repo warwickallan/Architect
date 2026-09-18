@@ -1,0 +1,109 @@
+section,section_title,lecture,title,type,seconds,pass,objectives
+1,Introduction,1,Introduction,Video,166,SKIP,
+1,Introduction,2,Welcome to Udemy,Article,37,SKIP,
+1,Introduction,3,How to get the best out of your Udemy course,Video,185,SKIP,
+1,Introduction,4,Do you want auto-translated subtitles in more languages?,Article,80,SKIP,
+1,Introduction,5,Curriculum,Video,359,SKIP,
+1,Introduction,6,Resources,Article,7,SKIP,
+2,Creating Copilot Studio classic orchestrated single-agent,7,Signing into Microsoft Copilot Studio,Video,230,SKIP,
+2,Creating Copilot Studio classic orchestrated single-agent,8,"Why do I need a Work email address? And how can I get one, if I don't have it?",Video,747,SKIP,
+2,Creating Copilot Studio classic orchestrated single-agent,9,"1, 7. What are agents, and looking at Copilot Studio prebuilt agents",Video,462,LISTEN,AB100-1.1.1 AB100-1.2.4
+2,Creating Copilot Studio classic orchestrated single-agent,10,Creating a new environment and solution,Video,608,WATCH,
+2,Creating Copilot Studio classic orchestrated single-agent,11,"5, 35. Design the strategy for building AI and agents, creating a blank agent",Video,291,LISTEN,AB100-1.2.2 AB100-2.1.15
+2,Creating Copilot Studio classic orchestrated single-agent,12,"25, 30, 35. Adding Key Phrases to a trigger and Sending a message to the user",Video,557,SKIP,AB100-2.1.5 AB100-2.1.10 AB100-2.1.15
+2,Creating Copilot Studio classic orchestrated single-agent,13,"25, 30, 35. Asking a question, using a variable, and adding a condition",Video,597,SKIP,AB100-2.1.5 AB100-2.1.10 AB100-2.1.15
+2,Creating Copilot Studio classic orchestrated single-agent,14,"25, 30, 35. Other topic nodes",Video,271,SKIP,AB100-2.1.5 AB100-2.1.10 AB100-2.1.15
+2,Creating Copilot Studio classic orchestrated single-agent,15,"30. Design topics for Copilot Studio, including fallback",Video,520,WATCH,AB100-2.1.10
+2,Creating Copilot Studio classic orchestrated single-agent,16,Practice Activity 1,Article,58,SKIP,
+2,Creating Copilot Studio classic orchestrated single-agent,17,Practice Activity 1 - The Solution,Video,534,SKIP,
+3,Creating Copilot generative AI single-agents,18,27. Design prompt and response agents,Video,585,LISTEN,AB100-2.1.7
+3,Creating Copilot generative AI single-agents,19,"8, 27. Define the solution rules and constraints using instructions",Video,543,LISTEN,AB100-1.2.5 AB100-2.1.7
+3,Creating Copilot generative AI single-agents,20,71. Review solution for adherence to responsible AI principles,Video,196,LISTEN,AB100-3.4.5
+3,Creating Copilot generative AI single-agents,21,"9, 73a. Using generative AI and knowledge sources in Copilot Studio agents",Video,552,LISTEN,AB100-1.2.6 AB100-3.4.7
+3,Creating Copilot generative AI single-agents,22,"35, 42. Publishing and Design agent behaviors in Copilot Studio",Video,413,WATCH,AB100-2.1.15 AB100-2.2.6
+3,Creating Copilot generative AI single-agents,23,Practice Activity 2,Article,29,SKIP,
+3,Creating Copilot generative AI single-agents,24,Practice Activity 2 - The Solution,Video,277,SKIP,
+4,"Grounding, Data and AI model integration",25,"31, 61. Design data processing for AI models and grounding",Video,347,LISTEN,AB100-2.1.11 AB100-3.3.1
+4,"Grounding, Data and AI model integration",26,"2, 3. Review data for grounding and organizing business solution data",Video,565,LISTEN,AB100-1.1.2 AB100-1.1.3
+4,"Grounding, Data and AI model integration",27,72a. Validate data residency and movement compliance,Video,290,LISTEN,AB100-3.4.6
+4,"Grounding, Data and AI model integration",28,"11b, 35. Using different AI models in Copilot Studio",Video,483,LISTEN,AB100-1.2.8 AB100-2.1.15
+5,Creating autonomous agents with tools,29,26. Design autonomous agents: what are triggers?,Video,475,LISTEN,AB100-2.1.6
+5,Creating autonomous agents with tools,30,"26. Adding a trigger to our agent to make it autonomous, and then testing it",Video,391,WATCH,AB100-2.1.6
+5,Creating autonomous agents with tools,31,35. Adding a tool which sends emails to our autonomous agent,Video,584,WATCH,AB100-2.1.15
+5,Creating autonomous agents with tools,32,Practice Activity 3,Article,29,SKIP,
+5,Creating autonomous agents with tools,33,Practice Activity 3 - The Solution,Video,595,SKIP,
+6,Adding custom prompts to our Copilot Studio agent,34,"11b, 36. Creating a custom prompt and investigating prompt actions",Video,527,WATCH,AB100-1.2.8 AB100-2.1.16
+6,Adding custom prompts to our Copilot Studio agent,35,"35, 36. Implementing custom prompt into our agent",Video,275,SKIP,AB100-2.1.15 AB100-2.1.16
+6,Adding custom prompts to our Copilot Studio agent,36,Practice Activity 4,Article,23,SKIP,
+6,Adding custom prompts to our Copilot Studio agent,37,Practice Activity 4 - The Solution,Video,418,SKIP,
+7,Designing multi-agent solutions in Copilot Studio,38,6. Creating a second agent for tracking leave,Video,485,WATCH,AB100-1.2.3
+7,Designing multi-agent solutions in Copilot Studio,39,6. Child (inline) agents versus connected agents,Video,418,LISTEN,AB100-1.2.3
+7,Designing multi-agent solutions in Copilot Studio,40,6. Designs for a multi-agent solution,Video,528,LISTEN,AB100-1.2.3
+7,Designing multi-agent solutions in Copilot Studio,41,6. Creating a third agent which uses the two other agents,Video,594,WATCH,AB100-1.2.3
+7,Designing multi-agent solutions in Copilot Studio,42,6. Creating a fourth agent which writes to a spreadsheet,Video,589,SKIP,AB100-1.2.3
+7,Designing multi-agent solutions in Copilot Studio,43,39. Design agent extensibility in Copilot Studio using Agent Flows,Video,616,WATCH,AB100-2.2.3
+7,Designing multi-agent solutions in Copilot Studio,44,"39, 40. Design agent extensibility with Model Context Protocol in Copilot Studio",Video,332,LISTEN,AB100-2.2.3 AB100-2.2.4
+7,Designing multi-agent solutions in Copilot Studio,45,Practice Activity 5,Article,17,SKIP,
+7,Designing multi-agent solutions in Copilot Studio,46,Practice Activity 5 - The Solution,Video,506,SKIP,
+8,Adding Computer Use into Copilot Studio,47,41. Using Computer Use in Copilot Studio,Video,571,LISTEN,AB100-2.2.5
+8,Adding Computer Use into Copilot Studio,48,41. Testing and Incorporating our Computer Use Tool into our agent,Video,422,SKIP,AB100-2.2.5
+8,Adding Computer Use into Copilot Studio,49,Practice Activity 6,Article,15,SKIP,
+8,Adding Computer Use into Copilot Studio,50,Practice Activity 6 - The Solution,Video,637,SKIP,
+9,"Analyze, monitor, and tune AI-powered business solutions",51,51-54a. Monitor agent performance and metrics in Copilot Studio,Video,549,WATCH,AB100-3.1.1 AB100-3.1.2 AB100-3.1.3 AB100-3.1.4
+9,"Analyze, monitor, and tune AI-powered business solutions",52,55. Interpret telemetry data for performance and model tuning,Video,399,LISTEN,AB100-3.1.5
+9,"Analyze, monitor, and tune AI-powered business solutions",53,"56a, 60. Recommend the process and metrics to test agents",Video,333,LISTEN,AB100-3.2.1 AB100-3.2.5
+9,"Analyze, monitor, and tune AI-powered business solutions",54,"62, 65-66. Unmanaged and managed solutions",Video,358,LISTEN,AB100-3.3.2 AB100-3.3.5 AB100-3.3.6
+9,"Analyze, monitor, and tune AI-powered business solutions",55,"62, 65-66. Design the ALM process for Copilot Studio agents, connectors, actions",Video,362,LISTEN,AB100-3.3.2 AB100-3.3.5 AB100-3.3.6
+9,"Analyze, monitor, and tune AI-powered business solutions",56,67a. Design security for agents,Video,458,LISTEN,AB100-3.4.1
+9,"Analyze, monitor, and tune AI-powered business solutions",57,70. Analyze solution and AI vulnerabilities and mitigations,Video,495,LISTEN,AB100-3.4.4
+9,"Analyze, monitor, and tune AI-powered business solutions",58,68a. Design governance for agents,Video,292,LISTEN,AB100-3.4.2
+10,Agents and models in Microsoft Foundry,59,Creating an agent in Microsoft Foundry,Video,596,WATCH,
+10,Agents and models in Microsoft Foundry,60,Looking at models and tools in Microsoft Foundry,Video,542,WATCH,
+10,Agents and models in Microsoft Foundry,61,Practice Activity 7,Article,92,SKIP,
+10,Agents and models in Microsoft Foundry,62,Practice Activity 7 - The Solution,Video,407,SKIP,
+10,Agents and models in Microsoft Foundry,63,"11a, 37, 57, 64. Creating a fine-tuned AI model",Video,581,WATCH,AB100-1.2.8 AB100-2.2.1 AB100-3.2.2 AB100-3.3.4
+10,Agents and models in Microsoft Foundry,64,"11a, 37, 57, 64. Custom models",Video,157,LISTEN,AB100-1.2.8 AB100-2.2.1 AB100-3.2.2 AB100-3.3.4
+10,Agents and models in Microsoft Foundry,65,13. Develop the use cases for customized small language models for the solution,Video,321,LISTEN,AB100-1.2.10
+10,Agents and models in Microsoft Foundry,66,20. Implement a model router,Video,271,LISTEN,AB100-1.3.4
+11,"Performance, Foundry Tools and NLP in Microsoft Foundry",67,28. Propose Foundry Tools for a given requirement,Video,538,LISTEN,AB100-2.1.8
+11,"Performance, Foundry Tools and NLP in Microsoft Foundry",68,"34. When to use NLP, conversational LP or gen AI orchestration",Video,391,LISTEN,AB100-2.1.14
+11,"Performance, Foundry Tools and NLP in Microsoft Foundry",69,"51, 54c, 55. Monitor agent performance and metrics in Microsoft Foundry",Video,200,WATCH,AB100-3.1.1 AB100-3.1.4 AB100-3.1.5
+11,"Performance, Foundry Tools and NLP in Microsoft Foundry",70,56c. Recommend the process and metrics to test agents,Video,453,LISTEN,AB100-3.2.1
+12,Deploy AI-powered business solutions in Microsoft Foundry,71,"67b, 69. Design security for agents and models",Video,371,LISTEN,AB100-3.4.1 AB100-3.4.3
+12,Deploy AI-powered business solutions in Microsoft Foundry,72,68b. Design governance for agents,Video,246,LISTEN,AB100-3.4.2
+12,Deploy AI-powered business solutions in Microsoft Foundry,73,"63, 74. Design the ALM process for Microsoft Foundry agents, inc. audit trails",Video,316,LISTEN,AB100-3.3.3 AB100-3.4.8
+12,Deploy AI-powered business solutions in Microsoft Foundry,74,72b. Validate data residency and movement compliance,Video,282,LISTEN,AB100-3.4.6
+12,Deploy AI-powered business solutions in Microsoft Foundry,75,73b. Design access controls on grounding data and model tuning,Video,245,LISTEN,AB100-3.4.7
+13,Design overall AI strategy for business solutions,76,4. Implement the AI adoption process from the Cloud Adoption Framework for Azure,Video,314,LISTEN,AB100-1.2.1
+13,Design overall AI strategy for business solutions,77,15. Include the elements of the Microsoft AI Center of Excellence,Video,111,LISTEN,AB100-1.2.12
+13,Design overall AI strategy for business solutions,78,"17, 18. Select ROI criteria and analysis for AI-powered business solutions",Video,192,LISTEN,AB100-1.3.1 AB100-1.3.2
+14,Using agents in Microsoft 365,79,"1, 7, 46. Propose Microsoft 365 agents for business scenarios",Video,401,LISTEN,AB100-1.1.1 AB100-1.2.4 AB100-2.3.3
+14,Using agents in Microsoft 365,80,38. Design agents in Microsoft 365 Copilot and Microsoft Teams,Video,553,WATCH,AB100-2.2.2
+14,Using agents in Microsoft 365,81,12. Provide guidelines for creating a prompt library,Video,162,LISTEN,AB100-1.2.9
+14,Using agents in Microsoft 365,82,"14. Prompt engineering guidelines - goal, context, expectations and source",Video,473,LISTEN,AB100-1.2.11
+14,Using agents in Microsoft 365,83,"14, 58. Providing and validating prompt engineering guidelines and techniques",Video,697,WATCH,AB100-1.2.11 AB100-3.2.3
+14,Using agents in Microsoft 365,84,"10, 19. Determine when to build custom agents or extend Microsoft 365 Copilot",Video,207,LISTEN,AB100-1.2.7 AB100-1.3.3
+14,Using agents in Microsoft 365,85,43. Using the existing Copilot functionality in Microsoft 365 SharePoint,Video,243,SKIP,AB100-2.2.7
+14,Using agents in Microsoft 365,86,43. Creating new SharePoint agents,Video,488,WATCH,AB100-2.2.7
+14,Using agents in Microsoft 365,87,51. Monitoring SharePoint agents,Video,182,SKIP,AB100-3.1.1
+15,Create agents which use the Power Platform,88,Creating a Dataverse table and a model-driven app,Video,421,WATCH,
+15,Create agents which use the Power Platform,89,26. Creating an autonomous agent to run when a row is added to a Dataverse table,Video,397,WATCH,AB100-2.1.6
+15,Create agents which use the Power Platform,90,"26, 35. Adding a tool and testing our autonomous agent",Video,348,SKIP,AB100-2.1.6 AB100-2.1.15
+15,Create agents which use the Power Platform,91,29b. Propose the use of an agent feed for apps,Video,432,LISTEN,AB100-2.1.9
+15,Create agents which use the Power Platform,92,29a. Propose code-first generative pages,Video,404,WATCH,AB100-2.1.9
+15,Create agents which use the Power Platform,93,32. Design a business process to include AI in a Power Apps canvas app,Video,368,WATCH,AB100-2.1.12
+15,Create agents which use the Power Platform,94,48. Propose Microsoft Power Platform AI features in the AI hub,Video,498,WATCH,AB100-2.3.5
+15,Create agents which use the Power Platform,95,33. Apply the Microsoft Power Platform Well-Architected Framework,Video,408,LISTEN,AB100-2.1.13
+16,Add Dynamics 365 CRM into a Copilot Studio agent,96,Getting free Dynamics 365 CRM trials,Video,174,SKIP,
+16,Add Dynamics 365 CRM into a Copilot Studio agent,97,45. Orchestrate AI features in Dynamics 365 apps for customer experience/service,Video,325,LISTEN,AB100-2.3.2
+16,Add Dynamics 365 CRM into a Copilot Studio agent,98,47. Orchestrate the configuration of Microsoft 365 Copilot for Sales/Service,Video,229,LISTEN,AB100-2.3.4
+16,Add Dynamics 365 CRM into a Copilot Studio agent,99,21. Design business terms for Copilot in Dynamics 365 apps,Video,421,WATCH,AB100-2.1.1
+16,Add Dynamics 365 CRM into a Copilot Studio agent,100,22. Design customizations of Copilot in Dynamics 365 apps,Video,191,LISTEN,AB100-2.1.2
+16,Add Dynamics 365 CRM into a Copilot Studio agent,101,23. Design connectors for Copilot in Dynamics 365 Sales,Video,315,LISTEN,AB100-2.1.3
+16,Add Dynamics 365 CRM into a Copilot Studio agent,102,24. Design agents for integration with Dynamics 365 Contact Center channels,Video,419,LISTEN,AB100-2.1.4
+16,Add Dynamics 365 CRM into a Copilot Studio agent,103,"16, 59. Design and test AI solutions that use multiple Dynamics 365 apps",Video,552,LISTEN,AB100-1.2.13 AB100-3.2.4
+17,Add Dynamics 365 ERP into a Copilot Studio agent,104,44. Orchestrate AI features in Dynamics 365 apps for finance and supply chain,Video,305,LISTEN,AB100-2.3.1
+17,Add Dynamics 365 ERP into a Copilot Studio agent,105,"49, 50. Using knowledge sources",Video,120,LISTEN,AB100-2.3.6 AB100-2.3.7
+18,Congratulations,106,What's Next?,Video,319,SKIP,
+18,Congratulations,107,Congratulations for finishing this course,Video,66,SKIP,
+18,Congratulations,108,Bonus Lecture,Article,24,SKIP,

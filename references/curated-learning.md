@@ -9,6 +9,7 @@ Supplements, selected **lesson by lesson** when a human visual explanation will 
 | [Lisa Crosbie — Copilot Studio beginner tutorial](https://www.youtube.com/watch?v=vF2Z4T97xcQ) | Copilot Studio foundation before deeper AB-620 work | Free video | Start here for AB-620 area 1 |
 | [Reza Dorrani](https://www.youtube.com/@RezaDorrani) | Topic-by-topic Power Platform / Copilot | Free video | Use per topic, not as a syllabus |
 | [Kuljot Singh Bakshi — AB-620 (Udemy)](https://www.udemy.com/course/copilot-studio-ai-agent-builder/) | AB-620 companion: MCP, APIs, RAG, multi-agent, Foundry, evaluation, ALM | Paid, optional | Per brief: updated Aug 2026, ~9.5h, 4.4/5 as of 2026-09-17. Budget unknown (A02). |
+| **Phillip Burton — AB-100 exam prep (Udemy)** — *enrolled* | Orientation to agentic AI architecture in Microsoft's vocabulary; ~half is Copilot Studio building (AB-620 lab prep) | Paid, owned | 10h 44m; updated 2026-09-15; objective-numbered to the 14 Oct 2026 guide. **Warwick cut:** 5h listen / 3h watch / 2.5h skip — `udemy-ab100-burton-analysis.md`. Thin on ROI/TCO, evaluation methodology, CAF/CoE, architecture reasoning; no A2A. |
 | Microsoft Learn modules (per objective) | Official self-paced paths for AB-410 / AB-620 | Free | AB-100 has **no** learning path yet (S04) |
 | PMI CPMAI course | Official 21-hour course (unverified, A12) | Paid | Required/expected for the CPMAI exam per brief |
 
