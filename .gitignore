@@ -20,3 +20,6 @@ build/
 # private raw material is never committed
 evidence/raw/
 **/transcripts/raw/
+
+# paid course content: local study copy only, never published
+Transcripts/AB-100/Udemy - Phillip Burton/

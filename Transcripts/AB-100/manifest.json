@@ -403,6 +403,792 @@
           "title": "Course Closing | AB-100 | Episode 15"
         }
       ]
+    },
+    {
+      "course": "Udemy - Phillip Burton",
+      "channel": "Udemy (enrolled, paid)",
+      "playlist": "https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/",
+      "folder": "Udemy - Phillip Burton",
+      "source": "auto/English captions via course player, read-only, 2026-09-19",
+      "note": "Paid course content — folder is git-ignored; local study copy only.",
+      "videos": [
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 1,
+          "section": 1,
+          "title": "Introduction",
+          "file": "001 - Introduction.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 3,
+          "section": 1,
+          "title": "How to get the best out of your Udemy course",
+          "file": "003 - How to get the best out of your Udemy course.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 5,
+          "section": 1,
+          "title": "Curriculum",
+          "file": "005 - Curriculum.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 7,
+          "section": 2,
+          "title": "Signing into Microsoft Copilot Studio",
+          "file": "007 - Signing into Microsoft Copilot Studio.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 8,
+          "section": 2,
+          "title": "Why do I need a Work email address? And how can I get one, if I don't have it?",
+          "file": "008 - Why do I need a Work email address_ And how can I get one, if I don't have it_.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 9,
+          "section": 2,
+          "title": "1, 7. What are agents, and looking at Copilot Studio prebuilt agents",
+          "file": "009 - 1, 7. What are agents, and looking at Copilot Studio prebuilt agents.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 10,
+          "section": 2,
+          "title": "Creating a new environment and solution",
+          "file": "010 - Creating a new environment and solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 11,
+          "section": 2,
+          "title": "5, 35. Design the strategy for building AI and agents, creating a blank agent",
+          "file": "011 - 5, 35. Design the strategy for building AI and agents, creating a blank agent.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 12,
+          "section": 2,
+          "title": "25, 30, 35. Adding Key Phrases to a trigger and Sending a message to the user",
+          "file": "012 - 25, 30, 35. Adding Key Phrases to a trigger and Sending a message to the user.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 13,
+          "section": 2,
+          "title": "25, 30, 35. Asking a question, using a variable, and adding a condition",
+          "file": "013 - 25, 30, 35. Asking a question, using a variable, and adding a condition.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 14,
+          "section": 2,
+          "title": "25, 30, 35. Other topic nodes",
+          "file": "014 - 25, 30, 35. Other topic nodes.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 15,
+          "section": 2,
+          "title": "30. Design topics for Copilot Studio, including fallback",
+          "file": "015 - 30. Design topics for Copilot Studio, including fallback.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 17,
+          "section": 2,
+          "title": "Practice Activity 1 - The Solution",
+          "file": "017 - Practice Activity 1 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 18,
+          "section": 3,
+          "title": "27. Design prompt and response agents",
+          "file": "018 - 27. Design prompt and response agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 19,
+          "section": 3,
+          "title": "8, 27. Define the solution rules and constraints using instructions",
+          "file": "019 - 8, 27. Define the solution rules and constraints using instructions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 20,
+          "section": 3,
+          "title": "71. Review solution for adherence to responsible AI principles",
+          "file": "020 - 71. Review solution for adherence to responsible AI principles.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 21,
+          "section": 3,
+          "title": "9, 73a. Using generative AI and knowledge sources in Copilot Studio agents",
+          "file": "021 - 9, 73a. Using generative AI and knowledge sources in Copilot Studio agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 22,
+          "section": 3,
+          "title": "35, 42. Publishing and Design agent behaviors in Copilot Studio",
+          "file": "022 - 35, 42. Publishing and Design agent behaviors in Copilot Studio.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 24,
+          "section": 3,
+          "title": "Practice Activity 2 - The Solution",
+          "file": "024 - Practice Activity 2 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 25,
+          "section": 4,
+          "title": "31, 61. Design data processing for AI models and grounding",
+          "file": "025 - 31, 61. Design data processing for AI models and grounding.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 26,
+          "section": 4,
+          "title": "2, 3. Review data for grounding and organizing business solution data",
+          "file": "026 - 2, 3. Review data for grounding and organizing business solution data.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 27,
+          "section": 4,
+          "title": "72a. Validate data residency and movement compliance",
+          "file": "027 - 72a. Validate data residency and movement compliance.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 28,
+          "section": 4,
+          "title": "11b, 35. Using different AI models in Copilot Studio",
+          "file": "028 - 11b, 35. Using different AI models in Copilot Studio.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 29,
+          "section": 5,
+          "title": "26. Design autonomous agents: what are triggers?",
+          "file": "029 - 26. Design autonomous agents_ what are triggers_.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 30,
+          "section": 5,
+          "title": "26. Adding a trigger to our agent to make it autonomous, and then testing it",
+          "file": "030 - 26. Adding a trigger to our agent to make it autonomous, and then testing it.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 31,
+          "section": 5,
+          "title": "35. Adding a tool which sends emails to our autonomous agent",
+          "file": "031 - 35. Adding a tool which sends emails to our autonomous agent.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 33,
+          "section": 5,
+          "title": "Practice Activity 3 - The Solution",
+          "file": "033 - Practice Activity 3 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 34,
+          "section": 6,
+          "title": "11b, 36. Creating a custom prompt and investigating prompt actions",
+          "file": "034 - 11b, 36. Creating a custom prompt and investigating prompt actions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 35,
+          "section": 6,
+          "title": "35, 36. Implementing custom prompt into our agent",
+          "file": "035 - 35, 36. Implementing custom prompt into our agent.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 37,
+          "section": 6,
+          "title": "Practice Activity 4 - The Solution",
+          "file": "037 - Practice Activity 4 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 38,
+          "section": 7,
+          "title": "6. Creating a second agent for tracking leave",
+          "file": "038 - 6. Creating a second agent for tracking leave.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 39,
+          "section": 7,
+          "title": "6. Child (inline) agents versus connected agents",
+          "file": "039 - 6. Child (inline) agents versus connected agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 40,
+          "section": 7,
+          "title": "6. Designs for a multi-agent solution",
+          "file": "040 - 6. Designs for a multi-agent solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 41,
+          "section": 7,
+          "title": "6. Creating a third agent which uses the two other agents",
+          "file": "041 - 6. Creating a third agent which uses the two other agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 42,
+          "section": 7,
+          "title": "6. Creating a fourth agent which writes to a spreadsheet",
+          "file": "042 - 6. Creating a fourth agent which writes to a spreadsheet.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 43,
+          "section": 7,
+          "title": "39. Design agent extensibility in Copilot Studio using Agent Flows",
+          "file": "043 - 39. Design agent extensibility in Copilot Studio using Agent Flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 44,
+          "section": 7,
+          "title": "39, 40. Design agent extensibility with Model Context Protocol in Copilot Studio",
+          "file": "044 - 39, 40. Design agent extensibility with Model Context Protocol in Copilot Studio.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 46,
+          "section": 7,
+          "title": "Practice Activity 5 - The Solution",
+          "file": "046 - Practice Activity 5 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 47,
+          "section": 8,
+          "title": "41. Using Computer Use in Copilot Studio",
+          "file": "047 - 41. Using Computer Use in Copilot Studio.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 48,
+          "section": 8,
+          "title": "41. Testing and Incorporating our Computer Use Tool into our agent",
+          "file": "048 - 41. Testing and Incorporating our Computer Use Tool into our agent.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 50,
+          "section": 8,
+          "title": "Practice Activity 6 - The Solution",
+          "file": "050 - Practice Activity 6 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 51,
+          "section": 9,
+          "title": "51-54a. Monitor agent performance and metrics in Copilot Studio",
+          "file": "051 - 51-54a. Monitor agent performance and metrics in Copilot Studio.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 52,
+          "section": 9,
+          "title": "55. Interpret telemetry data for performance and model tuning",
+          "file": "052 - 55. Interpret telemetry data for performance and model tuning.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 53,
+          "section": 9,
+          "title": "56a, 60. Recommend the process and metrics to test agents",
+          "file": "053 - 56a, 60. Recommend the process and metrics to test agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 54,
+          "section": 9,
+          "title": "62, 65-66. Unmanaged and managed solutions",
+          "file": "054 - 62, 65-66. Unmanaged and managed solutions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 55,
+          "section": 9,
+          "title": "62, 65-66. Design the ALM process for Copilot Studio agents, connectors, actions",
+          "file": "055 - 62, 65-66. Design the ALM process for Copilot Studio agents, connectors, actions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 56,
+          "section": 9,
+          "title": "67a. Design security for agents",
+          "file": "056 - 67a. Design security for agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 57,
+          "section": 9,
+          "title": "70. Analyze solution and AI vulnerabilities and mitigations",
+          "file": "057 - 70. Analyze solution and AI vulnerabilities and mitigations.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 58,
+          "section": 9,
+          "title": "68a. Design governance for agents",
+          "file": "058 - 68a. Design governance for agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 59,
+          "section": 10,
+          "title": "Creating an agent in Microsoft Foundry",
+          "file": "059 - Creating an agent in Microsoft Foundry.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 60,
+          "section": 10,
+          "title": "Looking at models and tools in Microsoft Foundry",
+          "file": "060 - Looking at models and tools in Microsoft Foundry.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 62,
+          "section": 10,
+          "title": "Practice Activity 7 - The Solution",
+          "file": "062 - Practice Activity 7 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 63,
+          "section": 10,
+          "title": "11a, 37, 57, 64. Creating a fine-tuned AI model",
+          "file": "063 - 11a, 37, 57, 64. Creating a fine-tuned AI model.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 64,
+          "section": 10,
+          "title": "11a, 37, 57, 64. Custom models",
+          "file": "064 - 11a, 37, 57, 64. Custom models.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 65,
+          "section": 10,
+          "title": "13. Develop the use cases for customized small language models for the solution",
+          "file": "065 - 13. Develop the use cases for customized small language models for the solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 66,
+          "section": 10,
+          "title": "20. Implement a model router",
+          "file": "066 - 20. Implement a model router.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 67,
+          "section": 11,
+          "title": "28. Propose Foundry Tools for a given requirement",
+          "file": "067 - 28. Propose Foundry Tools for a given requirement.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 68,
+          "section": 11,
+          "title": "34. When to use NLP, conversational LP or gen AI orchestration",
+          "file": "068 - 34. When to use NLP, conversational LP or gen AI orchestration.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 69,
+          "section": 11,
+          "title": "51, 54c, 55. Monitor agent performance and metrics in Microsoft Foundry",
+          "file": "069 - 51, 54c, 55. Monitor agent performance and metrics in Microsoft Foundry.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 70,
+          "section": 11,
+          "title": "56c. Recommend the process and metrics to test agents",
+          "file": "070 - 56c. Recommend the process and metrics to test agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 71,
+          "section": 12,
+          "title": "67b, 69. Design security for agents and models",
+          "file": "071 - 67b, 69. Design security for agents and models.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 72,
+          "section": 12,
+          "title": "68b. Design governance for agents",
+          "file": "072 - 68b. Design governance for agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 73,
+          "section": 12,
+          "title": "63, 74. Design the ALM process for Microsoft Foundry agents, inc. audit trails",
+          "file": "073 - 63, 74. Design the ALM process for Microsoft Foundry agents, inc. audit trails.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 74,
+          "section": 12,
+          "title": "72b. Validate data residency and movement compliance",
+          "file": "074 - 72b. Validate data residency and movement compliance.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 75,
+          "section": 12,
+          "title": "73b. Design access controls on grounding data and model tuning",
+          "file": "075 - 73b. Design access controls on grounding data and model tuning.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 76,
+          "section": 13,
+          "title": "4. Implement the AI adoption process from the Cloud Adoption Framework for Azure",
+          "file": "076 - 4. Implement the AI adoption process from the Cloud Adoption Framework for Azure.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 77,
+          "section": 13,
+          "title": "15. Include the elements of the Microsoft AI Center of Excellence",
+          "file": "077 - 15. Include the elements of the Microsoft AI Center of Excellence.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 78,
+          "section": 13,
+          "title": "17, 18. Select ROI criteria and analysis for AI-powered business solutions",
+          "file": "078 - 17, 18. Select ROI criteria and analysis for AI-powered business solutions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 79,
+          "section": 14,
+          "title": "1, 7, 46. Propose Microsoft 365 agents for business scenarios",
+          "file": "079 - 1, 7, 46. Propose Microsoft 365 agents for business scenarios.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 80,
+          "section": 14,
+          "title": "38. Design agents in Microsoft 365 Copilot and Microsoft Teams",
+          "file": "080 - 38. Design agents in Microsoft 365 Copilot and Microsoft Teams.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 81,
+          "section": 14,
+          "title": "12. Provide guidelines for creating a prompt library",
+          "file": "081 - 12. Provide guidelines for creating a prompt library.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 82,
+          "section": 14,
+          "title": "14. Prompt engineering guidelines - goal, context, expectations and source",
+          "file": "082 - 14. Prompt engineering guidelines - goal, context, expectations and source.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 83,
+          "section": 14,
+          "title": "14, 58. Providing and validating prompt engineering guidelines and techniques",
+          "file": "083 - 14, 58. Providing and validating prompt engineering guidelines and techniques.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 84,
+          "section": 14,
+          "title": "10, 19. Determine when to build custom agents or extend Microsoft 365 Copilot",
+          "file": "084 - 10, 19. Determine when to build custom agents or extend Microsoft 365 Copilot.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 85,
+          "section": 14,
+          "title": "43. Using the existing Copilot functionality in Microsoft 365 SharePoint",
+          "file": "085 - 43. Using the existing Copilot functionality in Microsoft 365 SharePoint.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 86,
+          "section": 14,
+          "title": "43. Creating new SharePoint agents",
+          "file": "086 - 43. Creating new SharePoint agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 87,
+          "section": 14,
+          "title": "51. Monitoring SharePoint agents",
+          "file": "087 - 51. Monitoring SharePoint agents.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 88,
+          "section": 15,
+          "title": "Creating a Dataverse table and a model-driven app",
+          "file": "088 - Creating a Dataverse table and a model-driven app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 89,
+          "section": 15,
+          "title": "26. Creating an autonomous agent to run when a row is added to a Dataverse table",
+          "file": "089 - 26. Creating an autonomous agent to run when a row is added to a Dataverse table.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 90,
+          "section": 15,
+          "title": "26, 35. Adding a tool and testing our autonomous agent",
+          "file": "090 - 26, 35. Adding a tool and testing our autonomous agent.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 91,
+          "section": 15,
+          "title": "29b. Propose the use of an agent feed for apps",
+          "file": "091 - 29b. Propose the use of an agent feed for apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 92,
+          "section": 15,
+          "title": "29a. Propose code-first generative pages",
+          "file": "092 - 29a. Propose code-first generative pages.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 93,
+          "section": 15,
+          "title": "32. Design a business process to include AI in a Power Apps canvas app",
+          "file": "093 - 32. Design a business process to include AI in a Power Apps canvas app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 94,
+          "section": 15,
+          "title": "48. Propose Microsoft Power Platform AI features in the AI hub",
+          "file": "094 - 48. Propose Microsoft Power Platform AI features in the AI hub.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 95,
+          "section": 15,
+          "title": "33. Apply the Microsoft Power Platform Well-Architected Framework",
+          "file": "095 - 33. Apply the Microsoft Power Platform Well-Architected Framework.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 96,
+          "section": 16,
+          "title": "Getting free Dynamics 365 CRM trials",
+          "file": "096 - Getting free Dynamics 365 CRM trials.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 97,
+          "section": 16,
+          "title": "45. Orchestrate AI features in Dynamics 365 apps for customer experience/service",
+          "file": "097 - 45. Orchestrate AI features in Dynamics 365 apps for customer experience_service.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 98,
+          "section": 16,
+          "title": "47. Orchestrate the configuration of Microsoft 365 Copilot for Sales/Service",
+          "file": "098 - 47. Orchestrate the configuration of Microsoft 365 Copilot for Sales_Service.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 99,
+          "section": 16,
+          "title": "21. Design business terms for Copilot in Dynamics 365 apps",
+          "file": "099 - 21. Design business terms for Copilot in Dynamics 365 apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 100,
+          "section": 16,
+          "title": "22. Design customizations of Copilot in Dynamics 365 apps",
+          "file": "100 - 22. Design customizations of Copilot in Dynamics 365 apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 101,
+          "section": 16,
+          "title": "23. Design connectors for Copilot in Dynamics 365 Sales",
+          "file": "101 - 23. Design connectors for Copilot in Dynamics 365 Sales.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 102,
+          "section": 16,
+          "title": "24. Design agents for integration with Dynamics 365 Contact Center channels",
+          "file": "102 - 24. Design agents for integration with Dynamics 365 Contact Center channels.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 103,
+          "section": 16,
+          "title": "16, 59. Design and test AI solutions that use multiple Dynamics 365 apps",
+          "file": "103 - 16, 59. Design and test AI solutions that use multiple Dynamics 365 apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 104,
+          "section": 17,
+          "title": "44. Orchestrate AI features in Dynamics 365 apps for finance and supply chain",
+          "file": "104 - 44. Orchestrate AI features in Dynamics 365 apps for finance and supply chain.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 105,
+          "section": 17,
+          "title": "49, 50. Using knowledge sources",
+          "file": "105 - 49, 50. Using knowledge sources.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 106,
+          "section": 18,
+          "title": "What's Next?",
+          "file": "106 - What's Next_.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 107,
+          "section": 18,
+          "title": "Congratulations for finishing this course",
+          "file": "107 - Congratulations for finishing this course.txt",
+          "captions": "English [Auto]"
+        }
+      ]
     }
   ],
   "notes": "Videos with an \"access\" field are channel-members-only on YouTube (checked 2026-09-18) and cannot be fetched without a membership; fetch_transcripts.py skips them."
