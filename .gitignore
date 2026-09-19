@@ -24,3 +24,5 @@ evidence/raw/
 
 # narrate pipeline logs
 tools/narrate/_llm.log
+tools/narrate/.env
+*.mp3

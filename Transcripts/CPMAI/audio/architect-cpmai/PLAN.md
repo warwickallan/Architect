@@ -29,5 +29,4 @@ Every one of the 37 tasks appears in at least one chapter; Domain II and III tas
 
 | # | Script | Reviewed | Narrated |
 |---|---|---|---|
-| 3, 4 | draft (Opus, 2026-09-19) — samples for Warwick's review | — | — |
-| others | — | — | — |
+| 1–13 | draft (Opus, 2026-09-19; 24,657 words, 153,608 chars, $2.98) — Fable read 3, 4, 11 | — | — |
