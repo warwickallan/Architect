@@ -21,3 +21,6 @@ build/
 evidence/raw/
 **/transcripts/raw/
 
+
+# narrate pipeline logs
+tools/narrate/_llm.log
