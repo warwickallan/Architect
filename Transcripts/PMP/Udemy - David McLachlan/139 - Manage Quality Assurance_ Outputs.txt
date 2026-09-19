@@ -1,0 +1,8 @@
+# Manage Quality Assurance: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 139 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs that we're going to get for managing quality assurance are our quality reports. So Macy, if she's working on our product and testing it and doing quality control, she's going to give us a quality report at the end of that. So it's a document that includes any quality management issues, recommendations for corrective actions and a summary of findings from quality control activities. So keep in mind, we might have a quality report for our quality assurance, which is our audits, but we might also have a quality report for quality control, which is keeping our product under control and making sure that it meets our customer requirements.
+
+[00:44] If we do need a change to our plan or if we do find any defects that are larger than what we can deal with normally, we might need a change request and we go through our change request process, especially if it's beyond our threshold for change. So make sure that's agreed in our change management plan. As we audit the efficiency of our product, we might also need to update different parts of our project management plan, and that could be any part that's impacted or that needs to be improved. And we can also update project documents like the issue log for any new issues, the risk register for any new risks, and of course, the lessons learned register for lessons that we find through the audit process.

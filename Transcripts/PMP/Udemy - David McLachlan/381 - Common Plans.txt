@@ -1,0 +1,18 @@
+# Common Plans
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 381 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Other artifacts are all of our plans. There's so many plans that we have in project management. And again, these can be high level, just a one or two sentences, or they can be extremely detailed with lots of pictures and diagrams and sign-offs and additional information. Depending on our project, we're going to have our change control plan that shows us how we're managing change on our project, communications management plan.
+
+[00:28] All of these are our how-tos, our strategy. So how we're going to do it, how we're going to manage it, what we're going to do for any changes and so on. Cost management plan, sprint plan or iteration plan, procurement management plan for vendors, project management plan that puts all of these other plans together, quality management plan for our testing, release plan for releasing features, requirements management plan, also known as our business analysis plan for how we're eliciting and managing requirements, resource management plan, risk, scope, schedule, stakeholders, and of course, test plan.
+
+[01:06] We'll come across hierarchical charts or hierarchy charts. And we've seen lots of these already. We've got organizational breakdown structure, OBS, that's for the organization. And we start here, we can find all of our stakeholders using our organizational chart or OBS. Resource breakdown structure, that's for our project team. So who are the people and the resources within our project team? And what's the hierarchy?
+
+[01:32] We've got our project sponsor at the top, maybe project manager, maybe other managers, quality manager or test manager, procurement manager, risk manager, senior developer or senior business analyst, and then the people within those teams. Work breakdown structures and product breakdown structures. And the difference between these two, a work breakdown structure goes down to the activity level, but a product breakdown structure just goes down to the deliverable or the work package that we're delivering.
+
+[01:59] It's more a usable increment that we're delivering. So it's used in Agile. That's the difference. And of course, risk breakdown structure also called just our risk categories. So it shows the categories and then it breaks them down into smaller parts. It's a prompt list so that we can see what risks we might need to be brainstorming with our team. We're gonna have baselines, the budget baseline. And remember, this is an original approved estimate.
+
+[02:27] And then we compare how our project is going to that baseline over time. Budget, schedule, performance measurement baseline is for our scope, schedule or cost and project schedule or scope baseline. Remember the scope baseline is our scope statement, our list of features and what's in or out of scope. Work breakdown structure, breaking it down into work packages. The work breakdown structure dictionary, which adds more information like resources, cost or duration estimates.
+
+[02:55] So it's a really, it's a nice way to see all of that information at a glance. And lastly, the list of work packages themselves that we're going to be able to assign to team members. So we compare the actual results to these baselines to get our project performance.

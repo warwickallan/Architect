@@ -1,0 +1,18 @@
+# Project Work
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 359 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're going through our project with our stakeholders, our team, figuring out our development approach and then planning out our project, it's time to get into the project work itself. And the outcomes that we want for project work are efficient and effective project performance and appropriate project processes, appropriate communication with our stakeholders, efficient management of physical resources, as we were saying, have we ordered it in enough time, for example, and improved capability due to continuous learning.
+
+[00:32] Are we taking that feedback and improving and growing with our team? Key terms will be bid documents, bidder conferences, explicit and tacit knowledge. Explicit knowledge can be codified, it's like a process, step by step. But tacit knowledge is more of our experience or just beliefs, things that are hard to put into words or processes. We're going to want to periodically review our project process to make sure that it still fits and then we can tailor it to suit any adjustments that we might need.
+
+[01:05] We can use lean production methods to remove non-value added work, anything that doesn't add value to the end product or the end customer, like maybe extra documents or extra reports or extra meetings or those sorts of things that isn't creating value for the customer. Retrospectives or lessons learned to reflect on our process and say, hey, what's working? What's not working? And how can we improve? And where is the next best funding spent?
+
+[01:34] We'll need to balance competing constraints. And this is ongoing throughout the project. It can be with our product owner, reprioritizing the backlog or within the project and making sure that we're keeping things under control with change control processes. As you know, we've got scope, our schedule or time and cost and quality and even resources that need to be balanced throughout the project. And they're slightly different on a Waterfall or an Agile project. In Agile, the scope is variable because we can reprioritize that list of features in the product backlog.
+
+[02:08] But we might have a fixed time and fixed cost because we're just paying for a stable team to deliver these features for that fixed amount of time and fixed amount of cost. We're going to maintain the project team focus. And that's the project manager's responsibility. This includes short and long-term projections of progress towards our goals. So we're going to need to use those metrics and measures to see if our project is on track and if it's trending, if that trend is going to continue.
+
+[02:38] Balancing the workload amongst the team and assessing if team members are satisfied and engaged in their work. Project communications include formal, informal, verbal or written. And they can be collected in meetings, conversations or pulled from repositories or our project management information system. And it's distributed as per our communications management plan. So remember, if we're needing to communicate, we can go there for our process to see who and when we need to communicate to.
+
+[03:08] If we're getting lots of ad hoc requests for information, then that indicates that we're not communicating enough. So always go back, check if we've got our process correct, improve it if we need to, make sure we're communicating to the right people.

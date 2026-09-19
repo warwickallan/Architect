@@ -1,0 +1,20 @@
+# Embedding Trustworthy AI - Phase IV
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 050 (section 9: Trustworthy AI throughout the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Let us look at the phase 4, model development. So, model development, what are the AI principles that are applicable here? So development choices are guided by, normally by trade-off between performance and robustness. So some industries or some use cases might require high performance, but some might need robustness or maybe explainability.
+
+[00:30] There might be other variables or other features that or other factors that might be important based on the industry use cases that you are dealing with. So in this phase, again the three things, three points that you need to look at are the algorithmic selection, fairness constraints and of course explainability tools. So when you say algorithmic selection, you are prioritizing the interpretable models.
+
+[01:03] So prioritize interpretable models over complex black box algorithms when transparency is a legal or an ethical concern. So when certain industries, you know transparency is more important. Even CPMI as a guide, you know, they advocate more for choosing more interpretable, more explainable algorithms, even though the results may not be that great or you know the accuracy may not be that great.
+
+[01:35] So that is, so if there is a mandate, if there is a legal or an ethical mandate that you know ask you or mandates you to choose or to prefer an algorithm that has more explainability compared to its performance or robustness or something else. So that is a principle that you should apply here. The next one is the fairness constraints. So integrate the fairness aware training learning techniques, for example, adversarial debiasing or, you know, directly into the training objectives.
+
+[02:14] So like I said, for the sustainability or like sustainability principles, for the sustainability or ethical AI principles to be practically, you know, added into the project, track them as requirements and track them, include them in the scope, right? That is the best way to do it. So that is what it is saying, the fairness constraints. So integrate that fairness aware principles into the ML, the techniques that you are, or the ML techniques you need to, those techniques you need to directly put it into the training objectives.
+
+[02:50] So unless until you put it into the training objectives, it will not be done. So algorithmic selection, fairness constraints, and the third one is the explainability tools. Build explainable explanation like frameworks. So for increasing the explainability, you must, if you take the mock 4, which is actually no longer relevant for your exam, because the V8 exam does not have that level of technicality, but you might be coming across the SHAP and LIME and all. So these are used to actually increase the explainability of the modules, models.
+
+[03:23] So build explanation frameworks. So these are frameworks like SHAP and LIME, alongside complex models to clarify why specific decisions are made. So the why part is explainability part. So if somebody are trying to understand why the model made some decision. So CPMA is advocating that you, of course, along with the algorithmic selection and including the fairness constraints, also build explainability tools that will allow you to get answers for why something happened or why the model made this particular decision.
+
+[04:01] So that's all about the phase 4. So in the next video, we will see the phase 5.

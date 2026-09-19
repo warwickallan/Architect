@@ -1,0 +1,20 @@
+# Measurement Pitfalls
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 366 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Measurement pitfalls that we have to be aware of. The best one, this one I absolutely love, is the Hawthorne effect. Now this is what we measure influences our behavior. If you think about this, if we say we just want to deliver this product really, really quickly. Okay, so the team works really, really, really hard and they get it out within one month. But hang on a minute, the quality is terrible. And so there's lots of defects and lots of issues because we weren't measuring the quality, we were measuring how fast we were delivering.
+
+[00:35] It changed our behavior. Very, very interesting. I love the Hawthorne effect. Vanity metrics is where we show data, but it's not actionable. Has this ever happened in your organization? Maybe we've got some executive who's got all of these measures and metrics and it looks fancy and it looks like they're doing a great job. But what action can we take from those metrics? Always ask ourselves, especially as project managers, demoralization is also important. If it's not achievable, it will demoralize our staff.
+
+[01:08] So make sure we're coaching and motivating and make sure that the metrics are achievable. Misusing the metrics, so using them as a beating stick instead of just using them to adjust our project plan. Confirmation bias. I love this one, which is where we're finding data that just matches our existing beliefs. So let's say we really wanted to deliver a particular new feature. And then we go and we find all of this data to just back up our own findings. When in reality, there's other data that shows that it's not the best way forward.
+
+[01:39] So we were using confirmation bias, we were confirming our own beliefs. And I know I've done this. We're all guilty of this one, I think. And the last one, another really good measurement pitfall is correlation versus causation. And this one is a good one to be aware of because sometimes if the data is happening at the same time, it's correlated, but it's not caused by that particular item. A good example of this is when we had ice cream sales going up and up and up. But we also had correlated was drownings, unfortunately, happening at the same time.
+
+[02:14] It looked as though that ice cream caused drownings, when in reality, it was caused by the warmer weather. So warmer weather, more people have ice cream, warmer weather, more people go swimming. So correlation versus causation, always be aware that just because it's happening at the same time doesn't mean it's caused by that particular thing. We want to have agreed to plans for measuring outside of threshold ranges in cost, schedule and risk impacts.
+
+[02:41] If something's going off track, we need a threshold. When do we need to take action? And when do we need to escalate to a higher power like the project sponsor or the steering committee? Always make sure you have a threshold, especially in your finance management plan or your schedule management plan. And it could be 15% change or 5% change or anything outside of $1,000 or $100,000 or a million dollars, for example. Overall, the intent of displaying data is to learn and improve.
+
+[03:12] Remember, don't misuse the metrics, don't use it as a beating stick. Use it to guide the team and learn and improve. Only report information that's going to allow the team to learn, facilitate a decision, help avoid an issue in the future and prevent performance breakdown. We can check if measurement is working through audits and reports, and they show that our data is reliable. Measurements show whether the project is performing as intended or any variances.
+
+[03:40] Now, that's very handy. And if measurements lead to timely decisions, we know we're doing the right thing, reviewing forecasts and showing that we estimated all of our items correctly.

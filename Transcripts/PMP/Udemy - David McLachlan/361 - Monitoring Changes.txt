@@ -1,0 +1,12 @@
+# Monitoring Changes
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 361 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we go through our project work, we'll need to monitor new work and any changes. Scope can evolve and change over the life of the project. For adaptive or agile projects, the project manager works with the product owner to prioritize that scope in the product backlog. That's right. Low priority items just might be at the bottom of the list and they might not get done in favor of the high priority items.
+
+[00:30] For a predictive or a waterfall project, we might use a change request that goes through to the change control board for approval. Before that, we analyze the impacts to scope, schedule, and cost, as we know, and once the change control board or whoever is the approver, once they approve that, it's added to project documents and communicated who need that information. There'll be learning throughout the project. We want a knowledge management process to capture those lessons learned through retrospectives or any other reviews for our other projects to use in the future.
+
+[01:03] And remember, we've got that explicit knowledge, which is a process that can be taught nice and easily, and we've also got tacit knowledge, which includes just our experiences or beliefs or insights that we might have. This is harder to share, but we can share it using storytelling. If we're telling a story about that situation, then we can share that tacit knowledge. And we can also use job shadowing, so we can actually go and view people doing that work and then we can see how it's done.
+
+[01:32] To check if our project work is going well, we want status reports that show the project work is efficient and effective, that our project is getting the work done and it's on track. The project processes have been tailored to meet the needs of the project and the environment, and the amount of material used and the scrap discarded shows that we're efficient in our use of physical resources. The team's status reports show fewer errors and less rework, with an increase in velocity if we can.

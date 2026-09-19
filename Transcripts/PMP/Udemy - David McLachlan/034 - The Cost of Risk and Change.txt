@@ -1,0 +1,10 @@
+# The Cost of Risk and Change
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 034 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now in predictive projects, the levels of cost and staffing are low at the start and they increase as the work is carried out and then they drop quickly as the project or the phase ends. So typically for the costs of staffing and the levels of staffing, they start low, they ramp up and then they drop off right at the end. Now risk and uncertainty starts high because we have a lot of uncertainty at the beginning of our project. We haven't really planned anything, things are uncertain but that gets lower as we move through the project, as we deliver things and we start uncovering all of our requirements and the designs and delivering things and we see exactly what we're delivering.
+
+[00:47] So risk goes down over the project but what goes up? The cost of changes at the beginning. If we're creating our design, then that's quite easy to change. The cost is low but as we start delivering, let's say we're building a bridge and we deliver part of that bridge and we say, oh we forgot this part of the bridge, that's going to cost us quite a lot to change once we're delivering it and then at the very end of the project, it's going to cost us a lot to change it.
+
+[01:20] Now that means we want to make any changes closer to the beginning of the project or closer to the requirements and the design as we can because the cost of changes goes up as our project proceeds or progresses. And that's all of our project foundations.

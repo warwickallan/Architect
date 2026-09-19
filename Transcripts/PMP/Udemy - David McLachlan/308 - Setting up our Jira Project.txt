@@ -1,0 +1,16 @@
+# Setting up our Jira Project
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 308 (section 8: Real Agile Project Example using Jira)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, well done on getting through this Agile section. You're doing such a wonderful job and now it's time to put all of this Agile information to use in a real world example project. We're going to use our Harmony Fitness example, of course, and our project team. This time we've got Grace as the project sponsor and Billy as our scrum master or our Agile servant leader. We've got Anne as our product owner who represents the customer and represents the business need or the product's needs.
+
+[00:33] And Audrey is going to help her out as the senior user and give her some extra information on the system. We've got business analysts and developers and testers to all make up our Agile team. And just a note here, typically in scrum they say 10 or fewer people. In extreme programming I think they say 12 or fewer people. But basically we want small teams in an Agile way of work and if we add everyone up but exclude Audrey as the senior user, we've got 10 people. And if we include Audrey, we've got 11 people.
+
+[01:01] So this is going to be our small team moving forward. Now the way we manage an Agile team in the real world is typically with Atlassian Jira. Jira is used by the majority of Agile teams around the world. So we're going to use this and it's going to be extremely helpful because then you've got that knowledge for your real world projects. Plus we'll see how all of these things actually work and actually interact. Now just to show you where we're heading, we're going to have all of our epics, so all of our deliverables, all of our user stories in our backlogs, so our sprint backlogs here.
+
+[01:34] And then we're going to have a Kanban board and all of our user stories moving across our Kanban board. And then we'll look at some burndown charts and those sorts of things as well. So that's what we're aiming for, but we have to start with a blank project. And if you sign up for Jira, you can have a free account for up to 10 users. So it's a great way to get started. And what we're going to do is go to create space up the top here. So if we go to create space, you can see we've got different categories. We'll select software and what we want is a scrum space because we want to work with a Kanban board and we want to work in sprints or iterations.
+
+[02:10] So we'll go all the way down to the bottom, use the template. We can type in our team name, which is the Harmony web app. We're going to want it to be team managed because that's managed within the team. If it's company managed, then the company can set all of the rules and boundaries for your project, which can be very handy when you're managing lots and lots of different projects. Jira is going to give us a key for all of our user stories. Then we select next. You can add in the names or the emails of the people or team members that you want to add to your scrum project.
+
+[02:41] And you can also connect other spaces. But once you're happy with that, let's select done. And that's going to give us our blank project.

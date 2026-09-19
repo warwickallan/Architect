@@ -1,0 +1,18 @@
+# Introduction to CPMAI
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 004 (section 1: Introduction to CPMAI)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Hello everyone! So we are going to discuss about Cpma in this course. Cpma is a cognitive project management in AI. So a lot of projects these days have AI components in IT or our AI projects. So the way we manage AI projects are traditionally different from the way in which we manage traditional projects. So it's not like your typical waterfall or an agile project, even though the components of agile are they're not exactly the same.
+
+[00:32] So if you. So this is KPMG's latest, uh, certification that PMI offers on project for the project managers to incorporate the AI elements. So if you know this methodology is actually part of Crisp-dm methodology. So those of you who are in the data mining would be knowing about Crisp-dm methodology. So what PMI has done is it has taken the methodology, added governance part and agile part to it, and it has come up with a CPM methodology.
+
+[01:06] So these are largely iteration phases. You know, the the time from, uh, from which you are actually the conception of an AI project idea till the time a model is deployed and monitored. So it is. It covers the entire cycle. So what what what is so special about CPM and why it is needed? So CPM is a vendor neutral, iterative data centric framework for AI and ML projects. So of course your artificial intelligence and machine learning projects.
+
+[01:38] It ensures systematic data validation modeling and deployment okay. And it addresses AI specific challenges that traditional methodology or methodologies cannot. Why is it needed? Because, uh, you know that 80% of AI projects are data engineering projects, right? And among AI projects, 80% of AI projects are a big failure. So that is why, you know, it cannot. People have been managing it using the traditional methodologies and it has failed.
+
+[02:09] Here you are altogether dealing with a different set of team members data scientists, citizen data scientists, uh, programmers, MLOps, uh, you know, IoT components, uh, the other components and the landscapes that are involved, people with that to, you know, those resources or people with those skill sets, unlike your traditional project management, wherein you are dealing with business analysts and you are dealing with programmers, traditional programmers and all, it's a little different. So high failure rate is one of the reason why SAP, my kind of methodology is required for AI projects.
+
+[02:45] Common pitfalls are, you know, like your poor, very poor problem definition, a lack of data centric approach because your AI projects are very data centric projects. So I the data is the crux or the engine for the entire project. So traditional project managers are not suited for this kind of a role. So that is why the whole Cpma methodology is different. So for passing the exam you have 30 plus hours of videos from PMI and that is a compulsory must watch. So what I have done here is this is a shortened condensed version of the PMI course.
+
+[03:22] So what PMI has covered in 30 plus hours I am essentially trying to cover here a little over eight two hours. So once you watch this it will give you an overview and it will give a direction towards you know, how you should prepare and where you should focus for your CPA exam. Okay, so let's get started.

@@ -1,0 +1,16 @@
+# Monitor Project Performance: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 160 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Inputs for monitoring and controlling project performance is our project management plan. Any aspect, we're going to need the scope, schedule, the cost, all of these plans for how we said we would manage these things. And now it's time to use these processes to keep the project on track. We'll also need any project documents, our basis of estimates. If we just assigned a random value as an estimate, and now we know that that's our basis of the estimates, then it's not going to be very accurate and that's going to come back to haunt us in the future.
+
+[00:35] But if we have some great data, maybe we've got commercial databases, or maybe we've got previous history on projects and some parametric estimating, then it's going to be quite accurate so we can have a lot of trust in those estimates on the project. Cost forecasts, schedule forecasts, milestones. So all of these things will help us see if we're on track or off track. Quality reports to see if we've got issues or corrective actions.
+
+[01:02] Now, corrective actions, defects, that's going to cost us time and money because we have to redo the work. So keep that in mind. The risk register and risk report for overall project risk, any assumptions or issues that have been raised, and of course, lessons learned to help us avoid future issues or issues on our project. We're going to need the current work performance information. Now, with this in the PMBOK guide, keep this in mind.
+
+[01:30] It starts with data. Data is the raw values. So this might be just how much we've spent. Just pure money, just pure values. But we turn that into work performance information by combining it with something else. So how much have we spent over the timeframe? Now we've got two things combined and we can see if we're on track or off track. It's become useful to us. So work performance data turns into work performance information by combining two things.
+
+[01:59] And then lastly, we take that work performance information, turn it into some nice charts for our executives so that they can see it at a glance and it makes their life nice and easy. And we turn that into a work performance report so everyone is on the same page. We're also going to need previous agreements if we're outsourcing any part of the work. What is the seller completing and how are we going to track that? Enterprise environmental factors might be information systems that we're using, government standards or industry standards and stakeholders' expectations and risk thresholds to keep them under control.
+
+[02:36] Organisational process assets might be defect management procedures or issue management procedures that are existing and monitoring and reporting methods. Remember, we might have a steering committee meeting with Grace and her leadership team and we might do our work performance reports and show that at the steering committee meeting so that we can see if the project is performing well or if we need to take action and do something about it going off track.

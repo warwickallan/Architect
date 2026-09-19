@@ -1,0 +1,12 @@
+# Schedule Compression
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 244 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're managing our schedule, we can use schedule compression techniques, and these are fast tracking and schedule crashing. The idea here is that we use these techniques to shorten or accelerate the schedule duration without reducing project scope in order to meet schedule constraints, imposed dates, or other schedule objectives. There are two main compression techniques, schedule crashing and schedule fast tracking, and we'll go into these in a bit more detail.
+
+[00:33] The first one, schedule crashing, is approving resources, adding money, or adding overtime or paying to expedite the delivery of activities on the critical path. We're throwing money at it, basically. Crashing can result in increased cost and increased risk because we're adding more people so there can be more risk involved. As you can see, we've got three tasks and it takes 12 days with one person assigned for each task.
+
+[01:02] But if we're adding people and adding costs to our project, we've got three people on each task and we can complete it more quickly. That is schedule crashing. We've also got schedule fast tracking, which only works if we've got activities in a sequence that can be done in parallel or that can be overlapped. So these activities are done in sequence currently and then we do them in parallel instead. We don't need to add any extra people to these tasks or extra money.
+
+[01:33] We just do them in parallel and that is a way of fast tracking and completing the activities more quickly. So fast tracking won't cost any extra money. Often it is the best option if you have that option, but be aware of both of those schedule compression techniques.

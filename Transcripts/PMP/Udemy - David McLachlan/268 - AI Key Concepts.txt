@@ -1,0 +1,10 @@
+# AI Key Concepts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 268 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, lastly, in the AI section of our key concepts section for project management, here are the main key concepts around AI that you're going to see in the PMBOK guide. The first one is genetic algorithms, and we'll go through this in the PMBOK 8th edition, but this is a machine learning method, and it's inspired by natural selection. We start off with a random selection of different criteria or different paths, and these are checked for how well they meet our desired outcome, so which ones meet it the best, maybe these two or three, and they move on to the next phase.
+
+[00:38] Then we check those, how well do they meet it? Maybe this one is the best, that moves on to the next phase. So it's similar to survival of the fittest, and that's why it's called a genetic algorithm. We've also got the branch and bound technique, and that just finds the optimal solution for a given problem. It's similar to a decision tree, but we've got different paths, and basically we prune the paths that don't meet our optimal solution. So let's say we have an outcome that we're trying to meet, and there are different branches, and we just prune those branches that don't have the optimal outcome, and then we're left with one or two outcomes that are the best.
+
+[01:18] That's our branch and bound technique. We've also got things like augmented reality, where we can overlay things on a real world photo or a real world video, maybe we can change the colour of paint on the wall, or we could even use virtual reality to walk through a design in 3D so we can really see what it's going to look like. So those are the things that we're going to see around artificial intelligence, and all the key concepts for artificial intelligence for your PMP exam.

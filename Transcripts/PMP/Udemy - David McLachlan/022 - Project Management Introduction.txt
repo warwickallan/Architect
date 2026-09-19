@@ -1,0 +1,12 @@
+# Project Management Introduction
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 022 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome to this section which is the project management introduction. In this section we're going to go through all of the fundamentals, so the foundations of project management, the environment that we work in, what is a project and why do we need them, and then the role of the project manager and the role of all the people that we're going to work with within our projects, and then finally the project management principles which is a nice high level overview of project management and the mindset that we'll need as we work through projects.
+
+[00:33] As we go through this section, it's the introduction and we'll be using all of these things that we learn in the introduction throughout the rest of this course, which is really going through an actual project itself where we initiate a project, we plan that project, then we perform and deliver and execute that project, we keep it under control, and then finally we close that project or phase. As we initiate our project, we'll do our project charter with the project sponsor and identify the stakeholders that we'll be working with, and as we plan and execute and control our project, we'll be working with our project management plan, with project governance, with our stakeholders, finding the scope, the resources that we need, and then putting it to a project schedule, and then finding the budget and the finance that we'll need to complete the project.
+
+[01:24] Then we'll also look at risk and procurement if we need to work with vendors and deliver things or materials or people from outside our project. Now we can delve into this in a bit more detail, and we will throughout the course, but just quickly as we go through initiating, planning, executing, monitoring, controlling, and closing, here are all of the processes that we will go through, through the bulk of this course later on. This is just a little taste so you can see what's coming up and what to expect after we go through this introduction and the fundamentals, but as you can see, we're initiating, finding our stakeholders, planning out all of these things, and here are the different activities that we'll go through.
+
+[02:04] So we'll be going into these processes in much more detail later on.

@@ -1,0 +1,10 @@
+# Gold Plating and Poka Yoke
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 332 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As always, we need to be aware of scope creep and gold plating. Remember, there isn't necessarily scope creep because in Agile, scope is variable. We can change it through our product backlog and reprioritizing the backlog. But we also want to ensure simplicity or Occam's razor, which is maximizing the amount of work not done. But gold plating is where we're adding scope or features that the customer did not necessarily need or didn't ask for, or that doesn't even meet our product goal.
+
+[00:32] So just be aware of that. We don't necessarily want to have gold plating either. We might come across this term, which comes from Lean or the Toyota production system, Pocoyoke. From Japanese means error proofing. How can we make it impossible to make a mistake? It came from Shigeo Shingo in the 1960s from the Toyota production system or Lean. And we use Pocoyoke to reduce defects. So we make it impossible to make a mistake.
+
+[01:00] If you recall on a webpage, maybe if it's a calendar or a date that we need to input, then it actually comes up with a calendar and we select that specific date. So it's impossible to make a mistake.

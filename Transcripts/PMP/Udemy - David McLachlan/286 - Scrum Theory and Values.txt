@@ -1,0 +1,10 @@
+# Scrum Theory and Values
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 286 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Lastly, we're going to look at Scrum Theory and Scrum Values. This is a lovely way to see an overview of Scrum with transparency, inspection and adaptation. Because Scrum is based on empiricism, seeing the real results and seeing the real increment that we're delivering to our customers. And also lean thinking, which is eliminating that waste and focusing on what's essential. And interesting that we've got lean thinking in here, again, all the way back from 1948 and the Toyota production system.
+
+[00:36] We focus on transparency in our artifacts and our ways of working, so everyone is on the same page. Also inspection, we're inspecting our ways of working to improve. We're inspecting the increment that we're creating. Adaptation is to adjust. We're adjusting our increments to meet our product goal and we're constantly improving our ways of working. The Scrum values are also really nice with commitment, focus and openness. We want to have commitment to the goals and to support the team, focusing on the sprint work and progressing ourselves towards the product goal, openness about any challenges that we're facing, respect for each team member's capabilities and independence and courage to face difficult problems and to do what's right.
+
+[01:25] And all in all, that's everything in the Scrum Guide and a really wonderful way to see how that fits into Agile as we know it today.

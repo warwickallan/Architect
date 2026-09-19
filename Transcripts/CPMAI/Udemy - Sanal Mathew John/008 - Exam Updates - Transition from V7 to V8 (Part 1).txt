@@ -1,0 +1,22 @@
+# Exam Updates - Transition from V7 to V8 (Part 1)
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 008 (section 2: Exam Updates - Transition from V7 to V8)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Okay. Hi everyone. So let's look from an exam point of view. What has changed. So you all know that initially, uh, this certification was designed its contents curriculum were designed by Cognetics. Right. So Cognetics was acquired by PMI. And then PMI did not have much time to, you know, align it with their other exams. So if you see PMI, other exams like your Capm, PMP, your PMP, PFM, all these exams are moving from more from your process based to principle based.
+
+[00:36] So they didn't have the time to actually do anything much to the acquired PMI. Uh acquired uh AA exam, AA pattern exam that came or curriculum that came from Cornell. So you know, there was initial struggle and then they launched the V7 exam format. So the V7 exam format, you know, uh, try to navigate a little, a little bit into no historical AI. How AI is what AI.
+
+[01:04] Strong AI weak weak AI what they are. Then it also, uh, gave you some formidable foundations. Or, for example, it started from very basic. Right. And then it had some technical aspects also, it covered some technical areas also that you as a project manager should know. Uh, of course, project management in AI is not like your traditional project management, right? Wherein you are managing schedule budget risks. Here you are dealing with, you know, multiple teams, data engineers, data analysts, data scientists.
+
+[01:38] So it's a people with different skill sets ML engineers, MLOps, uh, AutoML engineers. So and people who are actually building your model developers uh, once were working on the API part edge devices. So it's like a lot of, uh, it's a big infrastructure, right? It's a big landscape. So here as a project manager, you are expected to know, uh, or contribute more, uh, than just managing or because you go into meetings and things are discussed, you don't understand.
+
+[02:09] You need to have a good grasp on the AI, ML, deep learning concepts. So that was the focus for PMI initially. So if you see the V7, those of you have done the V7, the videos and the guide and everything covered a lot of technical aspect also, uh, which is not the case now. So that is the change that we are talking about. So if you are somebody who registered, uh, before October 1st, you are still eligible to take the V7 exam.
+
+[02:38] So V7 exam is uh, it will test you on uh, project manager using AI. It is it will also test you on your knowledge, some knowledge on the AI algorithms, machine learning, machine learning algorithms and some technicalities relating to the model evaluation. Uh, then your confusion matrix recall precision. So some metrics, uh, area under the curve AUC curve, all those things it will test.
+
+[03:09] So basically V7 is assuming that you are very new to the AI field then it covers it. That's why it has traditionally covered a lot of basics or basic concepts or uh, you know, those kind of things so that you pick up right from a starting from a windows. You know, historically, what was AI then? What machine learning came into place, how it was used? Uh, then the first chess chess machine, IBM Watson, then IBM, double Jeopardy, you, all those, uh, historical timelines or events, uh, they have given you here.
+
+[03:45] So that is the basic idea here was to, you know, give you a basic, basic, uh, take you through like, uh, all the basics of AI and build the basics and then go into, uh, practical applications on how project management can leverage the AI. Then it talks about your AI patterns, problems that needs to be identified. Then it straight away jumps into the technical, technical aspects like, you know, model selection, model evaluation, monitoring of models, then, uh, then, you know, revisiting the CPM phases.
+
+[04:20] So it was uh, technical, theoretical and little technical also. So that is the main thing that you will see in V7. Okay. So what has changed. We will look into the look in the next video.

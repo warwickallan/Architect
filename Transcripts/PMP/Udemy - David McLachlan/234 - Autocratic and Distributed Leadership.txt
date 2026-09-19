@@ -1,0 +1,10 @@
+# Autocratic and Distributed Leadership
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 234 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Autocratic decision-making, in some cases, only one person might be responsible for a decision. For example, the project sponsor is the only person who approves the project charter. A product owner in Agile is the only person who prioritizes the product backlog, according to the Scrum methodology. A functional manager might be the only person who can agree to release resources from their functional area. For example, users of that particular system, or maybe if we need finance or marketing people in that functional area.
+
+[00:37] And a project manager is the only person who allocates work packages to resources on their project. This is autocratic decision-making. It's not done by a committee. It's just one person to make it a little bit faster and a little bit smoother. The opposite of that is distributed management and leadership. Distributed management is where teams self-organize and self-manage with teamwork and empowered decision-making from the team, rather than one person. You'll see this a lot in Agile, where we have a list of items that we need to deliver, but the team gets to decide how that work is done.
+
+[01:11] And then they reflect and improve their process using retrospectives at the end of an iteration or a sprint of about two weeks. So on a regular basis, they come together and they say, is this working? Do we need to change the way that we're working? Have we got any issues that we need to resolve? And we work together to improve our own process continuously throughout the project.

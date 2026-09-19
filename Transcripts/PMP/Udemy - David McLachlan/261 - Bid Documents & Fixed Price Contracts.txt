@@ -1,0 +1,18 @@
+# Bid Documents & Fixed Price Contracts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 261 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now that we've been through all those initial steps, we've got our source selection criteria, our statement of work, and we've done bidder conferences or advertising, so we've got a list of vendors, we can send bid documents to gather quotes or seller proposals for the work. We can use these three things. A request for information or RFI. This is just to gather initial information about what the seller can actually do. And it's sort of used at the initial first stages.
+
+[00:30] Request for proposal is when the solution or the scope is complex. We can ask the seller to propose a solution. So they come back with all of the things that they might do to solve the problem. Lastly, if it's very simple, now scope is simple and easily defined, we just want a price, we can request for quote or RFQ. Use this when it's very, very straightforward. Now we've got all the different types of contracts that we can use for our vendors or for our contractors.
+
+[01:01] Contracts are legal agreements as a relationship between two or more parties. An agreement might not involve a contract, but every contract will involve an agreement. So keep that in mind. We can have agreements with people on our project. For example, we might agree to perform this work or we might agree that this requirement is necessary in our project, but we don't need a contract for that. But when it comes to vendors and procurements and third parties, then we do need a contract to make sure that everything is outlined properly.
+
+[01:34] And we'll have fixed price contracts, cost reimbursable contracts, and then time and materials contracts. Let's go into these in a little bit more detail. A fixed price contract is the most simple. It's for a defined product and it's used when the requirements are well-defined and there are no significant changes expected. So it's going to be fairly straightforward. We could use a firm fixed price. It's the most commonly used contract type.
+
+[02:02] It won't change. So we've got a simple price and that price will not change unless the scope of work changes. Here it is, just that fixed price. But we might also have fixed price with an incentive fee. If this gives financial incentives for achieving agreed upon metrics, if they deliver under budget or ahead of schedule or with a certain amount of quality, under fixed price incentive fee contracts, a price ceiling is set and all costs above that price ceiling are the responsibility of the seller.
+
+[02:35] So if they go above that price, then they actually have to bear that cost. But if they achieve these agreed upon metrics, then they do get that incentive fee. So fixed price incentive fee. We might also have fixed price with economic price adjustments, which is fixed price contract, but we allow for things like inflation over time, or maybe we allow for foreign exchange or changing of currencies amongst different currencies around the world if we're working in that way.
+
+[03:03] That is a fixed price contract with economic price adjustments.

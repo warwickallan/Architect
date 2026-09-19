@@ -1,0 +1,14 @@
+# Monitor Stakeholder Engagement: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 169 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for monitoring stakeholder engagement, hey, I love this one as well. And you know what? We've seen this a lot. So, do you think this might be a little bit important for your PMP exam? And absolutely it is. Change requests. We've seen it quite a few times. If we need corrective or preventative action for any baselined item in our project management plan, we might need a change request. And I'll go through the process here again.
+
+[00:29] In fact, there's a few things that we do need to know. So just remember, anyone can raise a change request and that gets noted in the change log and then we need to review the impact to the project baselines. So scope, schedule, or cost, or even quality. What is the impact? Because we need to take that impact to the approvers and the decision makers. That is our change control board. Or it could be anyone who's outlined in our change management plan. Exactly.
+
+[01:00] Now, one other bonus question. Where do we keep the list of our baselined items? Do you remember this? This is very important. Because our change management plan is our process for change management. But where do we keep that list of baselined items? It's in our configuration management plan. The items that we will configure for version control, where we keep the versions and which ones we're updating through change management. So keep that in mind, configuration management, change management.
+
+[01:30] We take it to the approvers, change control board. In this case, it's our best friend, Grace, our project sponsor. And then she's going to say it's approved or declined or deferred. And Billy will communicate that outcome to the people who requested the change and to the necessary stakeholders. And then record that outcome in the change log again. Wonderful, wonderful stuff. We're also going to need to update these two best friends, communications and stakeholder engagement plans.
+
+[02:01] All of these go in our project management plan. But remember, they're best mates because we need both of those to engage our stakeholders. And lastly, project document updates for any changes, the change log. For any issues, the issue log. For new stakeholders, the stakeholder register. And for lessons learned, the lessons learned register.

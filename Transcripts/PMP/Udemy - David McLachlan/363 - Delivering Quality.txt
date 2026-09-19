@@ -1,0 +1,18 @@
+# Delivering Quality
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 363 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] With deliverables, there can be moving targets of completion. So we're going to need a change control process to keep things under control and a strong product owner to make sure that we're not getting ad hoc requests from lots of different stakeholders into our team. Projects operating in uncertainty or changing markets can also impact deliverables. This is known as done drift, where our definition of done keeps changing because the market is uncertain and keeps changing as well.
+
+[00:34] In more stable projects, we might still have scope creep, where we've got extra scope creeping into our project and our plan that we need to deliver. So we really need to keep these things under control. We're also going to need quality of our deliverables. And this is reflected in the completion criteria, a definition of done, statements of work, and the requirements documentation itself. The people who receive the benefit of these items will bear the cost of bad quality.
+
+[01:05] So if we deliver something with bad quality, then it's really going to affect the value in the organisation once the project is complete. And we can use the cost of quality to manage this with prevention costs, appraisal costs, internal failure costs, and external failure costs. The cost of these changes gets higher towards the end of the project. It's easy to change requirements, but it's a bit harder to change the design. We need to check the requirements again.
+
+[01:32] And then once we've built it, we have to go back. If we need changes, we need to change the design and maybe check the requirements again. Then if it gets to the customer, then it's really costly. We might get customer complaints or brand or reputation damage. And then we still have to go back and rebuild it, redesign it, get the requirements again, and then retest that as well. So that cost gets higher towards the customer. For prevention costs, that could be things like having good requirements in the first place and training our staff to prevent quality issues.
+
+[02:06] Appraisal costs is testing or quality control or quality audits, verifying the deliverables that we've created. External failure costs is when we find a defect or an issue. It's waste or scrap or defects or rework, but it's still internal to our project team. So it hasn't reached the customer yet. Maybe our testing team has found it. And then external failure costs is when it reaches the customer, an issue or a defect, and they have repairs, servicing or complaints or returns.
+
+[02:36] And again, that's the most costly part of the cost of quality. There's always a chance that a project does not meet its outcomes. We might have uncertain environments or markets, changing markets, or our competitor might get there first. Effective project management can help, but there is always going to be risk as we deliver our project. To check if we got our delivery correct, the organisation's strategic plan is aligned with our project objectives and deliverables.
+
+[03:03] So we're delivering the right thing to meet that plan. The business case and its data shows that the project will meet the strategic objective that we had in the first place. The benefits realisation plan shows that delivery is working as intended. And positive stakeholder or customer feedback shows that we've got satisfaction with the deliverables that we're creating.

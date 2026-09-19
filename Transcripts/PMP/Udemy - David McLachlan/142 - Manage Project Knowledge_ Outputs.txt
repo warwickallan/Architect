@@ -1,0 +1,10 @@
+# Manage Project Knowledge: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 142 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for our Manage Project Knowledge are the Lessons Learned Register itself. We can update this Lessons Learned Register with things that we've learned to help us avoid those mistakes in the future. So Billy's going to take this on and in that register, he's going to include the description of the situation and the impact, what happened, any recommendations and the proposed actions for the future. It's good practice to capture Lessons Learned together as a team, especially so the whole team learns at the same time.
+
+[00:34] We'll also update any part of our project management plan. So any component, scope, schedule, cost, risk. If we've learned something that we can improve, then we're going to update that plan and our process or our ways of working. And lastly, we can also update things from the business. So if there are organizational process assets or templates or systems or processes, then we can say, hey, we've got a better way of working that we've found through our retrospective or our after action review.
+
+[01:05] And Billy's going to take that back to maybe to Grace or maybe to Anne in the business and say, hey, you can use this now in the business because we've found a better way.

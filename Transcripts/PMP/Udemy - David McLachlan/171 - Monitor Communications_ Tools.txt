@@ -1,0 +1,14 @@
+# Monitor Communications: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 171 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Tools and techniques we're going to use for monitoring communications. Billy is going to be communicating with Anne as a functional manager, maybe even Jake as a marketing manager in the Harmony Fitness business. And we need the expertise of these people who know things about how to communicate with the public, the community and media, or between virtual groups. That's where Jake comes in, and communications and project management systems. And Anne knows a lot about the systems in Harmony Fitness business.
+
+[00:34] So she's going to be very, very helpful. And we're going to need that expert judgment, as always. We'll need our PMIS. So what system are we using? Is it Microsoft Project? Is it Microsoft SharePoint, Jira, Asana? Is it Primavera? What does that look like? And again, this will be different in different organizations. We're going to use data representation with our stakeholder engagement assessment matrix. We touched on this ever so briefly.
+
+[01:03] So can you tell me how to do this one now? I know you can. C for current, D for desired. And it's across unaware, resistant, do you remember this, neutral. Next one is supportive. And last one is leading. Now where do we want people to be? We want them to be unaware? No, we want them to be supportive and leading on our project. We want them to be helping us out.
+
+[01:34] And by the way, if they are unaware, what do we need to do? We need to communicate a little bit more, and in a way that they prefer. So we could check our communications management plan for our process, and maybe improve it if we need to. Hey, it's all coming together, isn't it? Just wonderful stuff. Interpersonal and team skills, we're going to use observation and conversation with our team just to see if the communications are actually working.
+
+[02:03] And maybe we need to respond to requests for information from stakeholders. But we're always talking and always observing to make sure that things are going well. And it's our other favorite, meetings, to tie it all together for decision making, responding to stakeholder requests, and communicating information with suppliers or vendors or other project stakeholders.

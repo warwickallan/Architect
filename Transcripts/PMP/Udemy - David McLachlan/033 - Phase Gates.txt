@@ -1,0 +1,12 @@
+# Phase Gates
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 033 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We're also going to see phase gates throughout our project, and that's the last section in our project foundations. Projects can be separated into phases that indicate the type of work done in that phase. For example, we might do a feasibility study or a business case, gather the customer requirements, and if you remember, that's design, build, test, and then deliver or transition that back to the business or to operations.
+
+[00:30] So we can call these different things, but ultimately they usually follow a very similar pattern of gathering the requirements, design, build, test, and deliver, and in some circumstances we might have a phase gate held at the end of one of these phases. For example, we do all of the design and then we need to check with our customer or check with our sponsor or check with other stakeholders to make sure that design is correct, and we want a phase gate there so that we don't start building until that design is signed off.
+
+[01:05] It's a nice way to see that we're on the right track. The project's performance can be compared to the original plans, and we might decide to continue or modify or even end the project or repeat that phase based on how we went. So it's just a check-in. We can also have pre-phase gates, so keep that in mind, phase gate or pre-phase gate, where we check that we have everything needed. So we have the sufficient resources, we have the sufficient planning, and all of the risks are addressed before we proceed to the next phase.
+
+[01:37] So pre-phase or phase gate, just know that we can have those checks in place.

@@ -1,0 +1,14 @@
+# Estimate Resources: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 099 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As Billy estimates the resources, first he's going to start with his resource management plan. Now, why do we start there? Because it's our process for how we said we were going to manage resources in the first place. So now it's time to use that process. Very, very handy for Billy here. And our scope baseline, why do we need that? Because those are the things that we're going to be delivering. So we need to know what we're delivering.
+
+[00:29] So we need the resources to get those things done. We can also gather information from our activity list and attributes. So these are the activities that we're doing on the project and dates and locations. Because maybe we need to deliver some materials at these dates and locations. Very important. Assumption log, cost estimates, because the cost of resources could impact the resources we choose. Maybe we don't have a lot of money and we need to source cheaper resources.
+
+[01:00] Or maybe we have heaps of money and we can use the very, very best. So we need to keep that in mind. Resource calendars, this is when each resource is available. We'll see this a couple of times, but it could be working days or shifts. Let's say that Audrey, if we need to work with Audrey, she only works on Mondays and Tuesdays. Well, now we need to know this and it's going to impact the way we work on our project. Lastly, the risk register for any risks around resources coming up in the future.
+
+[01:31] The enterprise is also very important. Resource location, resource availability, team resource skills. If we're, if we've got people who we need, they don't have the capability, then maybe we need to do like that automotive design team and send them to a seminar or get someone from that particular area to help teach us. So again, this isn't always straightforward. We need to use our critical thinking skills and brainstorm some ideas, some ways around these issues or problems.
+
+[02:03] And the organizational culture, for example, some cultures in the organization, we might be able to just go directly to that person and say, Hey, can you help us out for a day or two? In others, we might need to go through lots of sign offs or managers or different hierarchies. So be aware of how the organization works. Published estimating data, so commercial databases can help us too. We're going to need policies and procedures and templates or historical information regarding the types of resources that we use on similar projects.

@@ -1,0 +1,18 @@
+# Tailoring Your Project Approach
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 039 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, every team and every project, every product, every organization, every industry, every marketplace, all of these things are different. So wherever we go, we might work in different places, teams, using different products, using different methodologies. These are rarely the same wherever we go. So that means we need to adjust our approach to suit the situation that we're working in. That means we need to tailor our project approach.
+
+[00:32] So tailoring a project management method to your project means selecting the appropriate project management processes, methods, tools and templates, lifecycle phases, and many other things to suit our situation. It's our way of working. As we tailor our project, we start with the initial development approach. For example, are we using waterfall or predictive way of working? Are we using iterative?
+
+[00:58] Are we using agile, scrum XP or Kanban or any of the other project methodologies available to us? We pick one and we start there. Then we can tailor for the organization. So what's the project management maturity within the organization? Do we need more oversight or less oversight because people really know what they're doing? What's the risk tolerance and how much do we need sign-offs? Do we need a high degree of quality control because we don't have a tolerance for changes or for risk in the organization?
+
+[01:31] Needing to release faster or slower, so using incremental approaches or one big bang approach and customer centricity. How much access do we have to our customer? We can tailor our approach. Then we tailor for our particular project. We might have different release sizes or events or meeting types or different team sizes, roles and role names, the project size, the criticality, different quality needs, durations, product types and more.
+
+[02:00] So we're going to need to tailor for that situation. And once we've done all of those things and tailored it completely to suit our needs, we can have a retrospective and say, hey, is this working or is it not working? What do we need to improve? We implement ongoing improvement and then we do it all again. As we tailor, we can add or remove tools like product backlogs or Kanban boards or different systems that we're using, sprint backlogs, information radiators, team charters or the way that we're doing our project charter and configuration management or version control tools.
+
+[02:36] We can add or remove different measurements in the way that we measure things, throughput or velocity or things that we've released, features delivered, defects that we've raised, first time right, so defects or quality control and even earned value management, which we're going to see later on, our planned value versus what we've actually delivered. And we can add or remove approaches. So we might use rolling wave planning, daily stand-ups, even sprint reviews or reviews of the code, code inspections, retrospectives to improve our way of working or after action reviews is another way to put those, project kickoff meetings and risk meetings, backlog refinement or breaking down the work from the features into work packages or user stories with our team.
+
+[03:24] And we might even have modeling workshops with our developers or design workshops with our designers or engineers. And those are all the things that we need to know as we work through the environment that projects operate in.

@@ -1,0 +1,14 @@
+# Elicit Requirements
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 084 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now that we're going through the planning section of our project, we're doing some great planning so far and you're doing a great job getting through these project processes. But now it's one of my favorite parts. As you know, we're working through the scope, we've planned our scope management, how we're going to do it. Now it's time to actually gather and elicit some of those requirements and turn it into our project scope.
+
+[00:26] This is such an important part of a project. It's what we're going to deliver. And our outputs here are our requirements documentation. This can be a few things. Again, it could be high level or detailed. It could be in many different formats, could be just a couple of lines on a page, could be designs and lots and lots of detail in a huge requirements document. But we also want our traceability matrix, which traces our requirements through to the scope that delivers those requirements and sometimes also to the tests that test the scope and those requirements.
+
+[01:03] So this is just such a great section. I really love eliciting the requirements and turning it into project scope. We'll also eventually turn these requirements into our scope baseline. On an Agile project, requirements could be user stories and they might be prioritized in our backlog. So it could be our sprint or iteration backlog as we're working through those user stories in a sprint or iteration, usually again of around two to four weeks, often to the smaller or to the shorter side.
+
+[01:34] So customer requirements will turn into our project scope, will turn into our project activities. So all of the things that we do to deliver it. And then we deliver on those things within our project constraints of schedule, cost and quality. Remember that beautiful triple constraint with quality in there as well and scope, schedule and cost. And ultimately, we do all those things to deliver value to our customer. Lots of inputs and lots of tools and techniques, lots of working with our team and eliciting information with focus groups and interviews, analyzing all of those things that we need, maybe processes or documents from the business to gather and elicit requirements and using our wonderful interpersonal and team skills.
+
+[02:18] The output that we're looking for is just the requirements documentation itself. Let's get into our inputs.

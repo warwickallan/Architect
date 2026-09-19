@@ -1,0 +1,14 @@
+# The Project Lifecycle and ITTOs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 032 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now that brings us back to a chart that we're going to see a lot of throughout this course and that's our overall process. As you can see and as we said before, we're initiating, planning, executing, controlling and closing our project and we'll go through each of these. Typically we will follow this from top to bottom and left to right. We initiate our project, find the stakeholders, we plan our scope, schedule, cost, find our stakeholders, find our resources.
+
+[00:34] Then we deliver that value and we lead our team and we manage project execution. Then we keep it under control and then we accept those deliverables and finally once they're accepted we can close the project or the phase. The thing about these focus groups is that we're initiating, these can happen at different times and they can overlap so they're not just affixed, it's not one after the other. They're sort of always happening almost all at the same time in some way, shape or form.
+
+[01:07] We're still doing a lot of planning but at the same time as we're planning we might have started some of the execution of the project and then as we're executing the project we're also monitoring and controlling our documents and our deliverables all throughout the project as well and initiating at the beginning but also our governance and closing the project at the end using our governance structure. So the idea of this chart is just to show you that all of these things happen and they are interdependent and they happen all the time.
+
+[01:41] Now as we go through these processes we'll also go through their ETOS or what we call the ETOS as inputs, tools and techniques and outputs and this really dives deep into what we need to do for each particular process. For example, identifying stakeholders. What are the inputs? Maybe we have our stakeholder register and then tools and techniques maybe we're brainstorming with our team or maybe we're using expert judgment from someone who knows all the stakeholders in the business and the outputs might be our stakeholder management plan or an updated stakeholder register.
+
+[02:19] That's just a rough example but we're going to delve into these things in a lot of detail and I really love this approach because it gives you all of that detail on what we need to do every step of the way as we manage our project. So look forward to that, I really really love that part.

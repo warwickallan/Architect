@@ -1,0 +1,18 @@
+# Monitor and Control Resourcing: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 180 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. As we move through monitoring and controlling our project, we're going to need to keep our resources under control. This is where we ensure that the resources that are assigned and allocated to the project are available as planned. And as we monitor our resources, we might need to check their cost and adjust them as necessary. We're going to review individual team members' performance and release team members when they're no longer needed on our project.
+
+[00:32] So this is as we keep everything, our team members and the materials, under control. We've got lots of inputs, lots of tools and techniques, and the outputs are, again, not any real documentation, but it's just all of the things that we're doing and the data that we're creating. So work performance information, and we've seen that a few times, and of course, change requests and any updates to some of our plans if we need to change our way of working. So what are the inputs for monitor and control resourcing?
+
+[01:02] First, we need our resource management plan. Wow, isn't that a shock? We planned out how we would manage these resources, and now it's time to use that plan. It's our process, it's our strategy. As we know, and Billy can use this now, this is going to be very, very handy. We're also going to have project documents with our physical or virtual resource assignments. So where we have assigned resources, now it's time to check those. Any issues that we have for lack of resources or delay of resources, that's going to impact us as we control our resources.
+
+[01:37] Resource breakdown structure, which we've seen many, many times, and how our team members fit in the project team, and that can show any resource needs that need to be replaced during the project. The project schedule for resources that are needed and when they're needed. The risk register for any risks that might impact equipment, materials, or supplies. And of course, any lessons learned that can help us as we manage our resources. We're going to need the existing raw work performance data, which is just that simple data.
+
+[02:10] And do you remember how this works? It's the data, and we compare it to another piece of data to create work performance information. And then we put that into nice reports and send it to our stakeholders in work performance reports. And so that's the life cycle or how it moves the process for all of our work performance data information and reports. And this includes the number and type of resources that actually have been used. So that's going to be handy for us to know.
+
+[02:39] We'll need agreements for resources when they are external to the organization or with functional managers in the organization. So Billy's going to work with Anne or maybe even Susan for some procurements and agreements. But Anne, as the functional manager, has access to resources inside the organization that we might need to use throughout the project. Organizational process assets, so escalation procedures for handling issues within the performing organization, and policies regarding resource control or resource assignment.
+
+[03:11] Again, if Billy needs to work with Anne, there are existing policies that they can use to assign resources to the project.

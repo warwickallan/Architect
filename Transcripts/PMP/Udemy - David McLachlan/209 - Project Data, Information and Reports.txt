@@ -1,0 +1,16 @@
+# Project Data, Information and Reports
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 209 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We're going to look at work performance data, information and reports because you will come up with this as we're going through our PMP exam and also through your project career. We'll gather and use a significant amount of different data on our schedule, on our budget, on our scope and any changes and change requests, issues, risks, so much information here and stakeholders too.
+
+[00:27] And we're going to communicate all this information to our project stakeholders either verbally or in reports. But it starts at the very beginning with just the raw data, so work performance data. These are the raw measurements or activities that we use to carry out the project work. So we're doing our project work and we have a bunch of defects as we're quality control or doing testing. This is the raw data. We're getting 90 defects.
+
+[00:54] We might have the number of change requests, we have 10 change requests currently in progress. Actual costs or actual durations, that's raw data and the percent of work completed. All of this is recorded in our PMIS, our Project Management Information System. Now we have the raw data, what do we do with it? We need to compare that raw data to other raw data to create something useful that we can make a decision with.
+
+[01:24] This is our work performance information, so data turns into information. We collect all of this data, we analyze it against other data for their relationships. For example, the status of deliverables against the schedule. We've got our schedule going along here and how much have we delivered, are we actually on track? This is what we might call our planned value versus our earned value. We're going to see a little bit about this later on.
+
+[01:54] Forecast, estimate to complete, when do we think we're going to finish this project? And other measures like schedule variance or cost variance, how are we tracking on our budget or on our schedule? Now it becomes useful, we can use this information to make decisions. Now we also need to give this to our stakeholders so they can be on the same page as us and maybe they need to make decisions too, like our project sponsor or steering committee or other executives within the business area.
+
+[02:24] We turn that information into work performance reports. So the physical or electronic representation of work performance information intended to raise actions or awareness and examples could include status reports, maybe memos, maybe updates or electronic dashboards and more.

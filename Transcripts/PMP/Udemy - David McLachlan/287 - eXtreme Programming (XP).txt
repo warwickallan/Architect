@@ -1,0 +1,20 @@
+# eXtreme Programming (XP)
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 287 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The next framework we're going to look at is Extreme Programming. This is where we focus on the programming aspect, the software aspect of Agile and look at a lot more technical practices. We've got the Introduction, 4 Activities, XP in Practice and XP Management. And if you want more information, read Extreme Programming Explained by Kent Beck, where a lot of extreme programming came from. It was developed at Chrysler in 1996 by Kent Beck, Ron Jeffries and Ward Cunningham.
+
+[00:34] It's a lightweight methodology for small to medium-sized teams developing software, dealing with vague or rapidly changing requirements. As we've seen a few times, that's our volatile, our VUCA environment. Volatility, uncertainty, complexity and ambiguity, and especially in software if we've got changing requirements happening, the customer sees the thing that they've delivered and they say, oh, I actually want that to be changed a little bit, it's not quite what I thought. So we're always changing and we're dealing with that as a software or an Agile team.
+
+[01:07] Extreme Programming nominates programming or delivering the work as the key activity throughout a software project. It also focuses on simplification by always designing with the simplest thing that could possibly work. And that's one of our 12 clarifying principles, so it made it into the 12 clarifying principles as well. There are four activities, coding, testing, listening and designing. We code because if we don't code, we haven't really created anything.
+
+[01:37] We test because if we don't test, we don't know when we've finished coding. We don't know if it's complete and ready to give to our customer. We listen because if we don't listen, we don't know what to code or test. We need to work with our business people and the business people need to work with our developers and by listening to each other, we figure out what we need to deliver. We also design so we can keep coding and keep testing and keep listening indefinitely. With coding, whether you draw diagrams that generate code or today, maybe we've got vibe coding where we just prompt our way to a code, whatever that looks like or if you're typing at a browser or at a workstation, you are coding.
+
+[02:19] You're creating the code and creating the work. As we code, we learn and we have an idea and we test it out. As we code, we communicate so we've created something, did it work, do we need to get feedback and or give feedback to the business. For testing, Extreme Programming writes automated tests which help programmers think about how the item will be implemented. Unexpectedly, programming and testing together is actually faster than just programming because it reduces the time spent debugging.
+
+[02:51] Then we've got listening. Extreme Programming says that programmers don't know anything that business people think is interesting so our business people, they just want their value delivered. They often don't understand the programming aspect and so to know if a test is successful, the programmers often have to ask the customer or the business what the expected answers are so what do they want from this item. This can help the customer understand what's hard and what is easy to deliver so there might be some trade-offs there.
+
+[03:22] If they want a particular piece of functionality, is it going to take a year to deliver or can we deliver it in two weeks? Is it easy or is it hard? And lastly, we've got designing because good design organizes the logic so that a change in one part of the system doesn't always require a change in another part of the system. If it's decoupled and that makes it easy, then we can change this part without impacting all of the other parts of our code.
+
+[03:50] Good design also allows the extension of the system with changes only in one place so that's a way of refactoring and simplifying things.

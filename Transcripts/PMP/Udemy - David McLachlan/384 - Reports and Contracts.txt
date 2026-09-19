@@ -1,0 +1,14 @@
+# Reports and Contracts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 384 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Other artefacts will be reports, like our quality report for our quality control and our testing team. Risk report, which is a high level idea of all of our risks, usually to our stakeholders and our steering committee and project sponsor. And status report for our stakeholders as well, just to show how the project is going. We might have agreements and contracts with a fixed price contract, if you remember. So a firm fixed price when the scope is quite straightforward.
+
+[00:30] We might have cost reimbursable contracts with cost plus award fee, fixed fee or incentive fees. The seller has their cost and then anything above that is their incentive fee. If they get the work done in a good amount of time, then they get that incentive fee or that fixed fee. Time and materials, that can really get out of hand because the time could be indefinite and the materials could be indefinite. So only use this if you absolutely have to. We pay for the cost of their time and the cost of their materials.
+
+[01:02] Indefinite delivery and indefinite quality, that's an indefinite quality of goods at a certain price with upper and lower limits. So we just set that at the beginning of the project and then we can order as much as we want within that particular price, upper and lower limits. Other agreements could be memorandum of understanding, memorandum of agreements. These are usually not quite contracts, but they can still be enforceable because it is in writing. So it's more just an agreement.
+
+[01:31] SLAs, service level agreements. So do we want to have 10 of these delivered a week? That's our SLA. Or basic ordering agreement when we're ordering items from another vendor. We might also have activity lists for all of our activities. Bid documents, remember our request for information, request for quote and request for proposal. Request for quote is just when we've got straightforward scope and we really know what we need. We just need a price. But a request for proposal is when it's complex and we need the vendor to propose a solution.
+
+[02:02] We might have metrics, project calendars, requirements documentation, project team calendars, and of course user stories in Agile. And that's the end of all of this high-level overview that's based on the Project Management Body of Knowledge 7th edition. A wonderful review before your exam and a wonderful way to review all of the information that we've covered so far. You've done such a wonderful job getting through this high-level overview and I hope it's helped. Use it as a review if you need to and I'll see you in the next video.

@@ -1,0 +1,20 @@
+# User Stories and INVEST
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 315 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now we break those epics down, our high-level features, we break them down into user stories, small enough to be completed within a sprint. This is done with the triad or the three amigos of the customer, developer, and tester. Now, these people come together because the customer can tell us the requirements. So what do they actually want? The developer tells us what's possible. So they say, you know what, the system can do this, or we might need some trade-offs here.
+
+[00:30] We can do this, but we can't do that. And the tester looks at it from a quality perspective. So how can we test it and make sure that it meets the customer's needs? Now we're going to use the three Cs with the card, conversation, and confirmation. So we come together and we create a user story card that we can place on our Kanban board, and then we have a conversation. Remember, we're face-to-face conversation is the fastest way to convey information.
+
+[00:59] So we go through the requirements, solution, and acceptance criteria, and then we confirm that the item meets those requirements. Often the customer will peer review, or the product owner will review those items and give it a sign-off on the requirements. As we're creating user stories to place in our iteration backlog or our sprint backlog, we can use INVEST. INVEST is a nice acronym, and it's a great way, a great thing to remember when we're creating user stories.
+
+[01:27] They should be independent. So the user story should be a usable piece, independent to others. It's an increment of its own, and we can demonstrate it to the customer at the end of the sprint. It should also be N for negotiable. We should be able to negotiate those requirements or the solution and even move it out of the sprint if we need to. It should be valuable to the customer. So we make sure that it has that customer value and it's moving us towards our product goal or our overall team goal.
+
+[01:59] It should be estimable. We should be able to estimate it with the team, how long or what's the effort or the duration. If we can't, then maybe we don't have enough information. It's not clear enough, so it should be estimable. It should also be small. We've seen this a few times. Also, having small increments solves almost every problem. If you've got large increments and they go over multiple sprints, then if something goes wrong, then we have to go all the way back.
+
+[02:27] You'll see this in the cost of quality, by the way, if you haven't already. So when it gets to a stage close to the customer and we have to redo it, the cost is very, very high. But if it's small and we just change the requirements or the design, the cost is a little bit lower. It's a little bit easier to do. So try and keep everything small if we can, especially user stories. Lastly, it should be testable. We will often write tests or acceptance criteria first so that the developers know what they need to develop.
+
+[02:59] Part of this process is working with the product backlog and the sprint backlog. So a backlog is a prioritized list. And we've seen that, we've heard that a few times. But the product backlog is the list of features. And then what we have here is our deliverables or features. We break those down into user stories and we place those in the sprint backlog or the iteration backlog. That's our list of user stories that we're going to complete in the next iteration or sprint.
+
+[03:28] And once we've completed those and created something usable, we're going to review that usable increment in the sprint review or the iteration review. It's that demonstration to the customer so they can see what we're delivering.

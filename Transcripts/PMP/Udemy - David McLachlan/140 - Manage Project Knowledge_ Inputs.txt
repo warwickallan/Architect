@@ -1,0 +1,22 @@
+# Manage Project Knowledge: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 140 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we execute and deliver on our project, it's time to manage the knowledge that we accumulate on our project. So this is where we gather subject matter expertise and create and update our lessons learned registers to improve our project process and to support organizational operations in the future. So everything that we learn while we're delivering this project, we can also use it to improve future projects and also the organization.
+
+[00:29] So we can put some of those templates or improvements back into the business to help them improve. So there are two main types of knowledge, explicit knowledge, which is easy to define. It's like a step-by-step process. We can clearly describe it using words, pictures, or numbers. But tacit knowledge is personal or difficult to express. It's more like our feelings or our beliefs or our insights and experience. This is harder to express, but it's not impossible as we're going to see, we can use storytelling to get our ideas out there.
+
+[01:04] There are lots of inputs, tools and techniques and outputs, but the main outputs we're looking for are our lessons learned so that we can put them back into our process and improve for the future. Let's look at the inputs for managing project knowledge. And the first thing Billy can start with as he puts this together and manages this as he executes on the project is the project management plan. Any component, because we're going to take this knowledge and improve upon it as we get feedback and we're delivering these things and seeing what works and what doesn't work.
+
+[01:36] We'll also use our project documents, so project team assignments for resources and their skills and any knowledge that we might need to get from those people. The resource breakdown structure for our project team, project resources so we can see the overall knowledge that we have available. As we can see, we've got business analysts and some of their expertise. We've got some expertise from the business with our subject matter expert, Audrey and Anne. And we've got developers and testers, so quality and delivery and coding, all of these things that we can learn and improve upon.
+
+[02:11] Stakeholder register for project stakeholders and any information they might have. And the lessons learned so that we can take existing lessons learned and improve upon those. As we create the project deliverables and the requirements are met, we can take any lessons that we learn from these things, what worked and what didn't work and we'll update our project knowledge. And of course, the enterprise environment is going to impact how we do all of these things or whether we do it at all.
+
+[02:39] But we want a no blame or a learning culture if we can. So if something goes wrong, then can we look at the process and can we get together and brainstorm ways to improve instead of saying, oh, it was that guy's fault or that person's fault and then we don't really improve, it's just blaming that person. Geographic distribution of facilities and resources might impact how we get that knowledge. Do we need video conferencing or can we all sit together in the one meeting room?
+
+[03:08] Organizational knowledge experts like subject matter experts like Audrey, our friend, she's got great expertise on the system and so we're going to use her expertise within the organization. Legal and regulatory requirements or constraints and maybe this is confidentiality of the information. Can we put it in a repository that everyone can see or do we have to lock parts of it down because there are legal constraints and part of it is confidential?
+
+[03:37] We'll also use organizational process assets, so templates for personnel administration on training records and competency frameworks. We might have existing ideas on what people are responsible for and what knowledge we can get from them. Organizational communication requirements, so can we just go up to Audrey and say, hey, can we get some of that expertise or do we have to set a specific meeting? Do we have to go through Anne, her functional manager or what does that look like?
+
+[04:04] What's the way of working in the organization? Formal knowledge sharing and information sharing procedures are important too.

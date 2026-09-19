@@ -1,0 +1,18 @@
+# Adding Durations, Predecessors and Lag
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 197 (section 5: Real Project Example Using Microsoft Project)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] One more thing that we're going to do here is to insert another task at the very top. So right click on the row, select insert task, and we're just going to add one for our overall project. And this is going to track our overall cost and overall duration. We'll call it the Harmony web app project. And if we select all of our tasks underneath that, and if we indent those, then they're going to be linked to the Harmony web app project.
+
+[00:29] And that way we'll be able to see our overall durations and costs. As you can see, our durations are showing question marks, and that's because we haven't put in any duration data. So once we've estimated these tasks with our team, we can input the durations. We might have three days, four days, five days, two days, and so on. As you can see, once we've put in those durations, it shows up on our Gantt chart, but they're all happening at the same time. So once we've put in all of the durations for our items, we can select them, we can go to task, and we can select link the selected tasks.
+
+[01:05] By doing that, it's going to put them in a sequence. And as you can see, it's changed our predecessors. So it's put them in order. Now for our task four, the predecessor, the one that has to happen before that, is task three. And so for task five, the predecessor is task four, and so on. Now we can change this if we want to. We can make this predecessor two instead of five. So two just has to finish before number six can start, or if we make it three, that's a bit better.
+
+[01:35] As you can see, it moves it down. So now these two things are happening at the same time. Do you remember what it's called if they're happening at the same time and we're rearranging our schedule? We're schedule fast tracking because it's happening in parallel. We can also look at a few other things with precedence diagramming method. If we double click on this arrow here, it'll take us to this task dependency box. As you can see, it's got all of our precedence diagramming tools here, finish to start, start to start, finish to finish, and start to finish.
+
+[02:08] The most common one is finish to start, so we're going to leave it at that. But it also has lag time and lead time. Do you remember those from our project management process? If we add five days of lag, we're lagging behind and click enter. As you can see, it's moved the task back five days. If we double click on that and we say minus five days of lag, that's going to be five days of lead time. We're leading it forward.
+
+[02:35] And if we select enter, then that's going to move all of those tasks forward. We're just going to leave that at zero for simplicity's sake. As we arrange our project area, we can also add a little bit of color just to make it a bit easier to view. For our main deliverables, I'm going to right click on the row and then select a different color for these, maybe just a nice light yellow. That way the deliverables really stand out. And for the overall project at the top, I'm going to right click on that.
+
+[03:04] Maybe we'll give that just a nice blue. And that way we can see, as you can see, the duration has changed already as we've started to add project data. We can also add milestones by putting our duration as zero days. So if we put zero here, it's going to give us a nice milestone diamond. That could be for a release or something that we're aiming towards as part of all of the other tasks on our project.

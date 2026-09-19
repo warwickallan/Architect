@@ -1,0 +1,20 @@
+# Assess and Implement Changes: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 164 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Inputs for assessing and implementing changes will be our project management plan. We're going to need our change management plan. Why do we need that? Because it's our process for how we said we would manage change requests. Typically our roles and responsibilities, who's going to do what, we're going to have our change control board. And who's on that change control board? It could be anyone that we outline in our process.
+
+[00:28] But for us, it's going to be Grace, the project sponsor. If something goes through that process and we don't have the authority to approve it, maybe we have a threshold like 5 or 10% for changes and we can approve those or Billy can approve those. But if it's beyond that, then it's going to need to go to Grace. The configuration management plan for the items that are configurable. These are our baselined items that need version control and to go through the change request process. Scope baseline, schedule baseline, and cost baseline.
+
+[01:01] So these are all our baselined items and these are the things that we'll typically need a change request for. We'll also need project documents like the basis of our estimates, how did we come to these estimates if they need to change. The requirements traceability matrix. If scope changes, are we still meeting our customer requirements? Very important. And the risk report to see our overall project risk, if anything is changing as a result of these scope changes through our change request process.
+
+[01:31] The work performance reports are very important. We've got our work performance data, turned it into information, turned that into nice reports that we can show people, showing the earned value and how we're tracking on our project. It could be burn up or burn down charts or earned value management charts. We're going to need this to see if the requested changes are going to impact things like our resources or our project schedule or our project cost. So we can check those reports and just see, is it going to impact us a lot?
+
+[02:03] We're going to need the change requests themselves. They can be raised by anyone, but then we note them in the change log. We analyze them for their impact to the schedule or the cost. We take it to the change control board, if one exists. And if it doesn't, who is the approver? That's outlined in our change management plan. And then only approved changes can be incorporated back into the new baseline. For example, if it changes our schedule and it's now back on track, then we have a new baseline and we need to re-baseline that schedule.
+
+[02:38] We'll also need information on our environment, the enterprise. So government standards, legal constraints or requirements, organizational governance frameworks. Is there an existing way that we need to do change requests or change control? Maybe it's taking it to a steering committee at a certain threshold. Maybe project managers have the authority to do all the changes. So it depends on the organization. And contracting or purchasing agreements and constraints if we're working with vendors. And lastly, process assets for configuration management.
+
+[03:11] We might have a knowledge base of all of the versions. So we've got version 1, version 2 of our scope. And we can clearly see the changes as we go through our project. Same for our schedule, same for our cost or our budget. Same for our plans if we need to baseline those items. But we're also going to have procedures or tools or templates for how we approve and issue change authorizations. How do we communicate that?
+
+[03:37] Maybe there's a set template or an email that we can send. Or maybe that goes through a certain system.

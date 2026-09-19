@@ -1,0 +1,14 @@
+# The Hybrid Approach
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 030 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now at the end of all this, and this is something that we're going to see a lot of, especially these days, in the real world and on your exam, we're going to have a hybrid approach. Hybrid is a combination of predictive or adaptive approaches, or even anything in between. And this is important because we're going to see this a lot in the real world where maybe our executive manager says, hey, we need to do all this planning, but we want to use some agile techniques.
+
+[00:34] For example, we're delivering a straightforward project, but we're trialing something. We're getting some feedback on some new roofing material in incremental releases. Or we could go the other way. Maybe we're working in an agile way of work and we have a vendor who's delivering something for us, and they're working in a waterfall way of work and delivering it at the end in one big bang or in one go. Then we could add that to one of our iterations or one of our increments and deliver that at the end in an incremental way.
+
+[01:11] It's a combination of agile and predictive. Now we can also have a normal project where we're using agile tools like Kanban boards, and we'll see these later on. You probably use these in the real world where it's like a task board. We start in the backlog to do, and we have all of our task cards or our user story cards, we might call them in agile. And then as someone starts working on them, they move into in progress. Maybe they move into testing or sign off, and then they move into done.
+
+[01:45] We can see how it's progressing, how the work is progressing, and that's very, very handy. We might also have other agile tools like the daily scrum or a daily stand up where we get together as a team and we give an update, very short update on our work and if we're blocked or if we need any help. And we could use many other agile approaches while still doing a predictive project and delivering it in one go at the end. So those are our hybrid approaches.
+
+[02:14] Just be aware of that. It's a combination of any of those things, and it's also very common in the real world today.

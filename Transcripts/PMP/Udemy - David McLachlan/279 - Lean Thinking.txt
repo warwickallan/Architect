@@ -1,0 +1,14 @@
+# Lean Thinking
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 279 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Alright, so now we've got that out of the way, Lean Thinking. This is a great overview of Lean or the Toyota Production System and it starts with identifying value. Again, this came from The Machine That Changed The World and ultimately Lean Thinking, these two books, quite good books if you want to delve into this in a bit more detail. We identify value from the customer's point of view, not from our point of view, not from our friend's point of view, it's what is our customer willing to pay for and what's going to improve the feedback, the customer feedback for our product.
+
+[00:38] The second thing we do is to map the value stream. We've seen value stream maps where we map out the process steps and how we create our product or our items and then we want to reduce non-value added activities that don't directly add value to our customer. That's the purpose behind mapping out the value stream to make sure that we're streamlining it and seeing anything that is costing us more time or creating waste in our system.
+
+[01:08] Create flow then, so make these value creating steps occur in a tight sequence so that the product flows smoothly towards the customer. We're creating that value without any waste in our process. Establish pull where we let the customers pull value from the previous upstream activity when they need it, just in time. You might hear this term come up, JIT or just in time. This means that we're doing it when the customer orders and we can do it that way because we're fast because we have reduced non-value added activities and we've streamlined our process.
+
+[01:46] If we haven't done all that, we might have to work in batches and we're creating lots and lots of different items that the customer may not need. Then we've got excessive inventory or overproduction or excessive processing and those are a few of our eight wastes all together. We want to do this to stop overproduction or large batches of work. Lastly, we seek perfection. As value is specified, value streams are identified, wasted steps are removed and flow and pull are introduced, we repeat this process over and over again until we reach a state of perfection.
+
+[02:24] In the real world, we may never reach perfection, so we're always striving, we're always trying to continually improve.

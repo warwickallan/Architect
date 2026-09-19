@@ -1,0 +1,14 @@
+# Business Analysis - For Anyone Taking the CAPM Exam
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 269 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, just a quick note for anyone taking the CAPM or the Certified Associate in Project Management. This is extremely similar to all the information in the PMP exam. As you can see, we've got predictive ways of working, so waterfall, we've got agile ways of working and the project management fundamentals, all of which are covered in this course, which is a PMP course. So as I said, almost exactly the same, except for one small thing, and that is business analysis.
+
+[00:34] So I'm going to give you the trick, if you're actually taking the CAPM, here's the trick for business analysis, because you will get some questions on the CAPM exam. And the trick is that business analysts elicit requirements from customers or stakeholders. So they will brainstorm with the customers or stakeholders to gather and elicit those requirements. They'll make sure that the solution matches those requirements through working with the testers and quality analysts, and then they'll ensure that it has the desired effect.
+
+[01:05] Did it increase the return on investment, or did it improve the customer satisfaction numbers? Remember, all of those ways that we can measure our product or our project. So it's really just those three things, and what that looks like as we're going through our normal project management skills in this course, is it's all of the stakeholder key concepts, the scope key concepts, and the quality key concepts. Just those three things.
+
+[01:34] So again, if you're taking the CAPM, make sure you have a look at stakeholders, scope, and quality, because you'll need to elicit requirements, make sure that it matches the solution, and make sure it does what we wanted it to do for our product. So developing the project charter, identifying stakeholders, planning out the scope and creating the work breakdown structure, breaking it down, and then maybe change control, validating the scope with our project sponsor, and keeping our product under control through quality testing and working with our quality testers.
+
+[02:08] Just those three simple things. Keep that in mind if you get any business analysis questions on the CAPM exam.

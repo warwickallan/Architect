@@ -1,0 +1,10 @@
+# Monitor and Control Resourcing: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 182 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, outputs for monitoring and controlling resourcing is the data that we're getting from our project and our information. So work performance information to help us make decisions basically and keep everything under control. This might include comparing resource requirements to resource usage across the project activities. What did we say we needed and what do we actually use and then we can, that's going to impact our cost and our schedule too.
+
+[00:30] This comparison can show gaps in resource availability that we're going to need to address. And if we do need to address those things, we're going to need a change request. And where do we go to find our change request process? It's our change management plan, exactly. So we can go through that process, which we've seen. We might need to update our project management plan with the resource management plan for any new processes. Schedule baseline, if the schedule changes with new resources, maybe we need to again use schedule crashing, add a whole bunch of resources and that brings our schedule to be a shorter schedule, it brings it under control.
+
+[01:08] Or maybe our schedule is longer because we don't have the resources available. And the cost baseline, if any costs change after resource changes. Project documents that we can update are our physical resource assignments, the resource breakdown structure, which we know about, that's our project team. The risk register for any new risks, assumptions, issues and lessons learned in all of those registers and logs for any new assumptions or issues or lessons that we've learned along the way.

@@ -1,0 +1,10 @@
+# Team Charter
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 232 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] With resources, and particularly in an agile team, we'll create a team charter. This is a document that establishes our ways of working, the team values, our agreements and operating guidelines. So how are we going to work together as a team? The team charter works best when the whole team develops it, or at least has an opportunity to contribute to it.
+
+[00:27] So it can include things like the team vision and mission, and including what done looks like for all of our items, team roles and responsibilities, the stakeholders that we're going to work with, maybe our team values. Do we value transparency? Do we value always being on time to meetings? Do we value close contact or close communication, or speaking face to face instead of speaking over email? And the team decision process, team conflict processes, what happens if we need to escalate things, and even team ceremonies and events or regular meetings.
+
+[01:03] Review and update this periodically with the team to ensure we have a continued understanding. And if things start going sideways on our project, or if the team aren't working well, we can always review the team charter and come back together and see if we still agree on our ways of working.

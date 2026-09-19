@@ -1,0 +1,12 @@
+# Scrum of Scrums
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 299 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now in Agile, you will come across scaling frameworks as well. This is where we've got really large products or large teams and we'll come across things like Scrum of Scrums, Large Scale Scrum or LESS, Scaled Agile Framework or SAFE and Disciplined Agile from PMI. All of these work with larger projects and larger products. But the idea that you'll see across all of these things is that it's better to keep it small if you can.
+
+[00:33] So it's better to not have scaling Agile frameworks or scaling teams or large products if you can help it. If you can keep the increments small then you will still have a better time and as we know it's that complexity of adding people with our communication channels and that comes up time and time again because as things get bigger the complexity really does increase. So keep that in mind. We'll go through three fast ones and then we'll go through SAFE because that's a little bit more involved.
+
+[01:03] But the first one is Scrum of Scrums and this is just a scaled Agile technique that offers a way to connect multiple teams who need to work together to deliver complex solutions. It's most successful when team members are working towards a common goal. Now if you look at this it's very similar to our projects, our programs and our portfolios if you remember that from our project Fundamentals. So we've got Scrum teams here and one of our people goes to represent their Scrum team at the Scrum of Scrums which could be at the program level for example.
+
+[01:41] And one person from the Scrum of Scrums area will go to the Scrum of Scrum of Scrums catch up if they need to. And basically it's the same as a daily Scrum except it might happen on a weekly or a fortnightly basis where we're updating the progress of our entire team. We're raising blockers for our entire team and we're committing to the future work to show what's coming up again for that Scrum team or for that Scrum team of teams.

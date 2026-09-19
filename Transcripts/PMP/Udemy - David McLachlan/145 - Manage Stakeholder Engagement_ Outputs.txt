@@ -1,0 +1,12 @@
+# Manage Stakeholder Engagement: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 145 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we manage stakeholder engagement, the outputs that we're going to see are change requests. So as we deliver things on the project, we might get changes, they might emerge, and that has to go through the change request process, which is outlined in our change management plan. Exactly. All the way back at the beginning when we planned out that process. We can also update our project management plan with communications management plan. If we need different approaches for communications with our stakeholders, and stakeholder engagement plan.
+
+[00:33] Again, like I said, these two things are best friends, communications and stakeholders. We're always going to need to work with these two things when we're working with people. Our stakeholder engagement plan, if we need to update our engagement approach in order to keep stakeholders actively involved. And lastly, as outputs for managing stakeholder engagement, we can update project documents like our stakeholder register for new stakeholders. Remember, this doesn't just happen at the beginning of the project.
+
+[01:01] It happens any time we might get new stakeholders, and the first thing we want to do is add them to that stakeholder register. Then we can analyze their needs and go from there. The issue log for any new issues, the change log for any change requests that come out of our interactions with stakeholders, and of course, our other favorite, the lessons learned register for any effective approaches, or any ineffective approaches. Maybe we've found out that Grace really does not like it when we contact her before she's had her coffee on a Monday morning.
+
+[01:36] And we can say, you know what, we're going to just put that into our plan, nothing before 9am. But it's different for everyone, and it's different for every project. So gather those lessons learned, and those are all the outputs for managing stakeholder engagement.

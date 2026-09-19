@@ -1,0 +1,14 @@
+# The Forward and Backward Pass
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 242 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now I'll go through the forward and backward pass to calculate our critical path. Typically you won't need to do this on your exam so it's really just for your own information. What you will need on the exam is to understand the paths that are the longest path and also understand which other paths have wiggle room or float in them so then we can shift things around. So the first thing we do for the forward and backwards pass for each activity is we just note their durations.
+
+[00:28] This one's 5 days, 5 days, 10 days and 15 days. Then we do the forward pass where we put in the early start and early finish times and we do that by taking the early start which starts at 1, we add the duration and then minus 1 so this gives us 5. Then we add 1 for the next activity in the sequence so 5 goes to 6. We add the duration, minus 1 and that gives us 10.
+
+[00:56] We add 1 for the next activity, add the duration, minus 1 and that gives us 30. Now there's a very particular reason why we do this, it makes the critical path more accurate. If we don't do the plus 1 and minus 1 then we're usually left over with a little bit extra at the end of the critical path so that is the reason for doing this extra plus 1 minus 1 during the forward and backwards pass. The next one is the backwards pass where we're going back through our schedule now so we look at the late finish and we minus the duration and then we plus 1 to get our late start.
+
+[01:34] Then we minus 1 again to give our late finish, minus the duration and then plus 1 again to get our late start over here. Now we need to do those things to calculate the float in our schedule and that looks like this. The late start which is the late start here minus the early start so 6 minus 6 equals 0, 16 minus 16 equals 0 but 11 minus 6 equals 5 so this one we can see we have a little bit of float or slack or wiggle room and we could actually move this activity if we needed to without affecting our overall project but this path here has no float so we cannot move this activity unless we want to move the whole project end date.
+
+[02:21] That path becomes our critical path.

@@ -1,0 +1,14 @@
+# Risk Responses
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 368 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, as we respond to the risks that we brainstorm, so we want to brainstorm these risks with our team, see what could go wrong. We could use a risk breakdown structure or categories that might already be existing to give us prompts for some existing risks. But now we want to respond to them. And for threats, we could avoid the risk. We just avoid the scope that brings the risk in the first place. Or we could escalate it if it's outside of our authority.
+
+[00:29] That could go to the project sponsor or steering committee. We could transfer it to a third party with insurance, or maybe bringing in a contractor or a vendor, and then they take on the risk. We transfer it. Then we could mitigate the risk, taking action to reduce its probability and impact. This is also called a risk control. And obviously, this is probably the most common way of dealing with risks, is just trying to mitigate that risk. Lastly, we could accept it.
+
+[00:57] So we acknowledge that it's there, but we don't do anything at all. Good for low risks or small risks. Now we might have opportunities. We could exploit the opportunity. We could escalate it if it's outside of our authority. We could share it with another party, maybe within the organisation or even a third party. And we could enhance it, make sure that we increase the probability and impact. Or lastly, we could accept that the opportunity is there, but we don't take any action again. So these risk responses, we can also use management and contingency reserves and have a regular risk review with our team to make sure that we're staying on top of the risk and uncertainty situation.
+
+[01:37] How do we check if risk management is on track? Our risk responses are prioritised against project budget constraints or schedule constraints. Teams identify and take cost-effective steps to prevent threats or risks or things that come up. So we're working together, we're brainstorming these risks, and we're taking those risk mitigation steps. Actions to address risks are appropriate for the project. Remember again, if it's a $100,000 project, we don't want to spend $10 million on a risk response.
+
+[02:12] It has to be appropriate for the level of the project. Likewise, if it's a $2 billion project, we don't want to ignore a risk if it's going to impact some of the benefits that we're delivering.

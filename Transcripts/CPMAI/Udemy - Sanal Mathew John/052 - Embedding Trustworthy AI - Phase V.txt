@@ -1,0 +1,18 @@
+# Embedding Trustworthy AI - Phase V
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 052 (section 9: Trustworthy AI throughout the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let us look at the phase 5, which is a model evaluation phase, right. So this phase act as the final checkpoint to validate trustworthy AI implementation before deployment. So what are the like, you know, again, we are going by three by three principles. What are the three areas that we need to focus here is the fairness metrics, robustness of the testing, and then the stakeholder validation.
+
+[00:32] So this is the evaluation phase, right? So here, what is important? All the metrics, evaluation, stakeholders, all these things are important. So let us look at the first one, fairness metrics. So use specific fairness metrics alongside your traditional performance metrics like accuracy, precision to ensure balanced performance across different subpopulations or subsamples. Similarly, you also need to look at the robustness of the testing, robustness testing.
+
+[01:07] So test the model against adversarial inputs, edge cases, and outliers to ensure safety. So when we discuss about outliers, data outliers, you know what outliers are, these are the exceptions. When you are testing the robustness, when you are doing robustness testing, you are actually testing how robust, how realistic or what you have actually built, is it working or not, how realistic it is. So are there any outliers, are there any adversarial inputs, like, you know, any, if what happens if you give some, you know, that kind of a prompt, which is not ethical or which is harmful.
+
+[01:53] For example, you are building a model for kids, and the kids are supposed to ask questions and give prompts. So then you should be very careful, there should be enough guardrails put in place to ensure that, you know, the kids do not, even if the kids ask some kind of, you know, questions, which are not relevant or which are not ethical or, you know, those, there are some things that the kids should not know, right.
+
+[02:21] When the kids ask about, for example, how to make a bomb, the kid is asking, how to buy a gun or where to buy a gun, these kind of things, if the kid asks, the model should give answer probably for a toy gun or a toy bomb, it should not be giving answers for, you know, get ammonium nitrate, bring batteries, put in the wire. So if the model is giving that kind of a response, there should be enough guardrails. That is what the robustness testing is all about. It will test against adversarial inputs, then the edge cases, that is mobile, you know, mobile, wherein mobile deployments are done, then the outliers, any exceptions.
+
+[03:02] And the stakeholder validation is the last point that we will be covering under this. So confirm that the explanation provided by the system are accurate, complete and usable for the intended audience. So in this case, we just talked about kids, right? So we need to make sure that, you know, the outputs that are received or explanations received are suitable for kids and it is not something that is harmful. So that is why you need to have enough guardrails, proper guardrail set to ensure that, you know, that kind of a prompt is either not taken or the answers or the output should be related.
+
+[03:38] So now we will look at model operationalization.

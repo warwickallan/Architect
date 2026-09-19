@@ -1,0 +1,18 @@
+# Embedding Trustworthy AI - Phase I
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 044 (section 9: Trustworthy AI throughout the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, as part of phase one, phase one is a business understanding phase, right? So in this phase, this phase establishes the ethical foundation by identifying, you know, trust related requirements early. So when you are identifying requirements, you have certain requirements. So the trustworthy AI principles or, you know, the components of that also should be added as part of the requirements. Only if it is added as requirements, it becomes part of the scope and you can deliver it right. So what are the critical things to look at here?
+
+[00:32] We need to be aware of safety critical use cases here, impact assessments, and of course early governance, right? Governance planning, very important. So safety critical use cases is like, you know, identify if project involves high stake scenarios, for example, like autonomous vehicles or medical diagnostics. So these are, you know, real time decisions and, you know, the turnaround time or reaction time is very less.
+
+[01:06] So it is very high precision, high accuracy, you know, high, for example, maybe high explainability may also be required to understand why model made certain decisions. So safety critical use cases is part of the business understanding or the phase one. Now impact assessments, evaluate how the AI might impact different stakeholder groups, identifying potential harms or discriminatory outcomes.
+
+[01:37] So for example, you know, you are doing a project that has, that is related to construction or it has something to do with environmental or ecological systems. So you would want to check with various stakeholders, will it provide, will it do any harm to the stakeholders, like maybe indigenous people living there, or the tribals, or maybe, you know, will the ecosystem get affected, all these things you have to take care. So those are the impact assessments.
+
+[02:08] Okay, and for example, in some projects, the government might be involved, right? For example, it is a metro, something to do with metro, so government is involved. Or maybe some public sectors, public health services or public sector services, government is involved. So identifying, you know, how the AI might impact or affect different high stakeholder groups is important here.
+
+[02:37] Now the governance planning, assess any regulatory requirements like, you know, your GDPR, your EPA, HIPAA requirements, and define success metrics based on that. When you're defining the success metrics here, you need to include fairness and equity. So at this stage of the business understanding, all you can ensure is, you know, fairness and equity. So the key important things that we discussed here are safety, critical use cases, impact assessments that need to be done, and the governance planning that needs to be done in this stage.
+
+[03:14] So that is the application of the, you know, trustworthy AI principles in this phase. Now let's in the next video, we look at the next phase.

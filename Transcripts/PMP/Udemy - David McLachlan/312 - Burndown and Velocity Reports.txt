@@ -1,0 +1,14 @@
+# Burndown and Velocity Reports
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 312 (section 8: Real Agile Project Example using Jira)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] One thing I did forget to mention is we want to go back to our reports. So during our reports, we can check the burndown chart of our work and how it's going. So if we go back to Sprint 3 over here, now keep in mind that I did this all in one go, so that's why it looks like this. But usually it's going to appear going down in that trend, maybe not as nice as this line, but it's going to go up and down at certain points as we complete that work during the sprint.
+
+[00:34] But what I did was just complete it all at the end of the sprint and that's what it shows. So that's what our burndown chart looks like. Now remember, if the work is underneath our trend line, we're ahead of our schedule, we're doing work faster. If it's above that trend line, then we're a bit behind on our schedule. And if this actual work is going down and then suddenly it spikes up, it means that we actually added work to the sprint. Maybe we increased an estimate or we added a user story card.
+
+[01:03] And then as we complete work, it will start trending down again. The other report that we really want to look at is our velocity chart or our velocity report. And ideally we would have done this before we started the sprint while we were doing sprint planning. As you can see, we planned around 27 user story points and completed 21. And then here we planned 29 and completed 26. Now we've got a nice average line and our average is sitting right on 25.
+
+[01:35] So that's perfect. I think that we've planned the appropriate amount of user story cards for our upcoming sprint. Now there's one more thing that I need to show you and that's for our product owner. We're going to go to our timeline up the top here. And as you can see, we've got all of our epics or our deliverables. Here we can show what is basically a product roadmap or it's a Gantt chart or a schedule, whatever you want to call it. But in Agile, typically it's a product roadmap.
+
+[02:03] Now we can see when these deliverables are going to be delivered or released to market. We can change these dates as we need to, or make them longer or shorter if we need to as well. But now if we take a nice screenshot of this, this is a great way to show where the project is going for the executives or other stakeholders who are interested in our project. And this is everything you need to know to set up an Agile project, a wonderful way to do it in Atlassian Jira and wonderful for the real world.

@@ -1,0 +1,14 @@
+# Estimate Resources
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 098 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Great job for getting through this planning section of our project. We're following Billy. I can't wait to see what Billy's going to do next because we've planned out our resource management plan or strategy or process and now it's time to estimate the resources that we're going to need. We're going to need to work with Grace and even people from the business because we might need some of these people as resources to help us on the project.
+
+[00:31] And of course Billy is going to work with his team and of business analysts and developers and testers and people representing the business and the business needs and all of these wonderful things and information. So this is where we figure out who and what and how much of everything we need to get the work done. We're going to need to document all of the reasons for our estimates as well just in case it comes up in the future and we'll need to anticipate potential resource shortages or surpluses. Maybe there's a shortage of materials if we need that and we need to get them from somewhere else that's going to be important.
+
+[01:08] Or maybe there's a shortage of people and people with the right capabilities that we need. There's a few different ways we can work around this. For example, an automotive design team will need to be familiar with the latest automated assembly techniques so they could get this knowledge by hiring a consultant or sending one of their designers to a seminar to learn the techniques or include someone from the manufacturing as a member of the project team in order to get that expertise directly. There are many different ways so we're going to have to brainstorm and think outside the box in some circumstances.
+
+[01:41] Now the outputs that we're wanting here are our resource requirements and the reasons, the basis of those estimates. We'll also have our resource breakdown structure which we have seen many times already. This could be our project team broken down in the hierarchy or it could be the materials that we need on a physical project or a construction project and again just broken down into the hierarchy of where those materials need to be used. And then we can update things like our assumptions or activity attributes or lessons learned.
+
+[02:14] Let's get straight into estimating resources.

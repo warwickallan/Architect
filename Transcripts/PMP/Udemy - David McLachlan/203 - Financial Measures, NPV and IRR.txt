@@ -1,0 +1,22 @@
+# Financial Measures, NPV and IRR
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 203 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're working on the initiation stages of our project and creating our business case and just seeing whether it's worth pursuing in the first place, we can use various financial measures to measure our project benefits and our success. And we'll go through these net present value, internal rate of return, return on investment, payback period and benefit to cost ratio, which again is one of my favourites. Just a side note for your exam as we go through these, you just want the highest one.
+
+[00:33] So if you have a choice on your exam, choose the highest net present value, the highest rate of return, the highest return on investment and the highest benefit to cost ratio, but the lowest payback period, because we want to get paid back quickly. So we want a short timeframe there, but everything else we want a high return on our investment. So you'll see this as we go through it. Now typically, net present value is the present value of a future stream of payments minus the initial investment cost.
+
+[01:07] On your exam, choose the highest net present value if you have a choice of different net present value figures. The formula is slightly complicated and you won't be asked to do the formula specifically on your exam. So just keep that in mind. Don't go into detail in the net present value unless you're really, really interested in this stuff yourself. But just as a quick idea, so we understand what it is. Net present value is the sum of all of our future cash flows.
+
+[01:39] Now we have to bring it back to the present day cost and we do that by using a discount rate. And the discount rate is what could we get for that money if we just put it in the bank at the current cash rate. So let's say, for example, it was 5% per year. If we put it in the bank, we'd get 5% per year. There's that typical interest rate that you'll get from your bank. Now our future cash flows are $4,000 a year for every single year, year one, year two, and year three. And we say one plus 5%, so 1.05.
+
+[02:15] And then for the second year, it's 1.05 multiplied by 1.05. So 1.05 to the power of two. So we multiply it by itself. That gives us 1.10. And then the third one is to the power of three. So cubed, 1.05 times 1.05 times 1.05. And that would give us 1.157. So if we divide that future cash flow by the discount rate, as you can see, we've got $3,800 at first, $3,600 for the second year, and $3,400 for the third year.
+
+[02:49] We take away our initial investment, and overall, we get $892 in this particular scenario. Anything that's greater than zero is going to be a good investment. And again, choose the highest net present value figure for your exam. Very similar for your internal rate of return. It's the resulting return on your investment, just as a percentage. For example, 12% or 9%. And again, choose the highest internal rate of return if you have a choice on your exam.
+
+[03:21] The way to figure this one out is we use the net present value calculation, but it's where we go through net present value and the outcome equals zero. For example, in this case, we've got a $10,000 investment, but we get $4,000 a year. Now $4,000 a year for three years is actually $12,000. So that does not equal $10,000. So we want those two things to match up. And the way we do that is with a 9.7% return a year.
+
+[03:52] In this case, it takes a little bit of trial and error. There are other formulas to do this. Again, it's a little bit complicated. You won't be asked to do the formulas on your exam. Just know that they're out there. And if you're interested in that sort of thing, then you can delve into it. There are Excel spreadsheets for this sort of thing also. So 1.09 and then 1.09 to the power of two, and then 1.09 to the power of three. So 1.09 times 1.09 times 1.09. And that will give us an outcome of zero for our net present value.
+
+[04:22] So those two things match up and our internal rate of return is 9.7% a year. Now that's the really tricky stuff. I promise that's the only hard mathematics. And again, only delve into that if you really want to.

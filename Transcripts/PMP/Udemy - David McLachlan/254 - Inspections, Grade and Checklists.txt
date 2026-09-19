@@ -1,0 +1,18 @@
+# Inspections, Grade and Checklists
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 254 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We can also use inspections and audits. During the exam and in your career, you'll need to know about inspections and audits, and the two are slightly different. An inspection examines a product, the outcome or a result of a project or a piece of work to ensure that it meets documented standards. This could be inspections for quality control or testing, or even during our sprint or iteration review. We can use peer reviews, shoulder checks, even walkthroughs.
+
+[00:31] But an audit checks that the project processes and activities comply with organizational policies. Are we doing the right process? So that's what an audit is for. It's usually conducted by a team external to our project. So they'll come in and they'll ask us for our processes. They'll ask us for our project management plan and all of our subsidiary plans, because that's our process and how we're managing the project.
+
+[00:58] Does it meet the organizational standard? That is an audit. So it could be done by a PMO, an audit department or an external auditor. And it can also help identify or advise on best practices. So they can give us some tips on things that we might want to improve in our ways of working for our project. Also in quality, we're going to come across checklists and check sheets. And these two things are not the same. So keep these in mind.
+
+[01:26] Checklists is a list of items or actions or points to be considered. It's also like a prompt list. So we might have a prompt list of risks that we need to check off to make sure that we've looked at on our project. It's prompting us to review them. So that is our checklist. But a check sheet is a tally sheet. So we're tallying up items. We're gathering data, such as the number of times a defect occurs.
+
+[01:55] Scratches, we've got one and two on day two, two on day three, and a total of seven at the end. And if it's bent or missing item, wrong color, label error, these are our defects. And these are the tallies of how often they occur on our check sheet. Also to do with quality, we might have grade versus quality. These two things are also not the same. And a nice easy way to remember this is grade just means a better product with better or more desirable features.
+
+[02:24] For example, if you get an A plus at school, you have a top grade, you've got better features in your knowledge. So you know more, you can do more, you can understand more. You've got a high grade. But quality is the degree to which we meet the requirements. So a high quality item will meet most or all of its acceptance criteria. Does the item do what we said it would do? For example, if we have a wheel and it rolls, then it has a high quality and it rolls well, it does what we said it would do.
+
+[02:57] But it doesn't have many features. So it might have a very low grade. That's the difference between grade and quality.

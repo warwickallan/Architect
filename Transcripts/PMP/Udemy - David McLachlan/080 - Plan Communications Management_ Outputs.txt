@@ -1,0 +1,12 @@
+# Plan Communications Management: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 080 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for plan communications management is our communications management plan. What are we going to put in our communications management plan? And remember, it's so close, it's a best friend of our stakeholder engagement plan. So we're going to include flow charts of how information flows on the project. Does it come in from our project team and it goes through Billy, the project manager, and then it goes out via emails or via web portals, push or pull different methods, stakeholder communication requirements, so our list of stakeholders and how we're communicating with them, any glossary of common terms, so we're all on the same page, roles and responsibilities for communicating information, the information that we're going to communicate.
+
+[00:48] So if you could imagine this, it's the what, why, how, where, and when, basically. What are we communicating? Who are we communicating to? When are we communicating it to them? And all of those things that we need to know. Methods or technologies that we'll use, escalation processes, the timeframe and frequency for sending that information, and the method for updating our communications management plan as we go through our project.
+
+[01:15] We'll also update our stakeholder engagement plan with some communication methods, so to reflect any new processes or tools or techniques that are going to help us engage stakeholders in the right way. Again, because communications works so closely with stakeholder engagement. We'll also update our project schedule for any communications activities for stakeholders and their specific communications needs. Keep that one in mind. If we've got a list of stakeholders, next to them we can put their communications needs.
+
+[01:45] Maybe they're coming to the working group meeting, maybe they're getting the email report once a week, whatever that looks like, we can put that next to the stakeholder, just so we've got that clearly in one place.

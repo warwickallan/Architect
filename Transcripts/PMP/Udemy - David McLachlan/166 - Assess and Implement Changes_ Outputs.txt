@@ -1,0 +1,10 @@
+# Assess and Implement Changes: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 166 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for assessing and implementing changes will be the approved change requests themselves. So we go through that process in our change management plan. Approved change requests can be implemented through our normal work. Deferred or rejected change requests are still communicated to the person or group or the stakeholder requesting the change. And the status of all of those change requests are recorded in the change log, exactly, as a project document update.
+
+[00:31] So approved, then we do it and we update the change log. Declined or deferred or rejected, then we still communicate that back to the stakeholders. We can also update any part of our project management plan because we may have changes to scope, schedule, cost, our classic triple constraint that we see time and time again. And remember, a change to one of these things will impact the others. If we have less time to complete it, we might need more resources and more cost, or we might need less scope to deliver.
+
+[01:07] So keep that in mind. It's always going to impact our project management plan and we'll need to update that. And we can also update our project documents in the form of our change log for the outcome of any changes.

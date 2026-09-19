@@ -1,0 +1,14 @@
+# Governed AI Use Cases and Examples
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 039 (section 8: Trustworthy AI Use Cases and Examples)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let us look at the governed AI, which is the fourth trustworthy principle. So the governed AI involves like, you know, building robust controls through policies, audits and risk management to ensure compliance with laws and organizational standards. So there might be certain set of laws, regulations that you need to follow within the organization. So outside the organization, in the jurisdiction, you might have some laws or standards to be followed or outside the state might have something, then within the state, the country, within the country, it might have some laws and regulations, and then the continent might have something or maybe the whole world might have something.
+
+[00:51] So typical use cases are your PIA, PIA, RBAC are all excellent use cases for the governed AI. So PIA is your privacy impact assessments and implementing RBAC, your role-based access control systems and ensuring adherence to regulations like, you know, GDPR, CCPA, HIPAA, some standards like ISO. So when you look at the examples, we can look at best one and what is an example that we can look at financial security, for example.
+
+[01:28] For example, a fraud detection system uses an RBAC, a role-based access control to ensure that only authorized people such as a fraud analyst or an auditor has access to certain sensitive transaction data. So a lot of actors within the organization like data analysts, other team members, managers, everybody will be looking into the similar database. But not all information is visible to everyone, right? So that is based on your access rights, privileges that you have.
+
+[01:59] In this case, auditors or maybe fraud analysts only can see certain sensitive information. Not everybody needs to see that. So that is governance, a good example of governance. Now you can also, another example that you can look at is your cross-border data flows. For example, an MNC, a company uses PIA to map how patient care data is integrated across different countries, ensuring that the project complies with various regional data protection.
+
+[02:34] This is like we talked earlier, right? So within the company, there might be a set of instructions, rules, regulations. Now within the region also, there might be something. So that is one good example that you can look at, cross-border data flows. So now in the next one, next video, we will look at explainable AI, which is very close to transparent AI, yet a little different.

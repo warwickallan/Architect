@@ -1,0 +1,22 @@
+# The Tailoring Process
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 370 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The process to go through for all of these tailoring activities is to select the initial development approach. Now, like we said before, this might be an out-of-the-box method. Maybe we're using Scrum just exactly as it's described in the Scrum guide. Or maybe we're using an existing predictive approach in the organization that we've been using for the last 10 years in that particular organization.
+
+[00:29] And then we could tailor it for the organization that we're working in. And then we can tailor it for the project. How large is the project? How critical is the project? Do we need lots of quality control and lots of oversight and lots of regulations and lots of governance? Or is there a little bit less risk involved and we can go for it and take more chances and more risks? Lastly, we want to implement ongoing improvement. Going through all of these things, continually adapting so that we're getting the best result for our team.
+
+[01:02] As we select the initial development approach, we want to apply our own knowledge of the product and the delivery cadence. We could use a suitability filter based on predictive hybrid adaptive approaches. For example, how suitable is our project? And it usually might look like a spider web chart. Maybe we've got a 10 out of 10 for how many people we've got on the project and their experience. Maybe we've got a one out of 10 for people who have used Agile before or whatever that looks like.
+
+[01:33] How suitable is it? You'll see a little bit about this in the Agile section, by the way. So we could use that to check our initial approach. Then we could use predictive. Is there a high risk or a long timeframe? Or adaptive? Do we have lots of changing requirements? And is there a need to deliver value early or move fast? So you know these things by now. I hope you're following along with the difference between predictive and adaptive approaches. Tailoring for the organisation, they might have a project methodology already and it could be established in their governance processes like their steering committee or their regular cadence or regular meetings.
+
+[02:09] There might be contracts that we need to meet if we're under a contract. So terms like regular knowledge sharing or system information that we need, regulation safety needs, market volatility, organisational maturity. There are many things that could impact our approach as we tailor for the organisation. We might also have project management offices with existing templates and tools and ways of working or a value delivery office.
+
+[02:37] So PMO, project management office, VDO, value delivery office. VDOs is more for adaptive or agile approaches. They serve an enabling role rather than exact oversight and they focus on coaching and building capability, mentoring people and product owners to be more effective. So you might have agile coaches or project delivery coaches in that scenario. As we tailor for the project, we'll need to consider the product that we're delivering, the type of product, the industry or the market, again, construction different to software, the timeframe technology, stability of the requirements.
+
+[03:14] Now if we have stable requirements, what do we use? A predictive methodology. If they're changing requirements, maybe we want an agile way of work, the security and can we deliver incrementally. The project team, team size, remember 10 or fewer people, ideal for an agile team. If we've got more than that, maybe we need to work in a predictive methodology. Team geography, project team experience, access to our customer and organisational distribution.
+
+[03:46] If we have a lot of access to the customer, again, that's better for our agile approaches. Culture, do we have sufficient buy-in, trust and empowerment of the team and organisational culture which is trusting local decision making. Is it hierarchical? Remember, do we need to go through 10 levels of approvals in order to get some funding or some changes to our project or is it a flat structure where we can just talk to the person directly that we need the approval from.
+
+[04:18] We want to align that with the project approach and we should always implement ongoing improvement.

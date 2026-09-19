@@ -1,0 +1,16 @@
+# Monitor Project Performance: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 162 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now we're up to outputs for monitoring and controlling project performance and the output is this main one. It's just the work performance report itself. We take all of that work performance data and we analyze it against something else. So two bits of data to create work performance information. Then we put that into a nice chart and send it to our stakeholders so they can see it too using our work performance reports.
+
+[00:29] These could be physical reports or it could be electronic. They could be dashboards, heat reports, traffic lights like red, amber or green and they could be used to generate awareness and to help make decisions. For example, Grace may need to make decisions or may need change requests as a result of this. Speaking of change requests, it's listed here as well so we saw this one coming already. Grace might need to approve a change if something is going off track.
+
+[00:58] Preventative action. Preventative action to stop something going wrong in the future or even defects. If we need major changes to our project scope or it's going to impact our project schedule then we might need a change request and it goes through that process. We note it in the change log. We take it to the change control board which in our case will be Grace. Project sponsor will either approve or decline. Let's say she approves it.
+
+[01:25] We note it in the change log and we communicate that to our stakeholders and then of course we do the change if it's approved. Project management plan updates for any component. As we're going through our project, gathering that information, seeing what we need to improve or change, we can change any part of our project management plan. Of course if it's baselined we are going to need a change request so keep that in mind. Project documents updates.
+
+[01:53] We're going to need to update our forecasts for cost if those change. Our forecasts for schedule if that changes. Any new risks that we've got and any new issues that we've got because all of these things are happening. We're delivering on our project and life is going to happen. Something's going to go wrong. We'll need to manage issues, make sure we've got owners for those issues and they're being managed to completion and the risk register for anything that could impact us in the future. And lastly we can also update our favourite document, the lessons learned register.
+
+[02:25] Seeing a lot of this, obviously there's lots of lessons to be learned in project management.

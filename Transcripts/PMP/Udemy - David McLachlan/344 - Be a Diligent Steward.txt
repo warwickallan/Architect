@@ -1,0 +1,22 @@
+# Be a Diligent Steward
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 344 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] And the first one is being a diligent, respectful, and caring steward, acting responsibly, carrying out our project management activities with care, integrity, and trustworthiness. We consider the holistic view. It's not just our team doing the work. We need to consider the organization, the other stakeholders, other people that we interact with, other systems that we interact with.
+
+[00:29] We need to have empathy for our team and be diligent with organizational finances so we're not overspending or being irresponsible with the budget and the things that we've been given to deliver this value. Number two is create a collaborative team environment. This focuses on a free flow of information between people with psychological safety so our team feels safe to speak up if they have any concerns. And that can help us find risks and avoid those risks in the future.
+
+[01:02] We also can use team charters or agreements so our team agrees on our ways of working and clarity of roles. And how do we do that? Do you remember? With a responsibility assignment matrix or RAM. Also the most common is a RACI, who's responsible, accountable, who's consulted, and who is informed for our collaborative team environment. Number three, effectively engage with stakeholders. Stakeholders being everywhere around our project, where we're delivering the value to, who we need information from.
+
+[01:36] They can restrict or support information, even money or even resources or other things that we need to get the project done. So we're going to tailor our engagement approach to suit their influence on our project and the impact that we're going to have on them or their area. It's important to note, and we already know this, that stakeholders are anyone affected by our project or who perceives that they're affected.
+
+[02:06] So even if they just think that they're affected, then they're going to be a stakeholder because they could be interacting with us or could be needing things from us like information or the value that we're delivering. Number four, focusing on that value that we're delivering. Projects deliver change and business value. We usually start with a business case that shows the business need and the justification for the project. For example, how much is it going to cost versus the benefit that we're getting, the cost benefit analysis, also known as the benefit to cost ratio or BCR that we're going to see later on.
+
+[02:43] So here's our project business case, and this is what we start with. That goes into the project charter and that initiates our project. Once it's initiated, we can create our project management plan to tie all of the project management areas together. Number five, recognize and evaluate and respond to system interactions. A system means that we're looking at the holistic view, how things work as a whole, not just one part of it, not just our own part of it, and how they interact with each other.
+
+[03:16] As you can imagine, things can get pretty complicated the more systems and the more interactions we have. We've seen that with our communication channels. When it's just one person speaking with another, it's very easy and not too complicated. But when we've got 10 people, all of a sudden, the communication channels go up exponentially. And then when you've got 100 people, wow, things get really complicated. So we want to make decisions that benefit the organization as a whole. So it's not just our little area.
+
+[03:47] We want to make sure that no other systems or areas are negatively affected. Demonstrate leadership behaviors. Leadership is not the same as just having a title. It's not the same as authority. So we can lead without a title by motivating others, coaching and mentoring others, finding a consensus with a team or a group of stakeholders on a way forward in helping everyone work together, and acknowledging our own mistakes and adapting to the situation quickly.
+
+[04:18] All of those are wonderful leadership behaviors.

@@ -1,0 +1,20 @@
+# Role of PM in Phase V - Model Evaluation
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 028 (section 6: Role of Project Manager in each of the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let's look at the model evaluation stage, which is the fifth stage, right? So here, PM acts as a quality gatekeeper, validating that the model meets the success criteria defined in phase one. Remember in the phase one business understanding phase, we set up some KPIs, metrics, etc. There might be business metrics, from an ROI perspective, return on income, payback period. There might be something of that sort set.
+
+[00:33] There might be some technical metrics, technological metrics. So there are various metrics that might be set, right? So the evaluation phase is the phase where you actually, you know, we try to test in the real world that whatever you build is working or not. So here the PM is more of a gatekeeper, quality gatekeeper. He needs to validate the success criteria here. So when the model is like performing in the real world, he needs to, he needs to see, you know, if it is actually meeting the criteria that we set up initially, what is the success criteria?
+
+[01:07] Is it getting met? So responsibility is largely, you know, documenting performance metrics like your accuracy, F1 score, etc. Then validating the ROI, ensuring the stakeholder acceptance through user testing. So all these things are largely the role of the PM in this phase. Okay. So from an example is like for a fraud, for example, a fraud detection system. The PM evaluates the model using a diverse set of validation techniques.
+
+[01:39] For example, like confusion metrics or backtesting to ensure that technical precision actually translate into fraud losses avoided. So for some, for example, when you learn about the confusion metrics, you learn about the true positive, true negative, false positive, false negative and all right. So some scenarios, you might want to reduce the false negatives than the false positive. So some cases you want to reduce the false positives than the false negatives.
+
+[02:14] Let us look at some scenarios, right? For example, when will I try to reduce a false negative? For example, or a false positive, let's take the false positive case. So in an organization where I'm using biometrics, for example, facial recognition or ID cards or some biometrics to log in. So in this case, my false positives, I will try to reduce it to a minimum. Why? Because unauthorized people will access, right?
+
+[02:49] So for me, in this case, I might try to reduce, I might, for me, reducing the false, false positives will be more important because false positive is a risk for me because somebody who does not have access might be entering the company, right? Now similarly, let's look at a disease or a COVID-19 or any influenza, any case, any infectious disease case. So here you would want to reduce the false negatives, right? Because you don't want the model to say that someone who actually has COVID or a disease saying that not to be diagnosed, saying that, okay, this person doesn't have a disease, but actually he has the disease.
+
+[03:31] So in this case, you want to reduce the false negatives, right? So depending upon the use cases, sometimes you may want to reduce the false positives in the case of security and all, because you don't want unauthorized people to access. In the case of disease detection and all, a critical disease, you cannot miss anybody who has disease, right? So you may want to reduce the false negatives. So those kinds of things. So that is the role of the PM.
+
+[03:59] I hope this is clear. And now let's look at the model operationalization phase.

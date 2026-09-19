@@ -1,0 +1,18 @@
+# Agile Risk
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 342 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back to the last section, risk management. It's the last section, but it's also throughout our Agile project, as we know, it's from start to finish and all the way through any project is risk management. We'll be looking at risk in the product backlog to reduce risk in our product and then reduce risk in our process with our retrospectives and process improvement. Lots of different things, always, always we're trying to reduce that risk of things going wrong and it can start with a pre-mortem.
+
+[00:35] This is similar to a risk workshop, a project post-mortem or even a retrospective. We're just brainstorming things that could go wrong. We want to find out what could go wrong before it happens. Instead of looking back on a completed project, we do it from wherever we are and we look ahead on our project before we start or as we're going through it and we ask, what could go wrong? What might challenge us? What still puzzles us and what can we do better during this project?
+
+[01:04] So typically this is a project post-mortem, so after the ending of our project, but pre-mortem before it's ending, we're doing this anytime and looking for those risks and brainstorming those with our team. As we find risks and we come up with risk responses, we might need a risk-adjusted backlog. This prioritizes the risk responses. As you can see, this is the impact of our risks. How high is that impact?
+
+[01:34] We prioritize that against the value that we're delivering. For example, this one is a very high value, but this risk is a very high impact, a negative impact. So we just prioritize both of these from the highest to lowest and then it looks like a tornado chart or a sensitivity diagram and then the team can do those risk responses as they come up in the risk-adjusted backlog. We might also use a spike.
+
+[02:00] Do you remember what a spike is? It's time-boxed research. The team can raise a card for a spike, so just a spike card, and allocate time or effort in order to get a particular outcome and research what we need to research. A risk-based spike involves allocating time to address a specific risk or do that risk response that's going to impact our project. In the same way, we might have an architectural spike. This is time-boxed research to figure out solutions to a system's architecture or design when we need to.
+
+[02:32] The team might need more information or need to experiment in how to structure one of the solutions. Sometimes it's not easy and sometimes it's not straightforward. We need to go away, gather some data, and figure it out, especially when dealing with new technologies or frameworks or complex technical requirements. Those are all the key concepts that we've been through for Agile, starting with key concepts for our product backlog and breaking that down, estimating those items and prioritizing those items, working with our stakeholders and team, working with product quality and measuring our Agile team, improving the process, and of course, looking at the risk as we go along through all of these items.
+
+[03:13] I hope you've enjoyed these key concepts and it's a nice way to round out our Agile information.

@@ -1,0 +1,18 @@
+# Projects, Programs, Portfolios and Operations
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 026 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now it's time to look at where projects fit in the organization, because we're not at the top and we're not at the bottom of an organization. As a project and project managers, we're somewhere in the middle. There are still things that go on all around us and all around our project. And first of all, as we're delivering our project and delivering that change, we need information and resources and things from the business and ongoing operations.
+
+[00:34] So shared resources and shared stakeholders to help us deliver that change. This is where we're delivering the value to as well. Once we make that change, it goes back into operations. And so we're going to need those resources to help us deliver that value. But above us, there might be a program which has multiple projects. So a program is related where the benefits from managing multiple projects are greater than just managing the projects individually.
+
+[01:05] That means we put together a program and we say, okay, this program has the benefits from all these different projects and these projects could potentially help each other out and make each other better. And now it's a program. And then if we want to go one level above again, we might have multiple programs in a portfolio. Now a portfolio has all of these things, has the programs, all of the projects and any operations. So a portfolio manager might be managing the oversight of all of those things.
+
+[01:38] Now we might also have product management. And if we're working in an agile way of work, which is what we're going to see later on, but we might own a product. For example, let's say we own a particular piece of software and we want to improve that software. We want to, first of all, we might deliver it with a project, but then we might need to make improvements over time. And that's what this looks like. We have our initial creation as a project, but then we're adding more features and we're making more additions.
+
+[02:09] And each of these are changes. So each of these are projects. And as we're doing that, the product is being introduced. It's growing within numbers and customers, and then it's maturing. So it's becoming quite stable. We don't really need to add too many more things. We're just making revisions over time. And again, these are changes. So these are projects. And lastly, we might have a project to retire that product or that system as it moves into decline. That's the product lifecycle.
+
+[02:39] So we can have product management within a portfolio, or we could have it within a program or we could have product management just within multiple projects. As you can see here, in this case, we've got a few different projects and they combine to make one program. And then technically we could have multiple programs and turn that into a portfolio. It could be managed as a portfolio. So just remember that.
+
+[03:05] And then ultimately we're delivering the value back to operations or to the business so they can receive that value.

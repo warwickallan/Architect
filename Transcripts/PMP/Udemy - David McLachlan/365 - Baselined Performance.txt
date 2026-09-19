@@ -1,0 +1,16 @@
+# Baselined Performance
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 365 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we measure our project, what are we going to measure? The baseline performance versus what's actually happened. So our start and finish dates, effort and duration of the things that we're delivering, schedule variance, if it's on track or off track, the schedule performance index and the cost performance index. And you'll remember that from the waterfall and the key concepts. Remember if it's over one for these indices, for the SPI or the CPI, then we've delivered more than what we said we would have.
+
+[00:33] If it's less than one, we've delivered less than what we said we would have. Feature completion rates, planned cost to actual cost and cost variance as well. Resources could be planned versus actual resource use and cost. We might measure business value with our cost to benefit ratio or BCR, benefit to cost ratio. Planned versus actual benefits delivery, return on investment and net present value. And we have seen these before.
+
+[01:01] With all of these for your exam, remember, just choose the highest net present value, highest return on investment and highest benefit to cost ratio. Stakeholders, we could measure stakeholder satisfaction with our net promoter score. Remember that one? It asks, how likely would you be to recommend us to a friend from one to 10? And if it's nine or 10, they're a promoter. If it's zero to six, they're a detractor.
+
+[01:29] And we want more promoters than we have detractors. We want net promoters. Mood chart, morale and even turnover of our staff. We can also measure forecasts, the estimate to complete, estimate at completion, the variance at completion of our budget and the two complete performance index. Regression analysis is for trends and throughput analysis is for how much we're actually completing on a day-to-day or week-to-week or month-to-month basis.
+
+[02:01] As we're presenting all of this information, we can use dashboards. We might use information radiators. If you remember in Agile, this is in our team area and it's low tech, but high touch. So what does that mean? It could just be cards on a wall. It could be a piece of paper, could be a whiteboard, but it's high touch because we're updating it every single day, sometimes multiple times a day. We might have a visible backlog, burn down charts to see how the work is tracking and we might have the risks listed on our information radiator.
+
+[02:36] Visual controls could be Kanban boards or burn down charts or burn up charts and a list of blockers or issues that we need to manage to keep them under control.

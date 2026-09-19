@@ -1,0 +1,16 @@
+# Embed Quality
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 049 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Second, we want to embed quality into our processes and deliverables that we're working with. Quality is the degree that project deliverables meet our customer stakeholder requirements or stakeholder requirements. It can be in both the product and in the process. So quality in the process to get the job done and quality in the product to meet our customer requirements. Maintaining product acceptance criteria and the definition of done. We'll see this.
+
+[00:31] It's going to come up in Agile specifically. The definition of done is our criteria for what it means when something is complete. For example, it's created, it's quality checked or it's tested, it's signed off by the customer. That's our criteria and then it's complete. Efficient and effective processes with continuous improvement and reduced waste or rework within our process. For example, are we continuously improving and taking feedback on our way of working? Are we using our retrospectives with the team?
+
+[01:02] And if you haven't heard of that yet, we're certainly going to touch on this a lot. They're also called after action reviews, which came out of the military. But it's a nice way to reflect on our process and say, is there anything that we can improve and can we make it better for next time? Quality also looks at these factors, the performance. Does it function as we wanted it to or as our customer wanted it to? Conformance. Is it aligned with the specifications that we wrote initially from our customer or our senior user? Is it reliable and uniform?
+
+[01:34] Is it consistent? So, for example, if we have one piece of quality that's very high and then all of the rest of it is very low, it's not very consistent. We do want it to be reliable and uniform. Resilience. Can it recover from failure quickly if we get an error? Efficiency. Is it optimized to produce the most output with the least input? And this can also mean refactoring or simplifying our code or even the way that we're working. Can we make it more simple?
+
+[02:03] Because simple is also more efficient and more resilient. The more complicated something is, then it can be harder for us to get back up to speed. There's more moving parts and, as you know, it's a little bit more difficult when you're doing those things in the real world. So keep it simple where we can. Compliance. Does it comply with regulatory, industry and organizational standards? Remember our organizational strategy? We do want to be matched to that and working towards that, but also any industry standards that we need to meet, we need to be aware of those as well. Satisfaction.
+
+[02:36] Does it elicit positive feedback from our customers?

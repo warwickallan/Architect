@@ -1,0 +1,10 @@
+# Develop Schedule: Optimizing the Schedule
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 110 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We're going to use resource leveling and resource smoothing to optimize our schedule. Now leveling is when we're leveling out resources. For example, we can see that we've got Sue assigned to activity A and B and these are being done at the same time. Sue actually can't do both of these activities at the same time, so we need to level out her activities. So now we've got Sue on day one and day two and then Tom can do his work on day three.
+
+[00:35] Keep in mind, resource leveling often pushes out the schedule and it's just because we don't have two Sues. So Sue can't do that work in the one day, it needs to be done over two days, so it needs to push out the schedule ever so slightly. Resource smoothing, however, is smoothing out our resources within the float or slack or the wiggle room that we have within our schedule. So as you can see, we've got a bit of float or slack here and Sue can't do these two things at the same time, so we're going to move her activity within the float available and then we can get those activities done and it won't impact the end date of our project.
+
+[01:19] All of this information, of course, we're going to keep in our project management information system. There are going to be different tools, again, JIRA, Microsoft Project, anything that you're using in the organisation for your schedule. And lastly in tools and techniques, Agile release planning is where we have a high level timeline of the feature releases and we put these, usually these are shown in our product backlog, which is the list of features, and then we put them on a product roadmap, which basically becomes a schedule or a Gantt chart or even just the order of those releases and that's our product roadmap, very similar to a normal schedule.

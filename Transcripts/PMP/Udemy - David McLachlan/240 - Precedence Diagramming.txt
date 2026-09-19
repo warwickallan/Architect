@@ -1,0 +1,14 @@
+# Precedence Diagramming
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 240 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The precedence diagramming method is a technique used for constructing a schedule which shows how activities are linked and the sequence in which they need to be performed. There are four types of relationships, finish to start, start to start, finish to finish and start to finish. And there's a really easy way to remember this. This is the second activity here and the first activity here. So the second activity cannot start before the first activity has finished.
+
+[00:35] And this one, for example, the second activity cannot finish until the first activity has started. So that's the really easy way to remember it. We'll give some examples as well. Finish to start, as we've said, the next activity cannot start until the previous activity has finished. For example, we can't install software, which is activity two, until we've built the computer. So that has to be finished, the computer has to be finished before we install the software. That's finish to start.
+
+[01:08] Start to start, the second activity cannot start until the previous activity has started. For example, we can't level the concrete until we start pouring the foundation. There's no concrete to level in that case. So that's start to start. Finish to finish, the next activity cannot finish until the first activity has finished. For example, a document must be finished before we can finish editing that entire document. Now we can start it, but we can't finish it.
+
+[01:40] It's finish to finish, that's the dependency. And then lastly, start to finish, the next activity cannot finish until the first activity has started. For example, a new accounts payable system has to start before the old one can be shut down. So this one is now up and running, and then we can shut down the old system. That is our start to finish. The most common one is a finish to start, so the second activity can't start before the previous activity has finished.
+
+[02:11] As we break down deliverables into work packages, and work packages into activities, and then we put those activities in the right sequence to complete with the precedence diagramming method that we saw before, we're going to use a schedule network diagram. It's just a visual diagram of what comes before and after each activity. So we can put them in order now, and some might be able to happen at the same time, and some might happen before, and some might happen after other activities. But a schedule network diagram is just a nice way to visualize the precedence diagramming method and where everything fits on our schedule.

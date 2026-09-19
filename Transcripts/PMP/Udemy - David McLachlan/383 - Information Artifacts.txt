@@ -1,0 +1,22 @@
+# Information Artifacts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 383 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We've also got the requirements traceability matrix which traces our requirements through to the scope and through to the testing or quality activities and through to sign off. So we can see that what we've delivered actually meets our customer requirements. Good for the business analysts in our team to use that. Responsibility assignment matrix or RAM. The most common one of these is a RACI, who's responsible for this item. Maybe it's this work package.
+
+[00:30] Maybe it's this deliverable. Maybe it's this activity that we have to do. Who's accountable? They sign off on it. Maybe that's our project sponsor. And who's consulted? We need their expert judgment. And who is informed? We need to tell them about this item or keep them informed of the change. A scatter diagram shows the relationship between two variables. And what's the next step here? We could put a trend line here and turn it into regression analysis. So very, very similar, those two things.
+
+[01:00] An S-curve, as we've seen, similar to our cumulative probability distribution where we can say, hey, with a 95% probability, we're going to finish the project by October. But it turns into an S-curve. You'll see that you can do these in Microsoft Project for our schedule or for our budget. Stakeholder engagement assessment matrix. Do you remember this one? We want to classify our stakeholders for their current and desired states of being unaware, resistant, neutral, supportive, or leading on our project.
+
+[01:35] Obviously, we want our stakeholders to be supportive and leading if we can. And if they're not, we want to engage with them more and communicate with them more in the ways that they prefer. Story mapping is just another way of breaking down features into user stories. But it follows the customer journey. So here we're logging in, accessing an account, entering our mobile details, signing checks, photographing the checks, submitting the deposit, and then confirming deposit. That's the customer journey.
+
+[02:05] And how do we make that happen? These are all the user stories underneath those customer journey steps. That's the story mapping. Throughput chart is the throughput of work every day or every week or every month. So every week, maybe we're getting 10 deliverables done or 10 user stories done. That's the throughput of our user stories. Use cases is a good way to do acceptance criteria. It describes how a user interacts with a system. So who is it?
+
+[02:38] Maybe here it's a salesperson. That's our actor. And then they want to click on the sales button and they want this to happen. And here is the goal. The goal is that they get the email sent to their particular email address or whatever that looks like. So actor, the actions, and the goal that they're trying to achieve. That's a nice way to describe acceptance criteria for our deliverables as a use case way of working. Value stream mapping, we've been through that before.
+
+[03:07] We want to find the non-value added activities in our process and we want to remove those if we can. Things like extra documents or reporting or queues or waiting, any of the eight wastes. If you remember extra motion, extra transport or unnecessary process steps. Lastly, a velocity chart in Agile. So our velocity is how many user story points we complete in a sprint. As you can see, we've planned for 35 and then we actually completed maybe 23.
+
+[03:40] So we start getting an average. So what did we complete? What did we complete? What did we complete? After three iterations, we've got a pretty good average of around about 27 or 28 user story points. So then we want to match our work to our average velocity to keep a sustainable pace. So we've got 28 user story points. We want to put 28 user story points into the next sprint to keep it sustainable and keep it the same. So this velocity chart shows the team's committed and completed user story points by sprint.
+
+[04:13] Each team and product is going to be different. So keep this as a measure just within the team.

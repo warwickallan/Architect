@@ -1,0 +1,16 @@
+# Monitor and Control Schedule: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 185 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for monitoring and controlling schedule will be our work performance information. So if you remember our schedule variance or schedule performance index, SPI, that is actually work performance information because we're combining the two points of data. We've got the earned value and then we've got the planned value. So it's earned value minus planned value gives us our schedule variance.
+
+[00:30] So what we have created at this point in time versus what we should have created at this point in time. And what's the trick for our schedule performance index? It's around the number one. If it's more than one, we've delivered more than what we said. If it's less than one, we've delivered less than what we should have at this point in time. Schedule forecasts are predictions of our schedule at future times based on how we're going. We could use a trend line, we could use regression analysis or any mathematical tools, but any way that we can forecast these things, that's going to help us to see if we need more resources or not.
+
+[01:07] Change requests, if we need to bring our schedule back under control or reduce scope or add resources or add cost or anything that's going to impact any of our triple constraint of scope, schedule, cost and of course, quality and even resources in there too. Project management plan updates, we can update our plan, our schedule management plan if we have a new way of working. Schedule baseline, if the schedule baseline changes, we said we were going to deliver in March and now it's happening in July, well, we're going to need to change that baseline.
+
+[01:44] We'll need a change request to go through that process, update all those things, Grace will approve that and then we update the schedule baseline. Same with the cost baseline for any budget changes and performance measurement baseline for how we're measuring and any performance checks. For example, any of those things, the cost or the schedule or even the scope, any of those performance measurement baselines that we had set in place at a particular point in time.
+
+[02:12] We can update project documents like our schedule data, start and finish dates, the project schedule for the most recent version of our schedule, resource calendars, if we're using schedule compression techniques and adding more resources, the basis of any estimates. If our estimates aren't working very well, then we might need to change the way we estimate on these things. So that is very interesting, we might need to update that. Risk register for any new risks that are going to impact our schedule, any assumptions and any lessons learned, as always, all of these things that we can update.
+
+[02:46] But in particular, now we're using these things to keep our schedule under control.

@@ -1,0 +1,18 @@
+# Estimating Methods
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 378 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] All right, that was a lot of fun, but there's still more methods that we can use as we're managing projects. We might look at estimating methods, affinity grouping. We'll see this in the agile section where we put all of the similar sizes together. So this one's group one, group two, maybe these are all three days long. This one's one day long. So all of the one day items, all the five day items, or it could be user story points. So again, one, three, five, and this eight size here, either way, we group them all together using affinity grouping.
+
+[00:39] Analogous estimating is where we look at similar projects or features in the past. And then we use that as a guide for estimating this particular item. One point metric is the amount of business functionality in an information system. And we just rank it with those particular business functionality points. Multipoint estimating. Remember this one is where we take the optimistic, most likely, and pessimistic. We add them all together.
+
+[01:08] And of course they're going to be different. But then because there's only three, we divide it by three. Now do you remember PERT or beta estimating? You will find this on the exam. This is where we have optimistic four times the most likely, and then pessimistic. And then we divide it by six because there's six items. So one plus four plus another one is six. So we're just getting the average of this. Keep this in mind for your exam.
+
+[01:36] It's really just an average. We've got parametric estimating, which uses a parameter like $50 a meter or $80 an hour. Relative estimating is also used in Agile where we estimate by the size or complexity how it relates to the other estimates, usually by the smallest estimate. So we find the smallest item, we size that as a one, and then everything else is relative to that. So this one might be twice as big.
+
+[02:04] This one might be three times as big. Then another one might be five times as big. That is relative estimating. So in Agile, we might have story point estimating where we just estimate by story points, usually using the Fibonacci number sequence. And Fibonacci goes like this. We add the two previous numbers to get the next number. So two and one equals three, three and two equals five, five and three equals eight, and so on and so on.
+
+[02:32] And the reason why we do that is because estimating ultimately, it's just an estimate. We don't know if it's 100% correct. We can assume, but we don't know. It's slightly arbitrary, so don't spend too much time on the estimates. Do your best estimate, and then move on and do the work. That's the point in Agile. Wideband Delphi is where we do multiple rounds. Everyone says, this is my estimate, this one's mine, this one's mine, and this one's mine. And then the low and the high estimates discuss their reasons, and then we re-vote until we get a consensus as it becomes more accurate.
+
+[03:09] As we're discussing our reasons and voting again.

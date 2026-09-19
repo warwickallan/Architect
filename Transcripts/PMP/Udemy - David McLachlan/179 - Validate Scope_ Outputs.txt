@@ -1,0 +1,12 @@
+# Validate Scope: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 179 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now we're in the outputs for validating scope and what is the main output? It's our accepted deliverables. So Grace can now accept them. She's seen that they meet the project quality and she's happy. And deliverables that meet the acceptance criteria are formally signed off and approved by the customer or sponsor. In this case, it's our best friend, Grace, the project sponsor.
+
+[00:28] And the customer or sponsor sends us formal documentation acknowledging formal acceptance. It's a sign off and usually we need this in writing. So an email or through a system, however we need to do that as we forward this to the close project or phase process. Change requests may come out of this as well for anything that has not been accepted. We have three of these deliverables and Grace has said, you know what, this is not what I expected.
+
+[00:57] This is not what I wanted. It doesn't meet the quality. We need to make a change. So for that, we're going to use a change request, review their impact to the scope and schedule, have them approved through the change control board and go through that change management process which is outlined in our change management plan. Project documents updates will be quality reports for basically the outcomes of our testing. Work performance information to show any deliverables that are accepted versus not accepted and requirements documentation.
+
+[01:30] Like we said, if we need to go back and adjust the requirement to suit any changes. Lastly, as always, hopefully we're learning as we go, lots of lessons on what worked and what didn't work and Macy's going to take these lessons and work with Billy and figure out what didn't get accepted and why and improved ways of working for testing and quality control and we'll put them into lessons learned to help our future selves avoid these issues in the future.

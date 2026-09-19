@@ -1,0 +1,16 @@
+# Additional Project Manager Tasks
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 042 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] A project manager can also help with defining the roles of the project, securing those team members that we need to fulfil the project objectives, and we might help with the creation of the project charter. Usually the project sponsor, so whoever has assigned us in the first place, the project charter is often done by the project sponsor. But we can help and we can make sure that it's done in the right way if we need to. And even the same with the project management plan, that's the responsibility of the project manager.
+
+[00:33] Now before the project, we can provide analysis to see if it's worth doing the project in the first place. Maybe consulting with executives on ideas for meeting strategic objectives or outcomes, and creating a business case to help initiate a project. As we're going to see later on, a business case, it tells us whether it's worth doing the project, is the cost of the project worth the benefits or the value that we're going to get. For example, if it's going to cost a million dollars and we're getting a benefit of half a million dollars, maybe it's not worth doing.
+
+[01:07] But if we're going to get $10 million worth of benefit, then it's probably worth doing. So that's our cost to benefit, and we do that as a feasibility study in our business case. We'll see much more on that later on. Now after the project, so during the project, obviously we manage the project and the project team, make sure that we deliver the right things at the right time. After the project, we can also perform follow-on activities such as benefits measurement. Maybe once we've delivered it, we need to see if those sales have gone up, and we can help measure those sales from the right places, from the right people.
+
+[01:42] Maybe we need to do organizational change management as we deliver a change. If there's a change to the system, we need to make sure that people are able to use it. So they have the training, communications, and all of these things in the system, that they know how to use the system so it runs smoothly once the item is delivered. In many organizations, we may not have the title of project manager as well. Remember when we saw in our PMO structures, we could actually be a person just in a team trying to make a change in a functional area as a functional manager.
+
+[02:17] So a functional manager or a senior user in the business can oversee project activities. They may not be called a project manager, but they're still doing the role, trying to elicit those requirements, gather the scope, and deliver all of those things, put them on a schedule, keep them under control with their cost, keep any risks under control, all of those things that we'll see in the project management process. It's also typical for other roles to handle some project management tasks, maybe a product owner or a product manager, a scrum master, agile delivery manager, a team lead, a project or initiative lead, a development team.
+
+[02:54] The titles really don't matter as much as the process and the tasks and delivering a valuable change.

@@ -1,0 +1,24 @@
+# Identify Risks: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 125 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, great job for getting into risk, planning our risk management, and now finally it's time to identify some risks with our stakeholders. I can't wait to see what Billy is going to do next and how we're going to identify these risks. And risks can be positive or negative, so keep this in mind. Positive risks are opportunities that we can take advantage of. Negative risks are threats.
+
+[00:30] So risk doesn't have to be a bad thing. Risk is just uncertainty and we're going to look for positive and negative risks. We'll create our risk register here as we identify these risks and also our risk report so that we can communicate those high-level risks to stakeholders and what we're doing about them. And we want to separate risks from issues. Keep this in mind for your exam. A risk has not happened, it has a possibility of happening in the future. An issue has happened, or we know that it's definitely going to happen soon.
+
+[01:04] So always keep that in mind, the difference between risks and issues. Risk identification is also iterative. We're identifying them up front, but we're also adjusting and identifying them throughout the project as we evolve. Lots of inputs and a few tools and techniques, but the main outputs we want are our risk register, risk report, and a few other updates for assumptions or issues that we might find. Let's get into identifying risks.
+
+[01:32] We're going to use lots of different parts of our project management plan, so Billy's going to look through his previous plans to see the requirements, schedule, cost, quality, resources. Risks can come from anywhere, so it's very, very important. The risk management plan is our process and our strategy, of course. The scope baseline, schedule baseline, and cost baseline, if these start going off track, that is also a risk that could happen into the future that's going to impact us.
+
+[02:03] So all of these aspects, lots of different things that we need to review. Project documents as well, any assumptions. If we've assumed that resources will be available at a certain time, and then they're not, that is a risk that's going to impact us or could impact us in the future. Cost estimates, because we might have a range of costs. We've said that it's going to cost between $1 and $2 million or whatever that looks like, whatever that range looks like.
+
+[02:33] And remember, the range gets shorter and shorter and shorter as we get more information and as that progresses, starting out with our rough order of magnitude, range, or estimate. Issue log for any current project issues that might create future risks. Lessons learned, requirements documentation, resource requirements if we have uncertainty around the resources that we're getting, and the stakeholder register.
+
+[03:01] Oh, this is a good one. We want to find out which stakeholders are raising the most risks, and we want to engage with those stakeholders more. So we'll see this theme a few times, who's raising the most changes, who's raising the most issues, and who's raising the most risks, and do you think it would be a good idea to keep them on side and engage them more and work with those stakeholders more? Absolutely. So that's why, that's a wonderful way to do it.
+
+[03:31] Agreements on the milestones, contracts, acceptance criteria, and any awards or penalties when it comes to working with external vendors. So we're going to need all of these things built into our agreements, and if we weren't there when we created the contract, then we need to read our contract and make sure we understand the rules that we're going to hold our vendors to. The enterprise that we're working with might include academic studies that have risks for other projects or through those studies, benchmarking results from other projects, industry studies or similar projects, and published material for commercial risk databases or checklists.
+
+[04:12] Lots of different places, if we really go searching, we can find lots of different places to identify risks on our project and give us some tips and hints. And of course, processes, our organisational process assets, Billy is going to look for some of these templates, like the risk categories and the risk definitions, and we saw those. Any project process controls, risk statement formats or risk register templates, and that's very handy, and checklists from previous similar projects.
+
+[04:46] So they found a whole bunch of risks and we might say, oh, it's similar to our project, so we can use that as a guide.

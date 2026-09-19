@@ -1,0 +1,12 @@
+# The Scrum Guide
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 281 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The next framework we're going to go through is Scrum. Scrum is the most popular Agile framework at the moment, making up 86% of all Agile teams. So it's very, very good to know this, and you'll probably see a lot of things that you just think are normal Agile practices today. They often come from Scrum originally. We're going to go through the Scrum guide in its entirety, and this is a great way to get up to speed with the definition, the team, events and artifacts, and then a nice high-level overview with Scrum theory and Scrum values.
+
+[00:37] But we start with the definition of Scrum, which is a lightweight iterative and adaptive framework for solving complex problems with adaptive solutions. Now, does this sound familiar to you? It's our iterative and incremental approach. We're iterating and improving, and we're delivering small increments at the end of our iteration or sprint, as we'll soon see. And this is what we see as our normal Agile practices, as you can see in the project fundamentals that we've been through in this course.
+
+[01:07] The product owner prioritizes the work in a product backlog, just a list of features that we're going to deliver. The Scrum team then delivers a valuable increment that our customer or our stakeholders can see, feel, and touch, and they do that every single sprint. A sprint is just a short time period, usually about two weeks, so we're creating something at the end of each of these sprints. And the team and stakeholders inspect their results and adapt for the next sprint.
+
+[01:36] So we see the results, we see what's happened. Did it work? Did it have the effect that we wanted? And if it didn't, we can adjust our approach. We can reprioritize that product backlog, or the product owner can do that.

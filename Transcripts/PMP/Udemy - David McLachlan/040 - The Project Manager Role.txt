@@ -1,0 +1,12 @@
+# The Project Manager Role
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 040 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] All right, great work. We've been through the project foundations and the environments that we work in when we work in projects. And there are many different environments, but the project process remains the same that we can use anywhere we go. Now it's time to look at the project manager role itself and our influence and our competencies and even the different types of politics and power that we're going to come across as project managers. Project management is the application of knowledge, skills and tools and techniques to meet our project requirements.
+
+[00:37] When project management is done well, we meet our business objectives. We can increase our chances of success. We can resolve any problems or issues as they come up. We can satisfy stakeholder expectations. We manage all of our constraints, remember our scope, schedule and cost and even our quality and even the resources that we need. We can identify, recover or even terminate failing projects in order to get the right outcome and to get the job done.
+
+[01:07] Now when project management is done poorly, we have cost overruns, we spend too much, we have missed deadlines, poor quality or lots of rework as we're going through the project. Unsatisfied stakeholders because they can see that we're not getting the deliverables done in the right way. Uncontrolled expansion of the project, scope creep where we've got extra scope and maybe even that rework is causing us extra work and failure to achieve the project objectives. That means that a project manager is similar to the conductor of an orchestra.
+
+[01:41] We need to orchestrate or coordinate all of those pieces in order to get the right outcome. As you can see, the conductor has the instrument leads, maybe we've got the percussion lead, the woodwind lead or the brass lead, all of these different things and then the musicians themselves playing the music. Same with a project, we've got our project manager and the various team leads and the various team members. Whether we're managing those team members directly or if we have team members in between, the result is the same, we still need to orchestrate all of those people doing the bits and pieces that we need to get done in order to deliver what the project needs to deliver.

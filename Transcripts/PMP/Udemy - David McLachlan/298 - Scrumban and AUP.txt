@@ -1,0 +1,16 @@
+# Scrumban and AUP
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 298 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next, we're going to go into three smaller frameworks. These are sort of little known frameworks, and again, it's made up of all of the same things. So we'll just go into them ever so briefly. Scrumban was originally designed as a way to transition Scrum to Kanban in 2009. So it uses the Scrum methodology, the way of managing sprints, with the visual management of Kanban. And we include iterations, ideally of two weeks, a bucket planning of three-month, six-month, and one-year goals.
+
+[00:35] So these might be our larger epics or deliverables and the goals that we're aiming for. Prioritization of work. In Scrum, we have our prioritized backlog. Work in progress limits of one task at a time. And I really like this. Instead of just having work in progress limits on a Kanban board, we only have one task at a time. Pull, so our team can pull the work when they're ready. Velocity or throughput of cards is measured. So we have our team velocity and we match our next work to the previous velocity.
+
+[01:05] And then on-demand planning, which is started based on work in progress limits. When work in progress reaches a certain number, then we can plan more work. Once we've depleted our work, then we can plan for more. Now lastly, in these smaller frameworks, Agile Unified Process. It's a simplified version of the Rational Unified Process. There's another framework for developing business application software. Business value is delivered incrementally, there's a surprise, in time-boxed iterations.
+
+[01:36] Another wonderful word that we've heard so much about. But the idea behind Agile Unified Process is this wonderful diagram. And it shows that we're modeling the business requirements. And this goes for a certain period of time, almost over the whole project. But the majority is during the beginning, during elaboration. Then we're designing, and that also goes into construction. In other words, the idea here is all of these phases of requirements, analysis and design, implementation, test and deployment, they overlap.
+
+[02:09] So we're sort of doing a little bit at the beginning and then throughout. But there are certain places where we do more of that, like analysis and design at the beginning. But again, these are overlapping and they are always happening. So that's just good to keep in mind. Agile Unified Process evolved into Disciplined Agile Delivery. And then finally, Disciplined Agile was acquired by the Project Management Institute in 2015. So then we've got modeling, implementation, test, deployment, configuration management, project management, and the project environment.
+
+[02:44] And all of those pieces come together to form Disciplined Agile.

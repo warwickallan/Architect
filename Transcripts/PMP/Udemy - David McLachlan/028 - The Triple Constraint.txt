@@ -1,0 +1,14 @@
+# The Triple Constraint
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 028 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] It's also based on one other set of conditions and that's our constraints. So if you remember from our process, we had our project scope, schedule, the resources and cost. Now the scope, schedule and cost are what we call the triple constraint on a project where if we change the scope, for example, if we need to deliver more things, it's going to impact our other constraints.
+
+[00:30] It's going to take longer to deliver and it's probably going to cost more. Now on a predictive project, we typically have a fixed scope because there's low chance of change and we can deliver it all in one go. So we can plan that scope and it's fixed and then the time might change and the cost might change if these things take longer to deliver than we had planned. On an agile project, however, the scope is variable because we're wanting to change that if we're getting customer feedback or if the market is changing, our scope is going to be adjusted and it's going to change.
+
+[01:10] It's variable, but what's fixed is the time and the cost. So we have a team that we pay for and that might cost us maybe a million dollars or $800,000 or $10 million, whatever that costs for a set period of time. Maybe that's one year or six months or two years. So the time is fixed and the cost is fixed and then we change the scope to suit the customer feedback or the market conditions.
+
+[01:40] So isn't that a great way to look at it? Whether we've got fixed scope for predictive or waterfall or variable scope in agile, but then it impacts the other things. It impacts our triple constraint. Now you'll notice we have quality in here. We sort of always want quality to be good. So that's in there and it can be a constraint because if we have low quality, then we don't have to worry too much. Maybe it's easier to deliver, but if we have really strict quality adherence or things that we need to abide by, then maybe it's going to take us a bit longer and maybe it's going to cost us a bit more.
+
+[02:15] So quality is in there as a constraint as well.

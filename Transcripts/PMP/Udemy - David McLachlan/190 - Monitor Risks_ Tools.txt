@@ -1,0 +1,14 @@
+# Monitor Risks: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 190 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Tools and techniques as we monitor risks will be data analysis, for example, technical performance analysis, the analysis of our product to see if it matches the customer requirements. We want to check the weight, maybe the transaction times, the number of defects or quality issues or the storage capacity. Does it do what our customer wanted in the first place? And we want reserve analysis.
+
+[00:28] Do you remember which reserve we use for our risks? It's our contingency reserve for our known risks that we've brainstormed with our team. Now what do we do for unforeseen scope? It's our management reserve. That's right. You are doing great. So contingency reserve, and we've got that burned down chart. We can see how much of that reserve we are using. That's reserve analysis. We might also use audits to check the effectiveness of our risk management process.
+
+[00:59] So we can use audits or we could check in with a retrospective or an after action review. Remember that one? They're very, very similar, but we just want to make sure that our process is working. As the project manager and Billy, he is responsible for ensuring that these risk audits are performed at an appropriate frequency. And we're going to define this in our risk management plan. So it's like an improvement. How often do we perform improvement activities and audits on our process? They can be included during any routine review meetings, be part of a risk review meeting, or the team can choose to hold separate audit meetings.
+
+[01:36] And in my experience, there's usually a separate organization or a separate part of the business who will come and do an audit. And they have checklists and things that we need to meet as part of our process. And as long as we have all of our plans ready to show them, then it's very, very straightforward. And that's why we do all this project planning and creating all of these wonderful things. So everyone is on the same page, especially Ethan, our auditor in this case. Lastly, for tools and techniques, our meetings, our wonderful meetings.
+
+[02:08] We'll need these meetings to tie everything together, bring everyone on the same page. A regular risk review is our main meeting where we can look at the risks and check the effectiveness of our risk responses. We might identify new risks, reassess our current risks, close any outdated risks, find any issues that have occurred because of the risks, if they've actually happened, remembering that issues have actually happened, but risks are something that could happen in the future. So keep that in mind and identification of any lessons to be learned for future risks.

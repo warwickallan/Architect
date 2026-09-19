@@ -1,0 +1,14 @@
+# Practice Question: Process Domain
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 388 (section 11: The PMP Exam Content Outline (ECO))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now it's time to go through another exam question for the process part of our exam content outline. So again we'll just go through one and we'll cover a lot more of these later on in the course. So let's get into this. Your organisation has recently completed a new system for the sales department. New features still need to be added as the functionality is not complete, but they're relatively straightforward with little need for feedback.
+
+[00:29] The project sponsor would like value to be delivered as soon as possible. What project approach will you recommend? Now we're going to learn a lot about this and we might not have the answers yet but I can walk you through this one because when we're delivering a predictive approach is where we plan everything up front and then we deliver in one go. So the sponsor likes value to be delivered as soon as possible. That's probably not going to do it because it happens way out there in the future. So let's put a no for now.
+
+[00:58] Now another approach here is an iterative approach. This is also where we're delivering in one go at the end but we're iterating on our designs. Maybe we're doing a prototype. For example if we're developing a new car. I remember reading about Elon Musk developing new Tesla models and he would iterate. He'd go through many different iterations but then still deliver that car all in one go and make sure that goes to the manufacturing line once the design project is complete. So that's an iterative approach.
+
+[01:28] It still happens out there in the future so that's a no. Now we've got incremental and agile. Agile is a combination of incremental. So we're delivering increments at regular intervals but we're also taking feedback and using that to improve. We're also using an iterative approach. Now what we've got in the question here. The functionality is relatively straightforward and doesn't need feedback. So if we don't need the iterative approach then it just leaves the incremental approach.
+
+[02:02] So that's how we figure that one out. And again we're going to learn a lot about these different approaches. So don't worry it's all covered in the course but that's just going through and figuring that one out. It's quite nice. Answer D was our answer. And that's from the process domain task 1. A whole bunch of fun and we'll go through more of these later on.

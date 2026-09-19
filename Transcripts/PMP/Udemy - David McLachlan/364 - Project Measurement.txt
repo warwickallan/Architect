@@ -1,0 +1,18 @@
+# Project Measurement
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 364 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Measuring our project and uncertainty and risk. For measurement, the outcomes that we want are understanding the status of our project. How is it currently performing? Are we on track with our budget and on our schedule? And are we delivering the scope that we wanted to deliver? Actionable data for decision making, timely actions to keep the project on track, achieving targets and generating business value due to correct decisions.
+
+[00:30] So we're actually delivering those things the business wanted within the right timeframes. Key terms will be metrics, baselines, so the approved version of our project performance or our plan, and then we can compare everything else to that baseline to keep it under control. And dashboards with charts or graphs. We want to evaluate performance compared to our plan, track and utilize our resources, and demonstrate accountability and feed conversations about trade-offs if we need to. If we need to expedite our project, maybe we need to reduce some of the scope, for example, or spend more money on more resources.
+
+[01:08] Establishing effective measures. We need key performance indicators, KPIs, so you will see this on your exam, or objectives and key results, which is OKRs. So that's just a sentence, an objective describing what we need to do, and then the key results are the measures, just like KPIs. So are we aiming for 90% defect-free deliverables? For example, that might be one of the KPIs for quality. Leading indicators will be the items that we have to deliver in a backlog, the size of the project, lack of processes that could lead to problems in the future.
+
+[01:44] So it's a leading indicator. Keep that in mind for your exam if you need to know something that's going to lead to problems in the future. Stakeholders not being available is another really good one that's going to cause problems. Lagging indicators are things that have already happened. So we can measure these to see how our project is performing. Deliverables completed, schedule or cost variance according to our plan, and the resources that have been used or consumed.
+
+[02:12] Effective metrics should be smart metrics. You've probably heard this one before. They should be specific. They should be measurable, achievable, otherwise people might get discouraged. They should be relevant to the area, and time-bound. So do we have to do it by next Tuesday or within six months? We do need a time frame, otherwise it might go on and on with no end. Deliverable metrics could be for errors or defects that we get in our deliverable or product or feature.
+
+[02:42] Measures of performance, efficiency and reliability, and technical performance measures. But delivery metrics, so how we're going with the delivery of our project, could be work in progress. Maybe on our Kanban board, we've got 25 items in analysis, but we've only got two items in development. So now we can clearly see how our delivery is going. We need to focus on the analysis and help that work move into development.
+
+[03:12] For example, lead time, cycle time. Remember, cycle time is the time to do a task, like a user story, a small user story, or a task like testing or development for that particular item. Lead time is the time from customer order to customer delivery of a feature, usually for one of the larger items. Keep that in mind. Queue size, batch size, and process efficiency with our value-added or non-value-added processes.

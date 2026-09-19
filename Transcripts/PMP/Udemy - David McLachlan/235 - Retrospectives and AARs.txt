@@ -1,0 +1,12 @@
+# Retrospectives and AARs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 235 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Different versions of these improvement workshops, like a retrospective, could be in-progress post-mortems. A post-mortem meaning after death or after the end, so that's at the end of a project. We see what worked and what didn't work and we take our lessons learned for the next project. It reviews and captures those things once a project is finished. But an in-progress post-mortem captures those lessons throughout the project to ensure that we're continuously improving and we can resolve those issues a little bit more quickly before the project finishes.
+
+[00:38] It's very similar to a retrospective, which is typically used in Agile and this is facilitated by the team lead at the end of an iteration where the team comes together to discuss what went well over the last two weeks or three weeks or however long that iteration or sprint is. What challenged us and what could be improved? What did we learn and what still puzzles us or what questions do we have? This helps the team improve its process continuously.
+
+[01:06] It can be held any time the team is stuck and when a team completes or ships something or delivers or releases part of the product or if more than a few weeks haven't passed since the last retrospective. Another way to improve is After Action Reviews or AARs. These are very, very similar and we use these to reflect on our current process and improve again usually at the end of a project or a phase or a milestone. Everyone involved in the project should participate and we capture answers to these questions.
+
+[01:39] What was supposed to happen? What actually happened? So did it go better or did it go worse than what we expected? Why were there any differences and what can we learn from those differences? AARs originated in the US Army and so when people came back from a mission or out in the field and what was supposed to happen out in the field but what actually happened, it's a great way to review and then learn as a team and improve the team's process.

@@ -1,0 +1,18 @@
+# Multiple AI Patterns (Combinations)
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 020 (section 4: 7 Patterns of AI and Use cases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so in the previous videos we looked at so many use cases and examples where you know some specific AI or ML problem falls within a particular bucket of problems. So now there can be cases in which you know you are trying to solve something and that can fall across multiple buckets. For let's take the example of Netflix itself. So Netflix itself you know there are multiple if you look at it. So first is it is predicting it is using your previous watching behavior or previous data past data and giving you recommendations.
+
+[00:39] Okay so there is a prediction there is a prediction bucket that is getting used. Then you know it can it is personalizing the content and giving you hyper personalization is used. So you know like this there can be multiple algorithms or multiple problems that you're trying to address. Not necessary that project is you have to bucket it into. If there is if the dominant part is one bucket then you can put it under that bucket. So there are cases when you know multiple scenarios can be used or multiple patterns can be used.
+
+[01:17] So for example Netflix itself is you know somebody hacked your password from some different location and it is trying to. So that is anomaly a pattern and anomaly comes into play right. So you see in the same network and Netflix itself you have like identified three different patterns now. So immediately it has to alert the user that okay there is a suspicious activity of this sort somebody has logged in from this location is it you please confirm such kind of messages the user is alerted.
+
+[01:47] So based on that the agent takes some action for you to perform. So once you confirm. So maybe you want to tell that okay it's not me then they will send you whatever things that you want to steps that you need to you do to protect your account. For example they might assist you in resetting the password or you know enabling MFA multi factor authentication. So after the password also you might have need to validate it with SMS or a code that you receive in email.
+
+[02:20] So any problem if it dominant part of it falls under it can be bucketed under one it is good you can bucket it but there is every possible way that you know a project can have more than one. So you will not treat each if part of a project has hyper personalization part of a project has has prediction part of a project has recognition. So all these cases you are not going to treat them as separate projects you want to treat them as one project.
+
+[02:49] So just understand that you know a problem to solve a problem can be bucketed into may have three or more or maybe all the seven patterns possible you never know problems can come right. It can be more than one pattern. So just from an examination point of view also always from an examination point of view understand that which is the dominant pattern. So is prediction like more important in this case or is it a hyper personalization case. So sometimes it will ask you OK what all are the AI patterns involved in this.
+
+[03:25] So then you have to analyze OK does it involve prediction does it involve hyper personalization does it involve anomalies and pattern. So based on that you need to answer. So how based on how the problem is and the question wording your answers are going to change if it is a single AI pattern or multiple AI pattern that is there OK all right.

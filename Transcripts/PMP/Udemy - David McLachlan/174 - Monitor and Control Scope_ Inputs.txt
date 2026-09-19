@@ -1,0 +1,20 @@
+# Monitor and Control Scope: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 174 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Inputs that we're going to need are two things, our scope management plan and quality management plan. And this makes sense, doesn't it? I know you're thinking, David, I already know this now, and that's a great sign, because we're working with the scope and we're working with quality, so we're going to need these two wonderful plans. And these plans are our process, so we might as well follow our process now. But we'll also need project documents with our requirements documentation.
+
+[00:31] Now, why do we need this? I know you've probably already done this in the real world, but think about it, we need our requirements, and those requirements will go into the test cases for our quality control activities, and then we pass those test cases or quality control activities, and that gives us our verified deliverables. We're verifying that it meets our customer requirements. So we need our requirements documentation.
+
+[00:58] Performance measurement baseline for the actual results to the baseline results to see if we need a change, and our quality test and evaluation documents. These are our test cases, and the test cases are based on the requirements documentation. So Macy is really our most important person here. She's going to be so busy doing all of these quality control activities with her testing team. And one of the things that she's going to need are the quality metrics.
+
+[01:29] How are we measuring the quality? What sort of quality do we need? Is it very high or is it medium or low? And how are we measuring these things? Is it the number of defects or the system downtime or failure rates, customer satisfaction, or the percentage of requirements covered by testing to measure test coverage? If we've got 100 different requirements, but we only cover 20 of them in our testing, then things could go wrong if we haven't verified the other 80 requirements.
+
+[02:00] So keep that in mind. We do want to know what we're aiming for. Approved change requests because we might have changes to the scope or requirements. So if we've got defect repairs or revised scope or revised work methods, we're going to need that as an input to keeping our scope under control. And we're also going to need the things that we've delivered and created. So we've got our requirements, and then Kylie and her team of developers have developed these things.
+
+[02:29] We've got some webpages and we've got some databases and we've got some email notifications and sales notifications. And we've got some of these online classes that Grace wanted in the first place. And now it's time for Macy and her team to check these things and make sure that they meet what the customer wanted in the first place. So those are our deliverables. We need to check them now. Lastly, enterprise environmental factors. Second last is our enterprise environmental factors with our PMIS where we house all the information and all of our test cases and all of our requirements.
+
+[03:05] We're going to need all of these things so that we can test properly. Any rules, standards or guidelines specific to this particular area. Again, maybe there are specific regulations around health that we do need to meet as we deliver the Harmony Fitness application. We'll use our OPAs, so any existing templates or processes, monitoring and reporting methods and existing formal or informal scope control related policies.
+
+[03:32] How do we do testing in this organization? There might be an existing way of work and now is our time to abide by that way of work.

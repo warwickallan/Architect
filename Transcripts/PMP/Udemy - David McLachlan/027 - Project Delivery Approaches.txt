@@ -1,0 +1,12 @@
+# Project Delivery Approaches
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 027 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we deliver this change, there are a few project development approaches that we're going to come across, and we're going to see a lot of these in especially predictive or waterfall and adaptive or agile project management approaches. These are just the ways that we deliver value, and I'll show you the differences between these. There are a few things to look out for. You might get a few questions about these and these different approaches and when to use them on the exam, but we're also going to go through them in detail later on from start to finish in a normal project sort of style or scenario.
+
+[00:39] But let's go through the overview here, because it starts with the frequency of delivery. So if we're delivering in just one big bang at the end, so we're planning everything, and then we're delivering everything in one go, then we're more likely to use a predictive approach. We can do all that planning up front. That's our waterfall or predictive approach. Now if the frequency of delivery is high, if we're delivering lots of things, lots of small items of value all the time, then we're more likely to use an incremental approach or an agile approach.
+
+[01:15] If there's not much change, then again, we can use predictive or waterfall. Things are not likely to change, so we can do all that planning and we don't have to worry about changing later on. But if we do have to worry about change, if the market's changing or if we need lots of customer feedback and that might change our product, then we have a high degree of change. And again, that's when agile is more useful or an iterative way of work where we're gathering feedback and putting that back into our product and then delivering it again and then gathering that feedback and iterating forward.
+
+[01:50] So predictive, iterative, incremental, and adaptive, and also hybrid, which is a combination of any of these, and it's based on the frequency of delivery and how much change we might need as we go through our project.

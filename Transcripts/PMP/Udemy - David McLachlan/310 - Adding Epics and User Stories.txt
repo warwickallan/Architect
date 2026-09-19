@@ -1,0 +1,16 @@
+# Adding Epics and User Stories
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 310 (section 8: Real Agile Project Example using Jira)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, the next thing we need to do is start filling up our backlog and we want to start with our product backlog, which is our epics or our deliverables. Then we'll break those down into user stories and we'll put those user stories into our sprint backlogs. So the first thing we need to do is to go over to our view settings here and we want to display the epic panel. We can just press E by the looks of it as well, but we're going to select epic panel and then we'll close that down.
+
+[00:33] And now over here on the left hand side, we've got epics. We're going to start creating those epics or deliverables. If we click here, one of our epics was the Harmony homepage. So we're going to type that in and press enter. And there is our very first epic. Now in order to look at this in more detail, we can look at the dropdown here and select view all details. And the reason why we want to do this is we might want to change the colors of these as we go, just so that we've got different colors and they really stand out.
+
+[01:04] So I'm going to go ahead and add all of the epics for us. Now we have a nice list of epics or deliverables and it's time to start adding user stories in our sprint backlog. These are our different sprints and here is our overall backlog. So let's start by adding them to the overall backlog and then we'll create some sprints after that. So in our backlog, we just select create. We're going to type in the user story name that we want. And what we can actually do here is select a different type of card.
+
+[01:35] I've just got it as a task card, which is very, very handy, but you could have it as a bug or a story card. It's up to you, or you could even add work types. As you can see, we could add things like a risk card, for example, and change the icon to a nice risk type icon. We could also add another work type and we could add a spike because remember we need spikes for time-boxed research in our project. The icon for that one, let's make it a nice, a lightning.
+
+[02:06] We're struck by inspiration during our spike. So let's add that one in. Now we've got those for later, but for our first user story card, we're going to add that as a task and just press enter to add that. Now we've got that in our backlog. We're going to add an Epic here, so we can click on this and it's under Harmony homepage, which doesn't appear. So we're just going to select view all, and here it is Harmony homepage. That's the one we want.
+
+[02:34] So that's the Epic for this particular user story. Now there's a bit more information we need here. It's fine to stay in to do, but in this little section, this is our story points. We can click on this and let's say our team has come together and they've estimated this particular user story and they've given it a user story points of three. So we'll add that in and now it's added to our user story. We can also assign it. It's just me in this project currently, so I'll assign it to myself for now.

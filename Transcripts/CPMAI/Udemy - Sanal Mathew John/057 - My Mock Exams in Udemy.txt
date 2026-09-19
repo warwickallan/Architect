@@ -1,0 +1,20 @@
+# My Mock Exams in Udemy
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 057 (section 13: Mock Exam Info)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Okay. So now let me give you some information about the mock exams. So the mock exams are from V7 to V8. Both the contents are there I haven't removed. So I've recently updated the V8 contents also, but I prefer to keep the V7 because it is necessary for your understanding. Okay, some of those things you need to know. You need to know. You need to understand. You know what kind of an algorithm is best suited for various kinds of problems. Uh, what cannot be used?
+
+[00:31] What can be used? Some kind of an understanding is required. And you need to know a little bit about, uh, machine learning, deep learning and all the emerging technologies, because, you know, in your workplace, you, you learn the methodology. Now that you go into the field, there will be new technology, new things coming every now and then. Keep yourself updated. So regarding the mock. So the mock one, two and three are very close to the exam real exam. So you can take them So that will be very close to exam.
+
+[01:01] So that will improve your confidence. So now mock for is only for people who want something extra like the questions are difficult. You won't get that kind of questions for your exam. The exam number four or mock four. Uh it's difficult. So that is with an intention of helping you, uh, understand or grasp difficult or tougher concepts. This is for people who are thinking beyond the examination, right beyond certification, because this is not just a certification that you are going to apply this.
+
+[01:34] So the certification itself is a piece of paper and does not have any value unless you are able to apply it properly. So it's for such kind of people who has time, who have time and they can go one step beyond. So if certification is your thing, probably you need to stop at mock three, mock one, two and three. But if you want to learn something advanced, then you can obviously go ahead and do the mock for mock five is just about is that it's just about introducing you to the V eight concepts. So mostly it is.
+
+[02:07] You again won't get exam questions like that, but that will help you clear some concepts about the V seven. Uh, because a lot of the agent AI and AI and all are introduced. So some, some concepts related to that. It will help you. And also it is mapped very closely to the exam content outline. So you know that that will help you clear the echo. Also uh, you know because echo is like domains task then sub tasks. So your questions would be probably um are mostly based on your subtask.
+
+[02:41] Okay. So the project manager was in this phase. He was doing this. This problem came what he can do. He did not have enough data. What is the, uh, option? Uh, so he. Data augmentation. Data deletion. Duplication. So. So it will give you a lot of options. So if you understand the exact echo the exam content outline things will be easier for you. So the mock five is uh, basically, you know, practically practical application of the echo or the exam content outline.
+
+[03:15] Okay. So it is like, uh, it will help you understand the exam content outline or because your questions are exam questions are going to be based on the echo. So if you have time you can do that. It will give you a very good understanding of the how the standard is mapped to the echo. So that will give you that kind of an idea. Uh, only if you have time. The certification is a thing. Again, stick to one, two and three.
+
+[03:43] And I'm also available on LinkedIn. Or you can message me on Udemy itself. Uh, for any kind of questions clarifications. I'll be happy to help.

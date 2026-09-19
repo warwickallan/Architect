@@ -1,0 +1,18 @@
+# Acquire Resources: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 151 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The outputs for acquiring resources are the physical or virtual resource assignments themselves. We're going to document the physical resources that we're allocating to the project, like materials, equipment, supplies or locations, and other physical resources that are going to be used during the project, especially if it's a construction project or something physical. The project team assignments are the people and the team members that we need, so we're going to document these as well, including their roles and responsibilities.
+
+[00:33] And what's a good way to do that? That's with a RACI, or a Responsibility Assignment Matrix. You can see either of those two terms. This could be in a project team directory, in our Project Management Information System, or PMIS, or it could be in organizational charts, or in just the scheduled activities on our project management plan, so everyone is on the same page. Resource calendars, now that we know the resources, we need to know when they can work.
+
+[01:04] This identifies their working days, their shifts, the start and end of normal business hours. Is it 9 to 5, or do we have longer working days? So when is each specific resource available? This is going to help us figure out who can do the work on which activity, so it's really good to define our resource calendars and when everyone can do the work. Change requests might happen if we need more resources than we thought, and of course that's going to impact our cost, and maybe even impact our schedule, or maybe even impact the scope if we don't have the right capability to deliver on that scope.
+
+[01:42] So always, always, always, it's impacting our triple constraint, plus the addition of project quality. Updates to our project management plan will be our resource management plan. If our process changes as we acquire those resources, and the cost baseline, if people or materials cost more or less than what we were expecting. Billy is also going to update some project documents, like our lessons learned, the project schedule, if we've got different availability of resources.
+
+[02:15] Maybe some materials are delivered late, and that's going to impact our project schedule. Resource breakdown structure for our project team structure. The resource requirements for who we need and when. The risk register and the stakeholder register for any new stakeholders, and for any new risks that come about as we acquire resources. And enterprise environmental factors, we might need to update the resource availability within the organisation.
+
+[02:42] If we don't have any subject matter experts, then we need to maybe let other projects know and make sure everyone is updated. We also need to update the amount of the organisation's consumable resources. If we've got, for example, materials that are in an inventory, and we've used all those materials up on this particular project, then we need to update the organisation for that. Organisational process assets, if we've changed or impacted any templates, maybe we've made them better, maybe we've improved them, especially in this case around acquiring or assigning or allocating resources.
+
+[03:16] Maybe we've got a really good spreadsheet or a really good report template, and we can put that back into the organisation so they can use that one in the future.

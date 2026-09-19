@@ -1,0 +1,20 @@
+# A Typical Agile Iteration
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 273 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] And when we have enough of these items ready, we can do sprint planning at the very beginning of our two-week sprint. The team selects enough of these highest priority user stories, enough to be completed within the sprint, and that number is typically matched to how much the team completed previously. For example, this is called their velocity, how much work we can complete. And we can measure this in a few ways.
+
+[00:28] Maybe it's in the number of user stories, maybe we did 20 user stories last sprint, and now coming up, we want to put 20 into this sprint. And we do this because we want to keep a sustainable pace. We don't want to say, okay, now we've got 50 stories in this sprint. It's just going to demoralize everyone. It's not sustainable. So if we've got an average over the last two or three sprints, that's also ideal. We just want to match that in the future sprints as we're doing future work.
+
+[00:58] Once the sprint or the iteration has started, then we're actually performing the work, creating those deliverables, or the team is creating those deliverables. And every day we catch up in a daily standup or a daily scrum, if we're working in scrum. The team gathers around their Kanban board. We'll see a bit more on this later. They give an update on their progress or any blockers for their user stories. So we say, what did I get done? What am I planning to get done? And is anything blocking me?
+
+[01:26] If something's blocking that person, or they need more information, or they need help from another person in the team, then they can catch up after the daily standup or swarm around that issue, or maybe the scrum master can problem solve as a neutral third party. But here's our Kanban board. These user stories start from the backlog or in to-do, and then they go into in-progress or maybe analysis or development or testing or sign-off, whatever the areas are in your particular way of work.
+
+[01:57] At the end of the sprint or the iteration, we have the sprint review, which is we've worked hard to create all of these wonderful items, or even just one usable item. And now we're going to showcase that to the customer. Now the best part about this is it's actually a usable increment. So we're not creating a prerecorded showcase. We're not creating a status report. We're actually getting the thing that we created as a team and using it in front of the customer. Imagine that. So now the customer can say, hey, that's exactly what I had in mind.
+
+[02:32] They can see the real thing, the real usable increment. Or they might say, you know what? Now that I see this, it's not quite what I had in mind. And we can adjust. We can respond to change according to the Agile manifesto. So that's the power of the sprint review or the iteration review. And lastly, we don't just review the product. We also review our process and our way of working. So are you seeing all of these bits and pieces coming together and how powerful this is becoming?
+
+[03:07] Because when we come together as a team at the end of our iteration, and we ask what went well, what didn't go well, what challenges did we face, what did we learn, and what still puzzles us? What do we still need to find out? We gather all this information and we use it to improve our own process as a team. Now if there's things that went wrong, we take an action, we assign that to someone, and we make sure that we follow up and that maybe, again, we problem solve as a neutral third party with the right people.
+
+[03:38] Maybe we need other stakeholders involved. But either way, we take that, improve the team, and then we do it all again in the next iteration.

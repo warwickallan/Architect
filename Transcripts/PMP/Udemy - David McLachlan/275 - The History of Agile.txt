@@ -1,0 +1,14 @@
+# The History of Agile
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 275 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. In this section we're going to look at the Lean and Agile frameworks, all of which make up Agile as we know it today. As we saw, there are many different people and frameworks that made up the original Agile manifesto in 2001. We have Scrum, Feature Driven Development, Extreme Programming, Dynamic Systems Delivery Method or DSDM, Agile Unified Process, and Crystal, and a few others, and they all came from Kanban and Lean in the early to mid-1900s.
+
+[00:37] So we're going to go through that timeline and that history of Agile just to see where everything came from, and we're going to see just how similar a lot of these methods are and how it evolved over the years. And it started all the way back in around 1948 in the Toyota production system, which was borrowed from Ford originally, so Ford in the early 1900s creating the Model T motor car, and Toyota borrowed a lot of their ways of working because they were so good.
+
+[01:07] But it was born out of the scarce resources after World War II, so there was not a lot of metal, there was not a lot of resources, not a lot of money, and they really had to work in a lean way. Taichi Ono is considered to be the father of the Toyota production system. We'll go into this in a little bit more detail and we'll see this a few times in Agile. The eight lean wastes of downtime, defects, things like waiting, things like extra motion or excessive process steps, the lean wastes are just such a wonderful thing to help us improve our process, so we'll see these a couple of times in Agile.
+
+[01:44] And the three customer driven metrics as well, quality, which is reducing defects, and delivery speed, increasing the delivery speed, and reducing the cost to ourselves and to our customer. Now after the Toyota production system, or TPS, or as it became known, lean, then we got Kanban in the early to mid 1950s. Basically Kanban is visual sign in Japanese, used to signal the need for more inventory, so it was a pull approach.
+
+[02:16] When we needed more inventory we gave a Kanban card or a Kanban signal, and then it was used in software on a Kanban board as we know it today by David Anderson starting from 2002. You'll probably see this in all of your Agile teams, or most of your Agile teams, and we'll go into Kanban boards and how to use them in the best ways for your Agile team a little bit later in this course.

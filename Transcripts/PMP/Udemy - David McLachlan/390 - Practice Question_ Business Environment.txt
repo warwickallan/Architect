@@ -1,0 +1,14 @@
+# Practice Question: Business Environment
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 390 (section 11: The PMP Exam Content Outline (ECO))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Okay, now it's time for our final single question just as part of this exam content outline section to get us up to speed on PMP and the way to answer these questions in the real world. Let's see what we've got for the business environment. Sophia is managing a cross-functional project at Rexton Global. Departments begin clashing over decision authority and how issues should be handled. Problems escalate concerns inconsistently, leading to delays as you try to work through them.
+
+[00:33] What should Sophia do next? So we've got an escalation issue here. Facilitate alignment sessions between the departments? Sure, that's a good answer. We want to work collaboratively, we want to work direct with people, and we want to problem solve where we can. So that's an okay answer, but is it the best answer? Let's see. We assign a single decision maker to handle all escalations and streamline the responses. You know what? That sounds okay as well.
+
+[01:01] That's also an okay answer, but again, is it the best one? Do we update the communication management plan? Well, the communication management plan is how we communicate with our stakeholders, so that also could work. Probably not the best, maybe around stakeholder engagement possibly, but really we want to look at escalation paths. So answer D, define and document governance escalation paths, is probably the perfect answer. Even though these ones are good, this one is the best answer.
+
+[01:30] So you'll come across questions like this on the PMP exam where some of them seem correct, but there's only one most correct. And because we're escalating inconsistently, this is our keyword here, and we need to stop those delays, so we need to define and document those governance escalation paths, and that's answer D from the business environment domain task one, which actually says define and establish project governance for escalation paths and thresholds.
+
+[01:59] That's a whole bunch of fun. I really like going through these questions, and they're a great way to prepare for your exam. We'll go through a whole lot more of these exam content outline PMP questions later on in this course.

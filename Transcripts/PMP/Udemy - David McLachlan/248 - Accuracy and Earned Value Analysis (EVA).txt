@@ -1,0 +1,16 @@
+# Accuracy and Earned Value Analysis (EVA)
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 248 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're working with money and budgeting on our project, we'll need to know about accuracy and precision. There are different things in the PMBOK Guide, mostly coming from the PMBOK Guide 7th edition, and we'll need to use these, they're different depending on the scenario. Accuracy is a measure of correctness, how accurate, how correct is the estimate. So an estimate at the beginning of a project will have lower correctness, it will be less accurate than one later in the project.
+
+[00:34] And that's where we use a higher range. So we've got our rough order of magnitude all the way early on in the initiating stage of our project. But precision is a measure of exactness. How exact is our estimate? Is it down to the cent? Or is it a wide number like every $20,000 or it's rounded off to $100,000. Precision can also be the degree to which estimates are rounded up or down. So if we've got $995.30, that's very precise, it's very exact.
+
+[01:08] But if we've just got every $1,000 or rounded up to every $10,000 or $100,000, depending on the size of the project, then that's not going to be very exact. And that's also not precise. So keep this in mind, we'll need to note the level of accuracy and precision in our financial management plan. We're also going to need to know earned value analysis or earned value management. This is where we compare the performance measurement baseline to the actual schedule and cost performance of the project to see how we are tracking, to see how much we've earned, how much value we've created.
+
+[01:45] There are three key measures that we need to know for each work package. The planned value, which is PV, you might see. This is at any given point in time. The planned value shows us the work that should have been completed, that we've planned to be completed. We might also have the budget at completion or the BAC. This is the total planned value at the end of the project. This is what we had planned for our total budget. We might have our earned value, which is EV.
+
+[02:14] This is what we have actually completed at a given point in time. And then we've got our actual cost, which is what we have actually spent at any given point in time. So as you can imagine, what we've planned, if we've planned to have this much done, but we've actually only earned value, we've only completed this much, and actual cost, we've spent this much, then we're over a budget to what we'd planned and we've delivered less than what we had planned as well.
+
+[02:44] So we're behind schedule and we're over our budget. And this is what we're going to use to figure out how our project is going. Here's a better example, actually, in a nicer chart than the one that I drew. So we've got our actual cost, very, very similar. Actual cost is more than our planned value and we've earned less, we've delivered less than what we had planned at this point in time as well.

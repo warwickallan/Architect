@@ -1,0 +1,12 @@
+# Setting up the Kanban Board
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 309 (section 8: Real Agile Project Example using Jira)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, the first thing we're going to do is set up our Kanban board. Across the top here, as you can see, we've got different things that we can select. The backlog, the timeline, the board, which is our Kanban board, and those are the main things we want. We also want some reports in here. So what we're going to do is get rid of these things that we don't want just by selecting the three dots and remove. We're going to get rid of the list, forms, and anything else that we don't need.
+
+[00:30] But what we are going to do is select add or plus, and we want reports as well. So we will add reports to our navigation, and there they are. Let's go back to our Kanban board, and the way we change this around, as you can see, we've got to do, in progress, and done currently. But what we want is to do. Maybe we want analysis, and we can change that just by typing over that top. We'll add another one, and we want that to be development.
+
+[00:59] And once we've added that, we can select that and move it. Just click and drag, and there it is. We're also going to add a sign off and drag that before done. Now we've got some nice Kanban columns that we can work with. We can also, if we select these three dots here, we can add a column limit. Do you remember our work in progress limits or WIP limits? We can say we want no more than four cards in this column. And if we have more than four, it's going to highlight it for us.
+
+[01:28] So that's very, very handy already.

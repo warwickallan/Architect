@@ -1,0 +1,20 @@
+# Agile PMOs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 307 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now we're at the end of this extra Agile section. Well done for getting through all of this. It really adds a little bit more to the Agile landscape and it also adds a bit from a real world perspective. Sometimes it's not as easy as just saying we're going to work in a small co-located Agile team. We have all of these other things to think about and worry about.
+
+[00:27] And the last thing here is working with Agile and the Project Management Office or the PMO. So a PMO exists to shepherd the creation of value throughout the organization. They might provide project resources for projects, provide training and templates for project participants and make decisions about which projects to fund and when to fund them. But an Agile PMO typically puts the value decisions back in the hands of the people receiving that value to decide upon.
+
+[00:57] So they're more of a supporting role and then allowing the organization or the business or the customers themselves to self-organize and self-manage their own delivery of value. So an Agile PMO is value driven. A project should deliver the right value to the right people at the right time. An Agile PMO focuses on the value that it provides to projects. How are we helping our projects and our project managers? Some projects might need tools and templates.
+
+[01:26] Others might need executive coaching or coaching within the team to help uplift the skills of all of our project team members. An Agile PMO is also invitation oriented to facilitate employee engagement. The PMO delivers as much value as possible and then invites only those people who are interested to engage with the PMO services. This makes the participants more sticky. We're not forcing it on people, but in this way, hopefully they see the value that the Agile PMO is delivering and helping with these projects, helping uplift their staff and giving them the tools and templates and the systems that they do need to get the work done.
+
+[02:06] And then they might say, hey, can I get involved and can I get your help as well? So it's invitation oriented. And lastly, an Agile PMO is multidisciplinary. That sounds familiar, doesn't it? It sounds like our T-shaped people. Very, very similar. In the same way as a T-shaped project team member, Agile PMOs are multidisciplinary. They might also be transformed into centers of excellence that provide such services as ways of addressing staffing challenges or organizational change techniques, developing standards and implementing standards, developing personnel and growing our personnel and their skills, multi-project management.
+
+[02:47] So program management. In other words, putting our resources across different projects in the program when we need to. So balancing the staff or the people or the resources, recruiting, selecting and evaluating new team leaders and providing templates and frameworks. So centers of excellence, we did hear that term in our safe or scale Agile framework section. And that's where all of the business analysts, for example, from all of the different projects come together and they learn about their best practices and ways of working.
+
+[03:22] All the project managers, all the scrum masters, all the developers, all the testers, maybe all the executives or project sponsors, anything that we have there could be a center of excellence for that particular discipline. So that's really a nice way to build a multidisciplinary PMO. And there we are at the very end of all of this extra Agile section. Well done on making it this far. You've done such a wonderful job. And also Agile is a wonderful way to work.
+
+[03:49] And now you have quite a bit more information about how to do this in your own projects.

@@ -1,0 +1,16 @@
+# The Cost of Quality
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 252 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. You're doing such a great job getting through these key concepts for project management. And now it's time to delve into project quality and quality of the product that we're delivering. Quality used to be its own performance domain or knowledge area in previous PMBOK guides, but now it's just done as part of executing our project and as part of the scope and keeping our scope quality under control.
+
+[00:28] There are still many, many different key concepts we'll need to know when we're keeping our product under control. And it starts with the cost of quality, where the cost of change gets higher, the closer something gets to production or to our customers. And that means during requirements and analyzing those requirements, if we need to make a change, it doesn't cost us very much. Once we've designed that item, then it's going to cost us a little bit more because we need to redo the design and redo or relook at the requirements.
+
+[00:59] Now, once we've created it, then if we need to change, we need to redo the design and the requirements and recreate it. So it's going to cost us more. And when we get to testing, it costs us more again. And if it ever reaches the customer, an issue or a defect, or even a change that we need to make, then we're going to need to go through all of these steps. And so it's going to cost us the most by the time it gets to our customer. The cost of quality is the total cost required to ensure that products meet the standards defined by our project and by our customers.
+
+[01:32] And we'll go into these four costs of quality, starting with prevention costs. This is the cost to prevent future defects or errors in the product. And here we could be doing things like training for our staff to prevent future issues or errors, creating models or prototypes to prevent future errors, updating our processes or updating our equipment, refactoring code to make it easier and more simple for us to code future items. Appraisal costs are when we find defects or errors in the product.
+
+[02:05] This is where we are testing or maybe auditing, doing inspections or shoulder checks, and even sprint or iteration reviews where we're demonstrating the item to our customer or to the product owner so they can see it in action. And then we're appraising its quality, we're testing it or seeing it to find any defects before it reaches our customer. Then we've got internal failure costs, which is when an error or non-conformance actually happens, but it happens within the project team.
+
+[02:35] So usually it's captured during testing or review of the item. It hasn't reached the customer yet. If it reaches the customer, it's external failure costs. This is usually when we've released an item and it's used by the customer. Now it's a defect and it results in returns and maybe bad customer reviews and some brand damage. So the cost of quality for external failure costs is much higher than our previous ones of prevention, appraisal, and internal failure.

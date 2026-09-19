@@ -1,0 +1,18 @@
+# Scrum Artifacts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 283 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next, we have Scrum Artifacts with the Product Backlog, the Sprint Backlog, and the Usable Increment that we're going to create every sprint. The Product Backlog is an ordered list of everything needed to improve the product. It's the single source of work for the Scrum team. That means we might have other people coming to our team saying, hey, could you just do this as a favor to me?
+
+[00:27] Could you deliver this item? Could you work on this piece of product? Well, we can't because we're only operating from the Product Backlog. It's the single source of work for the Scrum team, so it keeps everyone focused. The commitment here is our product goal. The product goal describes the future state of the product and acts as our target. Like we were saying before, with our goal to increase sales by 25%, or whatever that looks like. It's a target or a metric, something that we're aiming for.
+
+[00:56] The Product Backlog delivers things that is going to achieve that product goal, like we said, and the team must complete or abandon one product goal before starting a new one. Only one goal, we don't have 10 different goals going at one time. We just have one, and we need to abandon that one if we're going to start a new product goal. The Sprint Backlog is selected Product Backlog items for the sprint. It's an actionable plan to deliver the increment.
+
+[01:27] Remember, this is where our developers, they actually help create this. This is where we take the Product Backlog items or features, and we break them down and add enough detail so that we can work on them during the sprint. Remember, they have to be small enough to fit in one sprint. They can't go over multiple sprints. The sprint goal is the single objective for our sprint, and if the work changes, we can renegotiate scope with the product owner. Maybe the product owner says, this is what I need, and the developers say, well, that's not quite possible with this system.
+
+[02:01] Could we try it another way? We just renegotiate, and we come to a common ground of what we can deliver, but the sprint goal remains unchanged. An increment is a concrete step towards achieving our product goal. To provide value, that increment has to be usable, so we want to be able to use it and demonstrate that to our customer at the end of our sprint, in the sprint review, as we'll see coming up next.
+
+[02:28] The commitment here is that definition of done that we were talking about. It's a formal description of the required quality standard for the increment. In other words, it's the criteria. How do we know that this item is done? Is it developed? Is it tested? Is it signed off by our product owner or the customer? Is it demonstrated at the sprint review? What is the criteria? We can choose that criteria as a team, but if there is already an organizational standard in place, then we should use that first.
+
+[03:00] Keep that in mind. If the company has a certain way that they need things done with their definition of done, we can use that. Otherwise, the team can come up with their own. When a product backlog item meets the definition of done, then we have an increment, but if it doesn't meet the definition of done, it can't be presented at the sprint review, and it can't be released to our customer.

@@ -1,0 +1,16 @@
+# Implementing Kanban
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 293 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, how do we implement Kanban in our Agile team? The first thing is we visualize the workflow, usually with a process map. So we draw out how the work flows from start to finish. This helps with making our process or policies explicit. Do you remember the two different types of knowledge? Explicit is something that we can show and we can see. It's a step-by-step.
+
+[00:27] We can describe it. Explicit, tacit knowledge is more of our beliefs and things that are harder to describe or define. Now, we're making this explicit by bringing it out into the open. It could be a process map or a swim lane flow chart, or it could be a value stream map, lean style. Then we want to analyze the demand. For each type of work, we should study and note the demand. For example, this is our sustainable pace. How many user stories can the team complete every sprint or every iteration?
+
+[00:58] Or if we're not working in sprints or iterations, just every week or two weeks or every month. Use actual data if you can and previous experience if we can't. The next thing we want to do is to limit that work in progress. Kanban notes that there is a linear relationship between the number of items in progress and the average time of completion. In other words, if we have too many items in progress, that actually increases the lead time for each of these items because we have that context switching and that task switching between these items.
+
+[01:35] Every time we switch tasks, we lose 40% productivity as we have to get up to speed on the new item again. More items take longer. Keep them small and keep them few. Just enough for what our team can complete. Lastly, we want to analyze the constraints. Just like in the theory of constraints, David Anderson and his project manager Dragos found and managed the constraints in their process.
+
+[02:04] I think from memory, from the book, their constraint was in finding the estimates for each item. They came up with the estimate and then the business people would say, you know, that's not quite the right estimate or we've got more information. What they did was they took each work item and they broke it down to be of a similar size for every single one. If they had a really big one, they'd just break it down into smaller pieces so that it was the same size as all the others. Then they just said each estimate is around one week's worth of work.
+
+[02:34] They problem solved and they got rid of that step. They reduced excessive process steps, which is one of our eight lean wastes. In that way, they got rid of that constraint. That's how you implement Kanban and all of the details about Kanban all the way back from 1953 to Kanban in Agile teams as we know it today.

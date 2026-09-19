@@ -1,0 +1,14 @@
+# Pareto and Control Charts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 333 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Pareto analysis or a Pareto diagram is based on the Pareto principle, which says that 80% of the results come from 20% of the inputs. For example, 80% of the wealth is often owned by 20% of the people, or 80% of the work is done by 20% of the people in our project team. Has that ever happened to you? Or 80% of the defects might come from 20% of the code or the system that we're working in.
+
+[00:33] It's perfect for problem solving and finding the biggest areas of opportunities. And the way a Pareto chart looks like is this. We've got our items, let's say these are our defects, and in particular areas, and we sort them from highest occurring to least occurring. And then we have a cumulative percentage over here. So this is 30% of our total. When we add these two together, it goes up to 50% of the total until we get to 80% of the total around here with our top four defects, as you can see.
+
+[01:08] So these are the ones that we really want to focus on. This is our Pareto analysis. If we're measuring these defects, or if we're measuring anything on our project or within our product, a control chart can help to see if that item is within control. We have the data line, which is just like a line chart. We have the average of that data in the middle. We have an upper control limit and a lower control limit. The upper and lower limits are typically set three standard deviations or three sigma from the average.
+
+[01:41] In the real world, I often find that that's quite far. So that could be too far from the average. One standard deviation can be enough, but again, modify that to suit your own situation. And a process is out of control if a single point goes beyond these control limits. So that's why we call it a control chart. But we might also have seven consecutive points trending up, or seven consecutive points trending down, or eight points in a row on one side of the average.
+
+[02:12] Then we might deem it to be out of control.

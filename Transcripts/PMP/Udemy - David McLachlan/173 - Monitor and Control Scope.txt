@@ -1,0 +1,14 @@
+# Monitor and Control Scope
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 173 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, well done for getting through monitoring and controlling. We're nearly at the end of our project. You've done such a great job. And we're up to one of my most favorite parts. We're up to the scope where we make sure that it's under control and it's of a good quality. And then ultimately with validate scope, the project sponsor accepts the deliverables. And that's really when we can release these things. So this is why this is such a great part.
+
+[00:29] And it's one of my favorite parts of the project. We're really coming to the pointy end where we're delivering these things. But for now, we want to make sure that it's of a good quality first. And this is where we monitor our project scope. We measure the quality, we manage changes to make sure that it meets our stakeholder requirements. We can then take them to key stakeholders for final acceptance, which is the validate scope process. So keep that in mind.
+
+[00:57] First we monitor and control scope, and then we validate the scope with our project sponsor or our customers. Uncontrolled increase in scope is called scope creep. So keep that in mind if we're getting extra scope that wasn't planned and we're getting lots of it, then that is scope creep. But going above and beyond in the scope when it's not required by the customer is called gold plating. We're putting a gold plating on it, but it's really the same thing underneath that gold plating and the customer didn't want it in the first place.
+
+[01:31] So keep those two things in mind. As we monitor and control project scope, our testers, this is their time to shine. They're testing and making sure it's of a good quality. And then ultimately, Billy and Macy will take these items that have passed their quality approval, and they'll take them to Grace to validate that project's scope and accept it later on. But first, we want the quality.
+
+[01:58] Lots of inputs, tools, and techniques are sort of our audits and inspections and performance reviews and testing. So all of those quality activities here and the outputs are our quality reports and verified deliverables. Keep this in mind. Verified is when we verify them for quality. So that's where Macy's doing her quality work. But validated is when the project sponsor is accepting them. So we verify first, and then we validate, and then we can release these wonderful things to market.

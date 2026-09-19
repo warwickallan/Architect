@@ -1,0 +1,12 @@
+# The Critical Path
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 241 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As you go through your project and as you go through your PMP exam, you'll need to know about the critical path. The critical path is the sequence of activities which determine the shortest possible project duration. Now, it's a funny thing to say because the critical path is the longest sequence of activities, but because it's the longest sequence, it's the shortest time that we can complete the project in. We might have other activities here, but they finish a little bit earlier, but that means that we can't complete our project until that longest sequence of activities is finished.
+
+[00:38] So it's the shortest project duration, but it's the longest sequence of activities that we must do in sequence on our project. The critical path method is used to calculate the critical path and we look at the amount of free float for an activity. Float is just the amount of wiggle room or it's also called slack. So can we move it backwards without affecting our overall project schedule? Then if we can, we have some float or some wiggle room or some slack, whatever we decide to call it.
+
+[01:09] And these could be on different paths, but it's never on the critical path. There's no float, no slack on the critical path. If we want to calculate this float, we can do it with the forward and the backward pass and float is the difference between late start and early start. And the critical path is the path that has zero float. Just for simplicity's sake, that critical path, this is what it looks like if we're actually looking at this on Microsoft Project, which is a nice way to view things. Very, very handy.
+
+[01:39] It automates pretty much everything. So we can just select the critical tasks and it shows us the longest sequence of tasks in red and that then becomes the shortest time that we can complete our project in. These ones, as you can see, they finish a little bit earlier. That one finishes here. Maybe this one finishes here, but this one is the shortest time we can complete our project.

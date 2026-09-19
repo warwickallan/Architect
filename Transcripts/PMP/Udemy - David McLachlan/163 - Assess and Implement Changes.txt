@@ -1,0 +1,12 @@
+# Assess and Implement Changes
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 163 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, great job on getting through the project process this far, you're doing so well. We're up to monitoring and controlling and it's time to assess and implement any changes that come through. So we've checked our project progress and how we're going, are things on track or off track and we might need some change requests to bring it back on track or to prevent future issues. We're going to go through the change control process, which we've seen a few times, we'll see in great detail here, but this is where it's time to manage all of those change requests and see them through and if we need to implement those changes, then we can do that now.
+
+[00:41] In predictive projects of course, changes can be initiated by any stakeholder, so keep that in mind, but first we have to note it in the change log, review it for the impact to our cost, scope or schedule or any of those things on our project and then take it to the change control board and this process is outlined in our change management plan and then we update that change log with the outcome and communicate that to our stakeholders. In Agile on the other hand, we have a product owner, so the product owner is responsible for the product backlog and they have the final say on what gets delivered next.
+
+[01:19] So if someone has a change, they need to go to the product owner and say, well here's an idea, could we look at this, could we potentially move this one up to a higher priority to deliver that next and that's up to the product owner's discretion for them to decide. So they're also going to update the product roadmap, which is our product backlog on a schedule basically, on a Gantt chart, we're going to see when these things might be delivered. Lots of tools and techniques and inputs, the inputs are our work performance data and reports, so we need all that data to see if we need to make any changes.
+
+[01:52] Then we're going to need lots of people skills plus some change control tools and the outputs here are our approved change requests and those are the ones that we're going to work on and implement on our project.

@@ -1,0 +1,14 @@
+# Development Approaches
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 353 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now it's time to look at the development approach and the lifecycle of our project. The outcomes that we want are a development approach that's consistent with our deliverables. For example, Agile or Waterfall. If it's Agile, then we can deliver in small increments, but if it's Waterfall, we want a lot more planning and a lot more quality control, and then we can deliver in one go at the end. A project lifecycle that connects the delivery of value with all stakeholders from beginning to end.
+
+[00:33] The key terms we're going to see are deliverable, which is a product or a feature, the development approach, a cadence or our rhythm or our ways of working, project phase, so related activities to complete a deliverable, and the project lifecycle, which is a series of those phases from start to end. The type of deliverable determines how it can be developed. There is different risk, certainty or complexity and need for change, and so the delivery cadence is the timing and the frequency of project deliverables.
+
+[01:07] It's how we're timing our way of work. We might have a single delivery, like we have in a Waterfall approach, or multiple deliveries if we're delivering multiple things at multiple times, or periodic deliveries, which is multiple deliveries on a fixed schedule, similar to continuous delivery or DevOps that you might see in the software. As we know, we've got predictive ways of working when work is easily defined and scope is collected at the start of the project.
+
+[01:37] So if you get any exam questions around this, that's what we're looking for. It's easy to define work and easy to plan, and there's not too much changes that we could see. There's a large investment or high risk. We can use frequent reviews and change control to keep things under control on a predictive project. We might have a hybrid project, which is any combination of adaptive and predictive, useful when requirements are uncertain, but maybe we still want to deliver in one go at the end. We can use different aspects of Agile, like Kanban boards or standups, or sprints or iterations or sprint reviews, or backlog refinement, any of those wonderful things, and we can combine those with a waterfall approach, and then we have a hybrid approach.
+
+[02:19] Lastly, adaptive, which is Agile, a combination of incremental and iterative with shorter iterations where we're iterating and improving based on feedback, but we're delivering small increments to get that feedback from our customers.

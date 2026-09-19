@@ -1,0 +1,16 @@
+# Lead the Team
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 152 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. We're making our way through the delivery of our project and we've worked with our stakeholders and also we're working with our team. Lots and lots of people skills in order to help the work get done and deliver that value through our project. Now it's time to lead our team to help that delivery. So we track team members' performance, provide feedback when necessary.
+
+[00:28] We're going to have to resolve issues and manage team changes to ensure that the project has its best performance. We'll need both our leadership and management skills. So we're managing how things are getting done but also the why and the vision behind things. Common aspects of team development include clear vision and objectives, clear roles and responsibilities. So always make sure we have that responsibility assignment matrix with our team or our RACI.
+
+[00:55] Working project team operations, building consensus among the team and problem solving when we need to and guidance and growth in their team areas. For example, helping our business analysts or our developers or our testers become the best they can be. There are some factors associated with high-performing teams that we'll need to know. Open communication. So always default to these sorts of things on your PMP exam.
+
+[01:22] Shared understanding of the mission and work. So having a clear vision. We could put this in our team charter, in fact, and our ways of working with the team. Shared ownership and trust in each other. Delegation and autonomy in doing the work. Resilience and adaptability. Now this is the ability to bounce back quickly from a setback. So if things go wrong, do we stay setback or can we bounce back and still get the work done?
+
+[01:50] So this is where Billy is going to be working with all of his project team, all of our wonderful people and we need all of our team members in order to deliver this value for Grace, our business owner, through Harmony Fitness and the web application. Lots of inputs, tools and techniques and outputs. The outputs specifically will be team performance assessments to see how the team is performing. And we've got lots of people skills here. So lots of problem solving, lots of people skills, SWOT analysis, team building, influencing, co-location and virtual teams, communication.
+
+[02:26] So as you can tell, lots of those stakeholder and people skills that we've been using so far along the way.

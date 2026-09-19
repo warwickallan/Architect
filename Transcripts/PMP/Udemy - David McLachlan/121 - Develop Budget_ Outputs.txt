@@ -1,0 +1,14 @@
+# Develop Budget: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 121 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Lastly, in tools and techniques is financing. This is how we acquire funding for our project. So it's common for long-term infrastructure, industrial or public services projects to seek external funding or external sources of funds. If a project is funded externally, then whoever's providing those funds may have certain requirements. They may need to be involved in the project or they may have interest or different payment terms that we need to be aware of.
+
+[00:30] So it can get a little bit more complicated. We may need someone managing that part of our project for accounts or financing or reconciling all of those things. But for us, it's Grace. So she provides the financing. She's set aside that money to spend on developing this application and brought in Billy to manage the project. Now, the cost baseline, if you remember, is all of our work packages added together with our contingency reserve. And the contingency reserve is for known risks that might come up.
+
+[01:00] That becomes our cost baseline. We add the management reserves on top. And in the future, once we have this locked in, this is approved by Grace, our project sponsor. So she says, okay, I approve this $800,000 that we're going to spend. And now that we have that, if we have any changes in the future, we're going to need a change request and see the impacts to the other part of our project. We'll also look at our total funding requirements.
+
+[01:28] So funding can occur in incremental amounts. It might not be all in one go. So we can show the total funding requirements, including our management reserve, or we can show periodic funding requirements, which might be to milestones. So we complete a certain section of the project, and then we have more funding released. So money's released here and money's released there. And we might have phase gates for these. We can review how the project is going with our steering committee, make sure everything is under control, make sure we're delivering the way that we want it to deliver.
+
+[02:02] And then that additional funding is released. Lastly, in outputs, we'll have our cost estimates, because we can update those estimates if we get more information. The project schedule, if our costs impact our schedule, for example, if we have lots of money to throw at these things, then we are crashing our schedule, if you remember that one. More or less money might impact how long these things take. The risk register as well, for any new risks, when creating our budget, we can add those back to our risk register.

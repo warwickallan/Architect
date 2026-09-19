@@ -1,0 +1,10 @@
+# The Project Team and Stakeholders
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 044 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] A few other main roles that we'll come across in a project is the project management team. Now this is the team that's managing the project. It could just be us as the project manager. But it could also be a team assigned to guide the project with a quality manager, maybe a risk manager, maybe a change manager or a release manager, any of those other management roles in the project management team.
+
+[00:30] Now the project team themselves are the individuals performing the project work, doing the work to deliver on those project objectives. So just keep in mind the difference between those two things. The project management team are the managers. Remember in our orchestra, they're the leads and then underneath them they have their project team or the team members doing the work or playing those instruments. We'll need to work with and engage the end users or the other key stakeholders in the organisation.
+
+[01:02] For example, our functional manager that we saw, maybe senior users or people who use the system and we need their expertise. We can capture feedback and ensure that it's all aligned with what they need.

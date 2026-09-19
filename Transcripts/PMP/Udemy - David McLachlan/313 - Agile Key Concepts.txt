@@ -1,0 +1,20 @@
+# Agile Key Concepts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 313 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now one thing I've done in this course is for Waterfall and for Agile, I've pulled out all of the best parts. So what we call the key concepts that you're going to need to know for each section. And this is the key concepts, every single thing for every single part of Agile, all summarized really, really neatly. This is just a great summary before your exam if you need it. These are the Agile key concepts, and we're actually going to go through them in the neat little buckets for all of the tasks that we're going to need to do in an Agile project or an Agile team.
+
+[00:38] Estimating, prioritizing the work, making sure that we have product quality, measuring an Agile team, improving our Agile team, working with stakeholders, and of course, working with the product backlog. And we're going to go through that typical Agile process with the product backlog, sprint planning and the daily standup, refining the backlog for the next sprint, doing the sprint review to review the increment, and having a retrospective to review the work with the team. All of it will follow that basic model.
+
+[01:11] And the first one we're going to go through is initiating the project and using the product backlog. In Agile, we charter the project and the team. If you remember, in any project, we need a project charter to initiate our project. The project sponsor signs it and gives us access to the project resources and funding that we need. But in Agile, we also charter the team with an Agile team charter. It's our way of working and we come together and we work on this as a team so everyone has a say.
+
+[01:42] It's our values, agreements, and operating guidelines. It works best when the team develops it or at least has an opportunity to contribute to it. We're going to include our team mission or vision. The team roles and responsibilities, so everyone's on the same page. The stakeholders that we will work with. Team values, for example, we might have transparency or maybe it's just being on time to meetings or what does that look like? What does the team decide?
+
+[02:10] Decision processes, who makes what decisions, like the product owner making decisions on the product backlog and the team deciding how they're going to break it down and complete that within a sprint. Project processes, what happens if we can't decide? And team events or ceremonies like our daily standup, sprint review or iteration review and retrospective. Now we can also include what done looks like. We don't have to include that in the team charter, but it is part of our way of working.
+
+[02:40] And the definition of ready and definition of done. Definition of ready is our criteria for when a user story is ready to be worked on, ready to be developed. So it might have acceptance criteria, so clear step-by-step, what do we want our team or our developers to create? The test might have a test written, so that could be part of the criteria. It might have a prototype or a mock-up or a design and maybe our product owner or the customer has reviewed it to make sure it's exactly what they want.
+
+[03:11] That's written in the user story. We've also got our definition of done, which is the criteria for when a user story is done. That's right. Complete. Who knew? We don't present the increment at the sprint review unless it meets the definition of done. That's when we know an item is complete. For example, the code is all complete. The tests have all passed. We can demonstrate it as a usable increment to our product owner or to our customer, or maybe the product owner has seen it and approved it.
+
+[03:45] Now this will be different, all of this criteria. It'll be different in your team or your organization. Every product and team and industry and company will be a little bit different, so make sure you create this with your team, then they can all decide.

@@ -1,0 +1,22 @@
+# Variance Analysis for Schedule
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 250 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now the same thing goes for schedule variance and schedule performance index, but it's just to do with our planned value instead of our actual cost. So both of these start with our earned value, what we've delivered, and then we just either minus our actual cost for our budget or planned value for our schedule. So again, fairly easy to remember that one. When our earned value, what we've delivered, is less than our planned value, what we'd planned at this point in time, then we've delivered less and so we're behind on our schedule.
+
+[00:35] A negative schedule variance means we are behind schedule. It means we've delivered less than what we should have at this point in time. As an example, $40,000 earned value, this is what we've actually delivered, minus $50,000, what we'd planned to deliver, gives us minus $10,000. Now because it's negative, we've delivered less than what we said we should have, and that means we are behind on our budget.
+
+[01:03] Now the same thing goes for our schedule performance index, and with the CPI and the SPI, remember that trick, it's around the number one. If it's more than one, we've delivered more than what we said we would have, and if it's less than one, we've delivered less than what we should have. So if our schedule performance index is greater than one, we are ahead of our schedule because we have delivered more than what we said. If it's less than one, we're behind on our schedule because we've delivered less.
+
+[01:33] As an example, $40,000 earned value, we've delivered $40,000 worth, divided by $50,000, what we'd planned, and that gives us 0.80, and that's less than one, so we've delivered less and we're behind schedule in this case. The estimate at completion basically replaces our budget at completion as the project evolves. There are many different ways to calculate your estimate at completion, but the most common is our budget plus our actual cost, and then minus our earned value, what we've actually delivered.
+
+[02:12] So $100,000 budget plus what we've spent, so $130,000, minus what we've earned or what we've delivered, which is $40,000, and that gives us $90,000 estimate at completion. Another way to do this is to just use bottom-up estimating and add up all of the costs or the remaining costs for all of the work packages into one overall estimate at completion. So that's a bottom-up method, and that takes a bit of time, but it's, again, the most accurate. Or we could use the budget at completion divided by the earned value divided by the actual cost, which is our cost performance index.
+
+[02:50] So $100,000 divided by 1.33, our cost performance index, gives us $75,187. Either way, our estimated completion in this case is less than $100,000, which means we're going to be under our budget at the end of this particular project. The last one in variance analysis, I know there's a bit of mathematics here, but I really do like this chart because you can then visualize how everything looks on your project. But the two-complete performance index does make its way into the exam content outline, so it's a measure of cost performance that we need to meet with the remaining resources in order to meet our project goal.
+
+[03:30] And the main thing we need to know is more than 1 here is going to be harder to complete with the current resources. Less than 1 is going to be easier to complete with the current resources. So the way I remember this with the two-complete performance index is that it's the opposite of our CPI and SPI trick. If it's more than 1, it's going to be harder. If it's less than 1, it's going to be easier.
+
+[03:59] Whereas with these two, if it's more than 1, we've delivered more, and if it's less than 1, we've delivered less. So it's the opposite. So just keep that in mind, that's the way I remember it. And again, the calculation is fairly involved, but it's something that you can always Google in the real world if you absolutely need to do this sort of thing. Budget at completion minus earned value divided by budget at completion minus actual cost. This one gives us 0.85, and if it's under 1 here, it's going to be easier to complete.
+
+[04:33] If it was over 1, it would be harder to complete. That's the two-complete performance index, or TCPI.

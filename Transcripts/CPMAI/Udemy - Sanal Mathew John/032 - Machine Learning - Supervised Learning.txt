@@ -1,0 +1,26 @@
+# Machine Learning - Supervised Learning
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 032 (section 7: ML Types and Algorithms)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Okay. So now let's look at the ML types of ML learning machine learning types. So basically you have supervised learning. You have unsupervised learning. You have reinforcement learning right. So what exactly are supervised learning. Supervised learning is ah when you have to provide labels to the data, because the machine by itself would not be able to determine what it is.
+
+[00:27] For example, you are giving, uh, sets of cats and dogs. So to the bucket or the container that you are uploading, the cat images, you are supposed to give the label cat and the container that you are uploading the dog image you are supposed to give the label dog. So these are simple. These are supervised learning. Now the problem with supervised learning is that it requires a lot of historical data, right? And it you have to provide, uh, photos of the dog from maybe different angles, uh, maybe from a particular angle.
+
+[01:01] It all depends. From a particular angle. It might look less like a dog and something else. So the dog or the cat? Labels that you are giving cat images that you are giving has to be like multiple, uh, multiple front, multiple types, multiple dimensions. So for the machine to make it easier to understand. So a cat or a dog. So it's exactly it's a classification problem. So whenever you have to classify be it uh binomial classification multivariate multi multivariate classification.
+
+[01:36] So between the given image if it's a dog or a cat or if it is uh, an email is a spam or not spam. So simple. Yes or no. High. It's a high voltage or low voltage. It is 0 or 1. So true or false. So as simple as that. So with supervised learning you have uh classification task and you have regression task. Now what is a regression task.
+
+[02:02] So regression task is a straight line problem. So you have you have a dependent variable and an independent variable. So to illustrate this for example. Price of apartments or price of houses. So that is a dependent variable. It is dependent on what. It is dependent on. For example maybe the location. It might be dependent on the type of house. For example, green, uh, you know, eco friendly house or maybe, you know, location of the house.
+
+[02:35] So it's dependent on so, so many other variables. So it's actually trying to find a correlation between those. So okay what is the dependency of variable x and y. So in this case you have something like okay. So for example the uh what is the uh mathematically if you are a statistical student, what is the regression equation. Regression equation is a straight fit line. Y is equal to mx plus c where we are trying m is the slope of the curve right.
+
+[03:08] When you are between two variables, when you're trying to find the correlation and you try to find a fit a straight line, you might have some the variable dependent variable and the independent variable or variable one. Variable two, which shows the relationship between them. If it has a positive correlation, it has a negative correlation, or it doesn't have any correlation, no relationship between the variables. So for example, uh, predicting the rain values, for example, predicting the future rainfall in a city, for example, you know, in a particular month of May, you are expected to receive like evening showers every day.
+
+[03:47] So you know, it's a straight line. For example, you are predicting the price, like I already said, predicting the price of a house or predicting the stock. Predicting the stock prices. Even though predicting the stock prices is not a very, really good, uh, regression example, but still. Because why predicting the stock prices is not exactly a linear problem, right? A lot of non-linear factors can affect it. Right? So that is why it is, uh, not a good example, but still for understanding purpose, let's understand that price price of stock X is going uh in a particular direction.
+
+[04:22] So you are predicting, okay, based on historical data, you are predicting okay future what is going to be the value. So that is one thing. Now you also have the classification problem. Like I already said, you would be using simple either binomial classification or you will use multivariate classification x, y, z. For example, what is the best thing to do in for a particular? You are considering buying a product.
+
+[04:49] So what is the best thing to do? Are you planning one? One way is to make this in-house. One way is to buy it from outside. One way is to partially do it, like get the inputs from outside and maybe, you know, so it can be a combination of in-house making and buying from outside. So what is the best option. So this is this is this this is what largely it comes to. So classification problems like I already said classify between two labels. So we have discussed now in supervised learning we have discussed regression problems.
+
+[05:23] And we have also also discussed classification problems. Now we will continue further in the next video.

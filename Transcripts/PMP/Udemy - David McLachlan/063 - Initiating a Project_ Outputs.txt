@@ -1,0 +1,12 @@
+# Initiating a Project: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 063 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we initiate our project or our phase, the output will be our project charter and this formally authorises the existence of the project. It's issued or approved by the project sponsor, so Grace is going to approve this and she's probably had a big input into this project charter as well. It ultimately provides Billy, our project manager, with the authority to start the project and to apply all of our project team, use that funding for the project team and start those project activities.
+
+[00:35] The project charter will put things like our name and authority of the project sponsor, the assigned project manager, that's our guy Billy, project purpose, and we've seen a bit of that already, that's our Harmony Fitness application, the high level description, the boundaries and the key deliverables, measurable project objectives, what are we trying to get, the success criteria or exit criteria, project approval requirements, so who needs to approve it, and here this is where Grace can give her sign off, high level requirements, resources and schedules, key stakeholders, and overall high level risk.
+
+[01:12] All of this is just at a high level because we haven't really fleshed it out yet, we're still in initiating. Once we move to planning, we can start getting all of that information in a lot more detail. Lastly, as we initiate our project or phase, we need to put any assumptions, because if we've assumed that we have a full project team and we can deliver in six months, now what happens if we don't have a full project team? Then that's an assumption that we need to modify and that's gone wrong and that's going to impact our project schedule.
+
+[01:43] Also things like market forces or customer requirements, any constraints or any cost or schedule estimate ranges that we have, these are great assumptions to note just so we're all on the same page as we go through the project.

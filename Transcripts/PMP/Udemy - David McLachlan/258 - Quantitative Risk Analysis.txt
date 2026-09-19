@@ -1,0 +1,12 @@
+# Quantitative Risk Analysis
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 258 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] More quantitative tools are Monte Carlo Simulation and Sensitivity Analysis. Monte Carlo Simulation calculates thousands of different outcomes, such as project end dates or end budgets, using various assumptions, constraints, risks or issues, and other scenarios. It basically gives us a probability distribution of those outcomes. And we looked into this a little bit before. If we do run this simulation and there are lots of different things that could impact it, we change each input ever so slightly and get lots of different outcomes to see the various results that we might get.
+
+[00:38] The most common result here in our probability distribution is again that $3.1 million for our overall budget. And our cumulative probability distribution gives us a probability of this happening. So at 90% confidence, we've got a $3.5 million budget in this particular case, based on all of that data that we get from Monte Carlo Simulation. Sensitivity Analysis is a tornado chart. So keep this in mind.
+
+[01:05] This shows us the highest risks versus the highest benefits. And it looks like a tornado chart because we've got the highest on each side, and that goes all the way down to the lowest on each side. So it looks like a tornado in the end. We've got failure of testing at a minus 28% impact. Or if we've got manufacturing our reactors, we've got a positive 34% impact. And this could be in dollars, it could be in percentages, depending on what you're using for your project.
+
+[01:33] But that's what a sensitivity analysis or tornado chart will look like.

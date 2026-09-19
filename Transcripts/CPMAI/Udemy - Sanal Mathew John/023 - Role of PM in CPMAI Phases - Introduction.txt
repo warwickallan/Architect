@@ -1,0 +1,12 @@
+# Role of PM in CPMAI Phases - Introduction
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 023 (section 6: Role of Project Manager in each of the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so let us look at the role of PM in a typical AI or an ML project. So normally what does a PM do in traditional project? You know, it's all about schedule, budget, cost, risk, such kind of things, right? So there's a little difference here. When we talk about the PMI, CPMA methodology, it defines the project manager's role more as a strategic orchestrator.
+
+[00:29] The one who orchestrates everything, right? Who ensures that AI initiatives deliver measurable business value. How? Through the six CPMA iterative phases. So unlike traditional software project management or any other project where in constructions or somewhere, you know, wherein phases, activities happen in phases, the PM in an AI context must focus heavily on the priority or the focus of an AI project manager or an ML project manager. It's more on the data readiness, iterative experimentation, ethical governance, etc.
+
+[01:09] So it is very different. So if you look at any of the, you know, openings, new job openings, if you see the global trends, you can see that, you know, the AI projects or AI initiatives, ML initiatives, all these kind of disruptive technologies, they are actually also looking for project managers who have some idea on the domain as such, right? They are not looking for somebody who can traditionally manage your schedule or budget or something of that sort.
+
+[01:39] And you know, normally highlight risks. It involves a different approach in the case of AI. So the more you are acquainted with the domain, the more helpful it will be. So now let's look at, you know, the role of project manager in each of the six CPMA phases.

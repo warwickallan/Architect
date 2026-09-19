@@ -1,0 +1,12 @@
+# Adding Resources and Cost
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 198 (section 5: Real Project Example Using Microsoft Project)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next, we need to add some resources to our project. So we're going to go over to the left-hand side here where it says Gantt chart. We'll right-click this and we'll select the resource sheet. Now we can start adding in resources. For example, the project manager, we might have business analysts, we might have testers, we might have developers, and we might have subject matter experts. We'll keep the type as work. The initials, we might add two initials just to make it a little bit more easy to understand.
+
+[00:31] BA can be business analyst, developer can be dev, senior developer can be S dev, and so on. And then all we need to do is add their rate per hour because this is how we're going to create our budget as part of our project. We might have $100 an hour for some, $60 an hour for others, and so on. Now we've got all of this information about our teammates, we can right-click on this resource sheet and go back to the Gantt chart. Then we can start adding in some of the resources for each task.
+
+[01:03] Now that we've got them there, they will actually appear in the drop-down box. We might have a project manager and a developer on this particular task, or a business analyst and a tester on this particular task, and so on. And then it will just show it, or we could type it in with a comma in between. As you can see, now they're also appearing on our Gantt chart, but they're quite long now. So what we want to do is right-click on the bar, and we want to format this bar. Then we want to go to the bar text, and on the right-hand side, instead of resource names, let's just have resource initials.
+
+[01:38] We'll select OK, and then the initials will appear next to the bar. If we want to do that for all of our bars, we just go to our Gantt chart and format bar styles. We're going to go to text down the bottom here, and do the same thing. So select resource initials, click OK, and then all of our bars will show the same thing. As you can see, we've got some cost information now that we've started adding resources to our tasks as well.

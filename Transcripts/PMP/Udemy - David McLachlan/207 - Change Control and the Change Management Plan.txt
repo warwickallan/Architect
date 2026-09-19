@@ -1,0 +1,14 @@
+# Change Control and the Change Management Plan
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 207 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] But we're also going to have change requests under the change management plan. If we have a change to any baselined item or configuration element, we're going to need a formal change request on a waterfall or a predictive project. Now on an Agile project, it's a bit different, but we'll look at that in the Agile section. Just know for a predictive project, we'll need a change request to change a baselined item. A formal proposal to modify the document or the deliverable or that baseline.
+
+[00:34] Now any stakeholder can request a change. It could be for corrective action to realign the project, to prevent future issues, to repair any defects that we find in testing or quality control, and any other updates that we need to make to these baselined items. Change requests may require information on the estimated schedule or cost impacts prior to approval. And I'll show you what that process looks like.
+
+[01:02] Keep this process in the back of your mind always for your PMP exam. You're going to need to know this for any formal changes on a predictive or waterfall project. The stakeholder requests a change, and we make a change request. We note that in the change log, and here's our change log. Then we need to review the impact to any of our project baselines. For example, if we're changing the scope, is that going to mean that it's going to impact our schedule as well?
+
+[01:32] Is it going to cost us more? Is it going to impact our budget? So review the impact to all of the other project baselines. Then we take that information, and we need that information because the approvers need that information as well to make their decision. So we take all that information to the request authorizer, and that could be the project manager, or it could be the project sponsor, it could be a team member, or most commonly it's the CCB, the change control board.
+
+[02:03] So keep in mind the change control board. That's where we go for approving our change requests. Now these people, their roles and responsibilities, they're noted in our change management plan. So we create that plan, and then we just stick to that plan as we're going through the process. Then they approve, deny, or defer that decision, and we communicate the outcome of that change request back to the stakeholders, and then we note the outcome in the change log again. And that is the complete process for our changes.

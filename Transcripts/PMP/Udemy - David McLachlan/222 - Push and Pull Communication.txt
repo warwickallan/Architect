@@ -1,0 +1,8 @@
+# Push and Pull Communication
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 222 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next in stakeholder communication is push and pull communication, and there is a difference. Push communication is what we send to people. We're pushing it out there in the world, and that's to people who need to receive that information. Now, we can send it, but that doesn't mean that it's reached them, and it doesn't mean that they've heard it, and it doesn't mean that it was interpreted correctly. That's why interactive models of communication are best, but pushing it out there, we can use letters or memos or reports, emails, faxes, if anyone uses those anymore from way back in the day, voicemails, and press releases, and many other ways, social media, posts, maybe videos, and other ways that we're pushing that information out into the real world.
+
+[00:51] Now, pull communication is a different matter. This is where people can access the content at their own discretion. Examples could include web portals, intranet sites, self-paced e-learning, and lessons learned databases, where the information is all there, and people just go there whenever they need that information at their own discretion.

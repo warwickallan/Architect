@@ -1,0 +1,14 @@
+# The Project Sponsor
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 043 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now there are other roles that we're going to see a lot within our project as we move through the project from start to finish, and one of those is the project sponsor. The project sponsor defines the project objectives, what we're aiming for, and the business case right at the beginning of the project. So remember that business case, is it worth doing the project? Does the benefit outweigh the cost? And the project sponsor initiates the project when they approve the project charter.
+
+[00:33] So we will see more on this as we move through the project process, but just understand that project sponsor role is very, very important, and we need them to approve the project charter so we can get access to the funding and resources needed to start and execute our project. They're also going to assign the project manager, us, and ensure that they have enough power to get the job done. Initiate a steering committee or a board and become a member of it. This is where we might need to escalate issues to, to the steering committee, and they can make decisions that are beyond the control or the authority of the project manager.
+
+[01:10] They might approve the project management plan and any changes to the project management plan. They'll be accountable for the benefits realization. So what we're delivering and the benefits that they're getting, they actually get those benefits. They're part of the organization. They're funding the project, and they need to know that they're getting the benefits from the project too. They might be an escalation point when things go beyond the authority of the project manager, and propose project termination and authorizing project completion. For example, if the project needs to close for whatever reason, maybe we've delivered all of the things that we need to deliver, then we need authority or sign off from the project sponsor in order to close the project.
+
+[01:52] In some cases, the project sponsor might be called the project customer, because they're receiving the benefit of the project. So they're getting the output, they're our customer. And in an agile team, the product owner might take on this role. They take on the role of advising the project requirements, and they also ensure the project benefits and sign off on approving those deliverables. The product owner will usually work in the area that we're delivering the value to, just like the project sponsor.
+
+[02:22] So those roles can be similar, even though they're slightly different. The product owner is more in an agile team. And as we'll soon see, they manage the product backlog, which is the list of features or deliverables that we want to deliver in that project.

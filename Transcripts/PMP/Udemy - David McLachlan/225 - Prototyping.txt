@@ -1,0 +1,14 @@
+# Prototyping
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 225 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Prototyping is also very, very important and it could just be designs or prototypes, but we'll see it's a method of obtaining early feedback on the requirements by providing a model of the expected product before we actually have to build the real thing. As you can imagine, it's much more cost effective to do it this way if we're just doing a design or a diagram or even a smaller model of the real thing. It's not going to cost as much as doing the actual thing itself.
+
+[00:33] And we can start with prototypes like 2D or 3D models, maybe computer-aided design if you've seen that, or you might use Blender for 3D modelling or other tools, anything that we can create, something that we can see before we actually do the real thing. Mockups or wireframes are basically just a design or a drawing of a webpage or a system or an application. And it can just be a simple drawing like this, as you can see, it's a very simple wireframe drawing or it could be a mockup where we actually design it using, for example, Photoshop or even Microsoft Paint in many cases.
+
+[01:09] I've taken just a screenshot of the items and changed what I wanted to change so everyone could see what was required. That was a mockup, just using the real thing and changing it ever so slightly. Storyboards are taking those mockups or designs and putting them in the order that they flow in the system. So we have this particular page and we have the design of that page and then if we click on this part of the design, it actually takes us to the relevant next section and then we can navigate. So it's not the real application, it's just a design, but it actually works like a real application.
+
+[01:46] Now if you can't have ones with buttons that work, you can also just do them in order of the different screens and sometimes I do this maybe in PowerPoint and you just have all of the different screens and then you can navigate there manually if you absolutely need to. Lots of different ways to do it, storyboards are very, very powerful and a wonderful way to do prototyping. Lastly, process maps. This is another very simple way where we just map out the flow of the customer journey or we map out the flow of the system and we look at the process steps as boxes.
+
+[02:19] Decision points might go in different directions given different criteria. For example, if this is a yes to a certain question, we go this way. If it's a no to a certain question, we go this way and then we have more process steps. We start with a circle and we end with a circle for our process maps. Very, very simple way to visualize the workflow and how things flow throughout a system or throughout a customer journey.

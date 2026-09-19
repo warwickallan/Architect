@@ -1,0 +1,20 @@
+# Responsible AI Use Cases and Examples
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 037 (section 8: Trustworthy AI Use Cases and Examples)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let's look at the next AI that is the Responsible AI, the next AI from the Trustworthy AI. So Responsible AI basically ensures accountability, that is the keyword, accountability of all of AI outcomes by establishing clear ownership and oversight mechanisms, ensuring that a human remains in the loop. So human interpreting a result, or human is responsible for the result, right?
+
+[00:32] Responsibility, there is a responsibility for the human, that the human is supposed to take. So you cannot just, you know, say that something is generated out of that GPT or some LLM tool and publish it outside. There is a responsibility for you to check the responses of the LLM or whatever the model is producing and then that is a human in the loop, H-I-T-L. Human in the loop is very important for us. What is it? Let's look at the use case.
+
+[00:58] So establishing the H-I-T-L or the human in the loop, oversight, like defining escalation paths for in, why do we define the escalation paths? In case of system failures and maintaining audit trials. Now let's look at some very specific example. Example one, we'll look at medical diagnostics. So in high stakes clinical setting where physicians retain the ultimate responsibility for diagnosis. So they review AI driven suggestions and have the authority to override it, right?
+
+[01:32] Based on the patient context, the model may not capture. They might use something as a supplementary or augmentation tool in the medical field to help them with the analysis, diagnosis or something like that. But the ultimate goal would be a human, right? So can a doctor say that, okay, if a doctor, if you are a COVID-19 patient or you have some, you know, some disease that is, you know, life threatening or maybe that is infectious. So if a doctor checks you and says everything is okay because the chat GPT or the tool says, okay, is it acceptable? No.
+
+[02:08] So the final diagnosis remains with the doctor. So the doctor has to say, you know, that's a human in the loop, has to interpret the results and say, you know, is it, what is, what is it best? So sometimes a patient has one condition. So the model or the system would give you responses in that. So, but then the doctor will check your other results also, your bloods, blood sample, maybe some other tests are done.
+
+[02:36] You have a sugar, you have a diabetic condition, you have a heart condition. So the diagnosis, the doctor makes sense of all the various, you know, inputs that the system gives or the model gives and makes a final call saying that, okay, you might have this. There's a possibility. Well, let's do further test. So that is further test to know more. So that is a doctor in the loop, human in the loop. So that's the first example that we'll talk about some medical diagnostics for a responsible AI. Now, the second one is very critical these days because these days you have agents performing tasks, right?
+
+[03:11] So in the case of agentic AI, organizations normally implement safety circuit breakers. So why is that? So that is to automatically hold an autonomous agent if the behavior crosses certain predefined standards or some certain predefined safety threshold, or the agent becomes unpredictable. So the agent is not performing the task as it is asked to. It is producing gibberish or some rubbish, or it is not performing the task that you're asking it to do.
+
+[03:44] It is partially completing the task and so the agent basically goes rogue or something of the sort. So that is a safety organization's safety circuit breakers. So we have again seen two examples here for the responsible AI, medical diagnostics and agentic AI. So now in the next video, we will look at the next trustworthy AI, which is very important, transparent AI.

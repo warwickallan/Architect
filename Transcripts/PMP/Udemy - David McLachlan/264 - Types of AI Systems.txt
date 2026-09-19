@@ -1,0 +1,14 @@
+# Types of AI Systems
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 264 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, there are different levels of artificial intelligence and they're called different things, so we'll go through each one. Artificial intelligence systems are commonly classified as AI, which refers to systems that can reason and learn and act on their own. But then we've got machine learning, which is a branch of AI that trains models with data to predict outcomes from past inputs. It's basically probability and we're using structured, labelled data to find the probability of something in the future, using linear regression, mathematics, k-nearest neighbours, or even decision trees.
+
+[00:41] And that's the good thing about learning about this, is because a lot of people who say they're learning artificial intelligence are actually just learning how to prompt artificial intelligence models. But what's behind those models? Well, we've got things like machine learning and all of the mathematics that makes up machine learning. And we can go a step deeper by looking at deep learning. This is an advanced machine learning algorithm that uses multi-layered neural networks to automatically learn features from large unstructured data sets.
+
+[01:14] So previously we had nice labelled data that we could train our models on, but now we have unstructured data and there's a lot of it. So we've got images or even text that maybe it hasn't seen before. But we use things like linear algebra, for example tensors or matrices, multivariate calculus, and we need to consider things like the bias of the data or the images, the weighting, and even the different depth of the layers that we're comparing against to get the best outcome.
+
+[01:45] So it often needs large data sets and a lot of computing power. And then to take it a step further, we've got generative AI or Gen AI, which is a type of deep learning that uses large language models or LLMs to create new text, speech, images, audio, and video. And GPTs or generative pre-trained transformers puts all of these things together to create something like ChatGPT as we know it today. There are a lot of those tools available, ChatGPT, Gemini, Claude, Perplexity, MidJourney, many different things.
+
+[02:20] Some are free, some are paid. Free versions usually limit prompts and data use, while paid versions can help us protect privacy and even protect intellectual property by restricting data for training future models. So that's something to keep in mind.

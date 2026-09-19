@@ -1,0 +1,16 @@
+# Manage Quality Assurance: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 137 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, great work. Now we're getting into executing our project, which is one of the best parts. We're delivering these wonderful things and we also want to keep them under quality control. So we're going to manage quality assurance and there's two parts to this that we're going to see. Quality assurance is using the project processes effectively. So we might use audits or regulations and compliance.
+
+[00:30] So someone might come in and say, hey, are you doing the project process according to the PMBOK guide, for example? Are we doing scope, schedule, cost? Are we managing our budget in a certain way? Are we managing risks in a certain way? That is a project audit on our process, on how we're working. But quality control is ensuring the deliverables meet the defined specifications or our customer requirements. So we might use testing or product design and finding defects.
+
+[01:00] So this is where Macie comes into it. And we'll ensure that the project is governed properly and improve our efficiency. But the main thing we get out of this process is our quality report. So any updates to our project management plan at the same time. There are not too many inputs, tools and techniques and outputs, mainly our quality report and audits and checklists and even problem solving as we work through any quality issues. Let's get straight into the inputs for managing quality assurance.
+
+[01:30] We'll start with our project management plan because we can take any part of our plan to see if we're following our process. So this is our way of governing the project. And if we get audited on our project process, this is where we can start. It's very, very handy to have this. And again, it's why planning is so important. Then we can just hand over this plan and say, well, here it is. Here's how we're operating on our project. Everyone can see it.
+
+[01:57] We also want project documents. So to see if our project is performing well, we might have a complete stakeholder register. Is that complete? Do we have a complete milestone list? Has our requirements documentation been traced to deliverables? Are team resources assigned correctly? And is our risk register up to date? These are all the things that a project audit might ask us to prove for our ways of working. Organisational process assets as well.
+
+[02:25] We might have quality templates such as check sheets, traceability matrices, test plans and test documents, results from previous audits, if we need to refer to those, industry regulations that we need to meet. If it's a construction project, how are we meeting those particular construction regulations? Sign offs, licenses, maybe meeting certain building codes. Lessons learned repository as always or any previous lessons.

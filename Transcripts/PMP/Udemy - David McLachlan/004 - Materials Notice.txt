@@ -1,0 +1,8 @@
+# Materials Notice
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 004 (section 1: Introduction)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Materials in this seminar are paraphrased and based on the text, a guide to the Project Management Body of Knowledge 8th edition, a guide to the Project Management Body of Knowledge 7th edition, and the Agile Practice Guide, among other texts. PMBOK is a registered mark of the Project Management Institute Incorporated, and as always I encourage you to become a PMI member so you have access to the online versions of these books and also to save money on your exam, or to purchase them separately so you can further your study and follow along at home.
+
+[00:28] Materials in this course are paraphrased and used under the section 107 of the Copyright Act, 1976, where allowance is made for purposes such as teaching, scholarship, education and research.

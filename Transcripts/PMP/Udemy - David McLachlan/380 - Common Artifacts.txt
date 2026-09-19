@@ -1,0 +1,16 @@
+# Common Artifacts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 380 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Okay, you're doing such a great job getting through all this speed round of models, methods and artifacts. And now it's time to look at the last part, artifacts that we're going to use. It could be a template, a document, or even a project deliverable, something that we're delivering a part of the system or a feature that we're delivering to our customer. Now we're going to start with the business case.
+
+[00:29] As we know, this is a feasibility study. What's the cost? What's the benefit? Is it actually worth us doing this project in the first place? The business model canvas asks who are our customers and what value are we delivering and what's our cost structure? How are we gaining money from these particular customers? What resources do we need and how are we selling it? What channels are we selling this item? It's also a nice way to do the business case.
+
+[00:57] So it's very similar at the beginning of our project. Project briefs and project charters. As you know, we use a project charter to initiate a project and get access to resources and funding and usually the project sponsor signs off on that. We might have a vision statement and a project or a product roadmap. That's our schedule or our Gantt chart, our product roadmap. So we can see what we're delivering and when it's coming up. We might have assumption logs for any assumptions that we have to make.
+
+[01:28] A backlog, which is the list of features in Agile, as you know. Risk adjusted backlog. That's just like our tornado chart where we've got all of our risks prioritized against the value of our deliverables. So the highest ones first. Highest risks and highest value from our user stories or our features. It's a risk adjusted backlog. Change log for any changes. Issue log for any issues.
+
+[01:55] And of course, our lessons learned register. These are not too fancy. They're really just lists of items to keep a track of. We're going to have our risk register, which lists all of the risks. Maybe it has their probability and impact information. Who owns the risk? And then we might have some information on our risk response. Are we transferring it? Are we mitigating or controlling that risk? The stakeholder register is another one for all of our stakeholders to go into.
+
+[02:24] We might have some information about their roles and responsibility on the project and even some communication needs or other needs that they might have.

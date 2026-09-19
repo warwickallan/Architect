@@ -1,0 +1,22 @@
+# Leadership & Communication Models
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 372 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now that we've been through the project performance domains, tailoring all of those things, it's time to get into one of my favorite parts, which is models, methods, and artifacts that we can use as we manage things on our project. A model is something that helps explain how something works in the real world. We can use a model. And methods is a means for achieving an outcome. It's a method of doing something.
+
+[00:27] So creating a result or deliverable. An artifact is a template or a document that we might use on our project. It could be a project deliverable as well. Now, as we tailor, avoid anything that adds or unnecessary effort and is not useful to the team or its stakeholders. So we don't want all these extra reports or artifacts if it's going to add unnecessary effort that we really don't need. Producing misleading information and catering to individuals only instead of catering to the whole team.
+
+[01:00] We're going to start with commonly used models. And the first one is in situational leadership with Ken Blanchard's Situational Leadership 2, where we measure competence and commitment. It's our skill and will. And we go into this in the Agile course for the Agile Certified Practitioner. This is a wonderful way to coach. How much does someone want to do the item and how capable are they in doing it from maybe a one to five or a one to 10?
+
+[01:28] And then we can make decisions that is going to help that person improve. We might also use the OSCA coaching model, which is the outcome or the goals that we want, the current situation, the choices that we have and the consequences of those choices, the actions we're going to take, and then a review of the discussion and the outcomes. For communication, we might have cross-cultural communication. The message is influenced by the sender and the receivers, current knowledge, experience, language, thinking, and communication style.
+
+[02:00] If you think in a nice, steady, slow manner, and you've got someone maybe like me who's talking at a million miles an hour and coming at you with lots of different ideas, then those two styles of communication may not gel. We need to be aware of everyone and their differences so that we can communicate effectively. Now, the effectiveness of communication channels is from Alistair Coburn. He also created Crystal, which is one of the original Agile methodologies.
+
+[02:32] And again, you'll see that in the Agile section here, but also in the Agile Certified Practitioner course. It's measured by communication richness and effectiveness. Richness means we're able to handle multiple information cues. So we can see the body language, we can hear the tone, we can see the facial expressions, and we can see exactly what's going on. So we can get all of those different cues. We can get rapid feedback, so we can talk face-to-face and get that information quickly.
+
+[03:01] It's personal, and it uses natural language. Now, that's the best way to communicate for complicated or complex situations. It's not an email that could be misinterpreted, and then we don't get a response until three days or a week later, and by that time, we've missed our opportunity to get that thing done. So keep in mind effectiveness of communication channels. The gulf of execution and evaluation is from Donald Norman, where the gulf of execution is, does it match what we expected it to do?
+
+[03:33] Now, this is also very important when creating a product. Does it match what we wanted it to do? If we're creating a banking system, and all of a sudden, it's morphing into something else, like something that sells third-party products or other things like that, then maybe it doesn't match what we expected, and so that's going to cause problems for us, especially when communicating, but also evaluation, does it support the user to discover how to interact with it?
+
+[04:00] So do we have tips or tricks, or is the design flowing very, very nicely? There are many great examples of good design that can help us understand the product.

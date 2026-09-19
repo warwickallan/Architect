@@ -1,0 +1,12 @@
+# Plan Resource Management: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 097 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for Plan Resource Management is our Resource Management Plan. And what's our Resource Management Plan? It's our process for how we're going to manage resources. It's our strategy. And we can include things like how we identify the resources, how we acquire them, the roles and responsibilities for people on the project, any organisational charts, as we've seen, management ways of working, how we gain and release staff on the project, training, if we need to do training and team development, resource control, if we've got equipment and supplies, and our recognition plan, how do we reward our team members when they're doing the right thing.
+
+[00:44] So all of those wonderful things will combine to create our Resource Management Strategy or our plan. We also want our Team Charter. And we've touched on this before, but do you remember what our Team Charter is? It's our ways of working. And we usually try and create this with our team. So we all come together and agree on how we're going to work. We include our team values, the communication guidelines, for example, do we need to speak face-to-face or do we prefer video conferencing over email?
+
+[01:16] Or do we prefer meetings once a day? What is the actual idea there? The decision-making criteria and the process, conflict resolution process, meeting guidelines, for example, we always come on time, or if we can't, we send an update via email. What does that look like? And any other team agreements for our ways of working. We might also update any assumptions along the way about resources and any risks. If we find that we don't have resources available at the right times, then we can update those two things.
+
+[01:50] And that is everything we need to know about planning resource management.

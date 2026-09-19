@@ -1,0 +1,10 @@
+# The Benefits Management Plan
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 205 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] In the initiation phase of our project, we're going to create our benefits management plan as well. This describes how and when the project benefits will be delivered and how we're going to measure those benefits. So the first thing is we define the target benefits that we want to realise from our project. Maybe it's that increased sales by 25%, maybe it's increased market share by X amount of customers. We do all this as part of our business case and project charter.
+
+[00:34] So we've got our target. We also have our strategy. How does it meet our organisational strategy? That's in our business case as well. The timeframe, when do we want to achieve these benefits? The owner, who owns the benefits and who owns their measurement? Who do we go to when we need these metrics in the future, the measures and metrics themselves? And this could be in a database in the organisation. Let's put exactly where it is, any assumptions we've had to make and any risks that might stop us from realising these benefits.
+
+[01:06] All this goes in the benefits management plan and then when we've delivered our project value, we can see how we're going to measure it. Very very important and we can say, hey, this project actually was worth the cost.

@@ -1,0 +1,407 @@
+{
+  "exam": "CPMAI",
+  "retrieved": "2026-09-19",
+  "courses": [
+    {
+      "course": "Udemy - Sanal Mathew John",
+      "channel": "Udemy (enrolled, paid)",
+      "playlist": "https://www.udemy.com/course-dashboard-redirect/?course_id=6658161",
+      "udemyCourseId": 6658161,
+      "folder": "Udemy - Sanal Mathew John",
+      "source": "English captions via the logged-in course player, read-only, 2026-09-19",
+      "note": "Paid course captions; committed at Warwick's decision. 19 of 60 video lectures have no caption track on Udemy (listed in missingCaptions).",
+      "videos": [
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 1,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "Pre-intro Video - MUST WATCH",
+          "file": "001 - Pre-intro Video - MUST WATCH.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 2,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "CPMAI Master Class",
+          "file": "002 - CPMAI Master Class.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 3,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "What before PMI-CPMAI?",
+          "file": "003 - What before PMI-CPMAI_.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 4,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "Introduction to CPMAI",
+          "file": "004 - Introduction to CPMAI.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 5,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "Sample CPMAI Question Analysis 1",
+          "file": "005 - Sample CPMAI Question Analysis 1.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 6,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "Sample CPMAI Question Analysis 2",
+          "file": "006 - Sample CPMAI Question Analysis 2.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 7,
+          "section": 1,
+          "sectionTitle": "Introduction to CPMAI",
+          "title": "Sample CPMAI Question Analysis 3",
+          "file": "007 - Sample CPMAI Question Analysis 3.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 8,
+          "section": 2,
+          "sectionTitle": "Exam Updates - Transition from V7 to V8",
+          "title": "Exam Updates - Transition from V7 to V8 (Part 1)",
+          "file": "008 - Exam Updates - Transition from V7 to V8 (Part 1).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 9,
+          "section": 2,
+          "sectionTitle": "Exam Updates - Transition from V7 to V8",
+          "title": "Exam Updates - Transition from V7 to V8 (Part 2)",
+          "file": "009 - Exam Updates - Transition from V7 to V8 (Part 2).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 10,
+          "section": 2,
+          "sectionTitle": "Exam Updates - Transition from V7 to V8",
+          "title": "Exam Updates - Transition from V7 to V8 (Part 3)",
+          "file": "010 - Exam Updates - Transition from V7 to V8 (Part 3).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 11,
+          "section": 3,
+          "sectionTitle": "AI Project Management - Key Principles from PMI",
+          "title": "AI PM Key Principles",
+          "file": "011 - AI PM Key Principles.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 17,
+          "section": 4,
+          "sectionTitle": "7 Patterns of AI and Use cases",
+          "title": "Pattern 5 - Hyper Personalization",
+          "file": "017 - Pattern 5 - Hyper Personalization.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 18,
+          "section": 4,
+          "sectionTitle": "7 Patterns of AI and Use cases",
+          "title": "Pattern 6 - Autonomous Systems",
+          "file": "018 - Pattern 6 - Autonomous Systems.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 20,
+          "section": 4,
+          "sectionTitle": "7 Patterns of AI and Use cases",
+          "title": "Multiple AI Patterns (Combinations)",
+          "file": "020 - Multiple AI Patterns (Combinations).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 22,
+          "section": 5,
+          "sectionTitle": "Revisiting CPMAI Phases",
+          "title": "CPMAI Phases",
+          "file": "022 - CPMAI Phases.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 23,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Role of PM in CPMAI Phases - Introduction",
+          "file": "023 - Role of PM in CPMAI Phases - Introduction.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 25,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Role of PM in Phase II - Data Understanding",
+          "file": "025 - Role of PM in Phase II - Data Understanding.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 26,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Role of PM in Phase III - Data Preparation",
+          "file": "026 - Role of PM in Phase III - Data Preparation.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 27,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Role of PM in Phase IV - Model Development",
+          "file": "027 - Role of PM in Phase IV - Model Development.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 28,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Role of PM in Phase V - Model Evaluation",
+          "file": "028 - Role of PM in Phase V - Model Evaluation.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 29,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Role of PM in Phase VI - Model Operationalization",
+          "file": "029 - Role of PM in Phase VI - Model Operationalization.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 30,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "PM deliverables in all CPMAI Phases",
+          "file": "030 - PM deliverables in all CPMAI Phases.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 31,
+          "section": 6,
+          "sectionTitle": "Role of Project Manager in each of the CPMAI Phases",
+          "title": "Conclusion",
+          "file": "031 - Conclusion.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 32,
+          "section": 7,
+          "sectionTitle": "ML Types and Algorithms",
+          "title": "Machine Learning - Supervised Learning",
+          "file": "032 - Machine Learning - Supervised Learning.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 33,
+          "section": 7,
+          "sectionTitle": "ML Types and Algorithms",
+          "title": "Machine Learning - Unsupervised and Reinforcement Learning",
+          "file": "033 - Machine Learning - Unsupervised and Reinforcement Learning.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 34,
+          "section": 7,
+          "sectionTitle": "ML Types and Algorithms",
+          "title": "Various Algorithms You need to be aware of",
+          "file": "034 - Various Algorithms You need to be aware of.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 35,
+          "section": 8,
+          "sectionTitle": "Trustworthy AI Use Cases and Examples",
+          "title": "Trustworthy AI",
+          "file": "035 - Trustworthy AI.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 37,
+          "section": 8,
+          "sectionTitle": "Trustworthy AI Use Cases and Examples",
+          "title": "Responsible AI Use Cases and Examples",
+          "file": "037 - Responsible AI Use Cases and Examples.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 38,
+          "section": 8,
+          "sectionTitle": "Trustworthy AI Use Cases and Examples",
+          "title": "Transparent AI Use Cases and Examples",
+          "file": "038 - Transparent AI Use Cases and Examples.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 39,
+          "section": 8,
+          "sectionTitle": "Trustworthy AI Use Cases and Examples",
+          "title": "Governed AI Use Cases and Examples",
+          "file": "039 - Governed AI Use Cases and Examples.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 44,
+          "section": 9,
+          "sectionTitle": "Trustworthy AI throughout the CPMAI Phases",
+          "title": "Embedding Trustworthy AI - Phase I",
+          "file": "044 - Embedding Trustworthy AI - Phase I.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 46,
+          "section": 9,
+          "sectionTitle": "Trustworthy AI throughout the CPMAI Phases",
+          "title": "Embedding Trustworthy AI - Phase II",
+          "file": "046 - Embedding Trustworthy AI - Phase II.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 50,
+          "section": 9,
+          "sectionTitle": "Trustworthy AI throughout the CPMAI Phases",
+          "title": "Embedding Trustworthy AI - Phase IV",
+          "file": "050 - Embedding Trustworthy AI - Phase IV.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 52,
+          "section": 9,
+          "sectionTitle": "Trustworthy AI throughout the CPMAI Phases",
+          "title": "Embedding Trustworthy AI - Phase V",
+          "file": "052 - Embedding Trustworthy AI - Phase V.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 54,
+          "section": 9,
+          "sectionTitle": "Trustworthy AI throughout the CPMAI Phases",
+          "title": "Embedding Trustworthy AI - Phase VI",
+          "file": "054 - Embedding Trustworthy AI - Phase VI.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 56,
+          "section": 9,
+          "sectionTitle": "Trustworthy AI throughout the CPMAI Phases",
+          "title": "Embedding Trustworthy AI - Conclusion",
+          "file": "056 - Embedding Trustworthy AI - Conclusion.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 57,
+          "section": 13,
+          "sectionTitle": "Mock Exam Info",
+          "title": "My Mock Exams in Udemy",
+          "file": "057 - My Mock Exams in Udemy.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 58,
+          "section": 14,
+          "sectionTitle": "Study Plan",
+          "title": "Study Plan - Normal",
+          "file": "058 - Study Plan - Normal.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 59,
+          "section": 14,
+          "sectionTitle": "Study Plan",
+          "title": "Study Plan - Aggressive",
+          "file": "059 - Study Plan - Aggressive.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 61,
+          "section": 15,
+          "sectionTitle": "Life after CPMAI",
+          "title": "Life After CPMAI",
+          "file": "061 - Life After CPMAI.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Sanal Mathew John",
+          "index": 62,
+          "section": 16,
+          "sectionTitle": "Conclusion",
+          "title": "Conclusion",
+          "file": "062 - Conclusion.txt",
+          "captions": "English [Auto]"
+        }
+      ],
+      "missingCaptions": {
+        "12": "7 Patterns of AI - Introduction",
+        "13": "Pattern 1 - Conversational & Human Interaction",
+        "14": "Pattern 2 - Recognition",
+        "15": "Pattern 3 - Predictive Analysis & Decision Support",
+        "16": "Pattern 4 - Goal Driven System",
+        "19": "Pattern 7 - Patterns & Anomalies",
+        "24": "Role of PM in Phase I - Business Understanding",
+        "36": "Ethical AI Use Cases and Examples",
+        "40": "Explainable AI Use Cases and Examples",
+        "41": "Key Differences Between X(AI) and T(AI)",
+        "43": "Embedding Trustworthy AI - Introduction",
+        "45": "Phase I - Examples",
+        "47": "Phase II - Examples",
+        "48": "Embedding Trustworthy AI - Phase III",
+        "49": "Phase III - Examples",
+        "51": "Phase IV - Examples",
+        "53": "Phase V - Examples",
+        "55": "Phase VI - Examples",
+        "60": "CPMAI Exam Study Tips"
+      }
+    }
+  ]
+}

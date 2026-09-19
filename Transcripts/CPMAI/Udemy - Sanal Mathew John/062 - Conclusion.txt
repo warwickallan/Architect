@@ -1,0 +1,12 @@
+# Conclusion
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 062 (section 16: Conclusion)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] So let us conclude. Watch all the above videos in different sections multiple times. Uh, write down the notes or write down. Take notes, or jot down any jargons or any areas that you think you are uncomfortable or you're not able to understand properly. And you can drop me a message in LinkedIn also. Uh, my name is Matthew John. So in the course details you can find you. I have put in the description how to find me in LinkedIn. So in LinkedIn also you can connect with me and ask me questions.
+
+[00:32] Uh, so revise everything. Uh, focus. Like I said, pay special attention to the Sapmi faces right from your identifier problem. Till the time, you know, you actually go ahead, deploy your model and operationalize your model, and you continue your monitoring. So 42% of the questions come from that area. So that you must be very thorough with the cpma faces because it is not like your traditional project management. Right? It is largely in iteration from any, any of the later phases. You can iterate back to the formal phases depending upon the situation.
+
+[01:06] Sometimes you don't have enough data so where you have to go back, sometimes, you know, while you're deploying your model, you come up with some problems, then you have to go back to a previous phase. So all those things you should be very, very thorough with and in model in phase four, what happens, uh, how do you actually build your model? Uh, what algorithms are used? So all these things. So, uh, once you if you have seen this video. So there are two ways you can either watch all the 30 hours of PMI videos, but many people complain that they get lost.
+
+[01:40] So ideally if you watch this video at least you know where to focus on. So passing the exam of course one must go through the PMI videos. There is no other way. And the materials the study guide. But this will at least orient you towards you know, where you need to focus so that you can save a lot of time. Uh, so that is in conclusion. So, uh, this is a very good certification to have. Go ahead and crack it. All the best.

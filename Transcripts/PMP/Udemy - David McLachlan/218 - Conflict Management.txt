@@ -1,0 +1,10 @@
+# Conflict Management
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 218 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Lastly, conflict management is so important. It's inevitable in a project environment with new or inexperienced team members, different work styles and competing for scarce resources and different scheduling priorities. A project's success depends on our ability to manage all of these conflicts that will arise. Conflict should be addressed early and usually in private using a direct and collaborative approach. This is probably one of my favourite things and this is from the PMBOK Guide 5th edition all the way back many, many years ago.
+
+[00:37] It hasn't come up in future editions but it really is my favourite and it also works really well on your PMP exam questions by the way. Direct and collaborative. If you get something going wrong, go direct to the person usually and use a collaborative approach. So don't skirt around the issue, don't avoid the issue, try and go direct and always be collaborative. If disruptive conflict continues, formal procedures may be used including disciplinary actions. Factors that influence conflict resolution methods include the importance and the intensity of the conflict, time pressure for resolving the conflict, the relative power of the people involved in the conflict.
+
+[01:21] For example, if the conflict is with our project sponsor then we may actually want to let them have their way because again they control the funding and the resources of our project. In fact it's important that we meet their needs. Importance of maintaining a good relationship, again that could come up here, and motivation to resolve conflict on a long term or a short term basis.

@@ -1,0 +1,18 @@
+# Agile Prioritization
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 325 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now it's time to look into Agile prioritization. Why might we want to learn about prioritization in an Agile team? Well, we know that our product backlog owned by the product owner needs to be prioritized. So we need to understand these prioritization methods. We may need to coach our product owner, or we may need to help them, or maybe there's no product owner in our Agile team.
+
+[00:29] That can happen out there in the real world as well. Either way, we really need to understand how to prioritize the work in our team. As we know, we've got our product backlog. That's probably where we're going to focus here. But the team, once they've broken down the work, they may also need to prioritize the smaller user stories to figure out what needs to be done next. The first thing we're going to go through is a minimum viable product. And the reason is that's what is usually in our product backlog. It's one of our features.
+
+[00:59] It can also be called a minimum marketable feature, or MMF, but typically an MVP comes from the Lean Startup by Eric Ries from around 2011. Wonderful book. And what that means is we're looking at features or deliverables, and they're self-contained, so they're usable to our customer, but we're making a hypothesis that our solution will get us closer to our goal, to the product goal. Let's say we're aiming, again, to improve sales by 25%.
+
+[01:28] And so when we deliver this feature, we're hoping, this is our hypothesis, based on all the research that we've done and the user design work, we say we think this is going to improve sales by 5%. So releasing this is going to get us closer to our product goal. And then when we do release it, we actually get that feedback. So we can see, did it work? Oh, it improved sales by 10% instead of 5%. Or maybe it didn't improve sales at all.
+
+[01:55] We got 0% increase. Well, now we know. We've tested it out there in the marketplace. We've got that feedback, and we can adjust and reprioritize our product backlog. Now there's so many different ways to prioritize. We've already seen a few ways, one using the financial benefits of the feature. We've looked at net present value, internal rate of return, return on investment, and payback period. And just keep these in mind for your exam. We want the higher net present value, which is the present value of future cash flows that we're going to get from that feature.
+
+[02:30] The rate of return is just a percentage return. Maybe we're expecting a 12% return on our investment. And that's ROI, is our return on our investment. Payback period is how long it takes to make our money back for how much we spent to create that item. We want the highest of everything except payback period. We want the lowest payback period. We want to get our money back as soon as possible. We might also have the benefit to cost ratio known as the BCR. With this one again, the higher the better.
+
+[03:01] This is the total benefit of our feature or our MVP divided by the cost of creating that particular feature. As we said, the higher the better. Anything over one is positive. Anything less than one is typically more cost than the benefit that we're receiving.

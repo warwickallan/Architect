@@ -1,0 +1,10 @@
+# Manage Communications: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 148 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The outputs that we're going to use as we manage communications are the project communications themselves. So we're sending out performance reports, we're having meetings to keep everyone updated, the deliverable statuses, schedule progress, cost incurred, how is our project going and how can we communicate to our stakeholders so they understand how the project is going as well. We'll need to update our project plan, communications and stakeholder engagement plan.
+
+[00:29] Again, these two plans go hand in hand for stakeholders to be engaged, we need to communicate in the right ways, so those are the two documents that we'll update. And also any project documents like our issue log for any communications issues, lessons learned, the project schedule for any new communications activities, the risk register for any new risks around our stakeholders or communications and the stakeholder register to update communications activities with project stakeholders.
+
+[01:00] We can put this directly next to them if we've got the list of stakeholders, we can also put their communication needs and we can update those communication needs. We might also update the organisational process assets. For example, if there are existing templates for project records, correspondence or memos, the ways that we communicate, meeting minutes or project reports and presentations, if we find that we've improved the template for any of these things, then we can give that back to the business so that they can use that for future projects.

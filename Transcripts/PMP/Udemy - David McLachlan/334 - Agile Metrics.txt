@@ -1,0 +1,10 @@
+# Agile Metrics
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 334 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi, everyone, welcome back. As we move through our Agile project, we're going to need to measure how the team is performing and the work that we're delivering. So we're going to look at Agile metrics. Now we've looked at measures from a normal project perspective with our earned value management, but now it's time to look at some Agile metrics and they're slightly different. This is where we're really in our iteration or our sprint, we're going to be performing the work, creating those deliverables, and we just want to measure how the team and the product is tracking.
+
+[00:34] And one of the first ways that we can measure a project or a project team is with OKRs and KPIs. OKRs are objectives and key results. An objective is just a written objective. So we want to increase our active users on this particular platform. It's just a written statement. And then the key results are the actual measures. So we want to increase signups by 20% or reduce customer churn by 30%.
+
+[01:02] What is the actual measure behind the objectives? That's an OKR. We've also got KPIs, which are key performance indicators, what we measure and our targets. For example, we might want to grow users by 30%, increase customers by 500 signups per day. What is the performance indicator that we're aiming for?

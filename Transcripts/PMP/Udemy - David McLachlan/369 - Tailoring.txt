@@ -1,0 +1,20 @@
+# Tailoring
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 369 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] All right, great job. We made it through all of the project performance domains. So that's really wonderful. And now this whole section is done. There's only two other sections and they're really quite easy and fast to go through. One is tailoring our project. And then we look at the models methods and artifacts that we might come across on projects. And this is really, really great, a really great overview, this one.
+
+[00:26] So first let's get into tailoring our project because every organization and product and project is going to be a little bit different. The act of tailoring is deliberately adapting the project management approach, the governance or even the process to suit our current environment. We're going to manage a construction project differently to a software project and maybe even different to a design or a research or perhaps a manufacturing project.
+
+[00:56] All of these will need to be adapted just to suit their own environment. We can tailor everything. We can tailor the life cycle or development approach, the processes, engagement methods, tools and artifacts, ways of working, people that we work with, anything really. And the tailoring should reflect the size, duration and complexity of the project. And it should be adapted to the industry, like we were saying, project management maturity. And so if people are really, really capable, then maybe we don't need to have a lot of oversight.
+
+[01:27] For example, that's another tailoring thing that we can consider. If we have a project team with less experience, then maybe we just need to use a straight out of the box method as it is with no additions, just to keep things simple. Why should we tailor in the first place? Well, tailoring produces direct and indirect benefits. It's more commitment from the team members who helped tailor the approach, more customer oriented focus and more efficient use of resources.
+
+[01:55] We can use a combination of different life cycles, our predictive, hybrid, iterative, incremental and adaptive or agile. And we know how all of these work if we're delivering all in one go with waterfall or predictive, or if we're delivering small increments and getting that feedback as we're going along, maybe that's more of an agile way of work. The processes, we want to decide which portions of the development approach should be added, modified, removed, blended together and even aligned.
+
+[02:25] For example, we might just need a consistent definition of the same thing. Maybe we're working in an agile way, but we can just call them catch-ups or workshops instead of daily stand-ups or all those sorts of things. Maybe we're just aligning the definitions. When it comes to tailoring the engagement on our project, we can engage with the people, decide who to use in particular areas and what is their experience. How much empowerment do we give those people? Flexibility for local decision-making instead of centralised decision-making.
+
+[02:58] In other situations, more supervision and direction may be needed. We can also use integration, which is how to create a diverse project team, including external members. And again, using our video conferencing or messaging and web portal tools for people all around the country or the world. We can tailor our tools. What software or equipment should we be using? This might be different in different situations. Factor in the cost and the organisational preferences, existing available tools and other constraints.
+
+[03:30] We can also tailor the methods and artefacts, documents and so that they're appropriate for the project and the organisation. And we want to use the Goldilocks approach here. Tailor not too little, not too much, just enough to get the job done.

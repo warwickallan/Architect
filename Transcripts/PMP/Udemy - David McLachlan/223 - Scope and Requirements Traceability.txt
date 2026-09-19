@@ -1,0 +1,16 @@
+# Scope and Requirements Traceability
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 223 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now it's time to look into the scope section of our project key concepts. As we plan out the scope and we decompose it and we turn it into our work packages, and then we also keep that scope under control and make sure we're delivering the requirements that our customers wanted in the first place. And then of course, we have it signed off and validated by our project sponsor or our customers at the end.
+
+[00:29] So lots and lots of things that we're going to go through here in the scope, key concepts of project management. And it starts with the business analysis plan, which is also called the requirements management plan. And this is our process or our strategy for how the requirements are going to be elicited or gathered, analyzed and prioritized and then measured and traced to their deliverables. So how are we delivering the things that our customers want? And we're gathering those requirements at first and then we're matching them up to the deliverables that we're creating through our project.
+
+[01:03] And this is our requirements management plan typically created by a business analyst in the team. If we have one, that's why it's called our business analysis plan as well. We're also going to use a requirements traceability matrix. We'll hear this term come up quite a lot. This basically does exactly what it says. It traces the requirements from their origin. So who wanted these requirements? What is the requirement?
+
+[01:29] And then it traces it to the scope that's going to deliver on that customer requirement. And this is so important because then we can see as we go through our project that we're actually delivering the things that our customers wanted. This helps ensure that each requirement adds business value by linking it to the business and the project objectives. It starts with things like the business need, the requirement itself or the project objectives. And then we have our project scope and our work breakdown structure deliverables.
+
+[01:59] So work packages, for example. Maybe it has product design, product development, and it might even have quality instructions or test strategies and scenarios that are linked to those requirements and work packages. And here's an example of our requirements traceability matrix. It's just a simple matrix or a spreadsheet. Very, very simple. The things you might include can be just a unique ID. Maybe that's any number or numbers and letters.
+
+[02:27] And then a text description of the requirement. The rationale for the inclusion. Why are we including it? The source of the requirement and the owner who requested this. And the priority, high, medium, low, or anything in between. The current status. And of course, the other things like our test cases or quality criteria.

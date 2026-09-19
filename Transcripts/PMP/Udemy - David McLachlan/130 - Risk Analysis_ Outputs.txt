@@ -1,0 +1,8 @@
+# Risk Analysis: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 130 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for performing risk analysis are just our documents, project documents, updates. Our risk register, we'll need to update our risks with all of our probability and impact information. The risk report to show our prioritised risks to our stakeholders. Usually just the biggest risks, the ones that are the most important that we need to report on, something that's really small, they probably don't need to know about every single little thing unless they really want to be involved.
+
+[00:30] Any assumptions that we've had to make around our risks and any new issues that have come up that are impacting us now instead of impacting us in the future, remembering the difference, a risk could happen in the future but an issue is something that happens now and we really have to deal with it and manage it in the current time.

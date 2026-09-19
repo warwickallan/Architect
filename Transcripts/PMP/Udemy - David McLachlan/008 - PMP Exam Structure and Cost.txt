@@ -1,0 +1,8 @@
+# PMP Exam Structure and Cost
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 008 (section 1: Introduction)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now what's on the PMP exam? There are 180 questions in total and of those, 170 are scored questions.10 of those are what they call pre-test questions, where they test out new question styles and question types for future exams. We don't know which ones are scored and which ones are pre-test, so just answer them all as best you can. You have 240 minutes, which is 4 hours, to complete the exam and that roughly gives us 1 minute and 15 seconds per question. That's probably where a lot of people find it the hardest because it's quite quick, so you will need to read the question and get familiar with it, then answer it and answer each of those within 1 minute and 15 seconds each. The initial cost for the exam is $405 if you're a PMI member and I do recommend being a PMI member because you can also download online versions of the PMI guides like the Project Management Body of Knowledge or the Agile Practice Guide, which is great for your study. If you're not a PMI member, then the initial exam cost is $655. Now if you fail the exam, you can take the exam up to 3 times in 1 year, but there is a cost to retake it if you fail.
+
+[01:24] So the cost to retake if you're a PMI member is $275 and these are just accurate at the time of this video, they may change over time. If you're not a member, the cost to retake is $375. So again, quite worthwhile, the cost of PMI membership in my opinion, because you do get access to those guides and it's cheaper to take the exam.

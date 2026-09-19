@@ -1,0 +1,18 @@
+# Develop Scope Structure: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 093 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The outputs that we want for develop scope structure are our scope baseline, which is our scope statement, the high level features and description, the work breakdown structure, breaking it down into work packages, and then the WBS dictionary. So the WBS dictionary, what do we add in our WBS dictionary? Remember, it's that extra information for each piece of scope, the cost, maybe the resources required, maybe the duration, the schedule duration estimates for these items.
+
+[00:34] And then we can really see how our project is going to fit together and what we need. The work breakdown structure itself will include that in our scope structure in the outputs. The WBS dictionary, again, here we are. Here are some extra things. So apart from schedule and cost and resource estimates, we can include a description of the work, any assumptions, maybe the responsible organization who requested the item. Then we've got resources cost, maybe quality requirements.
+
+[01:02] So test cases that we need, acceptance criteria for those test cases, any technical references. Basically, it's a dictionary. So it's got all of that extra information, any agreements that we've got. But the big ones for me are our costs, resources, and our schedule durations. Those are the really useful things for the WBS dictionary. In an agile team, we're going to have the product backlog broken down into user stories.
+
+[01:31] User stories have acceptance criteria, focusing on how the item will function from an end user's perspective. And there are many different ways we can do acceptance criteria on a user story. But overall, we want to say who is the user, why do they want what they want, and then what do they want to happen? So they want to click on a button and it sends them an email or it takes them to a different page.
+
+[01:58] What are the steps and what's the acceptance criteria? We take that user story and we usually place that on a Kanban board. You might've seen these in your work. We place that user story card at the beginning to do, and then it moves through the work in analysis or development or testing or sign off or whatever those columns look like for the type of work that you're doing. Similar to a work package in a waterfall project, that's what user stories are.
+
+[02:27] And lastly, our product backlog, that's the list of features or deliverables. These can also be called epics because epics are the higher level and user stories are what we break down into the lower level. And again, that's just a form of decomposition. Exactly, it's the same thing. The idea is the same, but it's just one's agile and one's predictive or waterfall. Deliverables on a product backlog are prioritized by the product owner.
+
+[02:56] And that is an autocratic way of working. It's just one person who decides, if you remember from our previous slides, and we do that according to the highest value. So we always want to be delivering the highest value next. As you can see, we've got the Harmony homepage here and it's broken down into some user stories, but we've prioritized the epics or the larger deliverables from highest value to lowest value on our product backlog.

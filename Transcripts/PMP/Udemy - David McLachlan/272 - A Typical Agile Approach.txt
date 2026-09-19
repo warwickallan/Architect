@@ -1,0 +1,20 @@
+# A Typical Agile Approach
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 272 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] So we know a lot of the basics, but there are many different methods, tools and techniques. As we've seen, there were even 17 individuals who came together with their own methods like Scrum and XP and Feature Driven Development and Crystal and Kanban and all these different things that make up Agile as we know it today. We can use these different approaches depending on our industry, organization, product, project and team. They can tailor to our environment as we'll see in the PMBOK Guide 7th edition.
+
+[00:32] But there is a typical Agile approach. So this is what we'll be referencing as we go through the Agile section. And it starts with the typical roles. We've got the product owner who represents the customer. That's one person, so it's not a committee. They decide on the items that go in the product backlog and they have to be the ones that are going to add the most value to our customer, the highest value. They prioritize these features so that we're always working on the next highest value next. The Scrum Master or Agile Servant Leader.
+
+[01:03] This could also be us as a project manager. Maybe there's just a project manager and no Scrum Master in this team. Every organization can do things slightly differently, but the Servant Leader role will facilitate the events and ceremonies like Sprint Planning or the Daily Stand Up or the Sprint Review or the Retrospective. And they're also a neutral third party to facilitate any problem solving. So if we find that, hey, we can't figure out what's coming up next in the product backlog, then the Scrum Master or the Servant Leader or the Agile Project Manager will bring the team together and problem solve.
+
+[01:39] We'll say, hey, product owner, can we get some information on what's most customer valued? Maybe they don't have it. Then we need to problem solve and figure out how we get that information. We are the neutral third party to facilitate problem solving. And lastly, we've got the most important part, the team themselves, often developers, but could be testers or business analysts or even designers or other knowledge workers if we're doing something that's not software.
+
+[02:07] And they perform the work and they create the actual value, the small increments that we're going to deliver. The typical Agile process starts with the product backlog. This is just a list. It's a list of customer valued features. Each of these can be delivered in a few weeks to a few months. So we want to keep them nice and small while still delivering value. It's created or approved by the product owner. So stakeholders could come to the product owner and say, hey, I've got this great idea.
+
+[02:37] But the product owner says, oh, yes, that does fit and it's very high value. So maybe we could do that next. Or that's not a very good idea. We've got other priorities to come first. It's prioritized by the product owner, often from most valuable to least valuable. And we use that product backlog to break down the work into smaller pieces, usually into things called user stories or user story cards. These have to be small enough to fit in our iteration or our sprint.
+
+[03:10] An iteration is usually just two weeks, but it could be one week or four weeks. It's up to you and your team what suits. But it's typically two weeks. And at the end, we want to have delivered something usable that we can showcase at the sprint review. So we break this down. We break down the feature into smaller user stories that can fit in a sprint, usually one or two days. If we can complete them in one or two days, that's ideal. We give them acceptance criteria.
+
+[03:37] So what do we need to do for this user story to be finished and complete? And we estimate with the team how long we think it's going to take or the effort. We need enough of these items to be ready to fit into our next sprint.

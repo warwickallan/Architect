@@ -1,0 +1,12 @@
+# AI in Project Schedules
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 246 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We've also got new things in artificial intelligence in the PMBOK 8th edition around schedule. Genetic algorithms. It's another machine learning method inspired by natural selection where we start with a random selection of different criteria or paths that we might take to complete our project. And these are checked for how well they meet the desired outcome. For example, maybe we need to do it in the shortest timeframe or maybe we need to do it with the fewest resources, whatever our desired outcome is.
+
+[00:33] We can run this through the machine learning method of genetic algorithms. The best performing criteria then are chosen to be parents for the next generation, which mimics survival of the fittest in nature. And then the tests are run again until the path is completely optimised. So then we've got this next test and then the final test and we've got our final version of the schedule which meets the criteria that we wanted, whether that is the fewest resources or the lowest timeframe or whatever that looks like for our particular project.
+
+[01:05] Lastly, with AI and our schedule, the branch and bound technique finds the optimal solution for a given problem. We can break down a problem into smaller sub-problems, remove any sub-problems that don't contain the optimal solution. We're pruning the branches in other words. So we've got different schedule options here and we're wanting to find the best option. So we prune the branches that are not optimal. This one isn't the best one that we want.
+
+[01:34] This one isn't the best, maybe it takes too long. This one, maybe it costs too much. And this one, maybe we don't have the resources available. And so we're always pruning those branches until we find the optimal path for our project schedule. That's what we will use branch and bound for.

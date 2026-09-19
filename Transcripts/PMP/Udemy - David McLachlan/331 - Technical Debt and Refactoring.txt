@@ -1,0 +1,12 @@
+# Technical Debt and Refactoring
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 331 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Technical debt or tech debt is the cost incurred when we don't fix technical problems that will affect us in the future. Maybe we've just done a quick fix now just to get it in, but that quick fix will make programming more difficult or maybe slow down the system for future use. So always consider in Agile, remember we want simplicity, we want to maximise the work not done if we can, we want to make our future lives easier if possible.
+
+[00:31] If we're working in a software Agile team, refactoring means that we restructure the source code to improve its operations without altering its functionality. We're making it simpler but it's still giving us the same output. Maybe that's reducing the lines of code or maybe that's reducing duplication in the code as we'll see in a second. It comes from extreme programming and this is where we want to refactor every time we touch part of the code.
+
+[00:59] You might see on your exam or we can use a slack card of three to five points. That can be added to the sprint to reduce technical debt. So we could work on technical debt and it can be replaced if other urgent cards arise. Now the way we refactor is removal of duplication. If we've got code that's duplicated, then maybe we could get rid of part of that code. Lowering coupling. So that means that something in one class or module doesn't affect another class.
+
+[01:30] It's self-contained but we can also increase cohesion of the code which is making classes or modules focused and specific to their actions. So remove duplication and make sure that each class or module specifically does its own intended actions. That's a great way to refactor and simplify the code.

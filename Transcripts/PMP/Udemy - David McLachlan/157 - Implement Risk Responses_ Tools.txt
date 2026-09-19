@@ -1,0 +1,10 @@
+# Implement Risk Responses: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 157 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Tools and techniques for risk responses are our expert judgment. We're going to need people with expertise in their particular area, wherever the risk is. If the risk is in Harmony Fitness, then we need someone with expertise from that area. Maybe it's in the training area or maybe it's in the accounts area, but those might be different and have different expertise. So we'll need the right people to help us with those risk responses.
+
+[00:29] We'll also need our best interpersonal and team skills influencing to influence those people to do those risk responses if we need to. Remember, project managers, we don't always have people directly in our team. We have to influence other people or stakeholders outside of the team to help us get the work done. And this is where Anne, the functional manager within the business might come in. And so we do have to work very closely with Anne, make sure we've got a good relationship so that she's okay with doing these risk responses and also keeping her area of the business safe.
+
+[01:03] So it's a win-win for all of us usually. We're going to need our PMIS, which will house all of our risks and the risk responses. Now it could be in any of these systems. Again, it's going to be different for your organization or your industry, but it's also going to have information on resources and costs and schedule so that we can look at when we can do these risk responses and how much it's going to cost.

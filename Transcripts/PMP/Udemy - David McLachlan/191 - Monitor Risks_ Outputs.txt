@@ -1,0 +1,14 @@
+# Monitor Risks: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 191 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs that we'll create as we monitor risks will be our work performance information. And this will show us whether our risk responses have been effective. We can get this by comparing the individual risks that occurred with the expectation of how they would occur. Were we correct when we brainstormed those risks? And what actually happened versus what did we expect to happen? If we do have risks that do occur, we might need change requests if it impacts our scope or our schedule or our cost, any of those baseline documents.
+
+[00:35] As always on a waterfall project or a predictive project, we're going to need to go through that change control process. If it's on an agile project, do you remember what we do? We might get our product owner to reprioritize the product backlog of work. They could even create a risk adjusted backlog where we've got the risks as well as the user stories of value in our backlog and they're prioritized together for the highest impact versus the highest risk.
+
+[01:03] And then we can also put those items on our product roadmap. And that's just like our schedule or our Gantt chart. They can be rearranged anytime by the product owner. So no need for a change request, but only the product owner can do that one usually. Project management plan updates. This is where we monitor our risks and we might as well update our project management plan for any changes if we have different ways of working that we need to incorporate into our project plan and the way we're managing our project, then now's the time to update that project management plan, any part of it.
+
+[01:35] Project management documents, we can update the risk register for new risks, the risk report for the overall level of risk, issue log for any new issues, assumptions and lessons learned for any new assumptions. And of course, anything that we've learned as we have managed those risks and things that have actually happened. We can also put things back into the business. For example, we might have a better risk management plan template or a better risk register template. And we can say, Hey Grace, or Hey Anne, we've got this template.
+
+[02:05] Would you like to use this for your future projects? And of course they say, Hey Billy, you've done such a great job. I know you're tired from going through this entire project, but we'd love to have that new template and put that into our organizational process assets, the risk report template or even a risk breakdown structure or the categories that will go into future projects.

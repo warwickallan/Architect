@@ -1,0 +1,12 @@
+# Resource Levelling
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 245 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Resource leveling versus resource smoothing. Resource optimization is used to adjust the planned use of resources to ensure that our schedule is on track. Resource leveling and smoothing are two techniques used where leveling focuses more on moving our resources around and smoothing focuses on moving the activities within the critical path. So if we have any free float and we can move those activities without changing the overall schedule.
+
+[00:31] So resource leveling can be used when we have shared resources or they are over allocated, such as when a resource has been assigned to two or more activities in the same period. Resource leveling often pushes out the schedule. So we've got Sue is doing two activities in the same time period here but she can't do two activities because she's only got eight hours in the day. So we have to resource level. Now after we've got Sue doing it on day one, then doing her second activity on day two, and then we've got Tom doing his activity on day three.
+
+[01:07] We're taking these items that were previously stacked up and we're leveling them out. That is resource leveling. Resource smoothing adjusts the activities of the schedule model where activities can only be delayed within their float. So remember this item had some float when we did our critical path analysis. So technically this activity could be moved back five days if we absolutely had to and it wouldn't impact the overall project end date.
+
+[01:38] This one on the other hand has zero float so we could not change this activity because that would impact our overall project end date.

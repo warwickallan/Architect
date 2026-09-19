@@ -1,0 +1,6 @@
+# CPMAI Master Class
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 002 (section 1: Introduction to CPMAI)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] you you okay so later in the course we will be discussing a live case study the sipadi rice case study so this is an problem that was encountered by the Indonesian farmers for identifying the crops so you know how they used or leveraged AI to actually help them identify the disease and leave smart and all so this is the summary of it but then we will discuss the details so that you know how to apply the CPMI in real life so when you are encountered with the project and it's an AI project so there's a scope of AI you know towards the end of the this course we have discussed that so I've discussed comprehensively you know phase-wise different phases of CPMI wherein you would be applying all this so feel free to go towards end and you know find more details this is the crux of it you know how it has helped them help the farmers identify diseases early take actions accordingly

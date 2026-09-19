@@ -1,0 +1,18 @@
+# Estimate Resources: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 101 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, as we look at the outputs, what is the output we want for estimating resources? It's the resource requirements. This is the list and the types and quantities of resources required for each work package. Hey, now isn't that good information? We've got our work breakdown structure. We break down the features into work packages that we can assign to someone to work on. And then we have to figure out what the resource is for each of those work packages.
+
+[00:35] And now we're estimating that. So we can add that to our work breakdown structure dictionary, which has all of that scope, and then those extra attributes like resources, the cost, and the duration estimates. Well done. Hey, that's good stuff. Now, these are just assumptions. So these estimates, they can change. Make sure we're aware of that and we note any assumptions for the future. And we also want to note our reasons, our basis, the basis of the estimates.
+
+[01:06] This will help us in the future in case these estimates are wrong. So we'll need the method that we used to develop the estimate. So did we use analogous estimating? Did we get together with our team? Who was involved in the estimating? The resources, assumptions, any constraints, the range of the estimates, the confidence level, like we saw with our cumulative probability. Do we have a 95% confidence level or a 90%? Or do we only have a 5% confidence level and we're not very confident at all?
+
+[01:37] And we need any documentation of identified risks that might influence our estimate. Just a quick one on the range. Now, as we do any sort of estimating, at the very beginning when there's not much information, so say when we're doing our business case or project charter or we're just starting planning, it's pretty early on and we don't have all the information about that scope. So we can't give a very good estimate. We're going to need to give a range.
+
+[02:04] And it starts with our rough order of magnitude. We might add 75% to the resources. So if we're saying we need 100, we're going to actually give a range and say we want from 75 to 175 on our resources. Then it gets smaller and smaller. The range gets smaller as our information gets more accurate and we have more information around the scope and what we're going to need and what's involved. And it goes to preliminary budget at minus 10 to plus 25, definitive at minus 5 to plus 10.
+
+[02:40] And finally, once the item is actually finished, it's a 0% change. There's no range at all because it's actually done. Now you may not need to know these exact percentages, but just keep in mind that we want a wider range. You might get the rough order of magnitude. We hear that every now and again still. This is from the PMBOK Guide 5th edition. So all the way back when, but I still find it useful in the real world. So that's why I've included that. And now we have all those resources. We're going to put them together on a resource breakdown structure.
+
+[03:09] We've seen this a few times already. We've got Grace, our project sponsor. This is our organizational chart for the project, basically. Billy and all of the team underneath Billy in their respective areas. That's our RBS or our resource breakdown structure. And lastly, we might need to update any activities. So the resource requirements in our work breakdown structure dictionary, very handy. Assumptions, any new risks, and of course, any lessons that we've learned along the way.

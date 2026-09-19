@@ -1,0 +1,8 @@
+# Tips for Passing Your Exam
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 003 (section 1: Introduction)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, I just want to give you five quick tips for passing your PMP exam and getting the most out of your PMP exam experience. There are four hours to complete the PMP exam and there are 180 questions. That gives you around about 1 minute and 15 seconds per question, so you do have to keep that in mind as you're going through the exam. Also, because of that, do make sure that you answer every question. You're not penalized for getting wrong answers apart from the wrong answer itself, but there are no extra penalties. So do make sure that you answer every question and if you get stuck on one, you can flag it in the exam system and come back to it later. You might actually get some tips or some clues from exam questions in the future that help you answer that question. The most common type of question is a scenario-based multiple choice question and there are often two or three answers that could be correct. In that case, we want to choose the most correct answer. Sometimes it can seem daunting, sometimes none of the answers will seem correct.
+
+[01:03] We just have to choose the most correct answer and we can do that by looking for keywords in the question. For example, is it about the project charter? Is it about a particular stakeholder or a way of working like Agile or Waterfall? Look for those keywords and eliminate the answers that don't fit and then choose from the ones that remain. Using these tips, I truly believe that you too can pass your PMP exam first try.

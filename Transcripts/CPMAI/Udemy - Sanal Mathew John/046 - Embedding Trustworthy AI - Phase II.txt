@@ -1,0 +1,16 @@
+# Embedding Trustworthy AI - Phase II
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 046 (section 9: Trustworthy AI throughout the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let's look at the phase two, which is the data understanding phase. So trustworthy AI here should focus more on ethical sourcing and representations or representativeness of data foundation, right? So this is an early phase where you are trying to see, you know, the data requirements. So what are the critical things that need to be looked at here is, one is bias scanning, policy verification and documentation.
+
+[00:31] So like the phase one, here also we have three areas that we need to look at. So bias scanning, so this is very initial scanning at very early stage, okay, you are just assessing the data requirements at this stage. So bias scanning here would mean systematically checking for disproportionate representation of groups or missing demographic segments that could lead to algorithmic discrimination. So for example, if your population contains only, you know, for example, your population contains 99% of males and 1% of females, you know what kind of an output it will give or geographically it is not representing people.
+
+[01:12] So here, you know, the first principle is that bias scanning. So at this point in time, you have to ensure that, you know, the data is like equitable, fairly distributed so that your model does not make any algorithmic discrimination. So your model has the right data to make predictions or, you know, whatever task it is going to be used for. The second one is the privacy verification. So address consent and privacy issues before collecting the personal data.
+
+[01:44] And of course, you have to verify the data usage and licensing and all. So here, so you might have seen going to certain websites, you know, it asks for your consent or maybe sometimes you are like, you know, trying to do the single sign authentication or, you know, you're trying to authenticate as a user using Google, to a common website instead of using there, you're trying to use a single sign on or you're going to authenticate using your Google.
+
+[02:20] So it will ask you for consent, okay, by doing this, these cookies, this is your personal information, your name, and some other details will be shared, are you okay, when you click on continue, that is your consent, when you give the consent, it proceeds for. Now the third thing that at this stage is the documentation. So maintaining transparent records of data and their known limitations, okay, so that is very important here.
+
+[02:54] So these are the three things that, you know, from a data understanding point of view, or phase three that you should be looking at. Now let's look at the next phase.

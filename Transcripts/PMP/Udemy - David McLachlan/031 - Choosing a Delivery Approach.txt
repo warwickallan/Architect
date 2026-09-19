@@ -1,0 +1,18 @@
+# Choosing a Delivery Approach
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 031 (section 3: Project Management Fundamentals)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] There are many different things that can influence the development approach that we use when we're managing our project. So keep this in mind if we need to figure out which development approach to use on an exam question. We can use things like our deliverables. Do we have a degree of innovation or change needed? If we need more change, we might use agile. That's right. Stability or the certainty of requirements.
+
+[00:28] If they're stable, we could use a predictive or a waterfall approach. The ease of the change. The risk or safety requirements. The feedback. Do we need a lot of feedback or do we not need any feedback at all? Again, more feedback probably suited to an agile way of working. And regulations. Maybe we need a lot of quality control. So we need to keep it under control and then release in one go. That might be a predictive way of working.
+
+[00:57] See you've got this already. That's for our deliverables. And we can also look at other things like our project. If we need more or less stakeholder involvement or customer involvement. Schedule constraints. Financing uncertainty. If our cost is flexible or variable. Project size and complexity. Team experience and skills. And any interdependencies. Now again, pop quiz. Customer involvement.
+
+[01:24] We need lots and lots of customer involvement. Maybe we might want an agile approach where we're gathering that feedback and putting that back into the product as we go along. Organization. We might have different organizational culture. Maybe we've always delivered in one go and we need lots of oversight and there's lots of regulation. So that's something that we need to consider. The culture. The structure. The organizational capability.
+
+[01:54] Maybe we've never worked in an agile way of working before. Or maybe we've only worked in an agile way of working before. And so that's going to impact how we do the work. The project team, size and location. Agile is more suited to smaller teams. So usually under 10. If we're looking at the scrum guide, which we'll have a look at later on. They say fewer than 10 people is ideal. And other guides like Extreme Programming and other agile frameworks, they say under 12 at a maximum.
+
+[02:28] But usually the smaller the better. And as a scrum, that's a pretty good standard, under 10. If we have lots of people, then maybe we need a bit more oversight. We need to have a bit more quality checking. We need to deliver in one go and that's going to suit our waterfall or predictive way of work. Lastly, the delivery cadence. Is it a single delivery? Then that makes it pretty obvious, doesn't it? And multiple deliveries or components, periodic deliveries on a regular schedule or continuous delivery.
+
+[03:02] So these are some things that we need to be aware of. Continuous delivery is delivering those features and continually delivering them when they're ready. Periodic deliveries might be every month. We have a set timeframe for delivering items. Multiple deliveries just could be different features, but we don't know when they're coming. They're just multiple deliveries or components. And of course, a single delivery is just that one delivery of value at the end.

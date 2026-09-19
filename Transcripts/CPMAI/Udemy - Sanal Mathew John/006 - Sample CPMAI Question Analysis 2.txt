@@ -1,0 +1,14 @@
+# Sample CPMAI Question Analysis 2
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 006 (section 1: Introduction to CPMAI)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Hello all. I'm going to discuss one more question now. Let's look at how to answer such kind of questions. When you get such kind of questions in CPMA, how to answer them? Okay, the question is on your screen. You can go through it. An aerospace company is integrating AI for predictive maintenance. The project manager is concerned about potential delays due to external dependencies. So what initial steps should the project manager take? So you have options. Increase resource allocation.
+
+[00:32] Implement just-in-time inventory. Establish contingency plan. Engage with multiple suppliers. So let's see what is the best answer here. What all can we eliminate here? Increase resource allocation. Will it help in this scenario? Implement just-in-time. Will it help in this scenario? How about establish contingency plan?
+
+[01:08] Seems like a good option. Then last option is engage with multiple suppliers. So what do you think? Primarily, when such a situation is faced, CPMA framework always prefer you to do something more on a mitigation rather than a contingency plan. You can either avoid it or mitigate the risk.
+
+[01:38] But going directly to the contingency plan is never expected or never a good solution. So in this case, the best option would be to engage with multiple suppliers. Why? It is a very good mitigation plan. Because this is as part of managing external dependencies. As part of the AI project risk management. Particularly in aerospace industry and all. Where supply chains and component availability can significantly impact timelines.
+
+[02:10] So better option is to actually look for other suppliers. Start parallel communication discussions with them. So that you are avoiding or reducing exposure to single point of failure. So if you are dependent on one vendor, that is a big risk for you. So here in this case, the best answer is option D. Which is engage with multiple suppliers. So that's how you eliminate options and choose the best answer.

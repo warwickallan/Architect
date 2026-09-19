@@ -1,0 +1,12 @@
+# PMIS and Issue Logs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 208 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Also a big part of project governance is our Project Management Information System, or PMIS. You might hear this term. It's typically one or more software applications and an approach for collecting and using all of our project information. Our PMIS might include scheduling software tools, work authorization systems, configuration management systems, document management systems, resource calendars, or project key performance indicators.
+
+[00:34] Anything else. Basically any data that we're collecting and any information. Maybe we need to gather all of our scope and we need to show that to people. That goes into our PMIS. It could be many different systems. As you can see here, Project, SharePoint, Jira, Asana, Money.com, Primavera, many different systems that you might use in your organization. And if you go to a different industry or different organization, they might use different systems as well. Here are some of the most common ones. But again, there are many different ones to choose from and different ones that you'll encounter.
+
+[01:06] Also in governance, we'll need our issue log. During the project, you'll face gaps, problems, or conflicts that require some action. We need to note these as the project manager and make sure they're managed, tracked, and resolved. We need to record them so everyone's on the same page. And in our issue log, as we record these issues, we could include the issue type, who raised that issue, the description of the issue, the priority of the issue.
+
+[01:37] Because not all issues are going to be really high on our priority list. Maybe one or two might, but we need to note how high that priority is. Then there might be a few little things that people have raised along the way, but really, we've got other things to do that are more important. Who's going to manage these issues, target resolution dates, current status, and the final solution. The final solution is just handy because then we can use that to help solve similar issues in the future.

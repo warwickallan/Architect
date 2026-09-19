@@ -1,0 +1,22 @@
+# The General Exam Fast-Track
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 396 (section 12: The PMP Fast-Track)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:02] Now the first section we're going to go through is general exam tips. And there are five general exam tips that we're going to go through. And two bonus exam tips. And these things will really help just by themselves. If you don't do anything else. Just doing these can actually help you pass the PMP exam. And we just need to know what we're working with first. So you may have heard me say this a few times already with the PMP exam. You've got scenario based questions.
+
+[00:30] So it's a scenario where something is going wrong and we need to solve the problem using our project management and people skills, which is why we had those two sections before. Now 2 or 3 answers will seem to be correct. So it's going to be quite tricky. And we have to choose the most correct answer. So let's get into these five general exam fast track tips because these by themselves are going to help us pass.
+
+[00:59] First of all, read the question and highlight all of the keywords as we're going through the questions. So all the information you need is going to be in the question. There isn't some magically hidden answer. Everything we need to know is going to be in that question there, and we want to highlight all of the key words that come up. And that looks like we're determining if the project is predictive, agile or hybrid. So does it have change control or does it have predictive risk processes or or breaking down with a work breakdown structure, for example, uh, or agile?
+
+[01:33] Do we have a product owner or do we have iterations? Do we have demonstrations and reviews? Do we have standups? Those are our agile keywords or hybrid? Are we using an iterative track with a predictive track? You might see some questions like that. We just need to determine what we're working with so we can answer appropriately. And then once we've got predictive agile or hybrid, decide which topic or principle from the PMBoK. The question is addressing what is the question asking us to do?
+
+[02:04] Is it about risk? Is it about procurement? Is it about scope or the scope statement or the work breakdown structure? What is the topic or principle from the PMBoK that we need to answer, or that we're supposed to be addressing, and then strike through any answers that don't directly address that project methodology or PMBoK principle that we identified. So if it's risk in the question, we can get rid of the procurement, the scope and the work breakdown structure.
+
+[02:34] And potentially we might have the answer right there just by striking through the answers that aren't correct. So now we're almost half of the way there already. And all we have to do is select one of the remaining answers. We might have two answers remaining. Maybe we have three answers remaining, but either way, it's made a lot easier for us to get the correct answer. So remember these five steps the general exam fast track steps. And that is really going to help you in passing the exam.
+
+[03:03] Now there's two extra things that we want to know. And we always want to answer every question. Remember if you don't answer a question you can't get the points. So make sure you answer every question just in case. If you're unsure of it, flag the question and come back to it because you might get hints from future questions or future answer options. I know that helped me a lot when I was taking the exam and the last one here. Know your timing for the exam, and that is 230 minutes for 180 questions.
+
+[03:34] That means we have about a minute and 15 for each question. So the clock will count down from 230 minutes. That means when we have our 60 questions and finish those, you can have a ten minute break at that point if you need it, but you don't have to. But at that point, you should have more than 155 minutes remaining. And once you get to 120 questions mark, you should have more than 80 minutes remaining. Ideally, manage your time carefully, and that way you will.
+
+[04:04] You won't run out and you'll you won't have to rush right at the end. But again, if you do have to rush, make sure you answer every question just in case, because you still might get those points. And that is your general exam. Fast track. Those seven rules are a wonderful way to start.

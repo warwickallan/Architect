@@ -1,0 +1,16 @@
+# Agile Team and Stakeholders
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 317 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now that we've been through initiating our Agile project and looking at the product backlog, filling it with features that we're going to deliver and breaking it down, it's time to look at people, one of the most important parts of Agile. Remember, we want interactions and individuals over processes and tools. So stakeholders and the team is very, very important. Let's get into this as we're going through our Agile process with our sprint planning, having daily stand-ups, refining the backlog and breaking down the work for the next sprint and then showing the item in the sprint review at the end of the sprint to our customer and then reflecting on our process with a retrospective at the end of the iteration or the sprint.
+
+[00:50] The first one we're going to go through is the team space, the Agile team space. The ideal situation for Agile is co-location. We want to be in the same place and we've spoken about this a little bit because we want fast information and fast answers. We want to be able to speak to someone next to us instead of having to wait for an answer by email or by letter. Sometimes it might just, it seems like it takes forever to get an answer from some people or some departments, but not if they're right there.
+
+[01:20] That's why we want them to be co-located. We also learn by osmosis. Osmosis is a wonderful term where the information in the background is seeping into our brains, into our minds, so we're learning, we're picking up on conversations, we're picking up on information, we're seeing information on our information radiator as well. All of that is unconscious learning. If we're in a virtual team, we can still use online portals or spaces or an online Kanban board to show the work and how it's progressing and online messaging with Slack or Teams and video or teleconferencing tools for our ceremonies or events like stand-ups or retrospectives.
+
+[02:01] Now, in our team area, we're going to have the information radiator. This is information posted in a public space and it could be online in a team portal if we're a virtual team, but ideally we're co-located in the same place and we can see all this information on the wall without having to ask. We update it regularly. Remember, it's low tech or it can be low tech, could be just a whiteboard, but it can be electronic if you want, but it's low technology but high touch.
+
+[02:31] We update it and improve it every day. We could have our product backlog of work, the features. We could have our sprint backlog, so what we're going to complete in the sprint, the product roadmap to see when everything is coming up, the release plan, the team velocity, how we're going, the Kanban board to see how the work is flowing, any risks, the burndown chart to see how the work is going against the expected trend of work, and the team charter vision and mission for our ways of working.
+
+[03:01] You can add anything that you like, but those are some common things that you'll put in your information radiator.

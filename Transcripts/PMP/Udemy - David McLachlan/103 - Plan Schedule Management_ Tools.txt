@@ -1,0 +1,12 @@
+# Plan Schedule Management: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 103 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we move into tools and techniques for planning schedule management, we're going to use another one of our favorite things, and that is expert judgment from the right people to help develop our schedule, maybe control techniques, scheduling methodologies, for example, if we're using predictive or adaptive life cycles, it might be different. Scheduling software, we might have some experts in that scheduling software in the business, and also scheduling ideas specific to our industry.
+
+[00:33] For example, in software, it might be different to construction or research or design or different types of projects, we might have different types of software and scheduling ideas. So Billy is going to check in with Jason, Jason might have some existing ideas on schedule management, and also Anne, who might have some ideas from previous projects within the business when they've been working with project managers in the past. We'll analyze the data with different alternatives to see which schedule methodology we should use, and how detailed the schedule needs to be, duration of waves for rolling wave planning, and how often we should review it and update all of that information.
+
+[01:14] And as always, another one of our favorite things, we will need meetings to tie everything together. We'll need to gather all the data, we'll need to come together to resolve scheduling conflicts and get information quickly. Meetings are a great way to do all of those things. And keep this in mind, that's why we want to run a good meeting, because we want them to be short and sharp and get the right outcome and have a good agenda and invite the right people and keep everyone on track and have action items assigned to people to follow up with at the end.
+
+[01:50] That's how we know we have a good meeting.

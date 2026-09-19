@@ -1,0 +1,20 @@
+# Define Scope: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 088 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we work through the planning of our project and planning our scope, it's time to take those requirements from our customers and use it to define the scope that we're going to deliver, our major deliverables. We'll also create our project scope statement, which is a description of the scope, the features and what's out of scope as well. And our quality management plan, which defines the quality standards and how we plan to meet them.
+
+[00:32] So our test cases or quality activities. We want to describe the boundaries and the acceptance criteria. So what's out of scope and also how do we know that we've met success for our deliverables? How do we know when they're accepted? And in predictive approaches, this is done at the beginning of the project and we break it down into a work breakdown structure. But in adaptive approaches or agile approaches, we might do this at the beginning of each iteration and it's defined in our sprint backlog.
+
+[01:00] So we break our product backlog down into the sprint backlog and user stories to deliver in a sprint. As always, we've got inputs, tools and techniques and outputs. The outputs that we're looking for here are our project scope statement. So just a high level statement and high level features and with the requirements documentation, we might update those as well. As we define our scope, the inputs that we're going to need are, surprise, surprise, our project charter.
+
+[01:27] So Billy's going to check over the project charter for any high level scope, the project description or product characteristics or even approval requirements that we have listed in order to have the project approved and to kick it off. We're going to use our assumption log for any assumptions or constraints about the product or the project or the environment or even the stakeholders that might impact our project scope and our project management plan.
+
+[01:55] The scope management plan in our project management plan was how we said we would manage scope in the first place. So now it's time to use that process. How are we turning our requirements into scope? How are we breaking those down into work packages and all of those sorts of things? And we're going to use this process to create our project scope statement at the end of this particular process. We'll need our requirements documentation, the business requirements, and we can even check these in the business case if we want.
+
+[02:26] Functional and non-functional requirements. Functional is how it works and actually physically using it. Non-functional is how it performs stability or security or availability. Stakeholder requirements, so what they need to perform their role. Transition requirements are the functions and the features that we want to deliver, the characteristics of the product. And transition requirements, can you tell me what those are? Because we did go through these.
+
+[02:54] We're transitioning to the business, so what do they need in order to use the system or the new thing that we're creating? They need some training and communication and new processes. All of those transition requirements. Enterprise environmental factors might be the culture or the systems that we're going to use. Personnel administration for people we need to work with for turning this into scope. And marketplace, industry, or even regulations that need to be met. We might have existing processes or templates, previous files from previous projects, procedures or templates to create a project statement from the business.
+
+[03:32] That could be very, very handy. And of course, some lessons learned from previous projects too.

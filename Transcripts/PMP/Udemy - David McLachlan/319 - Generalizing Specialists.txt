@@ -1,0 +1,12 @@
+# Generalizing Specialists
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 319 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] With people and stakeholders, we're going to come across tacit and explicit knowledge. Tacit knowledge is thoughts and experiences which are difficult to express. We can use storytelling instead of actually turning it into a process. Now, explicit knowledge is something that we can actually document it. We can say, here are the steps to complete X, and that's how we get that outcome every single time. Also, explicit knowledge is empirical.
+
+[00:34] In Scrum, you'll hear this term a lot, but empiricism is going to the real things, seeing the real results and demonstrating the real product in the sprint review. So that's also, it makes it explicit because we can now see it. When we have people in our Agile team, ideally we're going to want T-shaped people, or also known as generalizing specialists. So that means that they have a lot of general skills.
+
+[01:04] Maybe they have a little bit of design skills, maybe a little bit of business knowledge, maybe a little bit of testing knowledge, maybe a little bit of knowledge in the environments or the testing environments or the development environments that we can use. But these are all the broad range of skills that they have. Then they have one deep specialty, and maybe in this case it's development. Maybe they're actually a developer with all of these other wide ranges of skills. That's our T-shaped or generalizing specialists.
+
+[01:33] We might also encounter I-shaped team members with just one skill. They don't have any other skills. And if that happens, we want to help grow them into other skills and help form T-shaped team members. So they can pair up with other people in design or from the business or in testing to help build those other skills and become T-shaped team members.

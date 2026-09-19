@@ -1,0 +1,12 @@
+# Agile Testing and the V-Model
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 329 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're looking at quality control for our product, we can also look at the test pyramid from Mike Cohn. This shows us that we'll have more unit tests than integration tests, and more integration tests than user acceptance tests. So it looks like a pyramid. Unit testing is where we test each developed unit. Usually it's a small user story or a small increment that we're delivering.
+
+[00:27] And so because we've got lots of these user stories, and as we're creating these in our sprint, there are lots of unit tests. Integration testing is testing the system as a whole with all of these units integrated together. Acceptance testing is often performed by users performing the actual tasks. So we might have people doing their day-to-day work in the system as they would, clicking on the buttons to see if anything is broken. In the real world, we also need to be aware of the software development lifecycle or VModel.
+
+[00:59] This shows us that tests and testing can occur at every stage where we've got requirements analysis. So we're gathering requirements, but at the same time, we are going to use those requirements for user acceptance testing. But then we've got system design and architecture design. And this is where we've got integration testing and system testing. So remember, we're integrating all those units as a whole, and we've got integration tests.
+
+[01:25] As developers in the team create modules or units or small user stories, then we've got module design and we'll be doing unit testing for those modules. And so overall, it looks like a V where we start with the requirements, we end up with the coding of the actual item, and we've got tests at each stage.

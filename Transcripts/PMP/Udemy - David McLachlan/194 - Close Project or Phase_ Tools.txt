@@ -1,0 +1,12 @@
+# Close Project or Phase: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 194 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Tools and techniques as we close our project or our phase, we're going to need our favorite expert judgment for people with expertise in things like audits, legal or procurement, legislation or regulations, or other closing guidelines like the governance within the business and how do we close a project within Harmony Fitness. Data analysis for any document analysis, benefits and success criteria that can help us identify lessons learned.
+
+[00:30] Regression analysis for relationships between the project variables that contributed to the project outcomes. So now that we've delivered this, what is actually giving us the benefits? In our business case, we can use regression analysis or any other mathematical tools to find trends and what was actually related. Trend analysis to find trends on our project and see if our original plans were accurate, were our estimates correct and was our budget and was our schedule correct or did it go way off course?
+
+[01:01] Variance analysis to compare what was initially planned and the end result and we can use that to find lessons learned. So can we improve our estimates or the way of working in our baselines for our next project? And lastly, in tools and techniques, meetings to tie everything together with closeout meetings or customer wrap-up meetings, lessons learned meetings like our retrospectives or after action reviews, celebration meetings, now that we can celebrate and release this product and we can also use meetings to confirm that the deliverables were accepted.
+
+[01:35] So we might have a meeting with Grace and say, do you accept these deliverables? Is it ready to go? Can we release it into the live or the production environment? Validate that the exit criteria has been met, formalize the completion of contracts, evaluate stakeholder satisfaction so we can catch up with some of our stakeholders and say, what was your experience on this project? Was it good or bad? What could we learn for next time? Gather those lessons learned, transfer knowledge back into the business and celebrate success.

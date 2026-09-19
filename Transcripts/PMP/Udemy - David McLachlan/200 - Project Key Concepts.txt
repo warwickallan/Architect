@@ -1,0 +1,10 @@
+# Project Key Concepts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 200 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Welcome to the project management key concepts. This is such a great section to get up to speed in project management and also a great section to review before your exam because what I've done is I've pulled out all of the key concepts, the tools and the techniques that you'll use in every section of the project as we go through the project. For example, working with stakeholders, all the things that we need to do and the tools that we'll use, the scope and then planning out the resources and the people that we'll need, putting them to a schedule, putting them to a budget, looking at quality, risk and also any vendors and procurements.
+
+[00:41] Lots of tools and techniques that we need to know about for the exam but also for the real world as we're managing projects. So it's so wonderful and it's just going to follow our project management process which we'll go into more detail as we go through the actual project management body of knowledge 8th edition but this is a high level overview and I really like this one page overview. We can see that we're initiating a project, planning, executing, monitoring and closing a project or phase and the different sections that we need to know about are governance and then scope and schedule, finance and so on.
+
+[01:18] So that's how I've separated these key concepts and again that's what makes this such a powerful way to review for your exam. We're going to start with governance, things like the business case and the status report or change requests and baselines so let's get into governance.

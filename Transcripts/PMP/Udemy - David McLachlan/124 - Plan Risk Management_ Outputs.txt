@@ -1,0 +1,22 @@
+# Plan Risk Management: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 124 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The outputs for our planning risk management process is the risk management plan itself. Well, I didn't see that one coming, but we want that plan and that plan is our process and it's going to include things like our risk strategy, the methodology or process. Now, I get a few questions about this. People ask, you know, what is a risk management strategy? You know, what is that? Well, it's our risk management plan and we're going to go through the other steps in planning risk management and identifying risks and analysing those risks and those things are our process, are our strategy.
+
+[00:37] So that's what it is and again, that's why this document is so important. We'll need the roles and responsibilities for people managing risk, stakeholder risk appetites, risk categories like we saw. We'll see a bit more on that coming up. Definitions of risk probabilities and impacts and we'll see a bit more on that as well. The timing of activities. Do we have a risk meeting once a week to brainstorm and make sure that things are under control or do we send out our report, the tracking risks and reporting formats?
+
+[01:10] Probability and impact matrix. Oh, we've got lots of things to show you in risk actually. So the matrix is another one of my favourite things. It looks so good and we'll have some in the high risk category and some in the low risk category, but we can see it nice and easily. And oh, if we've got risk, then we must have a contingency reserve. So the funding of those risks and how we respond to them. Lots of stuff to go into our risk management plan.
+
+[01:40] Oh, and speaking of risk categories, hey, here they are. Let's check them out now. Well, it's also called a risk breakdown structure or RBS because it's decomposing. We've got all of the technical risks, for example. And then what are those examples of technical risks that we've had in the past within Harmony Fitness? So maybe Anne, maybe Audrey, maybe anyone else in the business there can give us some examples. Management risks that they've found in the past, commercial risks.
+
+[02:12] These are the categories of risks that we could come across and it's going to help us brainstorm risks, which is really, really great. Now, here's the idea of risk definitions. We're defining the risks, probability and impacts. So the impact could be a cost of $5 million or more or a cost of $1 million. So from low to high, what is the definition of those risks? And from low to high in probability, what does that look like as well?
+
+[02:44] So a low probability is 1 to 10% chance of occurring. Now, this is just an example. So this will be different in your organization. If you're working on a $2 billion project, then a high risk is not just going to be $5 million. It's going to be hundreds of millions of dollars, maybe billions of dollars. So keep that in mind. It depends on the industry, depends on the project, depends on who's involved and what we are doing. So use that expert judgment and create one for yourself.
+
+[03:14] Probability and impact matrix. Oh, this is what I was telling you about as well. Defining the probability and the impact from low to high. Now, we will see a bit more on this, but I'll give you a taste to start with. So for every risk that we brainstorm, what's the probability? And I usually start with just a rating from 1 to 5. 1 being low, 5 being high. So high probability, maybe we've got a 4 probability of occurring.
+
+[03:45] And the impact, how bad is it if it actually happens? Again, 1 to 5, let's say it's a 5. It's really, really bad if it happens. So with that, we multiply those two numbers together. So 4 times 5 equals 20. And that's quite a high risk. Now, we can also place these on a probability and impact matrix. For example, if it's high and very high, then we've got our risk all the way over here. And it's quite critical.
+
+[04:13] So this is something that we're going to really need to respond to very quickly in order to keep that risk under control. So that's a risk that we're going to need to respond to quickly in order to keep that under control and mitigate that risk. And those are all the things for our planning risk management.

@@ -1,0 +1,22 @@
+# The House of Lean
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 280 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now it's time to delve into the house of lean. This is really where we get a lot more information and I've just taken the best parts of this, again just to give us a summary while making sure that we have as much information as possible. And it starts with, as everything should start with, with the customer. Customer driven metrics of quality, delivery and cost. By the way, this is a great way to come up with feature ideas for your product backlog.
+
+[00:30] So quality is reducing defects and increasing our first time right. Can we come up with any features that will improve the quality of our product? Delivery is increasing the delivery speed. Remember, we don't want it to take days or weeks to get to our customer. We want to ideally deliver it as soon as possible. How can we increase that delivery speed? And cost, reducing the cost by streamlining our operations.
+
+[00:57] That's better for our business and we can often pass those savings onto our customer which also can increase our sales. So many different benefits from our customer driven metrics. The second one is just in time and we saw that a little bit, JIT, allowing customers to pull what they need when they need it with a pull system. We have a small inventory similar to a supermarket shelf that customers can pull from. An example of this is the bread aisle.
+
+[01:25] So if you remember, if you go to the supermarket and you take out a loaf of bread, then all of the other loaves of bread actually come down naturally and we can see when we're running out of bread and we can add a few more to the back of that supermarket shelf. That's the idea, very similar idea with a pull system. We also increase our flow so items can be produced quickly when the customer orders it.
+
+[01:51] One of the tools we can use here is tacked time. This is the heartbeat of our process where value can be created only as fast as the slowest part of our process. We want to reduce that time and then the whole process improves. As you can see here, our tacked time, we need to deliver something every 10 hours but station three takes 12 hours so we can't get it done in 10 hours in total.
+
+[02:19] So what we have to do is something called line balancing. This is where we're splitting up and separating the long processes into smaller consecutive processes. So we took that one, split it into two, now it's underneath our tacked time of 10 hours and now we can create an item. If these items are always delivering something, it's like a little production line, then we're delivering one every 10 hours and the overall value is created faster. Next, we move into build in quality to reduce defects and reduce rework.
+
+[02:52] One of the methods we can use here is error proofing, also known as pokeyoke in Japanese where we make it impossible to make a mistake. As an example, USBs can't be plugged in the wrong way. It's actually impossible to make a mistake or your car can't be started in first gear so we can't make our mistake there. If we're working on a webpage, we might not be able to enter the wrong information. If we need a date, we might have that calendar pop up so we can choose the exact date and then it error proofs that so we're not putting in the wrong items.
+
+[03:25] The rest of the House of Lean is standardized work so we always know how to do our work step by step, informed decision making and go look, go see. This is also called genshi genbutsu in Japanese and it's a powerful technique because if we see that something's going wrong and we just get a report or we get some information from a third party, then that's not as powerful as going and seeing that issue or seeing where the work is done and solving those problems exactly where they're happening.
+
+[03:57] Visual management is like our information radiator. People, information, process and system, do you remember this one? It's our PIPs from our Ishikawa diagram so that's a good way of doing root cause analysis, those buckets. And lastly, customer first, respect for people and of course, continuous improvement.

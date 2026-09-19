@@ -1,0 +1,18 @@
+# Sample CPMAI Question Analysis 3
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 007 (section 1: Introduction to CPMAI)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] OK, so now let's look at another question. For a GNI-powered conversational agent in banking that uses agentic workflows for fraud alerts, ensuring traceability of all generated responses is crucial for audits. What action manages accountability, documentation, and audit trial? So look at the options. Option A, establish version control of models, data, and prepare accountability reports.
+
+[00:31] Option B is deploy bias and fairness detection mechanism to evaluate the model performance across customer segments. Now C, look at C. It says maintain operational logs and audit trials for AI decision records throughout the transaction cycle. Now look at option D, design and enforce secure handling and encryption procedures for sensitive banking data with a conversational workflow.
+
+[01:04] Take a moment, read the question, understand it properly, and let's look at the answers. So according to the CPMI methodology, the action that manages accountability, documentation, and audit trials, specifically for GNI-powered agent in high-stakes banking environment and all, which option is better? Is option A, establish version controls for models, data, and prepare accountability reports?
+
+[01:38] That looks like a good option. Now let's look at option B. What does option B say? Option B. OK, so option B is task 3, that is conduct bias checks. It involves monitoring for discriminatory patterns across customer segments. But it does not address the audit trail of decisions. Correct? So you can rule out B. Now let's look at C, option C.
+
+[02:11] So option C is all about operational logs, if you see. So read the option again. So while it is mentioned as a requirement for agentic AI to maintain the transparency, accountability, and compliance, so the primary management action for the accountability task in the echo, that is the exam content outline, is establishment of versioning and reports. So option C, hang on, but doesn't look likely.
+
+[02:40] Let's look at option D. Option D is all about security and encryption. Read the option. This is task 1, oversee the privacy and security plan. This focuses on designing secure data, secure data handling process procedures, rather than the accountability documentation. So you can rule out option D also. So what stays with us then is A and C. Out of A and C, if you further go to manage the specific task of accountability and audit trials, the project manager must focus on the governance artifacts of version control and formal reporting.
+
+[03:29] So option A is most closest to this. So option A is the best option in this case. So option A is, yeah, option A is establish version controls for model data and prepare accountability reports. So that is the best option we have. That's the correct answer.

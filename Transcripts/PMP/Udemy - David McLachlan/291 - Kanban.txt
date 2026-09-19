@@ -1,0 +1,12 @@
+# Kanban
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 291 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now it's time to look at the Kahn-Barn method. If you're working in an agile team, you'll probably be working with a Kahn-Barn board as well, in most cases. So we're going to look at what is Kahn-Barn, the theory of constraints, and then implementing Kahn-Barn. If you remember, it started all the way back in the Toyota production system in around 1953, and then it was used by David Anderson at Microsoft in 2002, and David Anderson wrote his book in 2010.
+
+[00:30] So he sort of brought that out into the world, and people have been using it ever since. But what is Kahn-Barn? It translates literally to visual sign or card in Japanese, and it was originally used, as we know, in TPS in 1953. David Anderson then began using a version of Kahn-Barn in software at Microsoft in the early 2000s. But what is a Kahn-Barn system? It's a number of Kahn-Barn cards, equivalent to the agreed capacity of a system. So if we know that we can do 10 in a day, then we have 10 Kahn-Barn cards, and these are placed in circulation.
+
+[01:07] Each card is a signal. When a card is available, then the upstream supplier can begin work, and the card follows that work all the way through to the end, using a pull system. And the way we show that today is on a Kahn-Barn board. We've got our user story card, and it follows the Kahn-Barn board all the way through the different columns, and these columns can be called anything we like, depending on how we organize our own work. In this example, it's in to-do, and then in analysis, and then in development, and then in testing, but we might also have sign-off, and then we might have deployment or release to production or done, or whatever those columns look like for our team.
+
+[01:49] A Kahn-Barn board also provides insight into any bottlenecks or constraints, and it provides up-to-date project information, so we can see what work is happening and also where it's up to, but we can also see, and we'll cover this in the key concepts as well, if we've got 20 different user story cards in a particular column, then it's definitely a bottleneck. It's something that we might need to focus on and problem-solve to try and improve.

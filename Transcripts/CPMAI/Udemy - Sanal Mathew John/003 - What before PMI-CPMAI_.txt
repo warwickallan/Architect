@@ -1,0 +1,18 @@
+# What before PMI-CPMAI?
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 003 (section 1: Introduction to CPMAI)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Hi all. So what before PMI, CPM, AI. So based on my experience, uh, what I am seeing on a daily basis, I deal with students on training, helping them, mentoring them. What I see is uh, ideally CPM. I should not be your first certification. It's what I would suggest. So it's better to have a PMP certification, a general PMP, or a project management certification and an agile certification before you actually, uh, you know, venture into a CPM, a kind of certification.
+
+[00:33] So this PMI certification is very specific to managing AI projects. So managing AI projects is not like managing your traditional, uh, projects. So the traditional projects, a PMP or a project management certification will give you exposure. Uh, you know, managing a waterfall project, it's very important to understand that how a project works, like, you know, its inception, uh, all the business cases, charters, how that that works from initiation stage, then moving to planning stage.
+
+[01:08] Then it moves to an execution stage. Finally, you know it continuously. You are monitoring the project risk all those things, risk issues, all those things. And finally you execute and you complete a project and close a project, right? So it is very important to get that concept. So there are a lot of terminologies. Uh, project management uses some of them. If you are experienced, you might already know these fancy terms. You might not know.
+
+[01:35] So it's always better to get a project management certification first just to understand that entire lifecycle and get that, uh, complete systems thinking view of how a project is managed, then an agile certification because it's a different methodology and Cpme is a mix of your crisp-dm that is a data methodology, like, you know, data, those of you who are in the data mining field and all should be knowing the crisp, crisp, crisp I c r I s p crisp methodology. That plus agile plus governance is equal to the PMI methodology.
+
+[02:11] So it is important if you have a Project management are PMP or any similar degrees, any similar certifications in project management or you have vast experience in project management. And if you have an agile certification, then it is easier to relate and better because the current Cpma trend or the exam, the V8 exam is like less of technical and more of a, you know, project management. What would a project management manager do?
+
+[02:41] There is a risk. There is an issue. What what do you update? What do you how do you take it up? How do you do what. How do you inform the stakeholders what needs to be informed? So all this if you are, if you have that and all this, uh, all the certifications are now aligned. PMI certifications are aligned to the PMBoK eight. So it is on similar lines. So it's better to have, uh, project management or and an agile certification, uh, general project management and agile certification.
+
+[03:10] Before you actually think about Cpma, my strong advice is that PMI should not be your first certification. PMI certification.

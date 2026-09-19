@@ -1,0 +1,12 @@
+# Acquire Resources: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 150 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Tools and techniques for acquiring resources are decision making with multi-criteria decision analysis. When we're choosing between resources and who we're going to have on our project, we can look at the criteria that we want to measure them by. Are they available? What's their cost? How capable are they? What's their experience or knowledge or skills or even attitude? Anything that we choose, we can make criteria and then we rank these from 1 to 5 and add them up and choose the highest at the end.
+
+[00:36] As we acquire resources, we're going to need negotiation because we don't own any resources usually. We need to work with people to gather the resources and the materials for our project to get the work done. For example, functional managers, other project management teams if they have resources that we need and external organizations or suppliers. Maybe there's vendors or people providing materials and shipping them from overseas. Pre-assignment is when physical or team resources for a project have been determined already.
+
+[01:10] So we've already agreed, we've got an agreement in place and we know that we've got Jason is going to be on our project and also Kylie, they've been pre-assigned so we know we've got them to do the work. This can happen because it's pre-assignment. It could happen before the resource management plan was created. So those agreements were already in place. Virtual teams are groups of people working towards the same goal but they don't physically work in the same space.
+
+[01:39] So they're not co-located, they're virtual teams, they're geographically dispersed around the country or the world and they might include people working from home or people with mobility limitations or disabilities that can't get into an office. Working with virtual teams and software and video conferencing tools helps reduce travel expenses and even save the expense of offices or physical equipment. So keep these in mind, you may get something around this on the exam for the reasons why we want to use virtual teams, save those expenses and help people work from home and reduce the limitations for people with mobility issues or disabilities.

@@ -1,0 +1,16 @@
+# Line Balancing and PDCA
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 341 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Something that goes hand in hand with constraints and with our Kanban board and working in an Agile team is tact time and line balancing. If you think about this as the cycle time for each column on our Kanban board, we've got requirements. How long does that take? About 10 hours. Development takes, on average, 8 hours. Testing currently takes, on average, 12 hours. So this is our cycle time for these particular areas, and these might be the areas on our Kanban board.
+
+[00:33] Now, the best part about this is we can only go as fast as our slowest process. So we can see that testing currently is holding us up. We need to deliver something once every 10 hours at least, or working hours, and testing is taking 12 hours to complete. So we actually need to either improve this, maybe we can problem solve and bring it back down under 10 hours, or we could split it up. So we could split it up into two tasks, maybe this involves two different people working on two different parts of that particular item.
+
+[01:08] Doing it in that way is actually resource levelling, or line balancing, you'll hear those terms, but that puts some data to our Kanban board and also to our constraints, so we can use that to problem solve. As we problem solve, we might use the Schuett or Deming cycle. This is attributed to both Walter A. Schuett and W. Edwards Deming, who was one of the fathers of the Toyota production system and Lean, and this is a way of describing the scientific method of hypothesis and discovery.
+
+[01:39] So when we have an issue, we plan the change, we find that root cause and potential ideas to solve it, then we implement that change to try and improve it. We check the results to see if they worked, and if they worked, then fantastic, but if they didn't, we're going to adjust, we're going to act and adjust, and it's a cycle because we're always doing this, we're always plan, do, check, and act. We're always planning, doing, checking, and acting or adjusting in a continuous improvement cycle.
+
+[02:12] Another problem solving method that you will hear about is Six Sigma, which uses the acronym DMAIC, so they call it DMAIC, which is defining the problem or opportunity very, very clearly with data, measuring that problem so that we can assign a value to it. For example, if someone says, oh, I've got a problem with analysis or development, well, let's get some data around it. How long is it taking on our line balancing chart, or how many defects are we getting? So let's measure it very clearly, then we can analyze it and find the root cause or the largest area of opportunity.
+
+[02:49] We can improve the problem, implementing the countermeasures that we come up with, and then we keep it under control. So we want to reduce any variability and make sure that we keep it nice and streamlined under control.

@@ -1,0 +1,10 @@
+# Plan Schedule Management: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 104 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for our planning schedule management is the schedule management plan itself and this goes up into our project management plan eventually. We're going to include things like our project schedule model development approach. So how are we actually creating the schedule? What's our process? The level of accuracy, the units of measure, is it seconds, minutes, hours, days, weeks or months? Organizational procedure links if we need to.
+
+[00:31] How are we maintaining the schedule? Are we updating it every week, every day? Are we reporting that up to Grace and sending that schedule out to the business? Maybe Anne needs to know about that as well. And any control thresholds. What will happen if the schedule goes off track by a day? Maybe that's okay. What about a week? We might need to speak with Grace. What about if it goes off schedule by a month?
+
+[01:00] Well, now we might need to really speak with Grace but agree on those control thresholds. So say, hey Grace, when do you want to be informed? When do you want to know and when are we going to need a change request to look at different options and these things are going to impact our scope and our cost now as well. That is all the things for planning schedule management.

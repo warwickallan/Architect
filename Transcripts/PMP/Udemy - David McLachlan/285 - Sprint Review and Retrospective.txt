@@ -1,0 +1,14 @@
+# Sprint Review and Retrospective
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 285 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next, once we've done all that wonderful work and created a usable increment, we present that to the key stakeholders in the sprint review. Together, the Scrum team and stakeholders review what was accomplished, discuss the progress towards the sprint goal. Did it have the effect that we wanted it to have? We had that goal of 25% increasing in sales and this feature or increment was going to get us closer to that goal.
+
+[00:28] Maybe it was going to increase sales by 5% but did it actually have that desired effect? Maybe it didn't and we need to adjust or reprioritise the product backlog for future sprints. Identify changes and collaborate on next steps. The product backlog can be updated to reflect all of these new insights and opportunities now that we've seen it in practice. And lastly, the retrospective is where we come together as a team and plan improvements in our ways of working.
+
+[01:00] The team asks what went well, what problems occurred and how did we handle those problems? The most impactful improvements are implemented quickly. These could also be added to the next sprint backlog if we have improvement or action items. Typically, if we're running a retrospective and there's challenges that the team are facing, pick an action item, make sure it's assigned to someone and then follow up before the next retrospective to try and solve that problem and then we can review that again at the next retrospective.
+
+[01:32] The retrospective is the last event in the sprint. Just another bit of information from the Scrum Guide. There are time boxes to these events and you may not need to know these for the exam but just keep this in mind if you're taking a Scrum-based exam. And it goes like this, 8, 4 and 3, so it goes from high to low, 8 hours as a maximum for sprint planning, 15 minutes for the daily Scrum as we know, but then 4 hours maximum for the sprint review and 3 hours maximum for the sprint retrospective.
+
+[02:05] So as we're going through our sprint, it just gets less, 8, 4 and then 3.

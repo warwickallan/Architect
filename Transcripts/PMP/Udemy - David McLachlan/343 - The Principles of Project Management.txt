@@ -1,0 +1,12 @@
+# The Principles of Project Management
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 343 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome to this section on the Project Management Body of Knowledge 7th edition overview. This section is so powerful because the PMBOK 7th edition is actually a very high level overview of project management. It's the perfect review before your exam and it's actually quite short as well. So we're going to go through this project management overview as it's described in the PMBOK 7 and this is a great way to brush up before your exam and that's why we've put it at this part in the course.
+
+[00:33] We're going to start with the high level overview and the basics and then delve into some of the processes and how to manage your projects with all of the artifacts and models and methods and tools. The first thing we start with is the 12 principles of project management and these four values were seen as most important to the project management community and that's responsibility for the work and for our team and for the value that we're delivering, respect for our people and our team as well and also for the organisation that we're delivering to, to be a good steward for that value, fairness in the work that we do and honesty in the work that we do.
+
+[01:10] The principles of project management also overlap with general management. They both focus on measuring and delivering value and maintaining a vision and ensuring that objectives are met but project management as we know delivers a change, it delivers something of value whereas general management principles is more of your business as usual, it's your operations and day-to-day work. So these 12 principles of project management are a really nice overview and reminder of what we want to be doing as we're answering questions on the exam and also being a project manager in the real world.
+
+[01:46] We'll go over them in detail so here they are at a high level, being a diligent steward, focusing on value, tailoring the project and our ways of working, looking out for risk and building quality into the processes, navigating complexity and there's always a lot of complexity and volatility and ambiguity on our projects and of course being a good leader and demonstrating those behaviours. So let's go into these in a little bit more detail.

@@ -1,0 +1,18 @@
+# Plan Financial Management: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 114 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The output that we want for planning financial management is our financial management plan. So this is where Billy is going to take all that information and put it together in his process, in his plan. We'll include things like the units of measure. Is it in dollars and how are we measuring it against? Is it staff days or weeks? Is it kilometres of measure? Is it tonnes for a particular resource?
+
+[00:30] The level of precision, which is the degree that we round up or down. So if our estimate is $995.59, do we just round that up? If it's not too precise, maybe we just make it around $1,000. Now the level of accuracy that we need to know, the acceptable range in our estimates. For example, if it's not very accurate, we need to use those ranges for our estimates. We need to add maybe 20% on to the costs.
+
+[01:00] I've seen this happen in the real world. If a project is going for two years, then there's usually quite a large contingency. We'll have 40% to 50% contingency on our budget because there's lots of things that can happen within those two years. It's not very accurate because there's still such a long way to go. Organisational procedure links and control thresholds, again, when do we need to escalate to GRACE or gain approval?
+
+[01:28] If it goes off by $1, maybe that's not so bad. But if it goes off by $100,000 on this project, then maybe we're going to need approval. Check in with GRACE. Maybe she has a steering committee. We go there and talk it over. Maybe we need a change request and we need to check the impact to the other things on our project. How we measure the budget, so our earned value management techniques. Reporting formats.
+
+[01:54] Who do we report the budget to and how often? And additional details, so description of our strategic funding choices and how we manage any currency changes if we've got different countries and how we report on that project cost. The other thing we'll need is our funding strategy. Our project will often need that money to be successful. Funding can come from inside or outside the organisation. It could be from internal budgets. Could be just one lump sum.
+
+[02:23] Or it could be in increments at our phase gates once we've approved to the next phase. Could be external investment from people who want to invest in this application as well. Government or non-governmental organisational grants. So NGO is non-government organisation. Crowdfunding. You know, Kickstarter or those sorts of things. Then they could crowdsource or crowdfund a particular project. Or client contracts.
+
+[02:51] They might pay some money up front and that will fund part of the project.

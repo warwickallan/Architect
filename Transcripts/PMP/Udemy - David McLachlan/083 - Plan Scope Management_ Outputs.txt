@@ -1,0 +1,12 @@
+# Plan Scope Management: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 083 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The outputs that we want from our planning scope management are, surprise, surprise, our project management plan itself, and that's our scope management plan and requirements management plan. So scope management plan includes our process for how we're preparing our scope statement, a process for how we're preparing our work breakdown structure and breaking everything down, and we'll go through these processes coming up next, a process for how the scope baseline will be approved, and maybe Grace needs to give her seal of approval on this, or maybe it's Anne as a functional manager, however we decide when we're planning scope management, and of course a process for formal acceptance of the deliverables.
+
+[00:48] We've created them, we've tested them, they've come up okay, and then we just need the formal sign off. This one's probably from our customer or whoever's paying for the project, and that will probably be Grace in this case. We also want our requirements management plan. This is usually done with our business analysts. So we've got Jimmy and Jason, our two business analysts, this is going to be their way of working for how they elicit requirements and then break them down and prioritize those requirements with our stakeholders.
+
+[01:18] So it describes the product requirements and how they'll be analyzed, documented and managed. It could also be called a business analysis plan, but it's usually owned by the business analysts in the team, and of course it becomes a part of our overall project management plan. So a few other things that we might include, how we prioritize the requirements, how we keep them under control for any changes, and how requirements will be planned, tracked and reported. We're going to use our requirements traceability matrix, which has the requirements, who requested them, and then the scope that is delivering that requirement.
+
+[01:58] So we can clearly see if we've delivered the piece of scope that has met those customer requirements at the end of our project.

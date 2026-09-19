@@ -1,0 +1,18 @@
+# Control Scope versus Validate Scope
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 230 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now that we've gathered the requirements, turned it into solutions or scope for the project, broken it down and turned it into our scope baseline, and we're creating that scope throughout our project, we want to validate scope and keep our quality under control. Now these two things can be confused on the exam, so we'll go over them very briefly. The process of managing changes to our product and verifying the product quality is monitoring and controlling the scope.
+
+[00:31] So as we keep our scope under control, we make sure that it meets our customer requirements, and then at the end, that scope is verified. So it's verified for its quality through quality control. Now, once it's verified and all of those tests have passed and everyone's happy that it meets those customer requirements, we take those completed deliverables to the customer, the project sponsor or whoever is paying for these items for their sign-off or their final acceptance.
+
+[01:01] This is where they validate the scope. So validating the scope is signing off and accepting it as a customer. Verifying it is performing quality control and doing testing and making sure that it meets the customer requirements. Previously, some of these were done in control quality in the PMBOK Guide 6th edition. So it's changed ever so slightly, but the process remains the same. So keep that in mind for your exam.
+
+[01:28] There's also a few extra artificial intelligence terms that we'll see in scope, machine learning and natural language processing, software developed to learn from past experiences, just like humans, and forecasting to create future results. It's typically trained on large pre-structured or labeled datasets is machine learning. But we can couple that with natural language processing, which is software developed to process natural language like humans and use as chatbots, speech recognition, maybe a voice to text for our meetings and summary notes, text extraction and summarization and sentiment analysis.
+
+[02:08] If we're in a meeting, we could have it analyze the voice to text from the meeting and then summarize the sentiment. So see how that meeting actually went or even pull out action items and assign them to people. There are many tools for this already, for example, co-pilot in Teams or in any of our messaging services. We can also use things like augmented reality and virtual reality. Augmented reality overlays changes or designs on an existing physical environment.
+
+[02:36] For example, if you've ever played Pokemon Go, you hold up your mobile phone and it shows you what you're looking at through the phone, but then it overlays the Pokemon in that environment. So it looks like that Pokemon is right there in front of you. That's augmented reality, but you can do that with home designs or even designs of other products like vehicles, really anything in an existing physical environment that you want to add to using a smartphone or even a headset.
+
+[03:06] Virtual reality is where we simulate walking through a 3D model or a design using headsets or glasses to get a clearer picture of the project scope and deliverables. If we have a design of a house, we may actually be able to walk through it using virtual reality and see where everything fits and see if we need to make any changes based on experiencing that design in the first person. This is a new level of prototype.

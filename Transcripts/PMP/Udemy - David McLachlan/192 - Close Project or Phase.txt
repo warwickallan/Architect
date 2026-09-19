@@ -1,0 +1,14 @@
+# Close Project or Phase
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 192 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. You made it to the last section of our project processes, closing a project or closing a phase. Here we are. It's the only process in the closing section. And in an agile project, we might do all of these things, analyze our scope, perform and deliver the scope, keep it under control. And then we'll do that for each increment that we deliver. But on a waterfall project, we might just do this once and then deliver it all in one go.
+
+[00:31] So now it's time for us to work through closing a project or our phase. And this is where we review our plan and check that all of the work is completed and we finalize all the activities on our project, on our phase or the contract. We're going to confirm the delivery and formal acceptance of any deliverables. Do you remember how we do that? That is in validate our scope. And that's done by our customer or our project sponsor. Yep, exactly right.
+
+[00:59] Now, what do they need to do before they validate the scope? We need to verify the scope and make sure that it meets our quality. Okay, we've got two things. We know these now. Finalize any open claims with our procurements. Ensure activities to transfer the project's product to the next phase or into operations. So we're transferring this back to Grace and the business so that she can use this on a day-to-day basis. We want to measure stakeholder satisfaction.
+
+[01:28] Do a final lessons learned or a retrospective. Ensure that our costs are charged to the project and any project accounts are closed and then archive all of that wonderful project information. And of course, here we are with Billy and our project team. They've worked so hard and now they've really delivered this item. So as we complete the project, then some of our resources can be moved on to new projects or back into the business where Grace is the business owner.
+
+[01:57] Inputs, tools and techniques and outputs. As you can see, lots of different things, but basically we're just checking that everything was done as we wanted it to be done. And the main outputs that we're looking for are our final report. That's the main thing that we're going to create. And the main thing we're going to do is our final product, service or result transition back into the business.

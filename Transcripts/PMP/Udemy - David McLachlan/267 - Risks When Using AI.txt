@@ -1,0 +1,12 @@
+# Risks When Using AI
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 267 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we use artificial intelligence, there are concerns for responsible use and ethical use. So keep these in mind in the real world and for your PMP exam. Even though using artificial intelligence can be easy to do, sometimes it's not the right cause of action because we might have privacy concerns or bias in the data and maybe even safety concerns if it's not giving us the right answer. So for bias, AI systems can be biased if they're trained on biased data.
+
+[00:34] So keep that in mind. We may need to check it ourselves. Also privacy. Even though AI can handle a lot of information, it could be sensitive information that we don't really want to be spread everywhere. So we want to be aware of the proper security and adherence to privacy policies to prevent issues around privacy in our data. Accountability as well. We can't just offload the accountability to AI. We still need to check those results and answers. And even reliability.
+
+[01:03] Sometimes it can be known to hallucinate, as they call it, where it's giving us the wrong answer, but it's doing it very confidently. So again, we need to check. Safety. AI systems should be well designed and tested to ensure safety, especially when human safety is involved. Transparency. We need transparency on the data that's used to train it, the handling and the algorithms, and sometimes that's not available. So we need to be careful with the outputs.
+
+[01:29] Copyright issues can also arise with AI generated content. So make sure we're following the applicable laws and consider the human contribution to the output. Lastly, sustainability. Because each AI request uses a lot of electricity, water, and other resources, and this should be considered when we're using artificial intelligence in our projects.

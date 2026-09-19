@@ -1,0 +1,8 @@
+# Three Strategies for AI Adoption
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 265 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now there are three different ways that artificial intelligence can assist us as project managers. Automation, assistance, and augmentation. And we're going to see each of these three different ways come up in various questions. Automation is when we're automating low-complexity tasks. Again, if it does this, then we want it to do that. It's quite straightforward.
+
+[00:28] Generally we could program that logic ourselves, or we could ask a GPT model to do it for us. We can also use it for assistance, where we're looking at outputs like risk registers or even schedules for our project. So we're getting it to assist in those tasks. And we might still need to review or refine those things that it gives us, but generally it can help us save some time. Lastly, we've got augmentation, where it's enhancing our skills for strategic tasks. We might do brainstorming for new ideas, or even forecast risks or other things like refining our ideas through multiple iterations.

@@ -1,0 +1,14 @@
+# Compliance & Customer Satisfaction
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 326 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We might also need to use compliance to prioritize, compliance to certain regulations as a way to prioritize our product backlog. Maybe we really need to meet this certain regulation and if we don't it's going to cause us troubles quite quickly. So we can use compliance to laws or policies or regulatory or industry or organizational requirements. We can use that when we're prioritizing the product backlog. You might hear the term customer valued prioritization.
+
+[00:31] This means that we're delivering features that are valued by our customer. And how do we tell that? We could use customer satisfaction surveys or we could use the net promoter score. The product owner represents the customer as we know and we want to gather that feedback from the customer. The net promoter score or NPS is one way to do that. We ask on a scale of 1 to 10 how likely would you be to recommend us to a friend and maybe that's based on this particular feature or maybe it's our entire product.
+
+[01:01] So some people rate us a 9 or a 10, those are our promoters. Some people rate us a 0 to 6, those are our detractors. And basically we want more promoters than we have detractors. We want net promoters. We can also prioritize using Moscow which is must have features, should have features, could have features and will not have features. If we're doing this with stakeholders, keep in mind that our stakeholders may just say everything is a must have.
+
+[01:36] Typically they won't have any bad ideas but if that does happen, we can use WIP limits or work in progress limits. We can say we've got 5 spaces for must haves, 5 for should haves, 5 for could haves and 5 for will not haves. We can make it even across each of these buckets and that can really help our stakeholders prioritize properly. As we're prioritizing, you may also hear the term relative prioritization or ranking. Basically that just means that we're ranking each feature relative to the other feature.
+
+[02:10] If we're measuring them by their benefit to cost or BCR, then we want to measure them all by their benefit to cost ratio and then we want to choose the highest ones first. As you can see, this one's a 5 to 1, this one's a 3 to 1, so this one comes first and this one comes second and then it gets less the further down the list we go. Keep that in mind. All of our prioritization is usually relative no matter how we're measuring it.

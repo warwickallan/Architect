@@ -1,0 +1,12 @@
+# Elicit Requirements: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 087 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for elicit and analyse requirements will be our requirements documentation. This describes how individual requirements meet the business needs for the project and as with all things it should suit your project. So it could be just a few lines on a page or it could be a large document with designs and matrices and all sorts of different things. Requirements have to be testable, traceable, complete and consistent and also acceptable to stakeholders.
+
+[00:31] So Jimmy and Jason will work with the business but Anne or Audrey or even Grace from the business will need to accept and make sure that they're acceptable to those stakeholders. We can use our requirements traceability matrix here, wonderful tool where we've got those requirements listed, maybe we've got them in the order of their priority as well and then we've got the scope that is going to deliver it and the test case that is going to test and keep it under control.
+
+[01:01] There are many different types of requirements that we'll put in requirements documentation. The business requirements or organisational need, stakeholder requirements in order to get their job done, solution requirements which are the features and functions and deliverables of the product that we're going to deliver and then the transition requirements which is like our change management, organisational change management. So what's the training, what's the communication, what are the new processes that the business needs in order to use this new system or the new thing that we're delivering.
+
+[01:34] With requirements we'll have functional requirements which is how it works, so pushing the buttons, this button, this page goes here and non-functional requirements which is how it performs, availability, uptime, downtime, usability or security measures and those are all the things in illicit and analysed requirements.

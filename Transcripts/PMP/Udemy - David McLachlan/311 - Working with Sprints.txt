@@ -1,0 +1,20 @@
+# Working with Sprints
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 311 (section 8: Real Agile Project Example using Jira)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, as you can see, we've already got one sprint set up. So once we add enough user stories to our backlog, we can start dragging these up into sprints and we can also create new sprints. So from our backlog, we select create sprint and it will automatically add another sprint for us. Let's add in the dates of these items. So if we want to start it from any day, the duration, you can make it your own.
+
+[00:27] Usually it's two weeks for an iteration and then that sets everything up for you. We'll update that and then we can change the dates for our second sprint as well. Now, the good thing is if we create another sprint from here once that's already set up, it should give us the dates automatically and it does and it gives us two week iterations. So that's really good. Now we've got three nice sprints here. We've got our epics and we've got a user story. What I'm going to do is just fill out the rest of the backlog so we've got something to work with.
+
+[00:56] Now, as you can see, we've got a whole bunch of user stories here in our sprint backlogs. This is sprint number three and here are all the user stories. They've all got epics on them and they've all got estimates and we can assign them to people once we have people in our project team. As you can see, we've also got other sprints and they're full of work and we've got work in our overall backlog, which can be assigned to sprints at any time. Now, what we want to do with our sprints is have a look at these numbers up the top here.
+
+[01:26] We can see that there are 25 user story points in progress. There are four in to-do and there are zero completed. Now let's say we've been working for some time and our team is able to complete 25 user story points every sprint. Then we want to keep a sustainable pace. During sprint planning, we want to plan for 25 user story points in the upcoming sprints as well to keep that pace nice and even.
+
+[01:56] And as you can see, we could add a few story points to this one because it's only got 17. So we might select this user story and drag this up and then, oh, there we go. Now we've got 25 user story points in this one and we're keeping that velocity even. Once we're in a sprint, these cards will appear on the Kanban board and if you remember, I think this one we could set a column limit. We might have a limit of two in this. Now it's highlighted because we've got three user stories in this column.
+
+[02:26] But if we move these across to each of the columns as we complete these tasks until they are done, let's say we do a whole bunch of really great work throughout this particular sprint. All of this work is completed. Maybe we've just got one or two left over. Now it's the end of the sprint. We're going to complete the sprint here on our Kanban board. So we'll click this and any extra work that we have left over, because we had two user stories cards left over, we're going to move those to the next sprint.
+
+[02:56] We can create a retrospective at the same time, but we won't do that for now. This is mostly just about working within Kanban and the backlog. And now it takes us back to our sprint backlog. As you can see, we've got 25 user story points plus four. So 29, it's a bit more than what we would like. So we could actually move one user story out to keep it at our 25 pace. It's around 26 now, 24 plus four, 22 plus four. And I think that's appropriate.
+
+[03:23] Now we've got this ready and we can start our sprint. So we'll click start. We've got all of the dates correct that we want them to be. We want the duration to be two weeks. We can add in a sprint goal if we want to. What do we want to complete during this sprint? And then we click start. Now we've got all of our user story cards ready to go and to start moving across our Kanban board.

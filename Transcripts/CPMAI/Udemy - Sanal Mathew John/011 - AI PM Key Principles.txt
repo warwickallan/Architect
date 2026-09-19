@@ -1,0 +1,30 @@
+# AI PM Key Principles
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 011 (section 3: AI Project Management - Key Principles from PMI)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Okay. Hi everyone. So let's look at, uh, the key, uh, APM, which is AI project management. The key principles by PMI in the PMI. So let's discuss uh obviously. So the first step always uh, is all about identifying what kind of a problem it is. It is start with a go or a no go assessment. Clearly what the problem is.
+
+[00:32] Is it an AI problem or is it not an AI problem? Firstly, we have to justify. The first step is to justify a. Is the solution best solution a solution fit for this particular problem? And it is something that cannot be done using traditional methods or any other, uh, you know, solution, any other solutions or any other step by step approach or a programmatic approach. So that is the first step.
+
+[01:00] So for step one start with a go or a no go feasibility study assessment, whatever you call it. Now the next step is, or the next principle that we will be looking at is to make data very important. Make data quality your top priority. First of all, the availability of data. Do you have the available data? Then what is the quality of the data and what is the relevance of the data? So if you are, you know, building some medical, if you are creating a model for identifying, uh, or, you know, abnormalities in an x ray or a medical report, then you will need data relevant to that.
+
+[01:42] Right? You cannot have data of, you know, some sales figures, uh, or some machines or something. So data availability quality and relevance. So that is the second principle. Third principle is defining success with business KPIs. Now align technical model metrics with measurable business outcomes like your cost savings, improved efficiency. So what are you going to achieve out of it?
+
+[02:09] What is a matrix? What are you going to measure? So at the business stage you are setting up the KPIs metrics later stage. What are you going. You're going to measure it. The outcome whatever the outcome of the model, whatever your the model has achieved, you are going to measure it against the KPIs that you have set. So these metrics then become that is the third principle. The fourth principle is to ensure transparency and explainability. Now this is a trade off.
+
+[02:36] Some algorithms, some models might be very complex because they have to give you high precision, high accuracy kind of stuff. So they're sometimes you know, you might say explainability is not that great for me. What is important for me is to actually, you know, provide produce great results. But then question comes, you know, the model is giving you great results, but nobody is able to interpret how it arrived at that particular result or objective or that particular result.
+
+[03:06] Then the question comes can we trade? Uh, some part of explainability, uh, maybe, you know, you might have to use a lesser complex models so that, you know, you the decisions that the model takes, you are able to explain that becomes the explainability and the transparency aspect of it. You need to know how the decisions are made by the model. Right. And you have to understand on what basis are these decisions getting made. And you need to explain it to somebody who comes from an audit or something.
+
+[03:37] On what basis this has made. Now, the fifth principle that we want to talk about is the continuous model performance drift. Okay. So once you have put out the put the model out and you have started the model has started working. Now you have to continuously monitor it. For there are various kind of drift can be data drift model drift performance drift. So you have to like continuously monitor it.
+
+[04:05] Analyze real world data for shifts that can degrade the model accuracy. After the deployment. So once you deploy, you're continuously monitoring. It is not that, you know, uh, you have done everything and you hand over it to somebody else and that's it. So unless until there is a specific operations team who's doing that part, it becomes a part of the project. So it becomes a part of the whole project itself that, you know, you don't actually stop the project. Now the monitoring phase starts.
+
+[04:34] Now the last phase is to adopt an agile rollout or a phased rollout. Now, while pilots are encouraged in AI projects, POCs are not. Because POCs don't fall into this POC trap is something that you will find in the guide. Also, you pilots also need to be short. You need to pick up a problem that is comparatively easier to solve. That's not much complex. Pick up a problem you know. Not that not very complex or not a very lengthy long problem.
+
+[05:04] You can then use an iterative approach and gradual implementation to manage the risk and employee resistance. So you start with something small, iterate often, convert it into something big. So these are the key principles. The key principles that the PMI talks about in this whole cpma is about all about start with a no go or a go accessibility assessment or feasibility study. Call it the data availability and its quality.
+
+[05:34] Now uh, defining metrics, KPIs and measuring against it now ensure transparency explainability. You want to monitor your model continuously. That is one aspect. Uh, fifth aspect. And the sixth is to have a phased approach or an agile sort of iterative approach. Start with something small, iterate often. Okay.
+
+[06:00] So these are the key principles. Remember that for your exam point of view also.

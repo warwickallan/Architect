@@ -1,0 +1,16 @@
+# Tailor Your Project
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 345 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now the next one, tailor our situation or our project processes based on what we're doing on the content. So tailor based on content. Each project is unique because we might have a different team members. We might have a different product. We might have different industry. We might have a different company that we're working for. We might have different regulations. The list goes on and on.
+
+[00:27] There's so many things that can change. That's why it's important for us to have our project management process and just adapt that, tailor it to the situation. We want to modify our approach and the PMO or the project management office can help with existing ways of working. So they may have an existing approach. Maybe it's an agile approach or a waterfall approach or different approaches with their steering committee or governance or phase gates. And that's where we can start and then we can tailor.
+
+[00:58] It's also iterative because we're going to continuously improve as the project progresses. Next we want to build quality into the processes and into the deliverables that we're creating. Project quality means satisfying our stakeholders product requirements. What did they want out of this product in the first place? And ensuring that there are no defects or no severe defects or mistakes. Does it function as the stakeholders intended and does it produce consistent metrics each time it's used?
+
+[01:31] Because if we're getting different metrics or outcomes every time, then it's not very stable. There's too much variance and the stakeholders may not be getting what they intended in the first place, their requirements. Next, as a project manager, we want to navigate complexity because projects are complex. And here's that wonderful equation that we were talking about before with the more people. So if you remember, complexity is the result of human behavior, competing needs amongst people, competing system interactions, uncertainty and ambiguity.
+
+[02:08] So the more people we have, the more communication channels we have. Remember n multiplied by n minus 1 divided by 2. And what that looks like is if we have a team of 10 people, 10 multiplied by 10 minus 1, which is 9, and then divided by 2. So what's that? 90 divided by 2 is 45. Hopefully my mathematics is correct. But as you can see, we've got 10 people, but 45 communication channels. And that number goes up exponentially the more people we have.
+
+[02:41] So that complexity, we have to be aware of that.

@@ -1,0 +1,16 @@
+# Managing Resources
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 360 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we manage physical resources on our project, this can include materials or supplies from third parties, and we're going to need to plan, then order those materials, transport them, make sure we've got enough time there, store those materials, then track those materials as they're used, and keep all of that under control. Large amounts require an integrated logistics system documented in company policies. We can't wait time and reduce handling with the lean wastes, so can we reduce transport?
+
+[00:34] Can we reduce overproduction? Can we reduce any waiting? Can we reduce the amount of inventory that we have, or the amount of motion that it takes to get that inventory? And excessive processing, can we reduce those process steps to get what we want? We can remember the lean wastes with downtime, so that's our acronym for all of these things, defects, overproduction, waiting, non-use of time and talent, transport, inventory, motion, and excessive processing.
+
+[01:02] As we're working with procurements, procurements will involve things like contracts for our materials, equipment, labor, or services that we need to hire externally. Project managers usually won't write the contract themselves, but they're going to work with contracting officers in the organization, so keep that in mind with rigorous policies in place. Because these are legal contracts, we might have that specialized expertise. A project manager might work with technical experts and the contracting officers to develop a request for proposal, RFP, request for information, or request for a quote.
+
+[01:39] Different types of contracts, like fixed or variable cost, statements of work, and even terms and conditions for the vendors that we're hiring. The bidding process for procurements can include these documents, our request for information. That's useful for just gathering information on what different vendors can do. Request for proposal is where we've got complex scope or a complex situation, and we need a vendor to propose a solution, and so that is our RFP.
+
+[02:10] Request for quote is where price is the main factor. We just need a price for a set item of scope. Choosing a vendor is source selection, and that's often based on price, delivery, or experience. We might have source selection criteria in our business or our organization, so it can't be over a certain price, or it must be with these certain vendors, or they must meet these regulatory needs.
+
+[02:36] All of these different things can be part of our source selection criteria. Everything can also be negotiated from cost, scope, location, delivery, or payment dates. Once a vendor is selected, we're going to need to update our project plan with those vendor details, because they now become a project stakeholder.

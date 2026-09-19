@@ -1,0 +1,12 @@
+# RBS, RAMs and RACIs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 231 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now that we've worked through the project governance, the stakeholders and the scope of our project, it's time to look at the resources that we're going to need in order to deliver all of these items. Lots and lots of key concepts for resources on our project. So let's get into this and how to manage these things as we go through delivering value for our organisation. The resource breakdown structure is our first item, also known as an RBS, and it's very similar, if you'll note, it's very similar to our organisational breakdown structure or organisational chart, except it's just for our project team instead of for the business.
+
+[00:41] So an RBS is a hierarchical chart that shows the layout of our project resources, most often our project team, but it could be used for physical resources as well if we're breaking down everything that we need for this particular part of the building and all the resources or materials in that section. A Responsibility Assignment Matrix is an RAM, you might hear that term, or a RACI, that's the most popular version of a Responsibility Assignment Matrix.
+
+[01:11] And this shows the connections between the deliverables or the activities and the project team members. So who is responsible for doing what? So the most common one is a RACI, who's responsible for the task, who is accountable or signs off on the task, who is consulted, who provides their expert judgement, and then who is informed, who needs information about what we're doing. And these could be things like creating the project charter, collecting the requirements, who's responsible?
+
+[01:41] In this one, it's Caroline is responsible, but Ben needs to sign off on those requirements, he's accountable. And then we've got change requests or developing test plans, any of these activities or deliverables that we need to complete as part of our project, we can include in our RAM or RACI. It provides clarity and it reduces confusion on who should be doing what, so it's very, very handy. And it can be done at a high level, the organisation, or at a low level with our team and our team members.

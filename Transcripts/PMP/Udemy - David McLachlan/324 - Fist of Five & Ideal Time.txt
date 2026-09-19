@@ -1,0 +1,12 @@
+# Fist of Five & Ideal Time
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 324 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're estimating and looking for confidence in our estimates, we can check for consensus using the fist of five. You might hear this or use this in your Agile team. It's where we ask the team to vote for their confidence in the estimate from zero, which is no confidence, so zero fingers, to five fingers, which is complete confidence. Now again, similar to Wideband Delphi, if someone estimates a three or less, then they have the opportunity to say why.
+
+[00:33] Why don't they have a very high confidence in this particular item? Then they can discuss it. They can say, well, I've seen this happen before and we had some issues, so I'm not sure how we're going to handle these issues. Then the project manager can continue with the fist of five process until the team achieves consensus or agrees to move on to the next decision. Lastly in Agile estimating is ideal time. Ideal time is the amount of time that something takes when we remove anything that doesn't directly add value to the customer.
+
+[01:04] If you remember in Lean, we've got the wastes of downtime, and this is a great way to see what's not adding value to the customer. Any excessive processing, any defects or rework, any waiting, overproduction, any excessive motion, any extra inventory transport, and non-use of time or talent. We want to remove non-value-added activities that don't directly improve the customer experience or the product, and we want to focus on value-added activities. We can see this in a value stream map where we can see our process steps to create the item, and we can also clearly show queues or waiting.
+
+[01:43] Maybe there's a bit of rework that we might have here. Maybe there's other documents or other reports that we need to create that don't add direct value to our customer product, and we call that out on the peaks of our times so we can clearly see at the end all of our non-value-added time, and we know how much we can improve our process if it was ideal time.

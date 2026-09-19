@@ -1,0 +1,12 @@
+# Plan Risk Responses: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 133 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for planning risk responses, one of the main ones will be change requests because if we respond to a risk, it might impact or change our budget, our cost, or our schedule and the durations, for example, or the activities, or it might even change the scope. So we're going to need a change request to go through the process outlined in our change management plan.
+
+[00:28] And we'll go through that process, adjust those things as necessary to help keep our project under control. We'll also need to update our project management plan for any part, so schedule, or cost, or quality. Anytime a risk impacts these things, we might need to update that in our project management plan. And also assumptions, costs, the project schedule, project team assignments, the risk register itself, and the risk report and lessons learned.
+
+[00:56] So if any of these things are impacted, schedule, costs, project resources, then we might need to update those things. But the main one is our risk register where we can add a little bit more detail to these risks now. And we're at the end of our risk planning phase. So we can add in the risk responses to the risk register, the trigger conditions, so when is that risk response triggered, the budget or schedule details to implement those responses, contingency plans if we have those, and residual or leftover risks after the response.
+
+[01:29] Now what that means is, let's say we have a risk and the probability of impact is a three and a four, but after we put our control in place and we mitigate that risk, then the probability of impact is maybe a two and a two. So we've reduced the probability and the impact. And now the overall risk is a four instead of a 12. I think that's correct if my maths is right, but I hope you get the idea. That's our residual or leftover risk.

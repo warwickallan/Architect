@@ -1,0 +1,18 @@
+# Dynamic Systems Delivery Method
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 297 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We've also got Dynamic Systems Development Method, or DSDM. And if you remember, this is where we got our triple constraint and the difference between normal projects and agile projects all the way back in the mid-90s. So it's an iterative project management approach originally released in 1994 in an aim to bring more discipline to the popular Rapid Application Development, or RAD, at the time. So there's another framework, one that we haven't even really covered, but it's sort of morphed into DSDM.
+
+[00:35] So as you can see, there's just so many different frameworks and how they all came together. DSDM fixes our cost, quality, and time. So as you can see, we've got fixed time, fixed cost, and the reason why this is is because we have a funded team, so a fully funded team. It's just a small team in agile, 10 people or fewer, but we fund them for a certain amount of time. We say, okay, we've got 12 months or nine months or two years or six months, whatever that looks like.
+
+[01:06] It's a set amount of time and a set amount of cost because all we're paying for is the team to deliver the scope on a continuous basis, and we're just prioritizing that scope, usually using Moscow in this case. So must have, should have, could have, and will not have. We've seen that in the key concepts before. Can you remember what we do if all of our stakeholders want the must have for all of their items? Well, we can use work in progress limits.
+
+[01:34] So we can say, okay, we've got 20 features. That means we can have five in each bucket. So if you've got six in must have, we've got to bump one down to should have. That's just a nice way to deal with that if we need to. The core principles of DSDM are focus on the business need, the value that we're delivering, collaborate with each other, deliver on time, never compromise quality, develop iteratively, so we're always iterating and improving, build incrementally from firm foundations.
+
+[02:08] What does that sound like? That's our walking skeleton or our MVP model where we've got our basic system and then we're adding features to it. Communicate continuously and clearly and demonstrate control and use the appropriate techniques. Core techniques of DSDM include time boxing and we've seen that. That's our iterations or maybe we're time boxing for a spike, which is research within a certain timeframe.
+
+[02:35] Maybe we give two days to research a part of the system and that is our spike card. We've got Moscow for prioritization, prototyping to use wireframes or models to see that work before we begin. Does that sound familiar in feature driven development? We develop the high level overall model so we can see where we're going. We also do class diagrams and those sorts of things so we can see what the code looks like. We're bringing it out of our heads and onto the page so everyone is on the same page.
+
+[03:08] Workshopping, testing, swarming around problems, modeling and building diagrams to describe the code, as we said, with a context diagram or a sequence diagram. You'll see these in the key concepts of Agile. And then configuration management to track any versions or changes in the system.

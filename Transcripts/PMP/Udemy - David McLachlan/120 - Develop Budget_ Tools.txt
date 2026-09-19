@@ -1,0 +1,18 @@
+# Develop Budget: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 120 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The tools and techniques that we'll need to develop our budget are our expert judgment. Hey, haven't seen that one in a while. But we might have people with information on similar projects, the financial principles and methods. For example, does someone know how to hedge the currencies and they've done it well on previous projects? We need to get them involved if we're working with different currencies there, and maybe even inflation. I know for certain construction projects, they might go for one to two years developing schools.
+
+[00:30] This is where I was working with, but they had a 40% contingency because the prices can change. The material prices can change so much just within one to two years from the design phase all the way to the time that it's built. And because it's such a long time, they need that contingency in there. So that's also good information to have. And we need people with the right expertise. So very, very handy. Cost aggregation means that we are adding all of our costs together from the lower level in the work breakdown structure to the higher levels and ultimately to our overall budget.
+
+[01:10] This is also called bottom up estimating. Exactly right. You guys are doing really, really well. Now reserves. Do you remember the two reserves that we have? One is the contingency reserve, and that's for risks, for known risks. And the management reserve is for unforeseen scope, but that we still want to do. So we didn't see it coming, but we still want to deliver it. We often need a change request to access these management reserves.
+
+[01:40] So keep that in mind. It's not part of our cost baseline. It's an addition on top of that. But we're going to review our contingency reserve with our contingency reserve burndown chart. So that is just like a normal burndown chart. We'll see those more in Agile, but we can use it here as well. Historical information to help us develop the model. Use accurate quantifiable parameters in the model for our budget, and use models that can scale. So they work for small projects, large projects, and even for the different phases.
+
+[02:14] In other words, all of the estimating types, to make sure that they're accurate, these models should have all of these things. Historical information, quantifiable parameters that we can see and that we can trust. So if it's $100 a meter of metal or the materials that we're using, then we need to know that that is accurate. And that way we can trust the model for our budget to scale, whether it's small or whether it's large. Other tools and techniques that we're going to use are funding limit reconciliation. If you hear this, this is where we reconcile our budget, which means that we have our costs that we've planned, and then we have our actual, what we've spent.
+
+[02:54] So we reconcile against our budget. So we said we were going to spend $100 on this item, and we spent $100 on this item. Now those two things are matched up. We said we're going to spend $1,000 on this item, and we only spent $500. Okay, then we need to note that, but now those two things are marked off. We're reconciling our budget. If we've overspent or underspent, we may need to reschedule items using schedule compression tools if it impacts our schedule or the scope that we're delivering.
+
+[03:24] Because a change in cost is going to impact the other items in our triple constraint of schedule and scope, and the added bonus of quality, which is always there.

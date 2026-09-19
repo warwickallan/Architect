@@ -1,0 +1,18 @@
+# Critical Path and Project Calendars
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 199 (section 5: Real Project Example Using Microsoft Project)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] And now that we've set up all of that, I'm going to switch over to one that I've prepared earlier. As you can see, it's got all the information in here with all the durations and all the predecessors, the initials of the people who are working on it and the costs involved. And all of that rolls up to our overall Harmony Fitness project with a duration of 84 days and a cost of 123,000 based on the information that we've put into this project file.
+
+[00:29] If we right click on our Gantt chart area, we can also change the grid lines or the layout. If we select grid lines, I'm just going to add a nice line so that we can see where each bar fits. Now there's two more things that we need to do as part of our working project file. And the first one is, you've seen this a few times, our critical path. The good thing about this is Microsoft Project does this automatically. If we go to Gantt chart format, we can select critical tasks and it will show us which tasks are on the critical path.
+
+[01:02] Remember, it's the longest sequence of deliverables, but that's the shortest time that we can complete our project in because all of those are done in sequence. We can't finish it any shorter than that. And the other thing we need to do is set up our team working times with our project calendar and our resource calendars. Do you remember these? If we go to project, we can go to change working time. Now this is going to set up our project calendar.
+
+[01:31] When is our team going to work? Our standard project calendar, we can select the options and the options might give us the default start times, default end times, and when the week starts, when the year starts, all of this information to help us show when our team members will be working on our project. We can also set up public holidays or days that our team might have off. As you can see, we've got a public holiday listed here with the start and finish date.
+
+[01:59] And the details of this are that it's a non-working time. So we can add in as many public holidays or days off as we need to. Now we can also do this for individual team members. If we create new calendar, then we can maybe make this the project manager's calendar and we can make it a copy of the standard calendar just so we've got that information. And this way we can go to options for our project manager and their working times. Maybe they will start at seven in the morning or maybe they'll start at nine in the morning or maybe they have different times.
+
+[02:30] Maybe they work on weekends as well. We can add all of that different information if it's different to our standard calendar. And now our Harmony Fitness project is starting to look really good and we've got a lot of very valuable information. The last thing we're going to do is to set our project baseline. So this is locked in a point in time. And then if we make changes, we can see those changes. We're going to go to project and then set baseline. If we select set baseline, we can name that baseline and then just click okay.
+
+[03:03] Then as we make changes and we make new baselines if we need to, we can go to Gantt chart format and we can go back to any of these baselines which we've saved and it shows you when it's saved it. Overall, that's a wonderful way to get up to speed in Microsoft Project using our Harmony Fitness project. I hope you've enjoyed this and I know that you'll find this useful in the real world.

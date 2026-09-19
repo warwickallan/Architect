@@ -1,0 +1,18 @@
+# The Scrum Team
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 282 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The next part of scrum is the scrum team with our developers, the product owner and our scrum master. The scrum team is made up of just one scrum master. This could be us as the agile lead or the agile project manager. In the real world, this could be us as an agile lead or a servant leader or an agile project manager. But in a scrum team, we call them the scrum master. We have just one product owner as well.
+
+[00:30] It's not a committee. It's only one person who makes these decisions. And then we have our developers who create the value and do the work. And they're all focused on just one single product goal. For example, maybe increasing our sales by 25%. We're all trying to meet that single goal. The developers will aim to deliver a usable increment each sprint. Developers are accountable for creating their sprint plan, which is the sprint backlog. And we'll delve into this in a bit more detail later on.
+
+[01:01] But basically, they're responsible and accountable for this. So they are able to break down the work and put that into the sprint backlog in any way they see fit, as long as it helps get that feature done that the product owner wanted to get done. They also ensure quality by following the definition of done, adjusting the plan daily to stay aligned with their sprint goal, and hold each other accountable as professionals. So there's a few funny words here. Maybe we've seen them already in this course.
+
+[01:29] But the definition of done, the sprint goal, and the sprint plan, we will go over in more detail in this scrum section. The product owner is accountable for maximizing the product value created by the scrum team. And they do this by defining and communicating the product goal. Remember, if we've got our goal of increasing sales by 25%, and the product owner has come up with that, they know that that's the best way to add value to our customer and improve the product. Then they need to communicate that with the whole team.
+
+[02:00] And the list of backlog items that they create, every single one of those features really wants to get us closer to that product goal. They order the backlog items by their priority, usually by their highest value to the customer. And they ensure that the backlog is transparent and understood by all. It's no good if it's just in the bottom drawer, and they're keeping it nice and hidden. It needs to be out there for everyone to see on our information radiator or in our team area.
+
+[02:32] The product owner can also delegate tasks, but they remain accountable for the action and the actions getting us closer to our product goal. The scrum master is accountable for establishing scrum as defined in the scrum guide. So they promote the understanding of scrum theory and practices across the team and even across the organization. They're responsible for the team's effectiveness and helping improve their use of scrum. So if we have blockers, and we have our daily standup, and someone in the team says, hey, I need help with this, or I don't have enough information, then they can help improve the team's effectiveness.
+
+[03:12] They can remove those blockers, make sure the team has what they need to get the work done, and of course, help them problem solve and improve their understanding of scrum to improve the team's ways of working.

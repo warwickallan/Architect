@@ -1,0 +1,10 @@
+# Identify Risks: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 127 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs that we want, as we identify risks, are the lists of risks themselves. Hey, wow, imagine that, we're identifying risks, so we want our list of risks. We want, we also want the risk owners though, now this is important, just like we're taking any actions in a meeting, we want to assign them to an owner, we want someone to take ownership of it. So, same with our risks, and risk responses. We're going to go through risk responses soon, so keep that in mind, but we need to keep that risk under control, what's our strategy for dealing with the risk, and there's a few different ways.
+
+[00:37] The other thing we want here is our risk report. It's basically a high-level idea of all of the risks, or maybe just the main risks, and our current responses. It might have our overall project risk, and a summary information on identified individual risks, just the main ones, and it might have our risk threshold. So are we currently moderate, but we're moving to a severe risk level within the organisation, or what does that look like, that's what we can put in our risk report.
+
+[01:07] Of course, any assumptions that we've made along the way, any issues that we find as we brainstorm risks, and any lessons that we've learned, we can update all of those things within our existing project documents.

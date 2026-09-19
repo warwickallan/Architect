@@ -1,0 +1,10 @@
+# Big Visible Charts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 290 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] And lastly, in Extreme Programming, we've got Management Strategy, which is done through Visual Management, or if we go back to the New New Product Development game, it's Subtle Control. So all of these things, they've been called different things, but they're ultimately the same. And this is where we've got metrics are displayed in big visible charts or BVCs displayed in the team area. What do we call this today?
+
+[00:28] This is our information radiator. And we always measure unit tests, and they always have to run 100%. So we can always see, we've got a nice big visible chart, all of our tests, they're at 100%. Or if they're not, then we can clearly see if they've failed and which ones have failed. And we can swarm around that issue if we need to. For everything else, keep them few and keep them meaningful, resulting in an action. Remember with our metrics, we don't want to just be measuring things that don't result in an action.
+
+[01:00] It has to be something that we need and that is useful for the team when they're doing their work. And those are all the things in Extreme Programming as an Agile Framework.

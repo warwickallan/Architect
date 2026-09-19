@@ -1,0 +1,16 @@
+# Planning
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 355 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next up in our project performance domains is our planning project performance domain. The outcome that we want here is for the project to progress in an organized, deliberate manner. We don't want it to be chaotic. Evolving information to produce the deliverables as needed. So making sure if we are going off track, do we need to adjust? That's how we work with our planning. The process for adapting your plan is based on any emerging needs or any emerging information or the conditions of our project.
+
+[00:33] Key terms will be estimates, accuracy and precision, schedule crashing, schedule fast tracking to keep our plan on track, and of course, our budget. Now, accuracy is how correct something is. Did it hit the target? Precision is how exact or precise something is. Is it the same every single time or is it quite exact when we're estimating these things? Is it down to the cent or down to the second?
+
+[01:01] That would be very precise. Now, what determines how much planning is done? Our development approach. We might have predictive, which is all upfront planning, or adaptive, which is rolling wave planning with just the close items being planned in detail and the far away items just at a high level. Project deliverables. If we're working in construction, we might need more planning versus software, we could be more flexible. Organisational requirements.
+
+[01:29] We might have different governance or policies and culture might affect how we plan. Market conditions. For example, do we need a fast speed to market? We might need that MVP approach, developing an increment and getting it out quickly. Or legal or regulatory restrictions. Higher regulation might need more planning and that would be more for a predictive way of work. Planning begins with understanding the business case. As we know, our stakeholder requirements and the product and project scope.
+
+[02:00] We can take those requirements, turn it into project scope, high level deliverables, and then break it down using our work breakdown structure to turn them into work packages that we can assign to someone to work on. Product scope is the features and the product that will add value to our customer that we're actually delivering. But project scope is the work that we're performing to deliver those features. So keep that in mind, the difference between project and product scope.
+
+[02:31] Project scope is gathering requirements, developing and creating a schedule, doing all those project activities, the project work.

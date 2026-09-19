@@ -1,0 +1,14 @@
+# Monitor Communications: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 172 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs that we're going to use for monitoring communications are our work performance information. Now isn't this interesting because one of our inputs was work performance data and what do we know? The data turns into work performance information. So we combine it with other data to create that work performance information and it gives us things like how the project communication is performing by comparing communications that were implemented compared to those that were planned.
+
+[00:34] Did we plan a hundred different pieces of communications but we only sent out two? Well, now that's information that we have and we can do something about that. We might say we are behind on our communications as we monitor that. We can also consider feedback through survey results and that's some good work performance information to have and that's going to help us make decisions. Change requests as they're processed we might need to communicate with our stakeholders on those results.
+
+[01:07] Stakeholder communication requirements, information distribution or new procedures and we can make changes to our plan on any of these things. Maybe Jenny needs a new way of working or Grace requires new people to be engaged and we need to update our plans. Billy of course is going to work with Jimmy on any impacts that might impact our project scope, schedule or cost and then we can take that to the change control board with all that information through our change requests.
+
+[01:39] Project management plan updates. Can you guess what we're going to update here because we're doing communications and people and when we've got communications and people we need the communications management plan and the stakeholder engagement plan. Two best friends that go hand in hand and of course they go in our project management plan. They're subsidiary plans. Lastly in monitoring communications outputs we'll update our issue log for any new issues and who raised them and their progress and resolution.
+
+[02:10] The stakeholder register for any new stakeholders or their communication requirements. Remember we can put, we've got people's names in the register, we can put their communication requirements right next to their name in the register. Very very handy. Lessons learned register for any new lessons or the causes of communication issues.

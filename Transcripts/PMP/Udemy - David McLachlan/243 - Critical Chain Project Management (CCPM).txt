@@ -1,0 +1,14 @@
+# Critical Chain Project Management (CCPM)
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 243 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] A new term in the PMBOK Guide 8th edition is Critical Chain Project Management or CCPM. This takes our normal critical path method to a new level by taking resources into consideration and also focusing on reducing student syndrome or Parkinson's law and bad multitasking or task switching. We take two estimates for each activity. We take a best guess and then one with a 90% confidence rate.
+
+[00:31] The resources are assigned and then resource leveled, which we'll see in a second, but this means that we properly allocate the resources across the project. There's no one waiting in different sections. We ensure that there's no wasted time. This becomes our resource leveled critical path, RLCP, if you see that term. Estimates are then aggregated for a total project duration, aggregated as we know that's our bottom up estimating, adding everything together, and we add a buffer at the top of that.
+
+[01:04] So instead of having float for the overall project, we add a project buffer and this gives us a buffer protection index or a BPI and what we want to do is look at how much of that buffer protection index is left as we're moving through our project. If we're delayed on some tasks, we can use up part of that buffer and all of that comes together to become critical chain project management. Critical path drag is the amount of time an activity on the critical path adds to the overall project duration.
+
+[01:36] As we can see, this activity here is on our critical path. It's the longest sequence of activities and it becomes the shortest time that we can complete our entire project in. So this activity, if we move that backwards, if we lag it backwards, then that is going to create critical path drag. It's going to move everything backwards because it's on the critical path. So that will also affect our overall project schedule end date. Critical path drag cost is the amount by which a project's expected return on investment is reduced due to the critical path drag of a specific critical path activity.
+
+[02:14] In other words, we're not delivering the value of the project next week. If we had to move some activities back, maybe we're delivering it next year. And so that is the critical path drag cost. We're not getting that value as soon as we wanted.

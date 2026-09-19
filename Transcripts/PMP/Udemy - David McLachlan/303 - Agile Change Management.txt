@@ -1,0 +1,18 @@
+# Agile Change Management
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 303 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Next, we're going to look at organizational change management because if we're evolving the team, we do need to look at how to make that change and bring everyone along on the journey. As teams become more proficient in Agile ways of working, we can help other supporting functions such as finance or procurement transition into Agile as well, so many other different teams can get the benefits of it to reduce the friction between departments. There are certain drivers for change management.
+
+[00:31] All projects themselves are about change. As we know, we're delivering business value and delivering a change. If the organization resists the project output, then the return on that investment is delayed. That's why we need change management. Now, we also have changes associated with faster output. If we're delivering things more quickly, then we're also changing more quickly, and that can be difficult to handle for people. We really do need to understand and manage that change with our people.
+
+[01:01] Changing or moving to an Agile way of work can also be challenging for people. If they've always worked in a certain way, and now we're changing that, then that can be a little bit scary or threatening, and we do need those change management techniques. We can assess the change readiness of the organization to move to Agile. Some organizations have characteristics that already support moving to Agile, such as our executive management is on board. They're willing to do it.
+
+[01:29] The organization's willingness to shift the way that it views and assesses its employees. Again, we're giving the power back to people like the product owner and the team, so they can self-organize, and they can deliver the value that they see fit. Centralization or decentralization of project, program, and portfolio management functions. Remember, if it's centralized, we need one person to make all the decisions, then that's probably not going to work as well.
+
+[01:56] If it's decentralized, the team can say how they're going to complete the work. That's going to suit an Agile way of working. Focus on long-term goals over short-term budgeting, and talent management maturity and capabilities. As we grow those capabilities, it will be easier to shift our focus and move to an Agile way of work. There are also roadblocks to change, and these could include work-limited to silos. If we've got everyone working in their own areas, so we've got this particular part of the product and maybe this particular part of the business, but they just work in their own areas, they don't want to come into the whole-team approach, they don't want to come into the project team, then that's going to be very difficult for us.
+
+[02:37] They're in their own silos. Leaders are rewarded for local efficiencies rather than end-to-end flow of delivery or value, so they just get rewarded for their own successes instead of the overall success of the company. That's going to make it difficult. If employees only have one specialty instead of our T-shaped people, our generalizing specialists, then that's going to make it a little bit harder, and project portfolios pull employees onto too many projects at once.
+
+[03:07] We really want them to be dedicated to the one place and to the one team.

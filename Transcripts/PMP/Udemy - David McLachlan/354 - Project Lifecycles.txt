@@ -1,0 +1,20 @@
+# Project Lifecycles
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 354 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] There are a few considerations when we're selecting a development approach. How about the product? What's the degree of innovation that we need? What's the certainty of requirements? What's the scope stability or the ease of change? If it's easy to change things, then we could easily change using an agile way of work. Delivery options. Can it actually be delivered in increments or not? The risk, safety requirements and regulations.
+
+[00:28] If we need more regulations or more quality checks or if there's a higher risk, maybe we want to really take our time and just deliver in one go at the end in a predictive approach. There's also the project when we're considering a development approach. Is there a product owner available? If there's not, then maybe an agile approach will not work. Is there more customer input available? Again, if there isn't, probably not good for agile. Schedule constraints.
+
+[00:54] If there are, maybe we could deliver something early with incremental approaches in agile. Funding availability. If we don't have a lot of funding, maybe we could just release a minimum viable product or a small feature that's going to test the market and then we could release more funding after that. The organization is important too. Is the organizational structure flat so we can easily go and talk to anyone in the organization? Or is it bureaucratic where we've got multiple layers and we have to go through this manager and this manager and this manager to get the answers or the decisions that we need?
+
+[01:29] The culture, the capability of our team and the project team size and location. If we're all co-located, that's great for agile. And if it's a small team, usually 10 or fewer people, then that's also good for agile. But if it's a large team and dispersed around the country, then maybe we want to go with a predictive approach. There are common phases among all development approaches that we can be aware of. We might have a feasibility study, like our business case or our needs assessment.
+
+[02:00] We might go through the design and requirements, then building those things, testing them and doing quality control, then deploying the item, and then finally closing our project. Project phases may have a phase gate review to see that certain criteria is met. Maybe we've got all of our customer requirements, maybe we've got contractual obligations, or maybe we need to meet performance targets before we pass that phase gate and move to the next phase. If we're working with Kanban, purely just Kanban and nothing else, then that's a flow-based approach.
+
+[02:36] In other words, we have our Kanban board and we just pull the items when we're ready to work on them. We don't necessarily have phases, but on a Kanban board we do see that the items move through the different approaches. So we might have analysing the requirements, developing them, testing them, signing them off and finally putting that into production and closing that item. As we align our delivery cadence and development and lifecycle, we might look at the cadence, which is the rhythm and the meetings, and single or multiple deliveries.
+
+[03:09] The development approach, which is predictive, hybrid or adaptive. And the lifecycle, which is designing, building, testing, deploying or closing. So now we've seen all of those things in our lifecycle. And to check that it's working, we want our project work from launch to close to be represented by appropriate project phases with the appropriate exit criteria. So have we been through the right phase gates? Have we met the criteria that we needed to move to the next phase?
+
+[03:38] The development approach also needs to match the size of the project, or the scale and the risk. Remember, if we can deliver in increments and we have a small team, then we could work in an agile way of working.

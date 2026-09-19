@@ -1,0 +1,18 @@
+# Develop Schedule: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 111 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Okay, we're really getting through this one. Develop schedule is a huge process, but we're here at the outputs, you're doing great. And Billy is very tired at this point because he's been putting all of these things together and working with the tools and techniques for our schedule. And he's working with Grace now to create the schedule baseline. So he's put everything together, created the schedule here, and got the activities and when they're going to be delivered, and that's going to be baselined.
+
+[00:32] So if we need a change, we're going to need a change request. We can also note the schedule in our configuration management plan, because it's an item that needs to be configured or it has version control. Remember, baselined items are also noted there. We will create our project schedule and it can be done with bar charts, just like this, like a Gantt chart. That's my personal favorite, but it can also be done with milestone charts, which is just showing when these milestones are going to be delivered.
+
+[01:06] We're going to need to include all of the data on our schedule. So resource requirements shown for the time period. As you can see here, project manager is on this one, business analyst and the developers are on this particular one. So we can show that on our schedule. Any alternatives, as you can see, we've got our critical path, but we've got alternative paths here. And if this one goes out, that might become our critical path in the future. So alternatives analysis, and then applied schedule reserves.
+
+[01:37] If we have an estimate range or a contingency reserve, or if we have our buffer protection index that we can use up, then we need to know how much of that reserve we've used up. Project calendars shows the days and shifts that are available for scheduled activities. So are we working Monday to Friday, or are we working seven days a week? What is our project calendar and when is everyone available? That's going to impact our schedule.
+
+[02:05] Change requests, if we get a change to our project scope, that is going to impact our schedule, so we do need to be aware of that. And we know our change process. Anyone can raise a change. We note it in the change log. Maybe us or a business analyst will review the impact to our schedule or our cost. We'll take it to the authorizer, usually the change control board or our project sponsor. Then they will approve or decline or defer, and we'll communicate that outcome and note that outcome in the change log as well.
+
+[02:39] We will also update our schedule management plan, because now we can put our actual schedule in the schedule management plan. And we'll update other things like activity attributes in our work breakdown structure dictionary, so the duration estimates, assumptions, the basis of our estimates, and the duration estimates themselves. Any lessons, any milestones, project schedule network diagrams, so the order and the precedence diagramming, the dependencies of all of our activities, and resource requirements, if we need to update those, and also any risks.
+
+[03:19] And I think we've done it. We've made it through the largest process, which used to be three processes, so you've done a fantastic job. Well done for getting through this particular process, developing your schedule.

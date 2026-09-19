@@ -1,0 +1,18 @@
+# Meetings and Events
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 379 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] We're going to have meetings and events, kick-off meetings to start our project. In Agile, we've got iteration or sprint planning, backlog refinement, daily stand-ups, which is our 15-minute meeting, iteration reviews or sprint reviews to demonstrate the item to the customer or to the product owner, and retrospectives to reflect on our process and improve. We'll see lots of this in Agile.
+
+[00:28] We've also got our change control board. Do you remember why we use this? This is where our change requests go to, to approve or reject. Bidder conferences in procurement. So we do bidder conferences so that all of our procurement sellers or vendors are on the same page. Lessons learned, planning meetings, project closeout meetings, project review meetings at the end of a phase, like a phase gate. Release planning, risk reviews, status meetings and steering committee meetings.
+
+[01:00] Other commonly used models are impact mapping for creating deliverables that match the organization's goal. We've got, they're similar to critical to quality or CTQs in Six Sigma, if you've ever had to go through Six Sigma. Goal, we've got the goal of the organization. Who are the actors that we're working with? What's the impact that we want? And ultimately, based on these two things, what's the deliverable that we want to deliver to reach all of those goals and those organizational goals?
+
+[01:29] Modeling, we can create simplified representations as models or prototypes. And that way it's low cost. We don't have to spend too much. We can see if it's going to work or how it's going to interact before spending real money on the larger or the real item. The net promoter score for stakeholders or for customers on a scale of one to 10, how likely would you be to recommend us to a friend? Remember, we want net promoters.
+
+[01:58] Nines and tens are promoters of our system or promoters of our process or our project if we're doing it internally. So you can do it internally. It has been sort of modified, but generally we do it for our customers of our product. Detractors are zero to six. They're not happy. They wouldn't recommend us at all. So we want, if we've got 10 promoters and we've got eight detractors, then the difference is two.
+
+[02:26] So it's more than zero. We've got net promoters of our system or our process. That's the net promoter score. Prioritization schema, like Moscow, which is where we look at what we must have, should have, could have, and will not have. We can also look at cost benefit analysis or BCR, our benefit to cost ratio, and multi-criteria decision analysis. Timeboxing is a short fixed time in which we need to complete some work.
+
+[02:54] It could be a sprint where we've got two weeks to deliver a small increment or an iteration, or even a spike. Remember, a spike is timeboxed research. We say, hey, we need to go away and figure something out here about the system. Why don't you take two days as a maximum? We'll timebox it to two days to research and get an answer to see how we move forward. That is our spike.

@@ -1,0 +1,26 @@
+# Transparent AI Use Cases and Examples
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 038 (section 8: Trustworthy AI Use Cases and Examples)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let's look at the transparent AI. So the transparent AI makes the logic and operations of the system understandable to the stakeholders by documenting data sources and the rationale behind the model behavior. So how the decision is getting made, what is the pattern, what basis is it making? So that is more of, the transparent AI is more of the how part of it.
+
+[00:32] So let us look at the use case, creating transparent reporting on data pre-processing, documenting model selection, rationales. So the rationale behind selecting a model and disclosing AI usage to end users. So those are transparent AI, right? So suppose you are going to a website, okay, so and by default a chat window opens. Now you are assuming that, you know, you are chatting to an agent, human agent.
+
+[01:07] So then, but most these days if you go to any website, any services, you will see that by default there is a chatbot using the prediction pattern of the 7AI pattern to give you some responses based on, you know, some specific set of, it can answer a limited set of questions within a boundary. So if it needs, if you have to ask it something other than that, then you might have to connect to a human agent. So there it has to be written that, you know, AI powered chatbot or, you know, before you start the conversation itself, you can see some of these sites giving you the information, you are now talking to a bot, something of that sort.
+
+[01:49] So that is the transparency. You have to be transparent enough, you know, for example, selecting a model, the rationale behind it, disclosing, of course, if it is an AI used or no AI used, then this disclosure is good. So now let us look at the use, I mean, the use cases we already saw. Now let us look at specific examples. Now auditability and user disclosure.
+
+[02:17] So those are some, those two examples that we will see. Now auditability. So let us imagine a project team records exactly who approved specific model version, why a particular dataset was used and which hyper parameter were selected to support internal, the future internal or regulatory audits. So here there is a specific versioning, you must be knowing, right? Some models when you do, when you complete the development and move it to testing, you might have a version 1.
+
+[02:52] So that is versioning. So when you actually, with the test, whatever, you know, the results of the test, once you incorporate the bugs or whatever it is, and it comes back, maybe it is a version 2. So you know, some more features might be added and you might go for a version 3. But version 3 is noticing some problem, unexpected problem in production. So you may have to go back to version 2. So that is the auditability part. Now the second example that we will see is the user disclosure.
+
+[03:21] A hospital chatbot provides a disclosure notice at the start of every session that, so that patients know that they are interacting with AI or a human professional. For example, okay, so if you are going to a hospital website, now you are looking for specific information, but you start chatting and if the website does not tell you that you are chatting with a human or a bot, you would not know. If you are chatting with an agent or a human, you don't know, right?
+
+[03:53] So it is better to give that disclosure saying that you are now chatting with a bot. So specify, so then you can frame your questions accordingly. You know, the bot might not be in a position to answer, even though it is using the NLP. It might not be able to comprehend everything that you are asking it. It may catch certain keywords from your listing and direct you towards that. For example, the best example, you can also look at the PMI website, right? So when you go into the site, by default, it is a bot that greets you, right?
+
+[04:24] It asks you, what do you want to know today? Is it about the certifications, your exams, post exams? So it will give you some categories and you have to select out of it. And if it doesn't have the category, it will ask you, can you specify in few short words, in a small sentence or using few short words, can you exam, you know, explain what are you looking for? Why are you here today?
+
+[04:50] How can we help you? So then you might give, okay, I have this problem, I have written my exam, I couldn't see the results have not yet come out, or maybe, you know, it's seven working days, still the certification is not appearing in my PMI dashboard, you know. So if it can answer you, well and great. Otherwise, it might direct you to a human who can better check and answer those kinds of questions. So those auditability and user disclosure are the two examples that we saw for transparent AI.
+
+[05:21] Now, next one is governed AI that we will discuss in the next video.

@@ -1,0 +1,24 @@
+# Data Gathering Methods
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 376 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, it's time to look at commonly used methods in project management. A method is a means for achieving an outcome, a result, or a deliverable. It's how we're going to do it. It's things we can use, it's methods we can use. And we're going to go through a speed round here. As you can see, there's lots of different methods that we're going to use. Let's go through them, see how many you know already. And the first one is alternatives analysis.
+
+[00:30] We want to evaluate different options in any part of our project. This could be like benchmarking. As we can see here, different options for our different features. Which company has these different alternatives? Assumptions and constraint analysis. Assumptions are anything that we consider to be true without proof. And constraints are limiting factors on our project. We've been through this where we compare our product or our process to other teams or other companies to find their best practices.
+
+[01:02] Then we can incorporate that back into our product or our way of working. Business justification analysis. Now, this one is just our rates of return. Do you remember these? We've got net present value, or NPV, return on investment. We've got the internal rate of return, and we've been through these. The payback period. And, of course, benefit to cost ratio. Now, do you remember the trick with these? We want the highest for everything, except for the payback period, we want the lowest or the shortest payback period, because we want to get our money back as quickly as possible.
+
+[01:37] Check sheets, that's how we gather data. Maybe we're checking off every time we get a defect on the production line. That's for check sheets. Cost of quality. Do you remember the four costs of quality? Prevention costs, where we're getting solid requirements at the beginning, or maybe training our staff to prevent defects. Appraisal costs, where we're testing and quality checking and auditing the process and verifying our deliverables. We're appraising them.
+
+[02:07] Internal failure is where we find defects, but it's still internal to the project. It's defects and rework and waste or scrap. And external failure costs is when it reaches the customer. It's outside, it's external to our team. We might have repairs, complaints or returns. Decision tree analysis gives us the expected monetary benefit or the monetary impact or cost, and then the probability for each decision. So how much is this going to cost? $120,000.
+
+[02:37] And then what's the probability? We've got strong demand at 60%, weak demand at 40%. We multiply all the probabilities together to get the end total probability of this branch. And we add and subtract all of the costs and benefits together to get the final cost or benefit. So for this one, 80,000 total benefit and 42% chance of that branch happening. That's our decision tree analysis, a great way to do it.
+
+[03:06] Earned value analysis, we've been through all of this as well. Do you remember our planned value, earned value, actual cost? Do you remember what they are as well? This is what we'd planned to have done at this time. Earned value is what we've actually completed at this time. Actual cost, AC, is what we've actually spent at this point in time. And the budget at completion or BAC is our overall budget that we'd planned at the beginning. We might have schedule variance, cost variance, the estimate to complete, the schedule performance index and the cost performance index.
+
+[03:40] We might have expected monetary value, which is the value of an outcome in monetary terms. Often we use this for risk. So the probability of it happening, maybe it's 50% probability of happening, multiplied by the benefit or the cost. Let's say the cost is $50,000. So half of $50,000 is $25,000 cost for that particular risk. That's our expected monetary value. Forecasting, estimating conditions or events in the future.
+
+[04:10] We might use regression analysis. Remember that mathematical tool that we get all of these dots, all of the different data points, and then we can find a trend. Variance analysis, simulations like Monte Carlo simulation and probability distributions. Do you remember this? We have a 90% probability of our budget being $3.5 million or less. So that's really good to know, our probability and forecasting.
+
+[04:42] Influence diagram, where we show the causes and the relationships just among different variables. We have decisions, chance nodes, general variable nodes, and the outcome of all of those.

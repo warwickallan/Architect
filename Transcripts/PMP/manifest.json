@@ -1,0 +1,3599 @@
+{
+  "exam": "PMP",
+  "retrieved": "2026-09-19",
+  "courses": [
+    {
+      "course": "Udemy - David McLachlan",
+      "channel": "Udemy (enrolled, paid)",
+      "playlist": "https://www.udemy.com/course-dashboard-redirect/?course_id=5188420",
+      "udemyCourseId": 5188420,
+      "folder": "Udemy - David McLachlan",
+      "source": "English captions via the logged-in course player, read-only, 2026-09-19",
+      "note": "Paid course captions; committed at Warwick's decision.",
+      "videos": [
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 1,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "VIP Course Tour",
+          "file": "001 - VIP Course Tour.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 2,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "How to Get The Most Out of This Course",
+          "file": "002 - How to Get The Most Out of This Course.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 3,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "Tips for Passing Your Exam",
+          "file": "003 - Tips for Passing Your Exam.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 4,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "Materials Notice",
+          "file": "004 - Materials Notice.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 5,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "The PMP Exam",
+          "file": "005 - The PMP Exam.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 6,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Eligibility Requirements",
+          "file": "006 - PMP Eligibility Requirements.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 7,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "The PMP Application (Including Audit)",
+          "file": "007 - The PMP Application (Including Audit).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 8,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Exam Structure and Cost",
+          "file": "008 - PMP Exam Structure and Cost.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 9,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "What to Study for the PMP Exam",
+          "file": "009 - What to Study for the PMP Exam.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 10,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Exam Question Types",
+          "file": "010 - PMP Exam Question Types.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 11,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "Renewing Your PMP",
+          "file": "011 - Renewing Your PMP.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 12,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Study Plan",
+          "file": "012 - PMP Study Plan.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 13,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "The PMP Exam Content Outline - Overview",
+          "file": "013 - The PMP Exam Content Outline - Overview.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 14,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "Are You Ready to Take the PMP Exam? Check Here Anytime",
+          "file": "014 - Are You Ready to Take the PMP Exam_ Check Here Anytime.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 15,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Readiness Check: People Domain",
+          "file": "015 - PMP Readiness Check_ People Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 16,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Readiness Check: Process Domain",
+          "file": "016 - PMP Readiness Check_ Process Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 17,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "PMP Readiness Check: Business Domain",
+          "file": "017 - PMP Readiness Check_ Business Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 18,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "A Special Thank You",
+          "file": "018 - A Special Thank You.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 22,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Project Management Introduction",
+          "file": "022 - Project Management Introduction.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 23,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Definition of a Project",
+          "file": "023 - The Definition of a Project.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 24,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Reasons for Starting a Project",
+          "file": "024 - Reasons for Starting a Project.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 25,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Tangible and Intangible Benefits",
+          "file": "025 - Tangible and Intangible Benefits.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 26,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Projects, Programs, Portfolios and Operations",
+          "file": "026 - Projects, Programs, Portfolios and Operations.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 27,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Project Delivery Approaches",
+          "file": "027 - Project Delivery Approaches.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 28,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Triple Constraint",
+          "file": "028 - The Triple Constraint.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 29,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Predictive and Adaptive Project Approaches",
+          "file": "029 - Predictive and Adaptive Project Approaches.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 30,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Hybrid Approach",
+          "file": "030 - The Hybrid Approach.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 31,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Choosing a Delivery Approach",
+          "file": "031 - Choosing a Delivery Approach.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 32,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Project Lifecycle and ITTOs",
+          "file": "032 - The Project Lifecycle and ITTOs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 33,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Phase Gates",
+          "file": "033 - Phase Gates.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 34,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Cost of Risk and Change",
+          "file": "034 - The Cost of Risk and Change.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 35,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Project Environment and EEFs",
+          "file": "035 - The Project Environment and EEFs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 36,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Organizational Process Assets (OPAs)",
+          "file": "036 - Organizational Process Assets (OPAs).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 37,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Organizational Structures",
+          "file": "037 - Organizational Structures.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 38,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Types of Project Management Offices (PMOs)",
+          "file": "038 - Types of Project Management Offices (PMOs).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 39,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Tailoring Your Project Approach",
+          "file": "039 - Tailoring Your Project Approach.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 40,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Project Manager Role",
+          "file": "040 - The Project Manager Role.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 41,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The PM's Sphere of Influence",
+          "file": "041 - The PM's Sphere of Influence.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 42,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Additional Project Manager Tasks",
+          "file": "042 - Additional Project Manager Tasks.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 43,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Project Sponsor",
+          "file": "043 - The Project Sponsor.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 44,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Project Team and Stakeholders",
+          "file": "044 - The Project Team and Stakeholders.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 45,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Project Manager Competencies",
+          "file": "045 - Project Manager Competencies.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 46,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Types of Power",
+          "file": "046 - The Types of Power.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 47,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Leadership versus Management",
+          "file": "047 - Leadership versus Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 48,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "The Project Manager's Mindset",
+          "file": "048 - The Project Manager's Mindset.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 49,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Embed Quality",
+          "file": "049 - Embed Quality.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 50,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Be an Accountable Leader",
+          "file": "050 - Be an Accountable Leader.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 51,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Focus on Value",
+          "file": "051 - Focus on Value.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 52,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Project Performance Domains",
+          "file": "052 - Project Performance Domains.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 53,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Governance",
+          "file": "053 - Governance.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 54,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Stakeholders",
+          "file": "054 - Stakeholders.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 55,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Scope",
+          "file": "055 - Scope.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 56,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Schedule",
+          "file": "056 - Schedule.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 57,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Finance",
+          "file": "057 - Finance.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 58,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Resources",
+          "file": "058 - Resources.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 59,
+          "section": 3,
+          "sectionTitle": "Project Management Fundamentals",
+          "title": "Risk",
+          "file": "059 - Risk.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 60,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Project Initiation",
+          "file": "060 - Project Initiation.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 61,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Initiating a Project: Inputs",
+          "file": "061 - Initiating a Project_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 62,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Initiating a Project: Tools",
+          "file": "062 - Initiating a Project_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 63,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Initiating a Project: Outputs",
+          "file": "063 - Initiating a Project_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 64,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Identifying Stakeholders: Inputs",
+          "file": "064 - Identifying Stakeholders_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 65,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Identifying Stakeholders: Tools",
+          "file": "065 - Identifying Stakeholders_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 66,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Identifying Stakeholders: Outputs",
+          "file": "066 - Identifying Stakeholders_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 67,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Align Project Plans: Inputs",
+          "file": "067 - Align Project Plans_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 68,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Align Project Plans: Tools",
+          "file": "068 - Align Project Plans_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 69,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Align Project Plans: Outputs",
+          "file": "069 - Align Project Plans_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 70,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Sourcing Strategy",
+          "file": "070 - Plan Sourcing Strategy.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 71,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Sourcing Strategy: Inputs",
+          "file": "071 - Plan Sourcing Strategy_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 72,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Sourcing Strategy: Tools",
+          "file": "072 - Plan Sourcing Strategy_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 73,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Sourcing Strategy: Outputs",
+          "file": "073 - Plan Sourcing Strategy_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 74,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Stakeholder Engagement",
+          "file": "074 - Plan Stakeholder Engagement.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 75,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Stakeholder Engagement: Inputs",
+          "file": "075 - Plan Stakeholder Engagement_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 76,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Stakeholder Engagement: Tools",
+          "file": "076 - Plan Stakeholder Engagement_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 77,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Stakeholder Engagement: Outputs",
+          "file": "077 - Plan Stakeholder Engagement_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 78,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Communications Management: Inputs",
+          "file": "078 - Plan Communications Management_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 79,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Communications Management: Tools",
+          "file": "079 - Plan Communications Management_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 80,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Communications Management: Outputs",
+          "file": "080 - Plan Communications Management_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 81,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Scope Management: Inputs",
+          "file": "081 - Plan Scope Management_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 82,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Scope Management: Tools",
+          "file": "082 - Plan Scope Management_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 83,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Scope Management: Outputs",
+          "file": "083 - Plan Scope Management_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 84,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Elicit Requirements",
+          "file": "084 - Elicit Requirements.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 85,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Elicit Requirements: Inputs",
+          "file": "085 - Elicit Requirements_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 86,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Elicit Requirements: Tools",
+          "file": "086 - Elicit Requirements_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 87,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Elicit Requirements: Outputs",
+          "file": "087 - Elicit Requirements_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 88,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Define Scope: Inputs",
+          "file": "088 - Define Scope_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 89,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Define Scope: Tools",
+          "file": "089 - Define Scope_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 90,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Define Scope: Outputs",
+          "file": "090 - Define Scope_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 91,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Scope Structure: Inputs",
+          "file": "091 - Develop Scope Structure_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 92,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Scope Structure: Tools",
+          "file": "092 - Develop Scope Structure_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 93,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Scope Structure: Outputs",
+          "file": "093 - Develop Scope Structure_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 94,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Resource Management",
+          "file": "094 - Plan Resource Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 95,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Resource Management: Inputs",
+          "file": "095 - Plan Resource Management_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 96,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Resource Management: Tools",
+          "file": "096 - Plan Resource Management_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 97,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Resource Management: Outputs",
+          "file": "097 - Plan Resource Management_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 98,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Resources",
+          "file": "098 - Estimate Resources.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 99,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Resources: Inputs",
+          "file": "099 - Estimate Resources_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 100,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Resources: Tools",
+          "file": "100 - Estimate Resources_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 101,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Resources: Outputs",
+          "file": "101 - Estimate Resources_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 102,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Schedule Management: Inputs",
+          "file": "102 - Plan Schedule Management_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 103,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Schedule Management: Tools",
+          "file": "103 - Plan Schedule Management_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 104,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Schedule Management: Outputs",
+          "file": "104 - Plan Schedule Management_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 105,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule",
+          "file": "105 - Develop Schedule.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 106,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule: Inputs",
+          "file": "106 - Develop Schedule_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 107,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule: Define Activities",
+          "file": "107 - Develop Schedule_ Define Activities.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 108,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule: Estimate Durations",
+          "file": "108 - Develop Schedule_ Estimate Durations.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 109,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule: Critical Path",
+          "file": "109 - Develop Schedule_ Critical Path.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 110,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule: Optimizing the Schedule",
+          "file": "110 - Develop Schedule_ Optimizing the Schedule.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 111,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Schedule: Outputs",
+          "file": "111 - Develop Schedule_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 112,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Financial Management: Inputs",
+          "file": "112 - Plan Financial Management_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 113,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Financial Management: Tools",
+          "file": "113 - Plan Financial Management_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 114,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Financial Management: Outputs",
+          "file": "114 - Plan Financial Management_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 115,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Costs",
+          "file": "115 - Estimate Costs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 116,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Costs: Inputs",
+          "file": "116 - Estimate Costs_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 117,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Costs: Tools",
+          "file": "117 - Estimate Costs_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 118,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Estimate Costs: Outputs",
+          "file": "118 - Estimate Costs_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 119,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Budget: Inputs",
+          "file": "119 - Develop Budget_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 120,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Budget: Tools",
+          "file": "120 - Develop Budget_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 121,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Develop Budget: Outputs",
+          "file": "121 - Develop Budget_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 122,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Risk Management: Inputs",
+          "file": "122 - Plan Risk Management_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 123,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Risk Management: Tools",
+          "file": "123 - Plan Risk Management_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 124,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Risk Management: Outputs",
+          "file": "124 - Plan Risk Management_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 125,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Identify Risks: Inputs",
+          "file": "125 - Identify Risks_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 126,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Identify Risks: Tools",
+          "file": "126 - Identify Risks_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 127,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Identify Risks: Outputs",
+          "file": "127 - Identify Risks_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 128,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Risk Analysis: Inputs",
+          "file": "128 - Risk Analysis_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 129,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Risk Analysis: Tools",
+          "file": "129 - Risk Analysis_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 130,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Risk Analysis: Outputs",
+          "file": "130 - Risk Analysis_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 131,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Risk Responses: Inputs",
+          "file": "131 - Plan Risk Responses_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 132,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Risk Responses: Tools",
+          "file": "132 - Plan Risk Responses_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 133,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Plan Risk Responses: Outputs",
+          "file": "133 - Plan Risk Responses_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 134,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Project Execution: Inputs",
+          "file": "134 - Manage Project Execution_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 135,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Project Execution: Tools",
+          "file": "135 - Manage Project Execution_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 136,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Project Execution: Outputs",
+          "file": "136 - Manage Project Execution_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 137,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Quality Assurance: Inputs",
+          "file": "137 - Manage Quality Assurance_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 138,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Quality Assurance: Tools",
+          "file": "138 - Manage Quality Assurance_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 139,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Quality Assurance: Outputs",
+          "file": "139 - Manage Quality Assurance_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 140,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Project Knowledge: Inputs",
+          "file": "140 - Manage Project Knowledge_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 141,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Project Knowledge: Tools",
+          "file": "141 - Manage Project Knowledge_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 142,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Project Knowledge: Outputs",
+          "file": "142 - Manage Project Knowledge_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 143,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Stakeholder Engagement: Inputs",
+          "file": "143 - Manage Stakeholder Engagement_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 144,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Stakeholder Engagement: Tools",
+          "file": "144 - Manage Stakeholder Engagement_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 145,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Stakeholder Engagement: Outputs",
+          "file": "145 - Manage Stakeholder Engagement_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 146,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Communications: Inputs",
+          "file": "146 - Manage Communications_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 147,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Communications: Tools",
+          "file": "147 - Manage Communications_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 148,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Manage Communications: Outputs",
+          "file": "148 - Manage Communications_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 149,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Acquire Resources: Inputs",
+          "file": "149 - Acquire Resources_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 150,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Acquire Resources: Tools",
+          "file": "150 - Acquire Resources_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 151,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Acquire Resources: Outputs",
+          "file": "151 - Acquire Resources_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 152,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Lead the Team",
+          "file": "152 - Lead the Team.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 153,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Lead the Team: Inputs",
+          "file": "153 - Lead the Team_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 154,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Lead the Team: Tools",
+          "file": "154 - Lead the Team_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 155,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Lead the Team: Outputs",
+          "file": "155 - Lead the Team_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 156,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Implement Risk Responses: Inputs",
+          "file": "156 - Implement Risk Responses_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 157,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Implement Risk Responses: Tools",
+          "file": "157 - Implement Risk Responses_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 158,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Implement Risk Responses: Outputs",
+          "file": "158 - Implement Risk Responses_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 159,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Project Performance",
+          "file": "159 - Monitor Project Performance.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 160,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Project Performance: Inputs",
+          "file": "160 - Monitor Project Performance_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 161,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Project Performance: Tools",
+          "file": "161 - Monitor Project Performance_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 162,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Project Performance: Outputs",
+          "file": "162 - Monitor Project Performance_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 163,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Assess and Implement Changes",
+          "file": "163 - Assess and Implement Changes.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 164,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Assess and Implement Changes: Inputs",
+          "file": "164 - Assess and Implement Changes_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 165,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Assess and Implement Changes: Tools",
+          "file": "165 - Assess and Implement Changes_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 166,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Assess and Implement Changes: Outputs",
+          "file": "166 - Assess and Implement Changes_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 167,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Stakeholder Engagement: Inputs",
+          "file": "167 - Monitor Stakeholder Engagement_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 168,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Stakeholder Engagement: Tools",
+          "file": "168 - Monitor Stakeholder Engagement_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 169,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Stakeholder Engagement: Outputs",
+          "file": "169 - Monitor Stakeholder Engagement_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 170,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Communications: Inputs",
+          "file": "170 - Monitor Communications_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 171,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Communications: Tools",
+          "file": "171 - Monitor Communications_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 172,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Communications: Outputs",
+          "file": "172 - Monitor Communications_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 173,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Scope",
+          "file": "173 - Monitor and Control Scope.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 174,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Scope: Inputs",
+          "file": "174 - Monitor and Control Scope_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 175,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Scope: Tools",
+          "file": "175 - Monitor and Control Scope_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 176,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Scope: Outputs",
+          "file": "176 - Monitor and Control Scope_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 177,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Validate Scope: Inputs",
+          "file": "177 - Validate Scope_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 178,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Validate Scope: Tools",
+          "file": "178 - Validate Scope_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 179,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Validate Scope: Outputs",
+          "file": "179 - Validate Scope_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 180,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Resourcing: Inputs",
+          "file": "180 - Monitor and Control Resourcing_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 181,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Resourcing: Tools",
+          "file": "181 - Monitor and Control Resourcing_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 182,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Resourcing: Outputs",
+          "file": "182 - Monitor and Control Resourcing_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 183,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Schedule: Inputs",
+          "file": "183 - Monitor and Control Schedule_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 184,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Schedule: Tools",
+          "file": "184 - Monitor and Control Schedule_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 185,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Schedule: Outputs",
+          "file": "185 - Monitor and Control Schedule_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 186,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Finances: Inputs",
+          "file": "186 - Monitor and Control Finances_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 187,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Finances: Tools",
+          "file": "187 - Monitor and Control Finances_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 188,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor and Control Finances: Outputs",
+          "file": "188 - Monitor and Control Finances_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 189,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Risks: Inputs",
+          "file": "189 - Monitor Risks_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 190,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Risks: Tools",
+          "file": "190 - Monitor Risks_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 191,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Monitor Risks: Outputs",
+          "file": "191 - Monitor Risks_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 192,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Close Project or Phase",
+          "file": "192 - Close Project or Phase.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 193,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Close Project or Phase: Inputs",
+          "file": "193 - Close Project or Phase_ Inputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 194,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Close Project or Phase: Tools",
+          "file": "194 - Close Project or Phase_ Tools.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 195,
+          "section": 4,
+          "sectionTitle": "The Project Management Process (PMBOK Guide 8th Edition)",
+          "title": "Close Project or Phase: Outputs",
+          "file": "195 - Close Project or Phase_ Outputs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 196,
+          "section": 5,
+          "sectionTitle": "Real Project Example Using Microsoft Project",
+          "title": "Real MS Project Example",
+          "file": "196 - Real MS Project Example.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 197,
+          "section": 5,
+          "sectionTitle": "Real Project Example Using Microsoft Project",
+          "title": "Adding Durations, Predecessors and Lag",
+          "file": "197 - Adding Durations, Predecessors and Lag.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 198,
+          "section": 5,
+          "sectionTitle": "Real Project Example Using Microsoft Project",
+          "title": "Adding Resources and Cost",
+          "file": "198 - Adding Resources and Cost.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 199,
+          "section": 5,
+          "sectionTitle": "Real Project Example Using Microsoft Project",
+          "title": "Critical Path and Project Calendars",
+          "file": "199 - Critical Path and Project Calendars.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 200,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Project Key Concepts",
+          "file": "200 - Project Key Concepts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 201,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The Business Case",
+          "file": "201 - The Business Case.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 202,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Benchmarking",
+          "file": "202 - Benchmarking.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 203,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Financial Measures, NPV and IRR",
+          "file": "203 - Financial Measures, NPV and IRR.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 204,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "ROI, PBP and BCR",
+          "file": "204 - ROI, PBP and BCR.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 205,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The Benefits Management Plan",
+          "file": "205 - The Benefits Management Plan.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 206,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Baselines and Configuration Management",
+          "file": "206 - Baselines and Configuration Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 207,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Change Control and the Change Management Plan",
+          "file": "207 - Change Control and the Change Management Plan.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 208,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "PMIS and Issue Logs",
+          "file": "208 - PMIS and Issue Logs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 209,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Project Data, Information and Reports",
+          "file": "209 - Project Data, Information and Reports.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 210,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Status Report and Final Report",
+          "file": "210 - Status Report and Final Report.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 211,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Stakeholder Register",
+          "file": "211 - Stakeholder Register.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 212,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Stakeholder Classification",
+          "file": "212 - Stakeholder Classification.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 213,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Stakeholder Engagement and Expert Judgement",
+          "file": "213 - Stakeholder Engagement and Expert Judgement.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 214,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Interpersonal and Team Skills",
+          "file": "214 - Interpersonal and Team Skills.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 215,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Observation and Emotional Intelligence",
+          "file": "215 - Observation and Emotional Intelligence.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 216,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Political and Cultural Awareness",
+          "file": "216 - Political and Cultural Awareness.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 217,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Influencing and Negotiation",
+          "file": "217 - Influencing and Negotiation.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 218,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Conflict Management",
+          "file": "218 - Conflict Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 219,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Basic and Interactive Communication",
+          "file": "219 - Basic and Interactive Communication.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 220,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Communication Skills",
+          "file": "220 - Communication Skills.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 221,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The 5 Cs of Communication",
+          "file": "221 - The 5 Cs of Communication.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 222,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Push and Pull Communication",
+          "file": "222 - Push and Pull Communication.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 223,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Scope and Requirements Traceability",
+          "file": "223 - Scope and Requirements Traceability.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 224,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Brainstorming and Affinity Diagrams",
+          "file": "224 - Brainstorming and Affinity Diagrams.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 225,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Prototyping",
+          "file": "225 - Prototyping.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 226,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Voting and the Nominal Group Technique",
+          "file": "226 - Voting and the Nominal Group Technique.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 227,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Prioritizing Requirements",
+          "file": "227 - Prioritizing Requirements.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 228,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Decomposition and the WBS",
+          "file": "228 - Decomposition and the WBS.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 229,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The Scope Baseline",
+          "file": "229 - The Scope Baseline.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 230,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Control Scope versus Validate Scope",
+          "file": "230 - Control Scope versus Validate Scope.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 231,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "RBS, RAMs and RACIs",
+          "file": "231 - RBS, RAMs and RACIs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 232,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Team Charter",
+          "file": "232 - Team Charter.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 233,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Tuckman's Ladder",
+          "file": "233 - Tuckman's Ladder.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 234,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Autocratic and Distributed Leadership",
+          "file": "234 - Autocratic and Distributed Leadership.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 235,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Retrospectives and AARs",
+          "file": "235 - Retrospectives and AARs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 236,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Organizational Theory",
+          "file": "236 - Organizational Theory.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 237,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Parkinson's Law and MBTI",
+          "file": "237 - Parkinson's Law and MBTI.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 238,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Schedule Estimating",
+          "file": "238 - Schedule Estimating.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 239,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Lead Time and Lag Time",
+          "file": "239 - Lead Time and Lag Time.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 240,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Precedence Diagramming",
+          "file": "240 - Precedence Diagramming.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 241,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The Critical Path",
+          "file": "241 - The Critical Path.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 242,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The Forward and Backward Pass",
+          "file": "242 - The Forward and Backward Pass.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 243,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Critical Chain Project Management (CCPM)",
+          "file": "243 - Critical Chain Project Management (CCPM).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 244,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Schedule Compression",
+          "file": "244 - Schedule Compression.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 245,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Resource Levelling",
+          "file": "245 - Resource Levelling.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 246,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "AI in Project Schedules",
+          "file": "246 - AI in Project Schedules.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 247,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Contingency and Management Reserves",
+          "file": "247 - Contingency and Management Reserves.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 248,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Accuracy and Earned Value Analysis (EVA)",
+          "file": "248 - Accuracy and Earned Value Analysis (EVA).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 249,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Variance Analysis for Cost",
+          "file": "249 - Variance Analysis for Cost.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 250,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Variance Analysis for Schedule",
+          "file": "250 - Variance Analysis for Schedule.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 251,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "CoCoMo and Predictive Analysis",
+          "file": "251 - CoCoMo and Predictive Analysis.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 252,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "The Cost of Quality",
+          "file": "252 - The Cost of Quality.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 253,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Root Cause Analysis",
+          "file": "253 - Root Cause Analysis.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 254,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Inspections, Grade and Checklists",
+          "file": "254 - Inspections, Grade and Checklists.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 255,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Problem Solving",
+          "file": "255 - Problem Solving.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 256,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Risk Catagories",
+          "file": "256 - Risk Catagories.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 257,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Risk Register & Analysis",
+          "file": "257 - Risk Register & Analysis.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 258,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Quantitative Risk Analysis",
+          "file": "258 - Quantitative Risk Analysis.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 259,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Risk Responses",
+          "file": "259 - Risk Responses.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 260,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Make or Buy and Statement of Work",
+          "file": "260 - Make or Buy and Statement of Work.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 261,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Bid Documents & Fixed Price Contracts",
+          "file": "261 - Bid Documents & Fixed Price Contracts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 262,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Cost Reimbursable Contracts & Claims",
+          "file": "262 - Cost Reimbursable Contracts & Claims.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 263,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "AI in Project Management",
+          "file": "263 - AI in Project Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 264,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Types of AI Systems",
+          "file": "264 - Types of AI Systems.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 265,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Three Strategies for AI Adoption",
+          "file": "265 - Three Strategies for AI Adoption.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 266,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "AI Use Cases in Project Management",
+          "file": "266 - AI Use Cases in Project Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 267,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Risks When Using AI",
+          "file": "267 - Risks When Using AI.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 268,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "AI Key Concepts",
+          "file": "268 - AI Key Concepts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 269,
+          "section": 6,
+          "sectionTitle": "Project Management Key Concepts",
+          "title": "Business Analysis - For Anyone Taking the CAPM Exam",
+          "file": "269 - Business Analysis - For Anyone Taking the CAPM Exam.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 270,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Agile Introduction",
+          "file": "270 - Agile Introduction.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 271,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The Agile Manifesto",
+          "file": "271 - The Agile Manifesto.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 272,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "A Typical Agile Approach",
+          "file": "272 - A Typical Agile Approach.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 273,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "A Typical Agile Iteration",
+          "file": "273 - A Typical Agile Iteration.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 274,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The Agile Clarifying Principles",
+          "file": "274 - The Agile Clarifying Principles.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 275,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The History of Agile",
+          "file": "275 - The History of Agile.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 276,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The New New Product Development Game",
+          "file": "276 - The New New Product Development Game.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 277,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "DSDM, Scrum and More",
+          "file": "277 - DSDM, Scrum and More.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 278,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The Toyota Production System",
+          "file": "278 - The Toyota Production System.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 279,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Lean Thinking",
+          "file": "279 - Lean Thinking.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 280,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The House of Lean",
+          "file": "280 - The House of Lean.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 281,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The Scrum Guide",
+          "file": "281 - The Scrum Guide.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 282,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The Scrum Team",
+          "file": "282 - The Scrum Team.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 283,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Scrum Artifacts",
+          "file": "283 - Scrum Artifacts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 284,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Scrum Events",
+          "file": "284 - Scrum Events.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 285,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Sprint Review and Retrospective",
+          "file": "285 - Sprint Review and Retrospective.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 286,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Scrum Theory and Values",
+          "file": "286 - Scrum Theory and Values.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 287,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "eXtreme Programming (XP)",
+          "file": "287 - eXtreme Programming (XP).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 288,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "10 XP Practices",
+          "file": "288 - 10 XP Practices.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 289,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Pair Programming",
+          "file": "289 - Pair Programming.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 290,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Big Visible Charts",
+          "file": "290 - Big Visible Charts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 291,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Kanban",
+          "file": "291 - Kanban.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 292,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "The Theory of Constraints",
+          "file": "292 - The Theory of Constraints.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 293,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Implementing Kanban",
+          "file": "293 - Implementing Kanban.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 294,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Feature Driven Development",
+          "file": "294 - Feature Driven Development.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 295,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Feature Teams and Practices",
+          "file": "295 - Feature Teams and Practices.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 296,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Crystal",
+          "file": "296 - Crystal.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 297,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Dynamic Systems Delivery Method",
+          "file": "297 - Dynamic Systems Delivery Method.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 298,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Scrumban and AUP",
+          "file": "298 - Scrumban and AUP.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 299,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Scrum of Scrums",
+          "file": "299 - Scrum of Scrums.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 300,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Large Scale Scrum (LeSS) and Disciplined Agile (DA)",
+          "file": "300 - Large Scale Scrum (LeSS) and Disciplined Agile (DA).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 301,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Scaled Agile Framework (SAFe)",
+          "file": "301 - Scaled Agile Framework (SAFe).txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 302,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Agile Suitability Filters",
+          "file": "302 - Agile Suitability Filters.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 303,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Agile Change Management",
+          "file": "303 - Agile Change Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 304,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Roadblocks and Drivers for Change",
+          "file": "304 - Roadblocks and Drivers for Change.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 305,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Agile Team Coaching",
+          "file": "305 - Agile Team Coaching.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 306,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Agile and Procurements",
+          "file": "306 - Agile and Procurements.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 307,
+          "section": 7,
+          "sectionTitle": "The Agile Practice Guide",
+          "title": "Agile PMOs",
+          "file": "307 - Agile PMOs.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 308,
+          "section": 8,
+          "sectionTitle": "Real Agile Project Example using Jira",
+          "title": "Setting up our Jira Project",
+          "file": "308 - Setting up our Jira Project.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 309,
+          "section": 8,
+          "sectionTitle": "Real Agile Project Example using Jira",
+          "title": "Setting up the Kanban Board",
+          "file": "309 - Setting up the Kanban Board.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 310,
+          "section": 8,
+          "sectionTitle": "Real Agile Project Example using Jira",
+          "title": "Adding Epics and User Stories",
+          "file": "310 - Adding Epics and User Stories.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 311,
+          "section": 8,
+          "sectionTitle": "Real Agile Project Example using Jira",
+          "title": "Working with Sprints",
+          "file": "311 - Working with Sprints.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 312,
+          "section": 8,
+          "sectionTitle": "Real Agile Project Example using Jira",
+          "title": "Burndown and Velocity Reports",
+          "file": "312 - Burndown and Velocity Reports.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 313,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Key Concepts",
+          "file": "313 - Agile Key Concepts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 314,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Personas and Decomposition",
+          "file": "314 - Personas and Decomposition.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 315,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "User Stories and INVEST",
+          "file": "315 - User Stories and INVEST.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 316,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Story Mapping and the Product Roadmap",
+          "file": "316 - Story Mapping and the Product Roadmap.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 317,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Team and Stakeholders",
+          "file": "317 - Agile Team and Stakeholders.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 318,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Co-location and the Kanban Board",
+          "file": "318 - Co-location and the Kanban Board.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 319,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Generalizing Specialists",
+          "file": "319 - Generalizing Specialists.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 320,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Servant Leadership & Swarming",
+          "file": "320 - Servant Leadership & Swarming.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 321,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Collaboration Games",
+          "file": "321 - Collaboration Games.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 322,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Estimation",
+          "file": "322 - Agile Estimation.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 323,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Planning Poker and the Delphi Technique",
+          "file": "323 - Planning Poker and the Delphi Technique.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 324,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Fist of Five & Ideal Time",
+          "file": "324 - Fist of Five & Ideal Time.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 325,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Prioritization",
+          "file": "325 - Agile Prioritization.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 326,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Compliance & Customer Satisfaction",
+          "file": "326 - Compliance & Customer Satisfaction.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 327,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Cost of Delay and Kano Analysis",
+          "file": "327 - Cost of Delay and Kano Analysis.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 328,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Quality",
+          "file": "328 - Agile Quality.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 329,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Testing and the V-Model",
+          "file": "329 - Agile Testing and the V-Model.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 330,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Test Driven Development",
+          "file": "330 - Test Driven Development.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 331,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Technical Debt and Refactoring",
+          "file": "331 - Technical Debt and Refactoring.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 332,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Gold Plating and Poka Yoke",
+          "file": "332 - Gold Plating and Poka Yoke.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 333,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Pareto and Control Charts",
+          "file": "333 - Pareto and Control Charts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 334,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Metrics",
+          "file": "334 - Agile Metrics.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 335,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Velocity and Throughput",
+          "file": "335 - Velocity and Throughput.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 336,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Cycle Time and Lead Time",
+          "file": "336 - Cycle Time and Lead Time.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 337,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "WIP and Burndown Charts",
+          "file": "337 - WIP and Burndown Charts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 338,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Process Improvement",
+          "file": "338 - Agile Process Improvement.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 339,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Kaizen and Root Cause Analysis",
+          "file": "339 - Kaizen and Root Cause Analysis.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 340,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "VSM and Theory of Constraints",
+          "file": "340 - VSM and Theory of Constraints.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 341,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Line Balancing and PDCA",
+          "file": "341 - Line Balancing and PDCA.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 342,
+          "section": 9,
+          "sectionTitle": "Agile Key Concepts",
+          "title": "Agile Risk",
+          "file": "342 - Agile Risk.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 343,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "The Principles of Project Management",
+          "file": "343 - The Principles of Project Management.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 344,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Be a Diligent Steward",
+          "file": "344 - Be a Diligent Steward.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 345,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Tailor Your Project",
+          "file": "345 - Tailor Your Project.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 346,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Optimize Risk Responses",
+          "file": "346 - Optimize Risk Responses.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 347,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Value Delvery",
+          "file": "347 - Value Delvery.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 348,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Typical Project Roles",
+          "file": "348 - Typical Project Roles.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 349,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Stakeholder Performance",
+          "file": "349 - Stakeholder Performance.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 350,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Management and Leadership",
+          "file": "350 - Management and Leadership.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 351,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "High Performing Teams",
+          "file": "351 - High Performing Teams.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 352,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Leadership Skills",
+          "file": "352 - Leadership Skills.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 353,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Development Approaches",
+          "file": "353 - Development Approaches.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 354,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Project Lifecycles",
+          "file": "354 - Project Lifecycles.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 355,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Planning",
+          "file": "355 - Planning.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 356,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Estimating",
+          "file": "356 - Estimating.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 357,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Planning Schedule & Budget",
+          "file": "357 - Planning Schedule & Budget.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 358,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Team, Procurement & Changes",
+          "file": "358 - Team, Procurement & Changes.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 359,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Project Work",
+          "file": "359 - Project Work.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 360,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Managing Resources",
+          "file": "360 - Managing Resources.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 361,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Monitoring Changes",
+          "file": "361 - Monitoring Changes.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 362,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Delivering Value",
+          "file": "362 - Delivering Value.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 363,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Delivering Quality",
+          "file": "363 - Delivering Quality.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 364,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Project Measurement",
+          "file": "364 - Project Measurement.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 365,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Baselined Performance",
+          "file": "365 - Baselined Performance.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 366,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Measurement Pitfalls",
+          "file": "366 - Measurement Pitfalls.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 367,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Uncertainty",
+          "file": "367 - Uncertainty.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 368,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Risk Responses",
+          "file": "368 - Risk Responses.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 369,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Tailoring",
+          "file": "369 - Tailoring.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 370,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "The Tailoring Process",
+          "file": "370 - The Tailoring Process.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 371,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Tailoring Each Domain",
+          "file": "371 - Tailoring Each Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 372,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Leadership & Communication Models",
+          "file": "372 - Leadership & Communication Models.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 373,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Motivation Models",
+          "file": "373 - Motivation Models.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 374,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Change Models",
+          "file": "374 - Change Models.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 375,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Complexity and Team Models",
+          "file": "375 - Complexity and Team Models.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 376,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Data Gathering Methods",
+          "file": "376 - Data Gathering Methods.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 377,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "More Data Gathering Methods",
+          "file": "377 - More Data Gathering Methods.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 378,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Estimating Methods",
+          "file": "378 - Estimating Methods.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 379,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Meetings and Events",
+          "file": "379 - Meetings and Events.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 380,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Common Artifacts",
+          "file": "380 - Common Artifacts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 381,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Common Plans",
+          "file": "381 - Common Plans.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 382,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Data Artifacts",
+          "file": "382 - Data Artifacts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 383,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Information Artifacts",
+          "file": "383 - Information Artifacts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 384,
+          "section": 10,
+          "sectionTitle": "Project Management Quick Review (Important PMBOK 7th Edition Concepts)",
+          "title": "Reports and Contracts",
+          "file": "384 - Reports and Contracts.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 385,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "The Exam Content Outline",
+          "file": "385 - The Exam Content Outline.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 386,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "Practice Question: People Domain",
+          "file": "386 - Practice Question_ People Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 387,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "ECO: Process Domain",
+          "file": "387 - ECO_ Process Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 388,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "Practice Question: Process Domain",
+          "file": "388 - Practice Question_ Process Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 389,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "ECO: Business Environment Domain",
+          "file": "389 - ECO_ Business Environment Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 390,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "Practice Question: Business Environment",
+          "file": "390 - Practice Question_ Business Environment.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 391,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "ECO PMP Questions: People Domain",
+          "file": "391 - ECO PMP Questions_ People Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 392,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "ECO PMP Questions: Process Domain, Part 1",
+          "file": "392 - ECO PMP Questions_ Process Domain, Part 1.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 393,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "ECO PMP Questions: Process Domain, Part 2",
+          "file": "393 - ECO PMP Questions_ Process Domain, Part 2.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 394,
+          "section": 11,
+          "sectionTitle": "The PMP Exam Content Outline (ECO)",
+          "title": "ECO PMP Questions: Business Domain",
+          "file": "394 - ECO PMP Questions_ Business Domain.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 395,
+          "section": 12,
+          "sectionTitle": "The PMP Fast-Track",
+          "title": "Introduction to the PMP Fast-Track",
+          "file": "395 - Introduction to the PMP Fast-Track.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 396,
+          "section": 12,
+          "sectionTitle": "The PMP Fast-Track",
+          "title": "The General Exam Fast-Track",
+          "file": "396 - The General Exam Fast-Track.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 397,
+          "section": 12,
+          "sectionTitle": "The PMP Fast-Track",
+          "title": "The People Fast-Track",
+          "file": "397 - The People Fast-Track.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 398,
+          "section": 12,
+          "sectionTitle": "The PMP Fast-Track",
+          "title": "The Agile Process Fast-Track",
+          "file": "398 - The Agile Process Fast-Track.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 399,
+          "section": 12,
+          "sectionTitle": "The PMP Fast-Track",
+          "title": "The Predictive Process Fast-Track",
+          "file": "399 - The Predictive Process Fast-Track.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 400,
+          "section": 13,
+          "sectionTitle": "Practice Exams (500 questions - including Agile and the latest PMBOK Guide)",
+          "title": "Practice Exams Introduction",
+          "file": "400 - Practice Exams Introduction.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - David McLachlan",
+          "index": 401,
+          "section": 14,
+          "sectionTitle": "Certificate of Completion for PMI Audit",
+          "title": "Getting your Certificate of Completion",
+          "file": "401 - Getting your Certificate of Completion.txt",
+          "captions": "English [Auto]"
+        }
+      ]
+    }
+  ]
+}

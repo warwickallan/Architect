@@ -1,0 +1,18 @@
+# Cycle Time and Lead Time
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 336 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] In an Agile team, we'll also measure cycle time and lead time. Cycle time is the amount of time it takes to complete a specific task from start to finish. Now, this could be a task in development. So how long does development take for our user stories? Or it could actually be completing a user story itself from start to finish. Or it could be the cycle time for testing, or it could be the cycle time to complete a business analysis on the user stories on our project.
+
+[00:35] It's basically a smaller piece of work within the larger piece of work. Now, for the larger pieces of work, our deliverables or our features that we're delivering to our users or our customers, this is the time from the customer order, the time that they want the item, to the customer delivery, the time that they receive it. And this could be for putting our features into the backlog, and then the time it takes until that feature is released and delivered. To show you a diagram of this, we've got our feature added here at the beginning, and our lead time goes until that feature is delivered at the end.
+
+[01:11] But in between, we've got user stories being completed. User story one, user story two, user story three, all the smaller parts. So we could have cycle times of user stories, or we could break it down further and have cycle times of just the tasks, so development, testing, and even sign-off. How long does sign-off take for that particular user story? On an Agile team, we can still measure earned value analysis, and we've looked at this in detail on our waterfall or predictive projects.
+
+[01:40] There are the three key measures of planned value, which shows us at a given point in time the work that should have been completed, that we planned to complete. We also have earned value, or EV, and that's what we actually have completed at a given point in time. The actual cost is what we've actually spent at this point in time. Now if you remember, on an Agile project, the cost is usually fixed along with the time, because we have a fixed stable team for a set amount of time, and then we just reprioritize the scope, so the scope can be variable.
+
+[02:18] That's why earned value analysis is really better for waterfall projects, but it is here, it's a good reminder, and it just works a little bit different in an Agile team because of that triple constraint. Defect rate is another thing that we can measure, and we can measure that by first time right or first pass yield as a percentage. In other words, the number of defects against how many items we're delivering, our throughput of items, or against the work in any given period.
+
+[02:47] Defects represent rework, and rework reduces the speed of our team's current work. If you remember our cost of quality, or the cost of change, if we have a defect, it has to go all the way back, and maybe re-look at the requirements, re-design it, re-develop it, and re-test it, so there's quite a lot of work involved. It takes us away from delivering more value. We can see here, we had 89% of the work go through first time without any defects. That means we had about 11% of defects.
+
+[03:20] We want to get as close to 100% first pass yield or first time right as possible.

@@ -1,0 +1,18 @@
+# Role of PM in Phase II - Data Understanding
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 025 (section 6: Role of Project Manager in each of the CPMAI Phases)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:00] Okay, so now let's look at the phase two. Phase two is a data understanding phase, right? So here, the typical PM and AIPM role shifts from business alignment to more of technicality and data feasibility. So in phase one, it was more about business alignment and fitting the pattern and all, right? So at this phase of data understanding, the project manager moves more into technical and data feasibility kind of thing.
+
+[00:33] So what are the core responsibilities here? Conducting a comprehensive data audit, identifying, so this is the phase when, you know, you have to identify your key stakeholders, especially identify and engage the SMEs, the subject matter experts, and verify the data quality, accessibility, and representativeness, okay? So this is the most important aspect and this project manager is supposed to do in this particular phase.
+
+[01:04] So from a trustworthy AI point of view, the project manager is supposed to systematically check for bias and ensure the ethical sourcing of data, okay? So initially, you know, you're figuring out the data requirements, so ensure the ethicality on the data procurement part, the source of the data, and check for early bias and all those things. So for example, you are trying to build a healthcare model and you're trying to fetch data. You are seeing that, you know, the data is coming from a particular geography, or only male data is coming, or only female data is coming.
+
+[01:43] So, you know, those kind of bias, early bias, if it's a geographical bias, if it's a national, if it is some other bias, if it is gender bias, age bias, so you are seeing only, you know, only the data of old people are coming, like 70 plus. So these are the kind of things that a project manager is supposed to identify in this phase. So for example, before building a virtual assistant, so suppose you are working on a project that is building a virtual assistant, right?
+
+[02:14] So the PM initiates a data audit here for the existing CRM to identify missing timestamps or inconsistent IDs that would hinder the model training. So what the PM is trying to do here is to identify something that is very critical or crucial, you know, that would later affect the later phases. So this is a very, very early phase of understanding the data.
+
+[02:43] So here, keep the PM role to like, you know, align more with the data. So that is why we say that, you know, unlike a traditional project manager, some knowledge of data, understanding of GDPR, data related acts, PII information, you know, personally identified information, requirements for masking, all early thoughts on data, on how the data should be, because you are going to train the model using this data and later on, you know, the model is going to be established and that is supposed to perform.
+
+[03:23] So identifying the early timestamps or inconsistencies in the data is something that the project manager should be doing at this stage. In the next video, we will see what is the role of a project manager in terms of, in phase three.

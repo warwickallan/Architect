@@ -1,0 +1,10 @@
+# Lead Time and Lag Time
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 239 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Once we have our durations and we're managing the schedule and the activities on our project, we're going to use lead time and lag time. These are applied to optimize or change where things fit on our schedule. For example, on our Gantt chart here, or when using the critical path method, which we'll see soon. But lead time is where we're leading the items forward. So it's off in the future and we can bring it forward towards us, but lag time is when we're delaying the item.
+
+[00:33] It's lagging behind. We're delaying the item and doing it later with lag time. As one example, if we've got a photo shoot here and we're doing all of the photos and we might have photo editing scheduled to start once the photos are finished, but we could use lead time and lead this forward by three days because as soon as we have a few photos, we can start editing them. And that way we can finish the overall project a little bit more quickly because we've used lead time to lead the photo editing towards us.
+
+[01:08] Now lag time is where we might have the concrete foundation of a house, but we have to wait time for that to set. So five days it takes to set, and then we can put up the house frame. So we have five days of lag. The house frame can't be completed here. It needs to be pushed back five days. So it's lagging behind five days while we wait for that concrete foundation to set. So that's our example of lag time.

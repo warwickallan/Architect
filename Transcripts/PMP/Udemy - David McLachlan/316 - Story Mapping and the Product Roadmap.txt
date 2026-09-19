@@ -1,0 +1,16 @@
+# Story Mapping and the Product Roadmap
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 316 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Story mapping is another way to put this. It orders the product by the customer's steps. So we're still breaking down the work and we're breaking them down ultimately into user stories. As you can see, we've got the list of user stories here, but we break it down in the order of the customer journey. So you can see we've got how many fitness details, book the class online, pay for the class and attend the class.
+
+[00:28] Here are the customer journey steps and here are the user stories that we're going to create to help the customer complete that journey. That's user story mapping and it's quite a nice way to break down the work. A vertical slice, we might see this idea come up. It's basically our usable increment. Now, the idea behind this is that it's vertical. So it's got all of the pieces that we need. As you can see, we've got part of the database, part of the business logic, part of content management and then the front end or the user interface or any other pieces that we need in order to make it a usable increment for our customer.
+
+[01:05] We're not creating all of the database in one go and then doing all of the business logic separately in one go. If we were working on a waterfall project, we might do it that way. But in an agile project, we want to be able to deliver something that our customer can see, feel and touch. And so it has to be vertical. It has to have all of those elements involved to make up something that our customer can use. And we've also got our product roadmap.
+
+[01:32] This is the items in our product backlog shown in order of delivery. Often on a timeline, it can be a tree diagram like this. So it can be pretty simple if you want. Or it can be a Gantt chart, which is one of my favorite ways. Any format that works for you. It's owned by the product owner. As items are delivered and the team's velocity becomes stable, the product owner can change the priority and delivery dates. For example, this particular feature might be a little bit faster because our team is getting better at delivering.
+
+[02:02] So we can change those delivery dates as we get more information. The product roadmap can also be used in agile release planning. This just provides a high level summary timeline for our features to be released. Remember, the epics are typically going to be the things that we're releasing to the customer. Made up of lots of different user stories, something usable, something nice, and it's going to get us towards our product goal. It's going to improve our situation.
+
+[02:29] And then we put those on our product roadmap so we can see when they're going to be released. That's agile release planning.

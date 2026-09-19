@@ -1,0 +1,12 @@
+# CoCoMo and Predictive Analysis
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 251 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Also new in the PMBOK Guide 8th edition is COCOMO or the Constructive Cost Model. This is used in software projects to estimate the development effort using the size of the project or the effort and the cost drivers. So the size is done with source lines of code or SLOC. How many source lines of code are we estimating that this will take? Is it 1,000? Is it 500? Is it 10,000? Is it 100,000?
+
+[00:34] What does it actually look like? And then how complex are these things? How reliable and what is the team experience that we have? Is it very mature and very experienced in this area or quite new? So that will change the cost drivers according to how much we have to deliver on this software project. We can also look at predictive analytics which uses historical data and statistics to discover patterns and predict and forecast future scenarios, performance, trends or events.
+
+[01:06] We can also use this in machine learning to forecast trends. We can also use this in Monte Carlo simulations if we're simulating many different scenarios. But the way it ends up looking is with a probability distribution like a histogram. As you can see here, here is the output of all of our different simulations or versions of events and here is the most common output or the most likely output which is around $3.1 million for our budget at the end of our project.
+
+[01:37] Now another way to look at this is a cumulative probability distribution where it goes from to 100% and so as you can see when it gets to 90% confidence level we've spent $3.5 million. So we can say with 90% confidence that our budget is going to be $3.5 million in this particular case. Or at 100% confidence we could look at $3.9 million. So this is another way that we can add costs to our budget and give them confidence factors or confidence levels.

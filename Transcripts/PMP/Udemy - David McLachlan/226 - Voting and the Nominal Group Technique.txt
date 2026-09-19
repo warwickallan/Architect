@@ -1,0 +1,16 @@
+# Voting and the Nominal Group Technique
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 226 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we gather and elicit requirements from our customers and stakeholders, we might use voting to help us make decisions on a project, especially when we need to prioritize these requirements or the solution ideas. Where you have multiple options to choose from, each person in your group may vote for one of them. And here we might get unanimity where everyone agrees, so we're unanimous. We might have a majority where just more than 50% of the people agree, so there's two choices and we've got more than 50%, that's a majority.
+
+[00:38] Now if we've got more than two choices, we might have a plurality, which is the largest block of people. Even if it's not more than 50%, we've got the largest group of people voting for this particular item. Maybe we've got three or four or five or even ten or even a hundred different requirements, as we've seen before, it could happen. So we might have plurality in that case. One of the other ideas that we'll see, particularly in Agile, is multi-voting, where we might get multiple votes, and so we might get, say, 20 dots to assign, and we can assign them to different requirements.
+
+[01:14] This is very handy if we've got lots of different deliverables or requirements that we want to be voting for or assigning, and that can help in those situations. Another way to do voting is the nominal group technique, which is a form of anonymous voting and prioritization to reduce one person swaying the opinions of others. In other words, if we've got our boss in the room and then they say that they want a particular feature, it's very hard to go against their opinion because maybe they control our pay or they control our job or our bonus for this month or this year.
+
+[01:50] So this way we do it anonymously, so we're not swayed by the highest paid person or the loudest person in the room. A question or a problem is posed to the group, for example, what requirements do we need in this system? Each person silently generates and writes down their ideas. The moderator collects and writes down the ideas on a flip chart until all those ideas are recorded, and then each recorded idea is discussed until all group members have a clear understanding.
+
+[02:20] Just another idea here is that we could group them together using affinity diagrams, especially if we have lots of different ideas. So then we can group them together into buckets and then we can just discuss those buckets. That can simplify it if we have lots of ideas. Individuals then vote privately to prioritize the ideas using a scale from one to five or with one being the lowest and five being the highest, or if you have a different scale, one to ten, or even using words, it's up to you, low to high, for example.
+
+[02:50] It's up to your organization or team. Votes are then tallied and the highest scoring ideas are selected. So again, we create the ideas anonymously and then we vote anonymously, and that way it's more of a true vote and we're not swayed by other people in the room.

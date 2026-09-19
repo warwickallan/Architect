@@ -1,0 +1,18 @@
+# WIP and Burndown Charts
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 337 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Approved iterations is another thing that you'll see as a measurement. At the end of a sprint or an iteration, the team holds their sprint review meeting with the stakeholders to demonstrate those working increments. Now if the stakeholders approve that product increment, they say, yes, this is what I had in mind and this is good to release, against the backlog for that iteration, then that iteration is said to be approved. So keep this in mind.
+
+[00:28] You may not see this in the real world or you might, depending on your organization, but this is definitely something that comes up on the exam content outline. So keep approved iterations in mind. If we're working in a Kanban or a flow methodology, we might use work in progress and we've seen this a little bit before. This refers to any user stories currently being worked on by the team. The team limits their work in progress so they can avoid task switching and switching between too many different things, which as we saw, reduces our output by about 40% because we have to get up to speed every time we switch tasks.
+
+[01:09] So what this looks like on a Kanban board is we might have the number that we limit that column to. In this one, we might have a limit of six. This one we might have a limit of four user stories. This one we might have a limit of five and currently we have four. So we're not at that limit yet. Another way to measure the team is through burn down or burn up charts. These show the ideal trend for delivering items and track the real progress against it. Now the burn down chart is usually for a sprint.
+
+[01:40] For example, these might be days. So day one, two, three, four, five, up to 10 days in our sprint, just as one example. And then over the course, this is our ideal trend of the user stories being completed based on our velocity. And then here is the actual trend. This is what we're actually completing. As you can see, we're a little bit behind schedule here because we're not on the ideal trend. If we were on the ideal trend, we would be on schedule.
+
+[02:09] And if we were down here, we'd be ahead, we'd be nearly completing it ahead of schedule. So keep that in mind. If we add a user story to the sprint, mid sprint, then you'll see the ideal trend will actually go up a little bit because we're adding work. And so that changes that ideal trend. So that's how we read a burn down chart. Keep that in mind. We're either behind on track or ahead of schedule and adding user stories will change that ideal trend line.
+
+[02:41] Now the burn up chart shows features. It usually shows our features. And as you can see, we've got, for example, 70 features that we might want to deliver here. And at the end, we're adding some features. So that line is going up. Here's what we've actually completed for each week, as an example, or maybe it's each month. And that's a cumulative until we get to the end when they both match up. Another thing you might see is cumulative flow diagrams or CFDs.
+
+[03:12] This shows the items completed in each phase over time in development, in testing or in the backlog or any other phase that we choose. So as you can see here, we've got lots of work in our to do column and that's going up as we're adding more work, but we're also getting some things done. So we can see that that work is being completed and that's also going up. And here is the smaller amount of work just in progress. It's the team completing that work so that it can move into done.

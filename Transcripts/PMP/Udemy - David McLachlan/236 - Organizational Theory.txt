@@ -1,0 +1,22 @@
+# Organizational Theory
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 236 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're working with and managing our project team, we'll need to know how to motivate people to do the best in their work. And part of that is organizational theory. Organizational theory provides information on the way people and teams and organizational units behave. Effective use of common techniques can shorten the amount of time or cost or even effort needed to deliver our project and improve our efficiency. We'll look at things like Maslow's Hierarchy of Needs, Hertzberg's Theory of Motivation, McGregor's Theory X and Y, and Uechi's Theory Z or Zed, and Parkinson's Law.
+
+[00:40] All these things are wonderful things to be aware of as we're managing a team. Maslow's Hierarchy of Needs is where people and team members typically need to meet these needs in order. And if the previous level is not met, then they can't achieve the next level. For example, starting at the bottom, physiological needs, where do we have a comfortable workplace and are we earning enough to live comfortably? Do we not need to worry about where our next meal is coming from? And are we safe in our environment?
+
+[01:10] The next one is safety, having a safe home, safe employment. If we're always worried about losing our job, then it's hard to move up to the next level. But once we do have physiological and safety needs met, we can start moving into belonging as a team, friendship, family and relationships. Does my team feel like they belong? Once they belong, we can start moving into esteem needs, which is confidence and achievement, gaining the respect of others.
+
+[01:40] And lastly, the best one of all, self-actualization, which is where we have the freedom for creativity, spontaneity, problem solving, lack of prejudice in our decisions and meaning in the work that we do. So always keep this in mind as we're managing a team, Maslow's Hierarchy of Needs. Related to that is Hertzberg's Theory of Motivation, where Frederick Hertzberg came up with hygiene factors and motivational factors.
+
+[02:09] We need to meet the hygiene factors like job security, fairness of salary, work conditions and status in our work. If we don't have them, it provides a dissatisfaction. But if we do have them, people are just satisfied. It doesn't provide any extra satisfaction. Now, once the hygiene factors are met, we can use motivational factors to motivate people further with recognition, achievement, personal growth, responsibility and involvement in decision making and doing something meaningful in their work.
+
+[02:42] It provides additional engagement to our team, but only if the hygiene factors are met first. This is very similar to Kano analysis that we're going to see in Agile, except that's more around product requirements and this is more around people. But the ideas are the same and so that's pretty cool. Next is McGregor's Theory X and Y. Theory X is where the team is lazy and will avoid work if they can. They have little motivation.
+
+[03:09] They need more of an authoritarian management style, hands-on to ensure that the work is done. Now, Theory Y, on the other hand, is where the team believes and takes pride in their work and they see their work as a challenge in itself. Maybe everything they do is them getting better at that particular work task. If we have a team for Theory Y, we can use an inclusive and participative management style trusting the team to take ownership of their work so we don't need to be as hands-on.
+
+[03:41] There is a third one and that is Uechi's Theory Z or Z focuses on increasing employee loyalty to the company by providing a job for life with a strong focus on the well-being of the employee both on and off the job. This is where we take pride in the work itself. For example, a carpenter, everything they do is to become a better carpenter. Maybe a software developer, everything they're doing is making them a better software developer. They're learning to solve better problems.
+
+[04:10] They're learning better parts of code and making things simpler in their solutions. And it's the same with us as project managers. We can always improve our skills and become better project managers.

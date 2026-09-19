@@ -1,0 +1,18 @@
+# Agile Estimation
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 322 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome back. Now that we've been through initiating the project and working with our Agile stakeholders and team, it's time to delve into Agile estimation. We've been through our normal estimation tools in our other key concepts using waterfall approaches, but there are some slightly different methods when we're using Agile that we're going to come across. And typically, remember, we're going through our Agile process, we've got our product backlog of features, we're going to need to estimate these at a high level.
+
+[00:32] And then when we break them down into user stories during backlog refinement with our developers, our customer and our testers, the triad or the three amigos, then we're going to need to estimate these user stories as well in a little bit more detail. So how do we estimate in an Agile team? Well, the most common way is relative sizing. We estimate their effort or complexity instead of their cost or duration.
+
+[01:02] And it's done with user story points assigned to that story card and its requirements. It can be done in the Fibonacci number sequence, so we'll see this. And with this, we just want to choose the closest estimate. Don't spend too much on it. The reason for this is it is an estimate, it's not exact, and it's never going to be exact until the work is done and we know exactly how long it took. So just keep that in mind when we're estimating. Now, the Fibonacci number sequence is where we take the previous two numbers and add them together to get the next number.
+
+[01:35] So one plus two is three, three plus two is five, five plus three is eight, eight plus five is 13, and so on and so on. Now, when we're estimating in an Agile team, in the real world, ideally, we don't want anything too large. It needs to fit in the sprint. So typically, if it's any larger than an eight, we'll usually break it down into two smaller user stories if we can. And the reason it's relative is we take the smallest user story and we size that as a one.
+
+[02:07] And then everything else is sized relative to that in the future, to that smallest user story. This one is twice as big. This one is three times as big. This one is five times as big as the smallest user story. We can also use relative sizing as T-shirt sizing, but this is better for larger items like epics or features or deliverables on our product backlog. It can also be used for user stories if we really want to, but this is where we might size one of our features as either small, medium, large, or extra large.
+
+[02:40] Again, maybe we look at the smallest feature and that's our small T-shirt size, and everything else is then relative to that. Or in your organisation, you might want to add a guide for each size. I've seen this done many, many times. For example, a small feature might be one or two sprints. A medium feature might be three or four sprints, all the way up to extra large, which is seven or eight sprints, which is about two months.
+
+[03:07] And really, we don't want to go any longer than two months without delivering something in an Agile team.

@@ -1,0 +1,18 @@
+# Basic and Interactive Communication
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 219 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As part of working with stakeholders, we're going to need a lot of communication. And just a note, this used to be a separate section all by itself in previous versions of the PMBOK guide, but now it's just been put into the stakeholder section because it's ultimately part of working with stakeholders. So the first one we're going to go through is communication models, which represent the communication process.
+
+[00:27] And I really like this because it brought out into the open things that I just had been thinking about but couldn't really put into words. And there are two main models to be aware of, ranging from a basic sender-receiver model to a more interactive form of communication. Now the first one we'll look at is basic sender-receiver model. And the thing is, we have all these ideas in our mind. Everything starts in our mind.
+
+[00:55] And we actually encode that thing that's in our mind so that it goes out into the real world and it can be heard or viewed and interpreted by other people. And that is how we communicate. So our message is coded into symbols. And those symbols are what we call words today. It could be text or it could be our language. Many different languages, many different forms of communication. But we're encoding it into that language or into those symbols, which is a funny way to think about it, isn't it?
+
+[01:28] And we transmit that message via a communication channel, via an email, a letter, via speaking, via the phone, via a video conference. We're transmitting it to the other person. But there are noise and other factors that might contribute to loss of information. Maybe the other person is distracted. Maybe they're having a bad day. Maybe they don't trust us very much and so they don't want to listen to our message at all. There are lots of things that could impact them receiving the message.
+
+[01:58] And so the message is then translated back into a form that's useful to them and it goes into their mind. So that is the basic sender-receiver model of communication. Now it's taken a step further with the interactive communication model. And this is where things get really good. In fact, on every project that I work on now, I always try and use the interactive communication model. It basically involves the same steps. So we're encoding the message, transmitting it, and then it's decoded by the other person through their personal biases, assumptions, or their own experiences.
+
+[02:29] But it adds a few steps and here's where it gets good. The receiver acknowledges receipt of the message. Now it doesn't mean that they agree. It just means that they heard you. So they say, okay, I got your message. I hear what you're saying here. And then they take another step, which is the feedback of their response. They encode their own understanding of what you said. So it sounds like you're trying to say that we need more scope on this project. Is that correct?
+
+[02:58] And they send that back to the original encoder. Now because it's interactive, we're getting an understanding and we see what the other person has heard and they see or hear what we've said. And it's coming together into a more concrete understanding together because we're interacting and we're confirming those things. So it's a really nice way to work.

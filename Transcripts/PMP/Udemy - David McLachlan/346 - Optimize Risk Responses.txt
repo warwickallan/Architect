@@ -1,0 +1,16 @@
+# Optimize Risk Responses
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 346 (section 10: Project Management Quick Review (Important PMBOK 7th Edition Concepts))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Optimise risk responses is the next one. Risk responses should be timely to the significance of the risk. If it's not too much of an impact or it's not too bad of a risk, then do we really need to spend millions of dollars on it and do it tomorrow? Maybe not. Maybe that one can wait. But if it's really going to cost us and there's a high likelihood that it's going to happen, then we need it to be timely to the significance of the risk.
+
+[00:29] It needs to be cost effective as well. We don't want to spend a lot of money if it's not going to have a large impact and vice versa. Realistic within the project context, agreed to by relevant stakeholders like the risk owners or who's impacted by the risk and owned by a responsible person, usually from the area where the risk is going to impact. Higher risk thresholds of stakeholders might also have a higher cost range. So if our project sponsor has a higher risk threshold, they may have a 40% difference in the cost range that they will accept as a risk impact.
+
+[01:06] Second to last is embrace adaptability and resiliency. Adaptability is the ability to respond positively to changing conditions. And there are always going to be changing conditions on a project. As we reveal more requirements or maybe we get defects or maybe stakeholders don't agree with what was delivered. Maybe the contract doesn't match up. Lots of different things that can happen. And resiliency, that's the ability to absorb things that go wrong, absorb impacts and the ability to recover quickly from a setback.
+
+[01:39] You will notice that different people in your team have different levels of resiliency. And it's important to try and help them build up that resiliency and adaptability because that's going to help us all deliver value faster. Use our lessons from previous projects, regular improvement within the team of our processes and continuous learning for our own ways of working. Maybe if we're testers or business analysts or even as project managers, we always want to be learning and continuously improving and that will help us build adaptability and resiliency.
+
+[02:14] And the last one, enable change to achieve the envisioned future state. Projects deliver change. As we know, and they deliver it to stakeholders and customers. That's our business value. Too much change too quickly can sometimes have a negative effect on stakeholders though. So keep that in mind. We can use a structured approach to that change. So delivering it bit by bit in increments or making sure that we're training and communicating and working with the business leaders.
+
+[02:45] That's our process to change. And communicating that vision and the benefits that people are getting from the change and doing that as often as we can.

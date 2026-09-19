@@ -1,0 +1,20 @@
+# Machine Learning - Unsupervised and Reinforcement Learning
+# Udemy — Introduction to PMI CPMAI - Master Class — CPMAI — lecture 033 (section 7: ML Types and Algorithms)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=6658161
+# captions: English [Auto]
+
+[00:01] Now you also have unsupervised learning. You also have uh uh, reinforcement learning. So what are unsupervised learning. So unsupervised learning is when the system does not have labels to be provided, it does not have labels. The system itself would figure out right. For example, you are putting you are giving a lot of uh, pictures of lot of cats or you are giving pictures of lot of animals. So it might, you know, the system doesn't have a label here.
+
+[00:30] So it has to learn. You have to find out by itself. So what it might do is it might cluster or, you know, it might put, uh, certain animals in a bucket based on their, uh, for example, maybe it might bucket all the large sized animals in one bucket. It might put another set of animals in another bucket. So like that. So system might use some criteria or some, uh, some way to actually cluster this or put them in clusters. So where are these best used.
+
+[01:00] For example you want to classify you want to cluster buying patterns behavior okay. So you want for example you based on the buying patterns you are saying okay nice high net worth individuals okay. Middle class or low class something like that. You have. So you are basically clustering, uh, and forming a group and putting the, you know, the models outputs in particular this thing, particular buckets. So that is what your unsupervised learning, reinforcement learning is where you actually need uh, it is like a risk and reward.
+
+[01:36] You let the machine learn by itself. The machine might make mistakes. So if the machine make a mistake, you might put a penalty. You might give it a penalty. You might say minus one for minus one point for you. And every time the system gets something right, you might give it some reward or a plus one for it. In this way, system optimizes and learns the best way. For example, uh, you are. There's a robot operating in your company.
+
+[02:03] And the robot. The job of the robot is to frequently transport some heavy materials from the from your company to the warehouse, which is like nearby. So sometimes there are a lot of activities happening in the way the robot has to determine the optimal route to reach the warehouse. So normally the robot takes route A, but it finds that the route A, some construction is going on or something else is going on.
+
+[02:32] So it has to it has to learn and take the route B to reach. So eventually, you know, trying and testing it will come and come to an optimal solution, optimal route that it normally it it wants to take. So and if it cannot find an optimal route the next best optimal route. So that is that's the learning involved. So you might have seen some of this uh, checkers, chess and all where you know, based on every time, once you beat the system, the system learns your pattern.
+
+[03:04] Next time you try to make the same move, it will block you. For example, in A54 move or a five move if you have defeated the system. Next time when you move the try to attempt the four mover five move, it will block you in advance because now it has learned, uh, based on the penalty because the system lost, it has analyzed how you have played and now it knows how to block you. So that is that's all. So those are the different types of machine learning techniques.
+
+[03:32] Uh, we talked about supervised unsupervised and we talked about, uh, reinforcement learning. Now in the next, next video we will briefly touch upon some of the algorithms, uh, so we don't have to go into a lot of technicalities, but the, some certain algorithms, you must know when it is used and how it is used for what it is used.

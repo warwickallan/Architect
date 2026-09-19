@@ -1,0 +1,14 @@
+# PMP Exam Question Types
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 010 (section 1: Introduction)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Now, what sort of questions are we going to see on the PMP exam itself? We've got the most common type is a scenario-based multiple choice question. So, it's a project scenario where something is going wrong and we need to use our project management skills to solve the situation. And we'll have four answers in a multiple choice question. That's the most common. Most of the questions will be this type.
+
+[00:26] But you will get a few of these other types as well. This one is enhanced matching, where we've got a picture, it's a burndown chart, and we just need to match up the words to the right place on the chart. For example, when are we on schedule? That's when we're matched up with our burndown chart to the ideal trend. When are we ahead of schedule? Well, it's when we're below the ideal trend. And so on. So, keep that one in mind.
+
+[00:53] One of the new types of exam questions is a case study. So you'll get quite a long case study that you'll need to read through, and then three or four questions about that scenario. Now, people who have taken the pilot exam actually found this a little bit easier, even though it sounds daunting because you've got this long scenario. But once you've read it, you can easily get through the three or four questions. And it's a little bit faster than taking individual questions by themselves. So keep that case study exam question type in your mind, and just know that it can be a little bit easier than normal questions, so don't be put off by that style.
+
+[01:32] You'll also see hidden spot areas, or point and click, where we need to click on the right area according to the question that we get. And on the picture, you won't be able to see those hotspots, but this is what it looks like. You'll typically have one, two, or three, or four different hotspots on the picture, and you click on the right area. You'll also see drag and drop questions, where we need to match up the item to its description. For example, a stakeholder over here is matched up to this description.
+
+[02:02] They offer input because they're affected by the activities or the outcome of the project. That's our stakeholders. So that's very good to know, drag and drops. You'll also have pull-down lists. For example, this one is a plan that includes activities, estimated durations, and dependencies. And that is our schedule management plan. We just need to select that from the drop-down list. And that's all of the exam question types that you'll see on the PMP exam.

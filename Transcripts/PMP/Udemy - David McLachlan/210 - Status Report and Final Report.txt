@@ -1,0 +1,14 @@
+# Status Report and Final Report
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 210 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] A good example of a work performance report is our status report. We can present project progress to our stakeholders with a status report on a regular basis. And we can agree with our communication approach with our stakeholders in our communication management plan, as we'll see coming up. But maybe we want to do this on a weekly basis and we send this out and we say, hey, this is how our project is tracking.
+
+[00:26] This is what we've delivered. This is our schedule and costs and how that's going, any risks or issues that we've had to manage and anything else that we think our stakeholders need to know about the project. We'll also use a lessons learned register in the governance section of our project. This is used to record knowledge during the project to help us improve in the future. It could include the category and description of a situation, the impacts that we had to face, the recommendations for solving any issues and proposed actions associated with that situation in the future.
+
+[01:01] This is just going to help future projects, maybe even us ourselves in the future, because we have these lessons learned and we know that maybe we don't want to use that particular vendor or maybe there's a certain way of working with that vendor that we need to know. Or maybe a particular part of the business doesn't like this way of working. All of these things can be lessons learned. And lastly, in governance, we have the final report. Once we've completed all of our deliverables, they've been approved by the customer and we're ready to wind down and close our project, we'll need to create the final report.
+
+[01:39] It's a summary of project performance and it can include the summary of the project, the scope objectives and whether we met those scope objectives, the quality objectives, and if there were any variances, did we have some defects and what happened. Schedule objectives, planned versus actual schedule, planned versus actual cost, were we over budget or under budget? And the summary of any risks. We also have the confirmation of validation from the customer.
+
+[02:08] So this is our sign off. Our customer has said, yes, I approve of this product. I see that it's past quality control and it's ready to be released. I'm okay to sign it off. That's validation of the product, usually done by the project sponsor. And lastly, a summary of how the final product met the original business need. Maybe we need to look at our benefits management plan for the benefits and how we're measuring them and did those benefits meet what we originally thought.

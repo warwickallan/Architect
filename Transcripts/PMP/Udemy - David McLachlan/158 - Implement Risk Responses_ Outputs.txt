@@ -1,0 +1,10 @@
+# Implement Risk Responses: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 158 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Outputs for our implementing risk responses are our change requests. As we implement these risk responses, we might need to change our project's cost, schedule or scope. So for that, if it's a baselined item, we're going to need a change request. If it's in Agile, as we're going to find out, the product owner can simply reprioritize their product backlog and redo their product roadmap. So then they can see clearly when these things are coming up.
+
+[00:31] But we're also going to update project documents. So the issue log for any issues that arise as we implement these risks, lessons learned for things that we've learned, project team assignments, so for people who need to be assigned to perform these risk responses, the risk register so we can show ones that have been worked on and the risk responses that have been completed. And lastly, our risk report, because hopefully our overall risk exposure will go down as we implement these risk responses.
+
+[01:02] Then we can send out that report and everyone can celebrate because we've got a lower risk profile and Grace is going to be the happiest person in the world. Those are all the things that we're going to need for implementing risk responses.

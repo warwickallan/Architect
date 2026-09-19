@@ -1,0 +1,14 @@
+# Baselines and Configuration Management
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 206 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're initiating and then planning our project, we're going to look at baselines. A baseline is an approved version of a project artifact fixed in time. This is mostly around our project scope, so all of our deliverables, once that's approved and we know what we want to deliver, we make that our scope baseline and there's more information on that coming up in our scope section.
+
+[00:29] Same for our schedule and same for our cost. Once we've got a budget that's locked in place at a certain point in time, maybe we've got $2 million for our project and that becomes our budget or our cost baseline. It's used to compare to future results. So if we start spending and we've got 2.5 million, then maybe we need to make some changes. Maybe we need to reduce the scope or do something different to make that cost go down again or maybe we just need to approve more funding for this particular project.
+
+[01:00] The most common baselines are these, scope, schedule and cost and we work with the configuration management plan which describes which items are going to be baselined. So is it our project documents? Is it our scope, schedule or cost? Is it part of our code that we're working in? What's going to need version control so we're going to compare it to future versions? How will information be recorded and updated when changes are made so the product remains consistent?
+
+[01:30] All of this, the configuration management plan is basically version control. So we've got version one of our scope and this is what we had planned, but hang on a minute, six months in the future, the scope changes because we've got some new ideas or the market changes or a customer wants something different to what they described initially. Now we have to rebaseline, make those changes, rebaseline, then we've got version two and so on and so on if we keep making changes.
+
+[01:56] And for example, artifact versions and version control is in our configuration management plan.

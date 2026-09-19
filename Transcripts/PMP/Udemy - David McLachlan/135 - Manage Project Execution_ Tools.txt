@@ -1,0 +1,12 @@
+# Manage Project Execution: Tools
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 135 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Tools and techniques as we manage project execution will be our favorite expert judgment because we're going to need the expert judgment of all of our team as they do the work. And we'll need things like legal and procurement, legislational regulations, organizational governance. All of these people can help us with information on these things to help us manage the project. Cost and budget management and technical knowledge of the industry or what we're delivering.
+
+[00:31] Especially this and especially from our project team. All of the information that we create as we're going through and delivering our project will go into our PMIS, our project management information system. Could be work authorization systems, so when do we begin work. Maybe it's our Kanban board or maybe it's work scheduling or software tools. Information management for version control like Git or GitHub for example. Information collection and distribution systems and corporate knowledge database repositories.
+
+[01:04] Any of the systems that we're using and again many different names and you'll see different systems in use depending on where you're working and the industry that you're working in. As always we'll need meetings to tie everything together. Meetings with our project team. Most importantly daily coordination meetings to align all of our project staff, gather updates on what they're doing and raise any issues or any blockers. In Agile we call this the daily scrum or a daily stand up.
+
+[01:35] We just have a quick meeting usually at the beginning of the day to see what we're going to do for the rest of the day but it's up to you and your team when that fits you best and that just gives us an update. We can see how everything's going and if anything is going off track.

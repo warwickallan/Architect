@@ -1,0 +1,14 @@
+# Velocity and Throughput
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 335 (section 9: Agile Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] As we're working in our iteration, the team can measure themselves by their velocity. Velocity is the number of user story points completed in each sprint. And we measure this so that we can keep a sustainable pace. We match our future work to the work that we've been able to complete previously. So it's around about the same and our pace is sustainable. We're not pushing and hurrying up and waiting, hurrying up and waiting.
+
+[00:30] We're keeping our pace nice and sustainable. And this is why it's also important to keep user stories and increments small so they're easier to estimate and they don't spill over into multiple sprints. That's going to ruin our velocity. And the way it looks like is this on a velocity chart, for example, sprint one, two, three or four, or iteration one, two, three or four. Here is what we had planned to complete, the user story points, 35 points. This is based on our estimates for our user story cards.
+
+[01:02] But what we actually completed was about 22. And so now we've got a baseline. The second iteration, we plan about 25 user story points, but we were able to complete 30 user story points because the team's getting a little bit faster. They're working through the Tuckman model and forming, storming, norming, and then performing as a team. And so now we've got a bit of an average. Then we can plan about 27 and we managed to finish 31 or 32 user story points. Then we can just use that average as a rolling average and match our future work to the average of what we've been able to complete.
+
+[01:39] That's our velocity. Throughput is very similar. It's the number of items completed in a given timeframe. For example, three user stories a day or two features completed a month. So we want more frequent, smaller deliveries in an Agile team to help build that trust and to show progress in the work. And for example, what we're looking at here is how many items have we delivered. This might be user stories because we're completing six per day, seven per day. Here's three on the 11th of March and 10 on the 12th of March.
+
+[02:14] And we can also then get a bit of an average, but it's good to see the throughput and what we're able to complete every day.

@@ -1,0 +1,14 @@
+# ROI, PBP and BCR
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 204 (section 6: Project Management Key Concepts)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Return on investment is a simple ratio, wow, now that sounds good after all that mathematics doesn't it? And it's basically the net profit or loss of an investment by its cost. Because it's expressed as a percentage it's easy to compare and we choose the highest return on investment. So we take our return, how much did we get as a benefit, minus our investment and then we divide that by the investment and multiply it by 100 to get a percentage.
+
+[00:34] What does that look like? Let's say we get $2,000 as a return on our project, or maybe it's $2 million, or maybe it's $200 million, the figures can be different but the idea remains the same. So $2,000 return minus our investment of $1,000. We divide it by the investment, so divide it by 1,000, so we've got 1,000 divided by 1,000 equals 1, multiply that by 100 equals 100%, so we've got 100% return on investment. Now if we've got 1,500 minus 1,000 that gives us 500, so we've got 500 divided by 1,000 equals 0.5 multiplied by 100 equals 50%.
+
+[01:16] Which one are we going to choose? The highest one, and that's option 1. So there's your return on investment. Payback period. Now do you remember this one? We want the lowest payback period because it's the length of time that it takes to break even on our project costs. Let's say our project cost was $5,000 and our average annual return, our benefit, is $1,250, that goes into 5,000 four times.
+
+[01:46] So it's going to take us four years to get our money back. If we had a project that only took two years to get our money back, our payback period, then which one would we choose out of these two? It would be the two years. What if we had one that only took one week? Well, maybe we'd go for that one instead. The shorter the payback period, the better. And lastly, my favorite is the benefit to cost ratio, or the BCR, you'll see. This compares the present value of all benefits with that of the cost.
+
+[02:19] Again, this one's pretty simple. I like to keep things simple. When you make it complicated, you lose stakeholders and it makes it hard to get your point across. So total benefit divided by total cost. How easy is that? Let's say we've got $5,000,000 benefit and our cost of the project was $2,500,000. That goes into $5,000,000 two times. So our BCR, or benefit to cost ratio, is two, or two to one. Now, anything over one is good or positive, and the higher the cost to benefit ratio, the better.

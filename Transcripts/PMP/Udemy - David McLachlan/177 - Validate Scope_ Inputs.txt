@@ -1,0 +1,18 @@
+# Validate Scope: Inputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 177 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, now that we've monitored and controlled the project scope, done all of our testing and quality control activities, and everything is great with our product, so it's passed all of those tests, now it's time to take that scope to the project sponsor to validate it and have them accept it. That's probably going to be grace for us as the project sponsor. Validate scope does two things, it ensures that the deliverables meet established quality standards and we're formally accepting those deliverables.
+
+[00:35] Typically our project sponsor or product owner in an Agile team, or even our customer, will review those quality results and sign off on the completed deliverables, ready for release. In other words, this is where Macy and Celine have their quality results and they've put them in a quality report with all of our work performance data and work performance information, and Billy has that information, he'll work with Macy, they'll take this to Grace, our project sponsor, to approve based on those quality outcomes.
+
+[01:08] If the quality outcomes are bad, then hey, maybe we need to go back to the drawing board and redo some of this work with Kylie and the developers. But if it's good, then Grace is going to say, alright, I approve, I validate these items and we're ready to go. Lots of inputs, tools and techniques and outputs, but the main output is accepted deliverables. Grace is accepting them and that's a wonderful thing. We might have some change requests as always.
+
+[01:36] We've seen that quite a lot in monitoring and controlling. Now inputs for validating scope will need our requirements documentation, which is what we said we wanted from our customer in the first place. The scope baseline to see what we wanted to deliver. We'll need the quality reports from Macy because that is what we're using to get the approval of the scope. We'll need the work performance data for any defects or even change requests because if there's a lot of defects outstanding, then really we need to know about that and Grace needs to know about that.
+
+[02:09] Quality control measurements, did we meet all of our measurements? Did we get the test coverage that we wanted? Do we have a low amount of defects or severity one defects? All of that's important to know as part of our measures. We'll need the verified deliverables themselves. So all of those deliverables, the pieces of scope that we have created with Kylie and the team and we've tested with Macy and our testing team and we've got them and they're verified that they meet the customer requirements through quality control.
+
+[02:41] And now we can take them to validate with Grace. Enterprise environmental factors might be risk thresholds. However, if Grace has a low risk threshold, she may not want lots of defects or issues that are going to come up. So we don't want those. We want to keep our risk profile very much the same or maybe even less of a risk profile if we can help it. And of course, existing process assets with communication requirements or standardized guidelines for product release.
+
+[03:11] We might have a release template and once that's been approved, we can follow those guidelines in the organization.

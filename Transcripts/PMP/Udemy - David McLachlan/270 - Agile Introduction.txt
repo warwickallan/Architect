@@ -1,0 +1,12 @@
+# Agile Introduction
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 270 (section 7: The Agile Practice Guide)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] Hi everyone, welcome to the Agile section of this course. Agile is one of my favourite ways to work. I've worked in many, many different Agile project teams and even been an Agile project coach myself. So this part of the course is really dear to me. But what is Agile? It's a way of working that helps teams adapt quickly to change, deliver small pieces of value faster and reduce project risk by catching issues sooner.
+
+[00:29] Now if you remember, way back in our fundamentals of project management, we were looking at Waterfall and Agile, and Agile is that combination of incremental, so we're delivering small increments to our customer, and iterative, so we're getting feedback from our customer and then adapting and changing to suit their needs. And so this section on Agile is going to delve deeply into the ways of working and how we're actually going to deliver these short, small increments and get all this feedback from our customers.
+
+[01:01] But first of all, where did Agile come from? Well, in 2001, a group of 17 individuals, representing the most widely used, lightweight software development methodologies at the time, came together and agreed on a common set of values and principles. And those values and principles became known as the Agile Manifesto. And we'll go into that next, because that shows Agile in a nutshell. If we're ever unsure of what to do, we can always go back to the values and principles in the Agile Manifesto, and it's nice and short as well.
+
+[01:35] But all of these people, they've become quite famous in their own right. We've got Jeff Sutherland, Kent Beck, and Ken Schwaber, Ward Cunningham, and Ron Jeffries. They actually had ways of working, for example, extreme programming or Scrum, or maybe there's feature-driven development in there, and maybe there's Crystal with Alistair Coburn. But all of them came together with their own individual methodologies, which some of those are still going today. For example, Scrum is still a very popular part of Agile, but there's more to it when you combine everyone's information as they did to come together in 2001.

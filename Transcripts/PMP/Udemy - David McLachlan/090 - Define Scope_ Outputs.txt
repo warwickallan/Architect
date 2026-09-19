@@ -1,0 +1,10 @@
+# Define Scope: Outputs
+# Udemy — The Best PMP Prep Course: 35 PDUs, Updated for 2026 Exam — PMP — lecture 090 (section 4: The Project Management Process (PMBOK Guide 8th Edition))
+# https://www.udemy.com/course-dashboard-redirect/?course_id=5188420
+# captions: English [Auto]
+
+[00:00] The outputs that we want for defining the scope are our project scope statement. This is the description of the project scope and the deliverables that we're going to be delivering. It can be a simple list or again it could be in detail or just high level. It depends on us, but typically it's going to include the description, just a written description of the scope, a list of the deliverables, so any of the features that we're delivering, then the acceptance criteria for those deliverables.
+
+[00:33] This could be a simple step-by-step, so here's the step that we need to complete and here's the outcome that we get, or it can be done as a user story template. As a user, I want this to happen so that I can get this done, or given a certain condition when I do this, then I want this outcome, so given when then, a few different ways that we can write acceptance criteria. And lastly, any exclusions or out-of-scope items, and we include this just so everyone is clear and on the same page and we don't have any scope creep, so people don't come back later and say, oh I wanted this extra feature, well that was out of scope and we all agreed on that, so if that's a change we might have to do a change request or work with it in other ways.
+
+[01:19] The other thing we'll update here is our requirements documentation. Now that we've got our project scope, we can update our requirements traceability matrix. We've got those requirements, now we've got the scope that we're going to deliver on those requirements with, and we might even have extra things like the designs or prototypes or mock-ups, or any other new requirements data, but definitely adding those things to our requirements traceability is going to be great.
