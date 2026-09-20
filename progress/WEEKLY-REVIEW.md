@@ -4,6 +4,22 @@ One entry per week, newest first. Keep to the headings; the value is in the tren
 
 ---
 
+## Week of 2026-09-21
+
+**Delivery track:** Repo topology settled (ADR-0009): three repositories — programme, OS, LMS — with Architect OS and Architect LMS explicitly exempt from the method's discovery gates, on the grounds that gating the tools the method depends on is circular and that proportionate governance is itself the lesson. **Architect LMS v0.1 built and pushed**: Assessment Console (six question types, locked reveal, keyboard, responsive), full interaction telemetry with monotonic timing and active-vs-wall separation, explainable learner model, weighted adaptive selection, ports for Supabase/Neo4j/AI/ingestion. 43 unit tests, clean typecheck, end-to-end acceptance test.
+
+**Learning track:** AB-100 syllabus imported into the LMS with provenance (74 objectives); a concept graph authored over it; questions minted by a writer pass and independently reviewed — 10 of 18 approved, the rejections catching answer-length cues, grammatical polarity tells and a key that leaked through its own wording. That rejection rate is the argument for two-stage minting.
+
+**Objectives moved:** none — the build touches AB100-1.3.3, 3.1.4, 3.1.5, 3.2.1, 1.1.3 and CPMAI-2.4, 2.7, 4.2, 1.5, but nothing advances past *Applied* until Warwick can explain and defend it.
+
+**Evidence added:** none yet.
+
+**Warwick did personally:** ruled on repo topology and the method exemption, over Claude's contrary argument.
+
+**Blockers / decisions needed:** A03 licences & environments; A13 name reviewers; A14 price the CPMAI Exam Prep Course; run P01 candidate selection; split Architect OS into its own repo.
+
+---
+
 ## Week of 2026-09-14
 
 **Delivery track:** Repo bootstrapped and linked to GitHub. Programme model refined (CPMAI as lifecycle loop; discovery before architecture); method v0.2. Warwick decided P00 = Architect OS first; ADR-0001–0008 accepted; **Architect OS v0.1 (Discovery tab) built and smoke-tested the same day** — interview via `claude -p`, human-confirmed record, rendered discovery pack. P01 Tech PMO AI awaits its interview.

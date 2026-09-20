@@ -1,6 +1,6 @@
 # Products
 
-One folder per product, each run through the delivery method (`method/README.md`).
+Projects run through the delivery method (`method/README.md`), one folder each. The CORE platforms — Architect OS and Architect LMS — are **not** projects and live in their own repositories; see [`REGISTER.md`](../REGISTER.md) and [ADR-0009](../architecture/ADR/ADR-0009-repo-topology-and-method-exemption.md).
 
 | ID | Product | Kind | Stage | Note |
 |---|---|---|---|---|

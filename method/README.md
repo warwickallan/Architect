@@ -6,6 +6,10 @@ Architect's reusable AI transformation / solution-architecture playbook: what to
 
 **Working interface:** the method runs through **Architect OS** (`products/p00-architect-os/`) — a conversational interface over a structured project record — with the same skills runnable from Claude Code in the terminal. **GitHub is the durable store**: the record and every rendered artefact live in the repo. Markdown is persistence and deliverable format, not the user interface.
 
+## Scope
+
+The method governs **PROJECTS** — initiatives run for a business outcome (`REGISTER.md`). The **CORE** platforms that support the programme (Architect OS, Architect LMS) are exempt from its discovery and process gates by [ADR-0009](../architecture/ADR/ADR-0009-repo-topology-and-method-exemption.md); they keep lightweight ADRs and evidence only. The exemption exists because those tools are what the method depends on, and gating them behind it is circular — and because governance proportionate to risk is itself the lesson.
+
 ## Lifecycle: stage → activities → artefacts → gate
 
 A stage does not finish because someone clicked *Next*. It finishes when the gate's evidence conditions are demonstrably true in the record.

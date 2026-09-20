@@ -12,3 +12,4 @@ Programme-wide numbering; files live with their product. Statuses: Proposed → 
 | [ADR-0006](../../products/p00-architect-os/design/ADR/ADR-0006-voice.md) | Voice via Web Speech API behind adapter | Accepted | 2026-09-17 | P00 | — | pending |
 | [ADR-0007](../../products/p00-architect-os/design/ADR/ADR-0007-human-confirmation.md) | Human confirmation before committing entities | Accepted | 2026-09-17 | P00 | AB100-3.4.8, CPMAI-1.5, CPMAI-1.2 | pending |
 | [ADR-0008](../../products/p00-architect-os/design/ADR/ADR-0008-code-location.md) | Code at products/p00-architect-os/ | Accepted | 2026-09-17 | P00 | — | pending |
+| [ADR-0009](ADR-0009-repo-topology-and-method-exemption.md) | Three repositories; OS and LMS exempt from method gates | Accepted | 2026-09-20 | programme | AB100-1.3.3, CPMAI-2.4, CPMAI-2.7 | pending |
