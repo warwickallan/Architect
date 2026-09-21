@@ -1,0 +1,24 @@
+# 54. Share flows
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 188 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to look at how we can share flows, and it's a bit more complicated than it might first appear. So let's have a look at this TwitterLanguageCount. Suppose I wanted to share it. Well, the obvious place is to go to the Share icon just here. So let's do that. Or you could click on the dot dot dot and go to Share here. So that gets you to this screen. So you can add people as owners. Now you must have a paid plan to be able to share.
+
+[00:28] If I go to my Developer plan and try and share, then it invites me to have a free 90-day trial. So Owners, you can select who you want owners to be. So users must be in your organization's directory. They can become owners. They can therefore view the run history, manage properties, such as starting the flow, stopping the flow, adding owners, and updating connection credentials.
+
+[01:00] They can edit the flow definition. You can add or remove owners, but you can't remove the creator. And you can also delete flows. So you can see owners of the flow will have full access to all connections in the flow and the content. So do be careful when adding people as owners. You can also add SharePoint lists as co-owners of the flow. Co-owners have edit access, and you can also remove users in the same way.
+
+[01:30] Now don't be too worried about the connections. Yes, they'll be able to do everything that the flow can do, and you'll be able to edit the flow definition so you can change what it does. However, connections can only be used in the shared app, and credentials in shared connections cannot be viewed. So there is a little bit of things that they can't do, but basically if you give them your Twitter connection, it's like giving them your username and password in the sense that they can take a flow, and they can alter the flow and do what they want with it.
+
+[02:01] So where else can you share? Well, if I go back to my particular flow, I can click on the dot dot dot. I can go down to Details right at the bottom. So we have my Owners over here, my Connections here, Details and Run History. But over here, we've got to Run only users. So these are people who can use their own connection credentials, or you can use yours.
+
+[02:30] So we can click on Edit, Run only users. And here we go. So you can invite people to be able to run this flow and see the contents, but not edit in any way. So maybe I want the Twitter account to be provided by me, but I want to have notifications being provided by the Run only user. So it can also delete users' access in the same way. So as I said before users must be in your organisational directory.
+
+[03:04] You can also send a copy of the flow to somebody. So again, if you go to a flow, if you click on the dot dot dot, and we'd go down to details again, you can send a copy at the top. Now do be careful. Copies cannot be recalled once they have been sent. So if I send some copy of an flow, they will receive an email with a Create My Flow button, and they will also be in the Templates Shared with Me section. Now you can also share in the same way using the mobile app.
+
+[03:37] So any end recipients would need to go to the Buttons tab and click Get More or New Buttons Are Available banner to add them to the Buttons tab. And you can remove users' access in exactly the same way. So that is how we can share flows. We can do it by sharing and making people owners or co-owners, including SharePoint lists, or we can go down to the Details, and we can add Run only users.
+
+[04:07] Run only users, you can decide they have to provide their own connections, or you can provide the connections with owners. They will use your connection. What else can you do with flows by the way? You can see the run history. You can see analytics. You can export them as a zip, so that's another way of sending a copy. You can turn off. So, in other words, that doesn't delete it. It just stops it from running, and you can delete it if you wish. So this is how you can share flows.
+
+[04:35] I will click the Share button or go down to Details and add Run only users. And if you click on the Edit next to the Owners, that takes you back to where we were previously. So this is sharing flows.

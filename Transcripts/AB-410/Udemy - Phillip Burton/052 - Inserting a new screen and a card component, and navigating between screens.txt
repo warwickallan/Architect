@@ -1,0 +1,30 @@
+# Inserting a new screen and a card component, and navigating between screens
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 052 (section 11: 23. Creating a basic canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we created a screen with a gallery. In this video, we're going to have a look at the details. So I want to be able to click on an item in a gallery and see information about it. Now it's not helpful having this screen called Screen1. So I'm going to click on the dot dot dot next to it and rename it as Expenses Browse Screen. So let's create a new screen.
+
+[00:27] So I go to the tree view, new screen, and I'm going to create a blank screen. And now I will insert a form. So if I search for the word form, you can see that we've got an edit form and a display form. So I'm going to use a display form. And it's going to contain information from the expenses table. So this will just take a few seconds. And here we can see information, claim description, claim date, and so on.
+
+[01:01] If I want to edit these fields, then I can go to fields in either place, just above the form or in the properties. And I can click on it to see what fields are currently used. And I can add fields, reorder fields, and more. Now this form doesn't have any information, because which of these rows should it have information for? So it should be the one that is currently selected.
+
+[01:31] So if I click on this form and go to advanced in the properties, we can see the item that should be used. And I type gallery1, so I just press tab because it was highlighted, dot selected. And now you can see the information. So again, there's probably a better name than gallery1. So let's rename it. So I'll click on the dot dot dot next to it, go to rename, and I will call this the expenses gallery and press enter.
+
+[02:05] And now if I go back to my form, notice that the item is expenses gallery, dot selected. So it has been updated with the new name. So how can we get from one screen to another? So again, I probably need to rename the screen to expenses detail screen. So what I want to do is to go into the gallery to click on something and then go into the detail screen.
+
+[02:34] And for this, we can use an event called on select. So what happens when we select an item in the gallery? At the moment, the contents of on select is false. We're not going to do anything. So instead, let's navigate and then in brackets, I want to navigate to the expenses detail screen and close the bracket. And then we need a way to get back.
+
+[03:04] So I'm going to insert an icon. So let's insert and I'll search for back. And here we can see a back arrow. It's also available in shapes as well. So you can use either of these two. And then what happens when I select this back arrow? So I go to the on select property again. And again, I can say navigate to the expenses browse screen. Alternatively, I could just say back and open bracket, close bracket.
+
+[03:37] I don't need anything there. So back won't take me back to a specific screen. It will just take me back to the last screen. So I'm going to go to the expenses browse screen and you can do that at the bottom as well and click play. So now if I select something, so I've selected an item, we can now see the information about this item. And then we can go back and select another item and so on.
+
+[04:07] Now you'll notice that there's no transition between these screens. We could add a transition. So what I'm going to do is click on the gallery again and go to the on select property and I'm going to add a transition. So I will type in a comma. Now, depending on what sort of locale you're in, if you're in a non-English locale, you may find that instead of using a comma, you need a semicolon.
+
+[04:35] So which locale are you in? Well, you can find out very easily. If I just start again, then you can see that I have a comma separating these two items. If you see semicolon, then you should use a semicolon. So let's recreate this. I'm navigating to the expenses detail screen, comma, and I can use any of these screen transitions. So cover left, which is just called cover, cover right, fade, uncover, which is uncover left, and uncover right.
+
+[05:08] So I'm going to say cover, and then if I go to this back button, then I will add a transition as well. The transition will be cover right. So now let's have a look. So I can't go back. So make sure you start in the correct screen. So I'll click on an item and now you can see that the screens are transitioning from one to the other in a smoother way.
+
+[05:41] So in this video, we've created a detail screen where we can see information about a particular item. Now, if I want to replicate a click without being in the play mode, then I can hold down alt and click and that then selects the item. We then inserted a form in the second screen and use the advanced tab to select the expenses gallery dot selected. We also added a back button and use the back to navigate back.
+
+[06:13] And we also added into the on select property for the gallery, a navigate function.

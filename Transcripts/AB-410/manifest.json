@@ -1,0 +1,1748 @@
+{
+  "exam": "AB-410",
+  "retrieved": "2026-09-21",
+  "courses": [
+    {
+      "course": "Udemy - Phillip Burton",
+      "channel": "Udemy (enrolled, paid)",
+      "playlist": "https://www.udemy.com/course-dashboard-redirect/?course_id=4049210",
+      "udemyCourseId": 4049210,
+      "folder": "Udemy - Phillip Burton",
+      "source": "English captions via the logged-in course player, read-only, 2026-09-21",
+      "note": "Paid course captions; committed at Warwick's decision. 1 of 193 video lectures has no caption track on Udemy (L41). Lectures 1-81 are the AB-410 course; 82-213 are the bonus PL-200 course.",
+      "videos": [
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 1,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "Introduction",
+          "file": "001 - Introduction.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 3,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "How to get the best out of your Udemy course",
+          "file": "003 - How to get the best out of your Udemy course.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 5,
+          "section": 1,
+          "sectionTitle": "Introduction",
+          "title": "Curriculum",
+          "file": "005 - Curriculum.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 7,
+          "section": 2,
+          "sectionTitle": "Signing into the Power Platform and creating an environment",
+          "title": "Licensing for Power Apps",
+          "file": "007 - Licensing for Power Apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 8,
+          "section": 2,
+          "sectionTitle": "Signing into the Power Platform and creating an environment",
+          "title": "Why do I need a Work email address? And how can I get one, if I don't have it?",
+          "file": "008 - Why do I need a Work email address_ And how can I get one, if I don't have it_.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 9,
+          "section": 2,
+          "sectionTitle": "Signing into the Power Platform and creating an environment",
+          "title": "4. Creating and environment, including recommend environment types",
+          "file": "009 - 4. Creating and environment, including recommend environment types.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 10,
+          "section": 2,
+          "sectionTitle": "Signing into the Power Platform and creating an environment",
+          "title": "5. Creating a Power Platform solution and making it the default solution",
+          "file": "010 - 5. Creating a Power Platform solution and making it the default solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 11,
+          "section": 2,
+          "sectionTitle": "Signing into the Power Platform and creating an environment",
+          "title": "23. Quickly creating a canvas app",
+          "file": "011 - 23. Quickly creating a canvas app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 12,
+          "section": 2,
+          "sectionTitle": "Signing into the Power Platform and creating an environment",
+          "title": "19. Quickly creating a model-driven app",
+          "file": "012 - 19. Quickly creating a model-driven app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 13,
+          "section": 3,
+          "sectionTitle": "Creating Expenses tables in the Dataverse",
+          "title": "6, 8, 9, 10. Create and edit tables in the data workspace",
+          "file": "013 - 6, 8, 9, 10. Create and edit tables in the data workspace.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 14,
+          "section": 3,
+          "sectionTitle": "Creating Expenses tables in the Dataverse",
+          "title": "7. Create and modify standard tables",
+          "file": "014 - 7. Create and modify standard tables.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 15,
+          "section": 3,
+          "sectionTitle": "Creating Expenses tables in the Dataverse",
+          "title": "8. Configure table properties",
+          "file": "015 - 8. Configure table properties.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 16,
+          "section": 3,
+          "sectionTitle": "Creating Expenses tables in the Dataverse",
+          "title": "9. Create and modify columns",
+          "file": "016 - 9. Create and modify columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 17,
+          "section": 3,
+          "sectionTitle": "Creating Expenses tables in the Dataverse",
+          "title": "19. Creating a model-driven app based on the Employee table",
+          "file": "017 - 19. Creating a model-driven app based on the Employee table.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 18,
+          "section": 4,
+          "sectionTitle": "Create model-driven apps forms and views",
+          "title": "19. How to compose a model-driven app",
+          "file": "018 - 19. How to compose a model-driven app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 19,
+          "section": 4,
+          "sectionTitle": "Create model-driven apps forms and views",
+          "title": "14, 16. Create and configure forms for model-driven apps",
+          "file": "019 - 14, 16. Create and configure forms for model-driven apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 20,
+          "section": 4,
+          "sectionTitle": "Create model-driven apps forms and views",
+          "title": "20. Configure access to forms for model-driven apps",
+          "file": "020 - 20. Configure access to forms for model-driven apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 21,
+          "section": 4,
+          "sectionTitle": "Create model-driven apps forms and views",
+          "title": "13, 17, 20. Configure public views and configuring access",
+          "file": "021 - 13, 17, 20. Configure public views and configuring access.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 22,
+          "section": 4,
+          "sectionTitle": "Create model-driven apps forms and views",
+          "title": "17. Create and configure personal views for model-driven apps",
+          "file": "022 - 17. Create and configure personal views for model-driven apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 23,
+          "section": 5,
+          "sectionTitle": "Refining our model-driven app",
+          "title": "22a. Create and configure model-driven app charts",
+          "file": "023 - 22a. Create and configure model-driven app charts.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 24,
+          "section": 5,
+          "sectionTitle": "Refining our model-driven app",
+          "title": "22b. Create and configure model-driven app single-stream dashboards",
+          "file": "024 - 22b. Create and configure model-driven app single-stream dashboards.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 25,
+          "section": 5,
+          "sectionTitle": "Refining our model-driven app",
+          "title": "22b. Create and configure model-driven app multi-stream dashboards",
+          "file": "025 - 22b. Create and configure model-driven app multi-stream dashboards.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 26,
+          "section": 5,
+          "sectionTitle": "Refining our model-driven app",
+          "title": "18. Create generative pages by using natural language",
+          "file": "026 - 18. Create generative pages by using natural language.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 27,
+          "section": 5,
+          "sectionTitle": "Refining our model-driven app",
+          "title": "21. Configure access to model-driven apps",
+          "file": "027 - 21. Configure access to model-driven apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 28,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "Creating an ExpenseClaim table",
+          "file": "028 - Creating an ExpenseClaim table.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 29,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "10. Configure table relationships",
+          "file": "029 - 10. Configure table relationships.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 30,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "Adding the Expense table into our model-driven app and adding data",
+          "file": "030 - Adding the Expense table into our model-driven app and adding data.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 31,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "Adding an Expense subgrid into the Employee form",
+          "file": "031 - Adding an Expense subgrid into the Employee form.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 32,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "47a. Creating calculated columns",
+          "file": "032 - 47a. Creating calculated columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 33,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "47c. Creating formula columns",
+          "file": "033 - 47c. Creating formula columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 34,
+          "section": 6,
+          "sectionTitle": "Building relationships and calculated, formula and rollup columns",
+          "title": "47b. Creating rollup columns",
+          "file": "034 - 47b. Creating rollup columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 35,
+          "section": 7,
+          "sectionTitle": "Configure row summaries and security, and Implement business and process logic",
+          "title": "12. Configure row summaries",
+          "file": "035 - 12. Configure row summaries.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 36,
+          "section": 7,
+          "sectionTitle": "Configure row summaries and security, and Implement business and process logic",
+          "title": "15. Configure security",
+          "file": "036 - 15. Configure security.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 37,
+          "section": 7,
+          "sectionTitle": "Configure row summaries and security, and Implement business and process logic",
+          "title": "45, 48. Configure business rules",
+          "file": "037 - 45, 48. Configure business rules.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 38,
+          "section": 7,
+          "sectionTitle": "Configure row summaries and security, and Implement business and process logic",
+          "title": "46. Configure business process flows",
+          "file": "038 - 46. Configure business process flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 39,
+          "section": 8,
+          "sectionTitle": "Creating an instant (button) cloud flow",
+          "title": "32. Signing into Power Automate and looking at templates",
+          "file": "039 - 32. Signing into Power Automate and looking at templates.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 40,
+          "section": 8,
+          "sectionTitle": "Creating an instant (button) cloud flow",
+          "title": "31. Recommend cloud flow triggers",
+          "file": "040 - 31. Recommend cloud flow triggers.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 42,
+          "section": 8,
+          "sectionTitle": "Creating an instant (button) cloud flow",
+          "title": "34, 36. Configuring cloud flow actions and Test and troubleshoot cloud flows",
+          "file": "042 - 34, 36. Configuring cloud flow actions and Test and troubleshoot cloud flows.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 43,
+          "section": 8,
+          "sectionTitle": "Creating an instant (button) cloud flow",
+          "title": "32. Evaluate and recommend connectors",
+          "file": "043 - 32. Evaluate and recommend connectors.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 44,
+          "section": 9,
+          "sectionTitle": "Using controls in Power Automate flows",
+          "title": "35. Creating a flow with a For Each loop",
+          "file": "044 - 35. Creating a flow with a For Each loop.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 45,
+          "section": 9,
+          "sectionTitle": "Using controls in Power Automate flows",
+          "title": "35. Testing our flow with a For Each loop",
+          "file": "045 - 35. Testing our flow with a For Each loop.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 46,
+          "section": 9,
+          "sectionTitle": "Using controls in Power Automate flows",
+          "title": "35. Creating a flow using a Switch control",
+          "file": "046 - 35. Creating a flow using a Switch control.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 47,
+          "section": 9,
+          "sectionTitle": "Using controls in Power Automate flows",
+          "title": "35. Creating a flow using a Condition control",
+          "file": "047 - 35. Creating a flow using a Condition control.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 48,
+          "section": 10,
+          "sectionTitle": "Using formulas and approvals in Power Automate flows",
+          "title": "34. Using formulas in Power Automate",
+          "file": "048 - 34. Using formulas in Power Automate.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 49,
+          "section": 10,
+          "sectionTitle": "Using formulas and approvals in Power Automate flows",
+          "title": "33. Creating an approval flow",
+          "file": "049 - 33. Creating an approval flow.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 50,
+          "section": 10,
+          "sectionTitle": "Using formulas and approvals in Power Automate flows",
+          "title": "33. Testing our approval flow",
+          "file": "050 - 33. Testing our approval flow.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 51,
+          "section": 11,
+          "sectionTitle": "23. Creating a basic canvas app",
+          "title": "Create a canvas app using data with a gallery",
+          "file": "051 - Create a canvas app using data with a gallery.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 52,
+          "section": 11,
+          "sectionTitle": "23. Creating a basic canvas app",
+          "title": "Inserting a new screen and a card component, and navigating between screens",
+          "file": "052 - Inserting a new screen and a card component, and navigating between screens.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 53,
+          "section": 11,
+          "sectionTitle": "23. Creating a basic canvas app",
+          "title": "Building an edit/new item screen",
+          "file": "053 - Building an edit_new item screen.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 54,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "24a. Design apps for accessibility",
+          "file": "054 - 24a. Design apps for accessibility.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 55,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "24b. Design apps for performance",
+          "file": "055 - 24b. Design apps for performance.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 56,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "24c. Design apps for responsiveness",
+          "file": "056 - 24c. Design apps for responsiveness.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 57,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "24d. Design apps for usability",
+          "file": "057 - 24d. Design apps for usability.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 58,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "26a. Create reuseable components, including named formulas",
+          "file": "058 - 26a. Create reuseable components, including named formulas.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 59,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "26b. Create reuseable components, including user-defined formulas",
+          "file": "059 - 26b. Create reuseable components, including user-defined formulas.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 60,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "26c. Create reuseable components, including component libraries",
+          "file": "060 - 26c. Create reuseable components, including component libraries.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 61,
+          "section": 12,
+          "sectionTitle": "Canvas apps: designing apps and creating reuseable components",
+          "title": "26c. Updating our component",
+          "file": "061 - 26c. Updating our component.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 62,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "27a. Manage global variables",
+          "file": "062 - 27a. Manage global variables.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 63,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "27a. Manage context variables",
+          "file": "063 - 27a. Manage context variables.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 64,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "27b. Manage collections",
+          "file": "064 - 27b. Manage collections.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 65,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "28. Implement error handling",
+          "file": "065 - 28. Implement error handling.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 66,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "29. Test canvas apps, including using Monitor",
+          "file": "066 - 29. Test canvas apps, including using Monitor.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 67,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "30. Create a Copilot Studio agent from a canvas app",
+          "file": "067 - 30. Create a Copilot Studio agent from a canvas app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 68,
+          "section": 13,
+          "sectionTitle": "Create canvas apps",
+          "title": "25. Automate business processes from canvas apps",
+          "file": "068 - 25. Automate business processes from canvas apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 69,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "37, 40-42. Build prompts, including knowledge, settings and inputs",
+          "file": "069 - 37, 40-42. Build prompts, including knowledge, settings and inputs.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 70,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "38. Consume a prompt in apps",
+          "file": "070 - 38. Consume a prompt in apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 71,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "39. Consume a prompt in cloud flows",
+          "file": "071 - 39. Consume a prompt in cloud flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 72,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "11. Configure prompt columns",
+          "file": "072 - 11. Configure prompt columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 73,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "Different AI models",
+          "file": "073 - Different AI models.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 74,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "43. Consume an AI model in apps",
+          "file": "074 - 43. Consume an AI model in apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 75,
+          "section": 14,
+          "sectionTitle": "Create prompts and models in AI Hub",
+          "title": "44. Consume an AI model in cloud flows",
+          "file": "075 - 44. Consume an AI model in cloud flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 76,
+          "section": 15,
+          "sectionTitle": "Design Microsoft Power Platform solutions by using AI-enabled tools",
+          "title": "1. Analyze requirements to identify components and options for implementation",
+          "file": "076 - 1. Analyze requirements to identify components and options for implementation.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 77,
+          "section": 15,
+          "sectionTitle": "Design Microsoft Power Platform solutions by using AI-enabled tools",
+          "title": "2. Evaluate built-in agents to include in the business solution",
+          "file": "077 - 2. Evaluate built-in agents to include in the business solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 78,
+          "section": 15,
+          "sectionTitle": "Design Microsoft Power Platform solutions by using AI-enabled tools",
+          "title": "3. Recommend extensibility options",
+          "file": "078 - 3. Recommend extensibility options.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 79,
+          "section": 15,
+          "sectionTitle": "Design Microsoft Power Platform solutions by using AI-enabled tools",
+          "title": "5. Apply a Microsoft Power Platform solution and ALM strategy",
+          "file": "079 - 5. Apply a Microsoft Power Platform solution and ALM strategy.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 80,
+          "section": 16,
+          "sectionTitle": "Congratulations",
+          "title": "What's Next?",
+          "file": "080 - What's Next_.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 81,
+          "section": 16,
+          "sectionTitle": "Congratulations",
+          "title": "Well done",
+          "file": "081 - Well done.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 83,
+          "section": 17,
+          "sectionTitle": "PL-200 Part 1 Introduction",
+          "title": "Curriculum",
+          "file": "083 - Curriculum.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 85,
+          "section": 17,
+          "sectionTitle": "PL-200 Part 1 Introduction",
+          "title": "Introduction to the Power Platform",
+          "file": "085 - Introduction to the Power Platform.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 86,
+          "section": 18,
+          "sectionTitle": "Installing Power Apps and Environments",
+          "title": "Licensing for Power Apps",
+          "file": "086 - Licensing for Power Apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 88,
+          "section": 18,
+          "sectionTitle": "Installing Power Apps and Environments",
+          "title": "Signing up for Power Apps per user plan",
+          "file": "088 - Signing up for Power Apps per user plan.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 89,
+          "section": 18,
+          "sectionTitle": "Installing Power Apps and Environments",
+          "title": "Signing up for Power Apps Developer Plan",
+          "file": "089 - Signing up for Power Apps Developer Plan.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 90,
+          "section": 18,
+          "sectionTitle": "Installing Power Apps and Environments",
+          "title": "7. Different types of environments, and creation options",
+          "file": "090 - 7. Different types of environments, and creation options.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 91,
+          "section": 18,
+          "sectionTitle": "Installing Power Apps and Environments",
+          "title": "Create a Dataverse database, and sample data",
+          "file": "091 - Create a Dataverse database, and sample data.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 92,
+          "section": 19,
+          "sectionTitle": "Creating a canvas app from a template, and creating one from scratch",
+          "title": "43, 44. Creating a canvas app using a template; start to build the app",
+          "file": "092 - 43, 44. Creating a canvas app using a template; start to build the app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 93,
+          "section": 19,
+          "sectionTitle": "Creating a canvas app from a template, and creating one from scratch",
+          "title": "Saving my Power App",
+          "file": "093 - Saving my Power App.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 94,
+          "section": 19,
+          "sectionTitle": "Creating a canvas app from a template, and creating one from scratch",
+          "title": "36, 43, 44. Connect to data sources in canvas apps",
+          "file": "094 - 36, 43, 44. Connect to data sources in canvas apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 95,
+          "section": 19,
+          "sectionTitle": "Creating a canvas app from a template, and creating one from scratch",
+          "title": "41, 43. Build canvas apps screens - Inserting a Gallery",
+          "file": "095 - 41, 43. Build canvas apps screens - Inserting a Gallery.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 96,
+          "section": 19,
+          "sectionTitle": "Creating a canvas app from a template, and creating one from scratch",
+          "title": "44. Formatting the label component",
+          "file": "096 - 44. Formatting the label component.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 98,
+          "section": 19,
+          "sectionTitle": "Creating a canvas app from a template, and creating one from scratch",
+          "title": "Practice Activity Number 1 - The Solution",
+          "file": "098 - Practice Activity Number 1 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 99,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "43. Inserting a new screen and a card component",
+          "file": "099 - 43. Inserting a new screen and a card component.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 100,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "45. Using formulas in non-English locales",
+          "file": "100 - 45. Using formulas in non-English locales.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 101,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "45. Using the Navigate and Back functions in the OnSelect event",
+          "file": "101 - 45. Using the Navigate and Back functions in the OnSelect event.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 102,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "43, 45. Building an edit screen",
+          "file": "102 - 43, 45. Building an edit screen.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 103,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "41. Adding rectangles and Adding New Items",
+          "file": "103 - 41. Adding rectangles and Adding New Items.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 104,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "Sorting and refreshing our gallery, and Deleting Items",
+          "file": "104 - Sorting and refreshing our gallery, and Deleting Items.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 106,
+          "section": 20,
+          "sectionTitle": "Expanding our canvas app",
+          "title": "Practice Activity Number 2 - The Solution",
+          "file": "106 - Practice Activity Number 2 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 107,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Create a high-level design",
+          "file": "107 - 10. Create a high-level design.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 108,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Design data models",
+          "file": "108 - 10. Design data models.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 109,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Create Dataverse tables based on a data model",
+          "file": "109 - 10. Create Dataverse tables based on a data model.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 110,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Adding columns to our Dataverse table",
+          "file": "110 - 10. Adding columns to our Dataverse table.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 111,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Updating our Primary Name Column, and Keys",
+          "file": "111 - 10. Updating our Primary Name Column, and Keys.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 112,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "11. Link entities by using Dataverse entity relationships",
+          "file": "112 - 11. Link entities by using Dataverse entity relationships.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 113,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Adding Calculated Columns",
+          "file": "113 - 10. Adding Calculated Columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 114,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "10. Adding Rollup Columns",
+          "file": "114 - 10. Adding Rollup Columns.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 116,
+          "section": 21,
+          "sectionTitle": "Designing data model",
+          "title": "Practice Activity Number 3 - The Solution",
+          "file": "116 - Practice Activity Number 3 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 117,
+          "section": 22,
+          "sectionTitle": "Other ways to create tables, and importing and exporting data",
+          "title": "15. Create tables and table columns by using Copilot in Dataverse",
+          "file": "117 - 15. Create tables and table columns by using Copilot in Dataverse.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 118,
+          "section": 22,
+          "sectionTitle": "Other ways to create tables, and importing and exporting data",
+          "title": "16. Import data into a new table by using Microsoft Excel",
+          "file": "118 - 16. Import data into a new table by using Microsoft Excel.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 119,
+          "section": 22,
+          "sectionTitle": "Other ways to create tables, and importing and exporting data",
+          "title": "16. Import data into an existing table by using Microsoft Excel",
+          "file": "119 - 16. Import data into an existing table by using Microsoft Excel.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 120,
+          "section": 22,
+          "sectionTitle": "Other ways to create tables, and importing and exporting data",
+          "title": "16. Edit and export data by using Microsoft Excel",
+          "file": "120 - 16. Edit and export data by using Microsoft Excel.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 121,
+          "section": 23,
+          "sectionTitle": "Adding Expenses to our app",
+          "title": "41. Adding Expenses screens into our Accounts apps",
+          "file": "121 - 41. Adding Expenses screens into our Accounts apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 123,
+          "section": 23,
+          "sectionTitle": "Adding Expenses to our app",
+          "title": "Practice Activity Number 4 - The Solution",
+          "file": "123 - Practice Activity Number 4 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 124,
+          "section": 23,
+          "sectionTitle": "Adding Expenses to our app",
+          "title": "45. The Filter function - linking the Expenses and Accounts screens together",
+          "file": "124 - 45. The Filter function - linking the Expenses and Accounts screens together.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 125,
+          "section": 23,
+          "sectionTitle": "Adding Expenses to our app",
+          "title": "44. Default and DefaultSelectedItems",
+          "file": "125 - 44. Default and DefaultSelectedItems.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 127,
+          "section": 23,
+          "sectionTitle": "Adding Expenses to our app",
+          "title": "Practice Activity Number 5 - The Solution",
+          "file": "127 - Practice Activity Number 5 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 128,
+          "section": 24,
+          "sectionTitle": "Expanding our canvas app further, including using variables",
+          "title": "41. Add Pictures and Image controls",
+          "file": "128 - 41. Add Pictures and Image controls.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 129,
+          "section": 24,
+          "sectionTitle": "Expanding our canvas app further, including using variables",
+          "title": "46. Global variables - seeing one account's expenses, or all expenses",
+          "file": "129 - 46. Global variables - seeing one account's expenses, or all expenses.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 130,
+          "section": 24,
+          "sectionTitle": "Expanding our canvas app further, including using variables",
+          "title": "46. Context variables - adding a Sort icon",
+          "file": "130 - 46. Context variables - adding a Sort icon.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 131,
+          "section": 24,
+          "sectionTitle": "Expanding our canvas app further, including using variables",
+          "title": "45. The Search function - Searching for text",
+          "file": "131 - 45. The Search function - Searching for text.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 133,
+          "section": 24,
+          "sectionTitle": "Expanding our canvas app further, including using variables",
+          "title": "Practice Activity Number 6 - The Solution",
+          "file": "133 - Practice Activity Number 6 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 134,
+          "section": 25,
+          "sectionTitle": "Canvas Apps components",
+          "title": "Creating a basic calculator",
+          "file": "134 - Creating a basic calculator.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 135,
+          "section": 25,
+          "sectionTitle": "Canvas Apps components",
+          "title": "41. Converting the calculator to a component",
+          "file": "135 - 41. Converting the calculator to a component.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 136,
+          "section": 25,
+          "sectionTitle": "Canvas Apps components",
+          "title": "41. Communicating with the component",
+          "file": "136 - 41. Communicating with the component.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 137,
+          "section": 25,
+          "sectionTitle": "Canvas Apps components",
+          "title": "41. Exporting and Importing components",
+          "file": "137 - 41. Exporting and Importing components.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 139,
+          "section": 25,
+          "sectionTitle": "Canvas Apps components",
+          "title": "Practice Activity Number 7 - The Solution",
+          "file": "139 - Practice Activity Number 7 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 140,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "41, 43. Adding other media assets to screens",
+          "file": "140 - 41, 43. Adding other media assets to screens.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 141,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "43. Other controls",
+          "file": "141 - 43. Other controls.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 142,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "45. Other formulas",
+          "file": "142 - 45. Other formulas.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 143,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "37. Design choices and app performance, and App Checker results",
+          "file": "143 - 37. Design choices and app performance, and App Checker results.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 144,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "38, 39. Create+publish new versions, restore a previous version of an app",
+          "file": "144 - 38, 39. Create+publish new versions, restore a previous version of an app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 145,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "42. Describe modern controls and themes",
+          "file": "145 - 42. Describe modern controls and themes.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 146,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "43. Containers",
+          "file": "146 - 43. Containers.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 147,
+          "section": 26,
+          "sectionTitle": "Other controls and other canvas apps topics",
+          "title": "6. Using Microsoft Copilot when editing canvas Power Apps",
+          "file": "147 - 6. Using Microsoft Copilot when editing canvas Power Apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 148,
+          "section": 27,
+          "sectionTitle": "Collections",
+          "title": "46. The Collect function - Adding records to a collection",
+          "file": "148 - 46. The Collect function - Adding records to a collection.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 149,
+          "section": 27,
+          "sectionTitle": "Collections",
+          "title": "46. The Clear and ClearCollect functions",
+          "file": "149 - 46. The Clear and ClearCollect functions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 150,
+          "section": 27,
+          "sectionTitle": "Collections",
+          "title": "46. The SaveData and LoadData functions",
+          "file": "150 - 46. The SaveData and LoadData functions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 151,
+          "section": 27,
+          "sectionTitle": "Collections",
+          "title": "4. Describe standard, premium, custom connectors; Configure a connection",
+          "file": "151 - 4. Describe standard, premium, custom connectors; Configure a connection.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 153,
+          "section": 27,
+          "sectionTitle": "Collections",
+          "title": "Practice Activity Number 8 - The Solution",
+          "file": "153 - Practice Activity Number 8 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 154,
+          "section": 28,
+          "sectionTitle": "Create model-driven apps - App designer and main forms",
+          "title": "30. Create model-driven apps",
+          "file": "154 - 30. Create model-driven apps.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 155,
+          "section": 28,
+          "sectionTitle": "Create model-driven apps - App designer and main forms",
+          "title": "31. Create Dataverse table forms",
+          "file": "155 - 31. Create Dataverse table forms.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 156,
+          "section": 28,
+          "sectionTitle": "Create model-driven apps - App designer and main forms",
+          "title": "31. Configure Dataverse Forms",
+          "file": "156 - 31. Configure Dataverse Forms.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 158,
+          "section": 28,
+          "sectionTitle": "Create model-driven apps - App designer and main forms",
+          "title": "Practice Activity Number 9 - The Solution",
+          "file": "158 - Practice Activity Number 9 - The Solution.txt",
+          "captions": "English [Auto]"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 159,
+          "section": 29,
+          "sectionTitle": "Create model-driven apps - views",
+          "title": "32. Create and configure Dataverse table views",
+          "file": "159 - 32. Create and configure Dataverse table views.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 160,
+          "section": 29,
+          "sectionTitle": "Create model-driven apps - views",
+          "title": "32. Dataverse views: Enabling editable grids",
+          "file": "160 - 32. Dataverse views_ Enabling editable grids.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 161,
+          "section": 29,
+          "sectionTitle": "Create model-driven apps - views",
+          "title": "32. Dataverse views: Advanced Find",
+          "file": "161 - 32. Dataverse views_ Advanced Find.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 162,
+          "section": 29,
+          "sectionTitle": "Create model-driven apps - views",
+          "title": "Saving and loading data records into views",
+          "file": "162 - Saving and loading data records into views.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 164,
+          "section": 29,
+          "sectionTitle": "Create model-driven apps - views",
+          "title": "Practice Activity Number 10 - The Solution",
+          "file": "164 - Practice Activity Number 10 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 165,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "35. Create model-driven charts",
+          "file": "165 - 35. Create model-driven charts.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 166,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "34. Creating public single-stream dashboards",
+          "file": "166 - 34. Creating public single-stream dashboards.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 167,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "34. Creating private multi-stream dashboards",
+          "file": "167 - 34. Creating private multi-stream dashboards.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 168,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "Using card forms in the Classic interface",
+          "file": "168 - Using card forms in the Classic interface.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 169,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "34. Dashboard - enabling global filters",
+          "file": "169 - 34. Dashboard - enabling global filters.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 170,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "11. Creating a basic Dataverse business rule",
+          "file": "170 - 11. Creating a basic Dataverse business rule.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 171,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "12. Expanding our Dataverse business rule",
+          "file": "171 - 12. Expanding our Dataverse business rule.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 173,
+          "section": 30,
+          "sectionTitle": "Create model-driven apps - charts, dashboards, card forms and business rules.",
+          "title": "Practice Activity Number 11 - The Solution",
+          "file": "173 - Practice Activity Number 11 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 174,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "Power Automate Licensing",
+          "file": "174 - Power Automate Licensing.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 175,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "49-51. Creating and testing an instant (button) flow",
+          "file": "175 - 49-51. Creating and testing an instant (button) flow.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 176,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "49-51. Creating an automated flow, using a Dataverse table",
+          "file": "176 - 49-51. Creating an automated flow, using a Dataverse table.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 177,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "49-51. Creating a scheduled flow, tracking Weather using Excel Online",
+          "file": "177 - 49-51. Creating a scheduled flow, tracking Weather using Excel Online.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 178,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "52. Implement conditional logic for a cloud flow",
+          "file": "178 - 52. Implement conditional logic for a cloud flow.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 179,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "53. Create and monitor approvals from Power Automate",
+          "file": "179 - 53. Create and monitor approvals from Power Automate.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 180,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "53. Extend our Power Automate approval flow by using Microsoft Teams",
+          "file": "180 - 53. Extend our Power Automate approval flow by using Microsoft Teams.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 182,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "6. Using Microsoft Copilot in Power Automate",
+          "file": "182 - 6. Using Microsoft Copilot in Power Automate.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 184,
+          "section": 31,
+          "sectionTitle": "Create Power Automate flows",
+          "title": "Practice Activity Number 12 - The Solution",
+          "file": "184 - Practice Activity Number 12 - The Solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 185,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "49. Configure triggers",
+          "file": "185 - 49. Configure triggers.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 186,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "50. Configure actions",
+          "file": "186 - 50. Configure actions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 187,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "Implement common expressions",
+          "file": "187 - Implement common expressions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 188,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "54. Share flows",
+          "file": "188 - 54. Share flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 189,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "47. Run a Power Automate flow from a canvas app",
+          "file": "189 - 47. Run a Power Automate flow from a canvas app.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 190,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "8. Describe use cases for Power Automate Process Mining",
+          "file": "190 - 8. Describe use cases for Power Automate Process Mining.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 191,
+          "section": 32,
+          "sectionTitle": "Power Automate components",
+          "title": "Describe use cases for desktop flows",
+          "file": "191 - Describe use cases for desktop flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 192,
+          "section": 33,
+          "sectionTitle": "Solutions",
+          "title": "Describe Dataverse solutions",
+          "file": "192 - Describe Dataverse solutions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 193,
+          "section": 33,
+          "sectionTitle": "Solutions",
+          "title": "18, 21, 30, 43, 45. Create a solution, add new and existing apps and flows",
+          "file": "193 - 18, 21, 30, 43, 45. Create a solution, add new and existing apps and flows.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 194,
+          "section": 33,
+          "sectionTitle": "Solutions",
+          "title": "19. Import a Dataverse solution",
+          "file": "194 - 19. Import a Dataverse solution.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 195,
+          "section": 33,
+          "sectionTitle": "Solutions",
+          "title": "20, 21. Move individual apps and flows between environments",
+          "file": "195 - 20, 21. Move individual apps and flows between environments.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 196,
+          "section": 33,
+          "sectionTitle": "Solutions",
+          "title": "19. Export or import a Dataverse solutions",
+          "file": "196 - 19. Export or import a Dataverse solutions.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 197,
+          "section": 34,
+          "sectionTitle": "Configure Dataverse security and Secure a solution",
+          "title": "13, 14. Configure security roles",
+          "file": "197 - 13, 14. Configure security roles.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 198,
+          "section": 34,
+          "sectionTitle": "Configure Dataverse security and Secure a solution",
+          "title": "13, 14. Add users, and assign them security roles",
+          "file": "198 - 13, 14. Add users, and assign them security roles.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 199,
+          "section": 34,
+          "sectionTitle": "Configure Dataverse security and Secure a solution",
+          "title": "13, 14. Adding users to environments",
+          "file": "199 - 13, 14. Adding users to environments.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 200,
+          "section": 34,
+          "sectionTitle": "Configure Dataverse security and Secure a solution",
+          "title": "33, 39, 40. Manage app security",
+          "file": "200 - 33, 39, 40. Manage app security.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 201,
+          "section": 35,
+          "sectionTitle": "Create and consume Power BI dashboards",
+          "title": "Logging into the Power BI Service",
+          "file": "201 - Logging into the Power BI Service.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 202,
+          "section": 35,
+          "sectionTitle": "Create and consume Power BI dashboards",
+          "title": "22. Create a simple report from an existing dataset by using Power BI Service",
+          "file": "202 - 22. Create a simple report from an existing dataset by using Power BI Service.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 203,
+          "section": 35,
+          "sectionTitle": "Create and consume Power BI dashboards",
+          "title": "23. Create Power BI dashboards from existing reports",
+          "file": "203 - 23. Create Power BI dashboards from existing reports.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 204,
+          "section": 35,
+          "sectionTitle": "Create and consume Power BI dashboards",
+          "title": "25. Share Power BI dashboards",
+          "file": "204 - 25. Share Power BI dashboards.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 205,
+          "section": 35,
+          "sectionTitle": "Create and consume Power BI dashboards",
+          "title": "24. Embed Power BI dashboards and tiles in canvas apps and model-driven apps",
+          "file": "205 - 24. Embed Power BI dashboards and tiles in canvas apps and model-driven apps.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 206,
+          "section": 36,
+          "sectionTitle": "Other topics",
+          "title": "1-4. Identify required Power Platform components",
+          "file": "206 - 1-4. Identify required Power Platform components.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 207,
+          "section": 36,
+          "sectionTitle": "Other topics",
+          "title": "9. Design reporting",
+          "file": "207 - 9. Design reporting.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 208,
+          "section": 36,
+          "sectionTitle": "Other topics",
+          "title": "Installing Microsoft Teams",
+          "file": "208 - Installing Microsoft Teams.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 209,
+          "section": 36,
+          "sectionTitle": "Other topics",
+          "title": "17. Determine when to use Dataverse for Teams",
+          "file": "209 - 17. Determine when to use Dataverse for Teams.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 210,
+          "section": 36,
+          "sectionTitle": "Other topics",
+          "title": "53. Create and monitor approvals from Microsoft Teams",
+          "file": "210 - 53. Create and monitor approvals from Microsoft Teams.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 211,
+          "section": 37,
+          "sectionTitle": "Congratulations",
+          "title": "What's Next?",
+          "file": "211 - What's Next_.txt",
+          "captions": "English"
+        },
+        {
+          "course": "Udemy - Phillip Burton",
+          "index": 212,
+          "section": 37,
+          "sectionTitle": "Congratulations",
+          "title": "Well done",
+          "file": "212 - Well done.txt",
+          "captions": "English"
+        }
+      ],
+      "missingCaptions": {
+        "41": "34. Cloud flow actions and expanding our flow"
+      }
+    }
+  ]
+}

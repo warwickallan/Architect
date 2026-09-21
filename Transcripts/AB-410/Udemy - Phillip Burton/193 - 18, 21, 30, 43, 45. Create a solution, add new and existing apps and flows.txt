@@ -1,0 +1,28 @@
+# 18, 21, 30, 43, 45. Create a solution, add new and existing apps and flows
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 193 (section 33: Solutions)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:01] Now in this video, we're going to create a new solution, would be a, one time solution unmanaged or managed, it would be an unmanaged solution, because we're using this for development purposes. And managed solution is a package we have already exported. So this is a new solution, and we put the display name. So let's call this my unmanaged solution. And we select a publisher.
+
+[00:32] So I'm going to add a new publisher. And I get to have a prefix. So this is what goes at the beginning of all of the names. So you can see MSDYN_. Previously we saw, I think it was CRE. And we've got we've got a value prefix for choice. So when we're creating choice or choices, then we also have a prefix here.
+
+[01:03] So I'm just going to leave that as is. So let's save that. I think name needs to not have any spaces. So now we need to select it. So even though we've added a new publisher, it doesn't automatically get selected. And then a version, we'll have a look at versions later on. And you can also put in a description. So the package type, unsurprisingly, is unmanaged. So let's create it.
+
+[01:34] I've got a space right at the beginning of there. Can't do spaces in the names here. So there is my solution. And if I click on it we'll find that there are no components. Okay, so if I wanted to create a new Canvas app, in my solution, I just go to new, and go to app and Canvas app. And it gives me the choice of phone or tablet vector. If I wanted to create a new model driven app within the solution, again, I'll just go to new app model-driven app.
+
+[02:09] If I wanted to create a new instant, automated or scheduled flow, I would go to new cloud flow. And notice I'm in Power Apps. I can do that in Power Apps, and it takes me through to Power Automate. So I can do that within Power Apps, or at least I can launch it. But suppose I don't want to create new apps or new dashboards, I want to incorporate existing ones. Well, I can click on Add existing.
+
+[02:37] So why do I want to add an existing? I want to add an existing Canvas app. So I've got two tabs, from solutions. So Canvas apps, which are already in solutions, or Canvas apps that aren't in solutions yet. So I'm going to add my accounts app. So let's just click Add, adding solution components. And here you can see it's done. And it's got the prefix.
+
+[03:04] Let's add another existing thing. Well, let's add a model-driven app. So I'm going to add my accounts and expenses. So let's click Add. Now you notice there, that there was no such thing as model-driven apps that I had created that aren't in solutions yet. So they were all in A solution. It was the default solution. And now let's add an existing cloud flow as well. And again, you can have the ones from solution.
+
+[03:34] So I created one when we were talking about business process flows, or outside solutions. And we've got the Dataverse and weather conditions recorded. But hang on, that's not all the flows I've got. I've got three instant flows as well, flow, Twitter language, count, and send email. Well, unfortunately, you can't add instant flows created outside of solution where the flow trigger is set to manual.
+
+[04:05] So each of these free flows, and in fact, these other two were created outside of the solution, I didn't go to solutions, and then I didn't click on solution, and then go to new anything. Instead, I just created them outside of solution. So if the created outside of solution, and if the flow trigger is set to manual, so if I edit it, you can see manually trigger flow, then I cannot import them into my solution.
+
+[04:37] So let's add both of these two, click Add. And now these are part of my solution, as well. So now I've got this list. I can filter it. For instance, suppose I just want to see Canvas apps or model-driven apps, or anything else really, cloud flows. Once I have a list of what I want, and for example, want to edit this, I can just click on the dot, dot, dot.
+
+[05:06] And you can see I've got various things, including remove on this solution, delete from this environment. So that's in my case the per user environment. And I can edit and play. And I can do all the other things that I used to be able to do when they were outside of a solution. So to create your new solution, just go to solutions on the left hand side, click New Solution, put in your display name and your name. By the way, this name has to be a unique solution name, it cannot be changed after creating the solution.
+
+[05:40] Select your publisher and your version. You can also select a description if you want, you can create a new publisher that allows you to create a new prefix and a choice of value prefix. This is a number that goes between 10,000 and 99,999, and then click Create. And then when you're in your solution, you can then create new apps, new dashboards, new flows, and you can add existing components as well.

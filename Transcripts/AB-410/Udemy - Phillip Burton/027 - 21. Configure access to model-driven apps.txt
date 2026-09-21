@@ -1,0 +1,12 @@
+# 21. Configure access to model-driven apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 027 (section 5: Refining our model-driven app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video we will see how we can configure access to model-driven apps. To use a model-driven app a user will need to have four things. Privileges to the relevant dataverse tables, at least read access. They can have that using relevant security roles. They will need access to the environment and they would also need to be able to access the model-driven app. So for this last thing we can go to apps on the left hand side, click on the dot dot dot next to the app and go to share, share. So now I can add people who can access this model-driven app. So I will type in one of my other users.
+
+[00:44] You can also type in an email address or a group. So you can see currently it is being shared with two people, delegated admin and power platform plan, that's myself. But I can also click on an individual and assign them a security role. So I could give them system administrator or system customizer. I can also click on manage security roles to give them a new custom role. But we'll have a look at that in the next section because this is really giving them a security role to the dataverse.
+
+[01:22] So let's say I give this user the system customizer role and click share. So you can see at the top sharing model-driven app was successful. Now I can also click on an individual and I can change the role that they've got. So to leave this box I can click on the x or cancel and then if I want to check who currently has access to this app then I can click on share and share again. So this is how you can configure access to model-driven apps.
+
+[01:58] A user will need to have privileges to the relevant dataverse tables, at least read access, relevant security roles, access to the environment and you need to have shared the app with them.

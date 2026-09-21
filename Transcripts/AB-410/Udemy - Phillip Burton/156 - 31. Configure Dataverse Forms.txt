@@ -1,0 +1,26 @@
+# 31. Configure Dataverse Forms
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 156 (section 28: Create model-driven apps - App designer and main forms)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So here I'm in my model-driven app, and if I go to the expenses area, and click on an expense, then you can see that the new form isn't there. So what's going on? Because there are more than one form that's available, you can select which form you want to look at. So if I change it from the information to the expense main form we have just created. Here we can see our form, and we can edit the information. So suppose I wanted it to be one day later, I can just edit it, and I can click Save.
+
+[00:34] If I want to have a new item, then I can click New, and I can start entering the information. Now, just one more thing, the related dropdown that we have here. So this shows some items which are related to this form, like for instance, the history and background processes. Now, I've got this working on a second web browser, and I want to show you how you can use more than one user to edit a model-driven app.
+
+[01:07] So you can see that the other user is currently clicked on the app. So here is the other user. If this user now clicks elsewhere, you can see the little indicator tells me where they have gone. Additionally, if you want to edit the form you're currently viewing, you can just hover over it in the navigation section of the Pages pane, and click on Edit Form. This will then take you to the Form Editor, and then you can edit that particular form.
+
+[01:40] So I'll go back to the App Designer. Now, just one more thing about forms, you can go to the classic interface. So this is the unified or modern interface, so you can switch to classic, and in the past I said that you should switch to the classic interface to insert items such as maps. However, bit by bit Microsoft have been working to add these into the modern Form Designer. So while there are still some very specific things that you would need to use the classic experience for, those things are getting fewer and fewer as Microsoft integrates items into the Component section.
+
+[02:24] So this is how you can create forms. So you go to make.powerapps.com, you go to Tables, you select which table you want, and then you can go to Forms, and create a new form. You've got Main Form, this is your main interface. Quick View Forms, used in related tables, Quick Create Forms for creating new rules, and a Card Form, a compact form view.
+
+[02:53] And then finally, we've also got some form properties. So if I check this and go to form settings, or if I click on the dot-dot-dot, and go to Form Settings, you can see that we have got four tabs. So the first tab is who do you want to have access to this particular form? So it may be that this form has got some sensitive information that only certain people should have access to. So this is when you can say only people with this specific security role should have access to be able to view this form.
+
+[03:27] Now, it may be that you've got more than one of a particular type of form, for example, we now have two main forms, which one should be display first? Well, we can say which one we want to be displayed first here, and we can choose what type of form we are talking about. Now, you can see Microsoft say, "We recommend only having one form per security role." Now what happens if with the security roles, we've got security role A and security role B, but I happen to belong to neither of those?
+
+[04:01] Well, there is a Fallback Form. So if none of those are applicable, then I still want to be able to use a form. And this Fallback Form is available when a security role doesn't have a form selected, or the other way around, and it's only for Main Forms. One, Fallback Form must always be selected. And then finally, you can test which form is going to be used for a particular security role by using the Form Access Checker.
+
+[04:31] So you can say, "Okay, the basic user is going to have access to both of these, and maybe I can restrict it by app as well. So these are the form settings, and they're available in the Dataverse, Tables, Name of Table, Form and then select the form, go to dot-dot-dot, or select it, and then go to Form Settings. One final thing, if you are having problems with ensuring that a new form is included in your new model-driven app, then you might just need to publish a few more times.
+
+[05:09] And one way that I found works is if I cancel this, and go to Solutions on the left-hand side we'll be looking at solutions later on in this course, and go to the relevant solution. At the moment, the relevant solution is the default solution and click on Publish All Customizations. So this will go through the entire solution, and ensure that everything has been published. You should then be able to go back to your app. So if I click on Apps on the left-hand side edit your model-driven app, and then click on a Form on the left-hand side in the Pages pane.
+
+[05:45] Then you should see your new form, either in this top section, or after clicking show more.

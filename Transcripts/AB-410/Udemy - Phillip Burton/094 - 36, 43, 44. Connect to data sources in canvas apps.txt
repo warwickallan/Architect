@@ -1,0 +1,12 @@
+# 36, 43, 44. Connect to data sources in canvas apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 094 (section 19: Creating a canvas app from a template, and creating one from scratch)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to start creating a canvas app from blank. So what I'm going to do is click on create on the left hand side. Not apps this time, but create and go to start with a blank canvas. Then you need to decide what sort of form you're going to be targeting. Are you going to be targeting a phone size which is portrait, a tablet size which is landscape, or a responsive that can be used on all of them, but is a bit more complicated to set up initially.
+
+[00:33] So I'm going to use a phone size blank canvas. So I'll click on that and we will have now a blank app with no connectors whatsoever. So what we next have to do is create a connector. So I'm going to go to the data over here on the left hand side. And here are all your connectors I don't have any. I'm going to click Add Data and I can add data from our current environment. I can go to connectors.
+
+[01:06] So I could see all connectors and go down and look for Dropbox for instance if I wanted to use that as a data source. So what I'm going to do, I'm going to select accounts from the Microsoft Dataverse and give it a few seconds. And there is our data. And when we add controls, we will be able to add all of the fields that we want to from here, all of the columns.
+
+[01:34] And you can see we can also refresh and remove by clicking on the dot dot dot. So we now have our app called Accounts App. We now have the data connected. So in the next video we are going to populate our first screen.

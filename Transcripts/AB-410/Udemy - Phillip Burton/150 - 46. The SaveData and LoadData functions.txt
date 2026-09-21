@@ -1,0 +1,30 @@
+# 46. The SaveData and LoadData functions
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 150 (section 27: Collections)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, in this video, what we're going to do is add in two more buttons: SaveData and LoadData. So we can also put LoadData, for instance, into the OnStart and then pick up from where we left off. So I'm going to edit our app. Now, there's one big caveat about SaveData and LoadData. By design, it doesn't work on a computer. So a PC, a laptop, a Mac, it could be anything. It doesn't work.
+
+[00:27] It has to be a handheld device like an iPad, an iPhone or an Android device. However, Microsoft has added an experimental feature so it can work in a web browser. We'll look at that later on in this video. So what I'm going to do is add in a couple more buttons. So I have one button here, which is going to be my LoadData, and another button, and I'll just make it more rounded as well. I think I used 20, I'll use 20, okay.
+
+[00:56] And another button, I'll just copy and paste. And let's have these equidistant. Here we go. This is going to be SaveData. So the functionality is very straightforward. If on the OnSelect, I go LoadData, now you can see it's asking for the collection. So MyCollection, and it's asking for a name, a name of a data file in local storage. So in other words, it will save onto your iPhone, iPad, Android device.
+
+[01:26] So MyData, and exactly the same for SaveData, it's just the name of the function that changes. So there we are, I save my collection to the local file called MyData. Right, so as I say, I'd love to be able to test it in here but unfortunately, it won't work on a PC. If I play, I can click the buttons.
+
+[01:56] They don't give me an error message. So I'll put in Mickey and I will save. I'll add it and save the data. Then I will go away. I'll come back, I'll click LoadData, or in fact, we've got already got it here so I need to clear the collection. I'll LoadData. Nothing happens. So what I need to do now is I need to save it. I need to then publish it.
+
+[02:24] And then let's make sure that this version, if I refresh, just make sure I've got the latest, is actually live. So I'm going to versions, yes, we can see it's live. So what I'm going to do now is go onto my iPad and see what happens. So here I am on my mobile device. It happens to be an iPad, and I'm going to go to the collections app, click on it there. And now you can see the iPad is asking me do I want to allow access to the camera?
+
+[02:58] So I'm going to say allow in the bottom right-hand corner. And here we are. So I can now add a photograph of Mickey. So I'll just type Mickey up here, and I'll press on the image. (camera snapping) There we go. And now, I'm going to get a second character. So this is Figment. So I'll add Figment. (camera snapping) So what I'm going to do now is click SaveData and I'll exit the app by dragging from the left to the right.
+
+[03:35] So let's go back in to my collection app. So we just have the two default items there, which I can clear. So click on Clear Collection. But now I'm going to load the data. And there we have all four items that we previously had. And so now what I can do is I can add a fifth item. Here's a fifth item.
+
+[04:05] So I'll call this Hey Duggee. (camera snapping) So I've added it twice. I'm not going to click SaveData this time. I'm going to just exit and go back in. So if I clear the collection, if I load the data, there it is. If I load the data again, then you can see it comes a second time. So currently, I'm using the Collect function, so maybe I should use the ClearCollect function.
+
+[04:33] So let's clear the collection, load the data again. You can see Hey Duggee isn't part of this because I didn't click on SaveData. So I will add Hey Duggee in. (camera snapping) There we go. I'll save the data, exit the app one more time, go back in, clear the collection, load the data and there we can see all five characters. So in this video, what we've done is have a look at the Clear and ClearCollect functions being used with the SaveData and LoadData.
+
+[05:10] Now, do bear in mind that SaveData, LoadData and ClearData will only work for mobile devices. So your iPhone, iPad, or Android device. Now, there is in settings, in a web browser, Upcoming Features, Preview, and if I scroll down, we have enable SaveData, LoadData and ClearData on a web player. So if I switch this to on, Save and Publish, and then go back, and play, and now refresh, theoretically, it should allow me to save and load data.
+
+[05:57] So if I add Mickey and click SaveData. Now clear the collection and load the data. There it is back again. So if you want to try this experimental feature, then edit your app, and then go to Settings, Upcoming Features, Preview and then scroll down and enable SaveData, LoadData and ClearData on the web player.
+
+[06:24] Just bear in mind that the application data that it saves is not encrypted and therefore, do not store any sensitive data.

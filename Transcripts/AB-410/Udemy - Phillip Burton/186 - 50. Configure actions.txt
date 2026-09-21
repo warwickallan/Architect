@@ -1,0 +1,30 @@
+# 50. Configure actions
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 186 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at the various categories of actions that you can use. Now, you won't be required to memorise all of these for the exam. But, it's useful to know roughly what you can do. So first of all, we've got variable actions, so we've had to look at these already. So, variable actions include things like incrementing therefore adding a number to a variable. Decrementing a variable, initialising the variable, which you need to do in the first place.
+
+[00:28] Setting a value to the variable. So, instead of saying it's the previous variable plus two, it says this new variable is going to be nine. This current viable is nine. Appending to a string variable, and appending to an array variable. So let's have a look at the sort of actions you can get with Excel online. Where you can delete, get or update roles. You can get to worksheets or tables. You can list roles present in a table.
+
+[00:56] You can run scripts, you can add a key column to the table. In other words, it gets added it to the right, or you can add a row into a table. Or you can create a table or a worksheet. For Google sheets, we've got actions such as get, insert, delete and update role. Get roles, so more than one row, and get sheets. For Microsoft Teams, we have got add a member to a team, create a team meeting, or create a teams team, get messages or post message or not apply.
+
+[01:34] It could be in a chart, it could be in a channel. Post a choice of options as the flow bot to a user. You can post an adaptive card and wait for a response in a chat or channel. Or you can reply with a message or with an adaptive card. We've already seen triggers that you can do. For instance, when a new channel message or a team members' added or removed. When I'm mentioned, or when you click on a message and then button.
+
+[02:03] So, that's for a selected message. Looking now at MSN Weather, we have got actions of get the forecast for today or tomorrow. Or get the current weather. For Mail, we can send out email notifications. Now, that is not for spam, I should point out. You can send them maximum of five mails per minute, and a hundred mails per 24 hours. If you want more than you should, instead of using Mail, you should use Office365 Outlook.
+
+[02:37] There, we can create, delete, update contacts or events. We can send, delete, export, flag, forward, move or reply to emails. We can find meeting times, we can get attachments or a calendar view of events, or calendars or contact or contact folders, or email/emails or event/events, or mail tips for a room. Or a room list, or rooms in a room list. We can mark emails as read or unread.
+
+[03:08] We can respond to an event invite. We can send an email from a shared mailbox. We can send an email of options. We can set up automatic replies, and we can update my contacts folder. Looking at One Drive for Business. We have got actions such as create or delete a file, list files in a folder, convert or copy, or move or rename a file, maybe using the path.
+
+[03:37] We can create a share link. We can extract an archive to a folder. We can find files in a folder, or by path. We can get a file content or metadata. We can get file thumbnails. We can list files in a root folder. So, useful if you want to go through for each file. And we can update files, maybe from a URL. For SharePoint, we have got actions such as hub sites.
+
+[04:09] We can approve or cancel a hub site join request. We can join a hub sites, we can set a hub site join status to pending. We can add or delete attachments, or we can get attachments. We can check-in files or check-out files. We can copy or move files or folders. We can create or delete or update or get files or items. We can create new folders. We can create or stop sharing links for file or folder. We can discard a checkout.
+
+[04:39] We can get changes for an item or file. We can get or date file properties. We can get files or items. We can grant access to an item or folder. We can list folders, and we can also extract folders. Looking at the Dataverse, we can add or delete or update roles. We can download or upload a file or image. We can get a row by ID.
+
+[05:08] We can list or relate or search or unrelate roles. Relate and unrelate means it's the relationships, a one-to-end or an end-to-end relationship. We can perform a bound or unbound action. So, this means associated or not associated with a table. We can predict using AI Builder models. So we'd be looking at AI Builder later on in this course. And we can perform a chain set request. That's a group of connector operations at a single transaction.
+
+[05:38] And then finally, we'll have a look at SQL Server. So, if I scroll Server, we can delete or get or insert or update roles. We can execute a SQL query. We can execute a store procedure. We can get role or roles. We can transform data using power query, and we can get tables. Now, you might wonder why this has brackets V2? Well, there needs to be some code written for each of these.
+
+[06:07] When Microsoft makes a big enough change, they could call it V2, V3. And the reason for that is, it leaves the original code as is, so that nothing breaks. This would give you a good idea of the sort of actions that you can do in Power Automate. So basically, what is your connector? and then let's see what you can do with it.

@@ -1,0 +1,40 @@
+# 24. Embed Power BI dashboards and tiles in canvas apps and model-driven apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 205 (section 35: Create and consume Power BI dashboards)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous videos, we had a look at how to create reports and dashboards. In this video, we are going to be embedding the dashboard into our canvas apps and model-driven apps. So if I go back into make.powerapps.com and go to Apps, we can edit our canvas app, which is called AccountsApp. So click on the dot, dot, dot next to AccountsApp and go to Edit.
+
+[00:30] Now, editing a canvas app and embedding our Power BI dashboard is very simple. All it requires is for you to go to Insert. So what I'm going to do is create a new screen. So we've got Screen3 down here, and I'm going to go to Insert, Charts, Power BI Tile. So I click on this and it's connecting to my own Power BI account.
+
+[01:03] And it's saying, okay, what is your workspace? Well, I'm going to connect to the per user workspace. What dashboard are you going to connect to? The per user dashboard. And what tile? So I've got two tiles unfortunately similarly named. So I will connect to this first one and then I will insert again a new chart, Power BI tile, drag it down and I will insert the other tile.
+
+[01:37] So this gives me a huge amount of flexibility when I can insert individual tiles. So let's just have a look at this in the play view, and here it is. Now, this is based on the latest data in the Power BI Service. So if the data changes in the Power BI Service and I open up this canvas Power app, then this analysis will change. It's not just a picture. So let's click OK and save this.
+
+[02:06] So let's just have a quick look at some of the properties that you've got for these Power BI tiles. First of all, there's Power BI interactions. So if I were to click on a tile, it would open up the dashboard which contains it. However, you can change that so that when you click a tile, it runs the OnSelect formula. If you want that, then you should switch Power BI interactions to off.
+
+[02:35] In the advanced section, we have got the tile URL, so a very complicated URL, but you could set this to a variable and then have a button say what the tile URL is. So you can change it while you are using the programme. And similarly, load Power BI content. If it's true, then the content is lauded. If it's false, it's unloaded or it's not loaded in the first place.
+
+[03:02] Microsoft does not recommend having more than three Power BI tiles loaded at the same time in an app. Again, this is something you can control programmatically, maybe with a button switching it on and off, true or false. So this is how you can insert tiles into canvas apps, but how can you insert them into model-driven apps? If I now edit this, I can, for instance, add a new page. So I've got all of these dashboards here.
+
+[03:32] So I'm going to add a new page at the bottom, and it's going to be a custom page, so not a table-based view, not a dashboard. And I'm going to create a new custom page and when I click Add, it takes me out of this model-driven app back into the canvas app. But in this case, it's a completely blank page. So from here, I can go to Insert, go to Charts, Power BI tile, and I can connect to a workspace, a dashboard, and a tile as before.
+
+[04:12] So let's do that twice with the two tiles. (no audio) So I'm going to save this. So I'll save this as Page1ModelDriven. Click Save. So now you can see this page has saved successfully. So I can now leave it. If I now go back into my model-driven app, you can see that we have got this new page, Page1ModelDriven.
+
+[04:47] And if I wanted to go back into it, I could just go to Edit. Now, notice what it says. The app needs to be republished, so I need to save it and republish. So let's just click Save and then Publish over here. You can see at the top of the screen it says we're still publishing parts of your app and we'll refresh the preview below once done. So we just need to wait a moment or so. So now you can see it is refreshing itself.
+
+[05:20] And there we have, in addition to our accounts, we have got this new page with our Power BI tiles. Now, suppose I didn't want individual tiles. Suppose I wanted the entirety of the dashboards. Well, I can do this by going back to Power Apps and going to a solution. So I will go to the MyUnmanagedSolution. I can then go to New, Dashboard, Power BI Embedded, and then I can select the display name.
+
+[05:57] So this is going to be my per user dashboard. I can say whether it's going to be a report or a dashboard. I can use environmental variables if I want to submit data to the Power BI. I don't want to in this particular case. And then I select my workspace and my dashboard and click Save. So there it is, and you can see it is a Power BI embedded type.
+
+[06:30] I'm going to click on publish all customizations, which is always a good idea when you have imported in new items into your solution. So now you can see publish all customizations succeeded. So I'm now going to edit the model-driven app in a new tab and I can go to new page. So add page here, it's going to be a dashboard page. Click Next, and if I scroll down, you'll see that we've got system dashboards, interactive dashboards, and we've also got Power BI dashboards.
+
+[07:09] So I'm going to check the per user dashboard and click Add. So here you can see it has now been added. It takes a minute or so for it to appear, but it is there. Now, if for some reason you don't see it there, well, you may have to publish a few more times. So publish all customizations or you may have to click on the dashboard itself and go to Publish.
+
+[07:37] It may just take a few minutes for it to be available, but I would keep publishing the individual dashboard, as well as all customizations. And then eventually, it should then appear in the dashboard's view. So if I save and publish my model-driven app, I can now play it and you'll see that I have access not just to my accounts, but also to my individual tiles from my dashboard and also the dashboard itself.
+
+[08:22] And if you don't see your dashboard here, then you might have to click on the dropdown and go to your dashboard. You might be looking at a different dashboard initially. Additionally, notice that you can also set this dashboard as the default so it is the one that comes up as opposed to any of these others. And you can also open in Power BI. So you can open this, which came from Power BI and which you are currently looking at in a model-driven app.
+
+[08:52] You can open it in Power BI. So in this video, we've had a look at how we can embed Power BI dashboards and tiles into canvas apps and model-driven apps. So we can do this from canvas apps very simply by just opening up the canvas app and going to Insert, and it's there in the charts section. We can also do this from a model-driven app by going to Add New Page and go to Custom and designing our page using a canvas page designer.
+
+[09:33] And we can also go into our solution and add in a Power BI report or dashboard, and then we can add it into our model-driven app by going to Add Page and going into dashboard.

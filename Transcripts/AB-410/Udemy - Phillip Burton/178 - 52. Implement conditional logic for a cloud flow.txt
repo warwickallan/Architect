@@ -1,0 +1,46 @@
+# 52. Implement conditional logic for a cloud flow
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 178 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at how we can use variables, conditions, and loops in a Power Automate flow. So if we go back to the Power Apps portal and go to Tables and Account and click on Edit, we can see that the data we've got has a number of cities in Redmond. So let's create a flow, which counts the number of rows which contain Redmond and also lists all of the other cities as well.
+
+[00:31] So if I go back to the Power Automate flow, and I click on Create on the left-hand side, and then create an instant cloud flow because I want this to run when I say, click of a button, and I will call this Cities. And I will trigger this flow using Manually trigger a flow and click Create. So next, I'm going to go into the dataverse. So I'll click on New step and type in dataverse, and we can see List rows.
+
+[01:03] Now, there are some actions which are quicker than list rows, but this is quite an immediate way of getting to all of the rows. So I'll click on List rows. It's asking me what table name do I want. Well, I want the Accounts table. There's also some more advanced options if I want to reduce, say, the number of columns that will be retrieved. But I'm going to leave it as that for now. I'm just going to have the table name being Accounts. So next, I want to go through each of the rows of the table Account.
+
+[01:35] And I do this by clicking on Next step and looking at the control actions. So I'll want to apply to each. In this case, apply to each row. So I'll click on that, and I need to select an output from the previous steps. So if I click inside there, you'll see in the list rows, which is the previous action, I have got value. So that is an individual row. So for each row, I want you to do an action.
+
+[02:05] So I'll click Add an action inside apply to each, and I'll go to my control because I want the equivalent of an if statement. If Address 1: City is equal to Redmond, then do something. Otherwise, do something else. So that is a condition control. So if in the condition control I click inside the Choose a value, I can search in the dynamic content what it is that I want to use.
+
+[02:33] And I want to use Address 1: City. So I'll click on that. And it's a bit of a shame that it just says "Address.." when it's got all of this width it could play with. However, if you hover over it, then you'll see it says address1_city. So if Address 1: City is equal to, so you can say is equal to, contains, is greater than, is less than, starts with, or ends with, or any of the opposite conditions. So if Address 1: City is equal to Redmond.
+
+[03:02] Now, within the condition, you can apply additional conditions as well. You can add a conditional row or a group, where you can group together conditions and say and or or. We won't be doing that here. So if Address 1: City is equal to Redmond, then I can add an action for the if yes. If not, then I can add an action under if no. Now, I don't need to add an action. Similarly, I can add multiple actions linked to each other.
+
+[03:31] So I could have three actions if yes and zero actions if no, if I wanted to. So what do we want to do if city for address one is equal to Redmond? I want to count them. So to count them, we need a variable. So that is a holder of information that I can use for this flow. Now, I need to declare the variable first. And in Power Automate, that's called initialise. So I'm going to go back a few steps, hover over the arrow connecting two steps together, and I can click on the plus that then appears.
+
+[04:07] So this will insert a new step. So I can add an action. I can also add a parallel branch, which means that two actions will happen at the same time. But I don't need to do that for this. And I'm going to type in this Search connectors and actions var, first three letters of variable, and then click on Variable here. So these are the six actions we can do. We can initialise a variable, we can set its value, we can increment or decrement it, and we can append to a string or an array variable.
+
+[04:39] So I want to initialise the variable. I want to declare it. So I'll click on this, and it says, "What is its name?" Well, I'm going to say Redmond. The type of the variable could be boolean, yes/no, integer. So that's a number without a decimal point. Float, a number with a decimal point. String for text, object, or array. Because I'm counting, I'm going to be using an integer. And its initial value is going to be zero.
+
+[05:07] Now, if you're used to programming languages, you might expect initialise variable to be right at the beginning. But you can't add anything before trigger. The very first step needs to be a trigger. So now we've initialised this variable. I'll go into the apply to each, into the condition, and the if yes. I'll add an action, click on that, and the action will be, again, to do with variables. So I'll click on Variable at the top. And I want to increment a variable, add to it.
+
+[05:37] So having clicked Increment variable, I'll click in the name. This will give me a list of all of the variables that we've previously declared. So I've got Redmond, and I'm going to add one to it. That's all. So this is the equivalent in other languages of Redmond equals Redmond plus 1. So we start off with zero, then it becomes one, two, three, and so forth. If not, well, what I want to do is create a text variable that will just get expanded with all of the different cities.
+
+[06:07] And I don't care if there are duplicates here. So if I initialise the variable, again, just below the first initialised variable that I've got. So I'll insert a new step, add an action, go to Variable at the top, and I will initialise a variable. So I'm going to call this Cities. And the type is going to be string because it's going to be text. And the initial value, I'm not going to have an initial value.
+
+[06:35] It's going to be blank. It's going to be empty. I don't need to put in an initial value. You notice that there isn't a red star or asterisk next to the word value. So having initialised this second variable, I'll go back into apply to each, into condition. And now in the if no, so if Address 1: City is not equal to Redmond, then I'll click Add an action, go to Variable at the top, and Append to string variable, add to the end.
+
+[07:09] So I get to choose which variable. So this is gonna be the Cities. It's the only string variable I've defined. And in value, I am going to search for the word city. So there we can see Address 1: City. And then I'll put a comma and a space. Otherwise, the result we'll get is going to be like London, Paris, New York, all joined together without a delimiter. So the delimiter I want is a comma and a space.
+
+[07:37] And then, finally, outside of the apply to each, so I'm not clicking Add an action within apply to each, but I'm clicking the New step right at the bottom. I'm going to send a notification. So Send me a mobile notification I'll click on. And the text, if I click inside there, I'm going to say Redmond Count. And in dynamic content, I've got the Redmond variable, so I'll click on that.
+
+[08:03] And then press enter, and I'll say, "Other cities:" and I'll click on the Cities variable. So having done that, I'll click on Save. I will click on Test. The flow error comes up. It's saying that the list rows action, you could use something else. But I'll say fine for that, click on Test. I will manually run it. Click on Test. So everything is signed in. Click on Continue.
+
+[08:33] Click on Run flow. And now the flow has run successfully, or at least it's successfully started. So I'll click on the Run Flow Page, and there we can see Test succeeded. And if I click inside this start time and click on Send me a mobile notification, we can see that the Redmond count three of the cities Renton, Dallas, Santa Cruz, Linwood, Los Angeles, and Phoenix, and Missoula. So if I click on Edit at the top, I just want to point out that there are some other loops available.
+
+[09:08] If I click on Control at the top, you can see that there is a do until. So do until a particular condition has been satisfied. For example, do until the number of Redmond cities is at least 10, for example, or I have run out of rows. There is a switch. So this is another condition. So I can say, "Have a look at the city, and if the city is equal to Redmond, then do this action." If I click on the plus.
+
+[09:46] If it's equal to Los Angeles, then do this action. And I can keep clicking on the plus to add more cases, more things I'm testing for. And then there is a default. If it's none of these, then do this action. So I'll just delete that. So in this video, we've had a look at how we can initialise variables, as well as how we can increment them and decrement them. We can also append it to a string variable.
+
+[10:17] And we've had a look at loops. We've had a look at apply to each. There is also do until. And we have had a look at conditions, the equivalent to the if statement in Power Automate.

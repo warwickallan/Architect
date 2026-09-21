@@ -1,0 +1,28 @@
+# 53. Create and monitor approvals from Power Automate
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 179 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video we're going to have a look at an approval flow. Now an approval flow is just the same sort of flows that we've had before, an instant flow probably. But as you can see, there's a huge variety of types of approval flow, if I click on approval here at the top, we're in templates. So you can see, we can use Microsoft forms, SharePoint, and teams, and many other things. So in this video, we're just going to create an email flow. So I'm going to go to create on the left hand side, go to instant cloud flow.
+
+[00:33] So I'm going to call this my email approval flow and I'll manually trigger this flow. So the next step is to do an approval. So you will see in approvals, we have got create an approval, wait for an approval. And then the two combined, I'm going to do the two combined start and wait for the approval. So the approval type, there are four different types, but really there's only two, but there's a bit of customization.
+
+[01:03] First of all, if I'm sending it to five people at say, do I want everybody to have to say yes. So that would be an everyone must approve. Or, is it the first person who actually replies to me? Alternatively, if I want to say something over then approve and reject, then I can have custom responses. So what I'm going to do is quickly look at the approve stroke reject. So you'll see we've got a title assigned to, and some of the things, but if I delete that and go for a custom approval, then you will see in addition to what we've had, we've also got the items.
+
+[01:47] So previously it was just saying approve and reject. So I'm going to say yes, please. And no, thank you. I'm also going to add a third item, ask somebody else. So this is for my vacation or leave or holiday, and I'm going to send it to my superior door manager at the PC max dot quota. You cannot call it a manager.
+
+[02:19] So there are other things you can put in like the details. I want to go on holiday stroke, vacation, Joe cleave for two weeks. So lots of other things you can do. And then my next step is going to be just a standard email. So I'm going to email myself is the outcome of the leave request and in the start and wait for approval.
+
+[02:57] So the previous step I have outcome. So you'll leave as being responded to as follows. So very simple. We just starting off a trigger. We then starting and waiting for the approval.
+
+[03:25] So I could just say a standard approve and reject, or I could have the customer responses, but I've also got wait for one response or wait for all responses. And then I'm just going to send myself an email based on that outcome. So I'll say that, and you can see there's a red dots in the floor checker. So power automate approvals has not been installed for this environment, but running the approval flow will initiate it. So it's not a, can't do this.
+
+[03:54] It's a, there's an additional step. It might just take a little bit of time. So I'm going to do this. We're going to do this automatically or manually, and I'm going to click continue, run flow. And it has started to run so you can see it since then they come up with tests failed. So let's see why that is. So there are details on the right-hand side. So there is a quiet field assigned to contain no valid users from the organisation.
+
+[04:24] So let's edit that. So you can't just put it to a random email address. It's got to be somebody actually in your organisation. So you can see, even though it says email addresses, it can't just be any email addresses. So let's put it to one of my email addresses and you can see while typing that it's coming up, with me so I can put additional people. So if I put this for instance, it will give me another version of me, but I'm waiting for one response.
+
+[04:59] So let's save it again, test it manually. And now you can see that it is working. And now if I go into my email, we can see that's how I have received this approvals from power automate. So if vacation leave holiday requested by me, date created, I want to go on holiday vacation, leave for two weeks.
+
+[05:29] So I'm going to say yes, please have a nice trip and submit. So there we go. My approval flow has finished. And now if I go into my email, you can see the leave requests has been responded to as follows. Yes, please. So in this video we created a very basic leave request. So it's a manually trigger flow.
+
+[05:59] We started and waited for an approval. So can I ever have one person approving go? Everybody has to approve. I can cut the defaults, approve, decline, or deny, or I can put in my own custom responses. And then afterwards, I just sent myself an email notification with details of the outcome. So that is how you create an approval request in power automate.

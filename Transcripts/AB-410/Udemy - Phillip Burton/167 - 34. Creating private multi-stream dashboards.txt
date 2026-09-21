@@ -1,0 +1,22 @@
+# 34. Creating private multi-stream dashboards
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 167 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we created a couple of public single-stream dashboards relating to one specific table. Now, when we were looking at views, we created public views, ones where we went to the table and created the views and we also created private views. Well, we can also create our own private dashboards, and we can do that in the model-driven app as well. So here in this dashboard, I'll go to New at the top, and go to Dynamics 365 dashboard.
+
+[00:31] This allows me to see dashboards, which come from multiple tables. So if I click, for instance, on the three-column regular dashboard, you can see a preview of what this could look like. There is also a multi-focused dashboard, and an overview dashboard, four columns, with a list at the bottom. A two-column regular dashboard. A three-column overview dashboard with two lists at the bottom, a focused dashboard.
+
+[01:02] So use the first column to draw focus to a specific component. And a four-column regular dashboard. So what I'm going to do is have a look at the three-column regular dashboard, and click Create. So this new window opens, and because we're not just restricted to one table, we can use a lot more components. So I'm going to call this my multi-stream dashboard. So if I click on the chart in the first section, I can insert a chart and I can choose what record type.
+
+[01:37] I can choose where the data comes from. So I can have an account table, I can choose a view and a chart. I'll do something similar in the second part but this is going to be based on the expense table. We've also got lists, so I can click on insert a list. So I'm going to go down to the expenses table and I can choose a system view or my view.
+
+[02:08] So I'll choose a system view and click Add. And there are other things I can add. So I can add an assistant, an iframe, so that is an excerpt from another website or a web resource, for example, a graphic. But we don't need to go into these for the PL-100 exam. So I'm just going to click Save and Close. And now I've got access to my multi-stream dashboard with all of the various components.
+
+[02:39] And I can also click the dropdown list to get to any of the system dashboards as well. If I now go back to my view, you may see that there is no easy way to look at the dashboard that I just created, the Dynamics 365 dashboard. However, if I go back into the Power Apps portal, go to my accounts and expenses model, and edit it, I can insert a new page if I go say to the expenses area.
+
+[03:13] Click New for the new page, select a system or interactive dashboard to start off with. So I'll select the system dashboard interactive challenge. Click Add. So there you can see, it's a separate button. So if I close down my other playing of the model-driven app and I will save, publish and play. And once you've played it, you might just need to refresh the web browser as well.
+
+[03:43] If you go to expenses, and you can't see the dashboard, you need to refresh. And then if I click the dropdown button, here you can see not only the system dashboard, but also your dashboard that we've just created. So there is my multi-stream dashboard. So in the past couple of videos, we have created dashboards. So some of the dashboards, the ones that you create in the Dataverse table, you can find by going to a Table, a View, and then click on Open Dashboards.
+
+[04:18] You can then change the dashboard if you would like. Alternatively, you can create a system or interactive dashboard by going to your model-driven app and adding a new page. And from there, you can go to that dashboard and you can click the dropdown and go to any of the other dashboards that you as a user has created.

@@ -1,0 +1,20 @@
+# 38, 39. Create+publish new versions, restore a previous version of an app
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 144 (section 26: Other controls and other canvas apps topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Well, congratulations. You have edited the app. You got it to exactly what you want it to. So what do you do now? Well, first of all, you need to save it. So, File Save or Save as if you want to change the name. So, I'm going to click Save on this. So, it's now saving, but then we can publish it. But hang on. What's the difference between Save and Publish? Well, saving makes it available for everybody who's got edit permissions. But it doesn't publish the app for others for whom the app is shared.
+
+[00:31] So, what do I mean? Let's go back into make.powerapps.com and we go into the app. This is the accounts app and then click on the dot, dot, dot and I go down to details and across to versions. So, you can see that we've got now five different versions but notice version number four is the one that is live. So, the one that I saved just a few seconds ago, isn't live.
+
+[01:02] So, anyone that I have shared this with previously, they are currently using version number four. So, if I want version number five to be the current version, then I either need to publish it here in the power-up or I need to click on dot, dot, dot next to the relevant version and publish the version. So, you can see this will make version five available to everyone who has can use permissions.
+
+[01:32] So, let's publish this version and now you can see that version five is live. Now, what's if I'm going, oh my goodness, I've just found a major problem, I want to go back to my version four. Well, that is possible. You can go back to a previous version as long as it is less than six months old. So, I'll click on dot, dot, dot, and I can click on restore. So, this would be saved as version six. So, what's happening?
+
+[01:59] So, we had version four, we've just published version five. I want to go back to version four. However, I don't want version five to be deleted. Instead, version four gets copied and is now version six. So, click restore, can't do that at the moment. The apps app is locked. So, I'm just going to close all of these other tabs. So, let's try this again.
+
+[02:27] Restart. So, now what was version four, what is still version four is now version six. So, you can't actually play a previous version, you can only restore it as a new version. Now at the moment, it is restored but it's not published, version five is still live. If I want it to be live, then I need to go next to dot, dot, dot, and publish the version. So, it's important to know that taking a previous version, like this version five, which I'm going to restore and is now going to be conversion seven, it doesn't delete or override a previous version and it doesn't automatically get published.
+
+[03:10] So, in this video, we've looked at how we can create new versions of an app. You just go to file save. You can restore previous versions of an app, and that is by going to make.powerapps.com, going to apps, clicking on the dot, dot, dot next to the app, going down to details, going to the versions, finding the version you want restoring and clicking restore and it would then be restored as a new version number and then you will need to publish it.
+
+[03:38] And you can do that by clicking on the dot, dot, dot and going to publish. Or you can do that after saving it in the power apps, you've gone to file save, it's saved, you can then click on the publish and it will only be published for people whom you have previously shared it with.

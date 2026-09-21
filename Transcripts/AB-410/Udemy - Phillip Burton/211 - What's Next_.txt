@@ -1,0 +1,22 @@
+# What's Next?
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 211 (section 37: Congratulations)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Well, congratulations, you've made it through the course. So let's just have a look at what we've learned. So we'll go to the skills measured. So we've looked at designing solutions. So we've looked, for instance, at the licences, the connectors, standard premium, and custom connectors. We looked at designing for accessibility and the various solutions, environments, and so forth, in power platform. Then we had to look at creating solutions.
+
+[00:28] So this is just actually creating the solution itself, creating model driven apps, canvas apps including the components, data stalls such as the dataverse database, business logic including business rules, business process flows. We've had a look at power automate flaws and we've had to look at analysing and visualising data using power BI reports and AI builder.
+
+[00:56] And we've also had to look at other things like dashboards and charts, and implementing and managing solutions such as security testing, securing, deploying, and managing versions of canvas apps. So where to go from here? Well, you could read more books on this if you wish to. So plenty of books on power apps and power automate. Unfortunately, the books that's available on PL-100 at the moment are fairly non-existent.
+
+[01:32] So you can see there are two self-published books but no official books. Now you could go for the learning path. So we have here the learning path and I think there's something like 12 different items here. I had two problems with the learning paths. First of all, it goes into a lot more detail, some of it, than is required in the PL-100 exam. This is really designed independently of the exams.
+
+[01:59] And some of it is more appropriate for the PL-200 exam. So if you do go down the learning paths, I would suggest having a copy of the skills outline and saying, "is this really requested? Is this something that's I want?" And secondly, it's not all to date. A lot of these pages use the classic interface, whereas there's a more modern interface and version there. So once you have done that learning, what next?
+
+[02:28] Well, I suggest what next is by going to measureup.com. So measureup.com gives you the official practise tests. There's also a practise assessment as well. So I would go for the practise test unless you just want some reassurance. The practise test is a lot more comprehensive. The 130 questions, which are available in the practise test dwarfs the 30 questions, only that are available in the assessment.
+
+[03:02] You can choose to have it for 30 days online, 60 days, one year, or you can download it where it's yours to keep forever. And then once you've done that, why not schedule your appointment for an exam? So you can schedule with Pearson VUE for instance, and at the time of recording, you could do it from home as well. I would go for at least one of the official practise tests or assessments before you do that, so you know that you're at the right level.
+
+[03:29] The good thing I like about the official practise test is if you get it wrong, there's an explanation. So I hope you will consider doing the exam. Wouldn't that be good on your CV or resume? If you think this is a bit too high level, then why not have a look at the PL-900 exam? We've covered most of the items that you need. There would only be a few additional things like the virtual agents and portals. Whatever you choose to do, thank you very much for joining me in this course.
+
+[03:58] And I'll see you on the next video.

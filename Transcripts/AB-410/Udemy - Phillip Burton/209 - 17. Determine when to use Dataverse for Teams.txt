@@ -1,0 +1,32 @@
+# 17. Determine when to use Dataverse for Teams
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 209 (section 36: Other topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video, we're going to have a look at Dataverse for Teams. And Dataverse for Teams is created automatically when we go into Power Apps. So either find Power Apps in this list, or maybe you've got it open and I can click on New App. So when I click on New app, I need to select a team for the app. So I use my Power Platform team.
+
+[00:29] And, what's happening behind the scenes is that a new environment is being created. Now, the environment name is the same as the team name, but I'm going to create this app, I'm gonna call it a Teams App. And it just save that. Now the environment name is the same as a team name and any data, apps, chat box, and forms created in the Power Apps app inside the team area will be put into the teams Dataverse for Teams database, and that has two gigabytes of database and file storage.
+
+[01:05] So, let's say I wanted to create a table in my Dataverse for Teams. Well, you can see we've got lots of very familiar things here, but we've also got data. And while we can do other things, like for instance, we have an environment, we have connectors, and if I click See Connectors, you can see we have a big list. But, what we can do directly here is create a table to set up our database.
+
+[01:33] So if I create a new table, so this will be Table Contacts, let's call it, or External Contacts. Now you can see that this is a real cut-down version of what we had in the Power Apps studio. The only advanced setting is the Plural Table Name. So I'll click on Create, and here we can add rows in forwards, blank rows, we can add columns, we can show and hide columns, and that's it.
+
+[02:02] So we start off with name. So if I edit this column, you can see that we can change the name. It will always be a typed text. And if I click Add, we can create a new column name. And again, it seems to be a cut-down version from what we've been experiencing in the Power Apps portal. And it is. So, I'm just going to create Name and I'm going to have a number. And so this is my number.
+
+[02:31] I'm going to create a very simple app. So, I'm to put in my name and number one and other data and (mumbles). So you can see, I can also delete records, I can insert roles below, and insert roles above. It says "None of the records could be saved." I think that was from earlier. You can see now it says "Saved". So if I close that, you can see we've got this external contacts and I can edit the data, and there's our data.
+
+[03:05] Now, with all this having happened, if I go into the portal, the Power Apps portal, and go to the gear, the settings and admin centre, you can see in the environment that we have our power platform team, it's a Microsoft Teams environment, so you can identify it as a different type of environment. It's not something that you can edit in the Power Apps portal.
+
+[03:31] You can see, I don't have that option. Now, I should point out the idea for all of this, creating Power Apps within Power Apps for Teams, and using data first for teams, is because you want to have something that's a bit more private. You don't want it being accessed by everybody who's got access to the Power Apps portal. Indeed, you can actually create apps in Microsoft Teams and use them in a web browser, but only if you've got to trial or paid for version of the Power Apps licence.
+
+[04:08] So what I'm going to do here is I'm just going to add a layout and you can see various layouts and scenarios are available. So I'm going to create a list, a gallery that we've had previously, and I'm going to edit this, as before. So, we need a data source at the moment. It just has sample data, so we have to use external contacts. So there is our not very sophisticated app.
+
+[04:36] But we know how to create apps. So don't need to go through all of this. So, I'm going to click Save. You notice there isn't a file over there. I click save. I can preview it so I can have a look at what it looks like and I can publish to Teams. So, this version of your app will be published for everybody to use. So I can add it to a particular channel so I can add it to the General Channel, for instance.
+
+[05:05] So I'll click Save and Close. So now, if I go to my teams and go to my General Channel, they we can see my new teams app. And after quite a few minutes here, you can see it. Now, if you want to launch it in a web browser, you can't see it in the Power Apps portal. You'll have to go over to here with the Go To Website and that launches it in a standalone browser. You can also click on Open In Browser in the Power Apps mobile app.
+
+[05:41] And that's basically it, it's a standalone Dataverse. Now, there are a couple of things perhaps you may be interested to know. So if we go back to the Power Platform admin centre and click on My Microsoft Teams Environment, you can see that we can upgrade it to the Dataverse. So there are certain limitations, for instance, as a two gigabyte space of database and file storage. So, you can upgrade a Dataverse, a team's environment, to a full Dataverse database environment, if you so wish.
+
+[06:14] Additionally, you can also backup or restore your environment. So this is the Dataverse for Teams. It's used in Power Apps, it's created automatically, so you can add your own data inside a particular Power App for Teams, and therefore it is separate to all of the other environments that you can see here in the Power Apps portal. You can see it's not listed here.
+
+[06:42] But it is available if you go into the Admin Centre and into Environments.

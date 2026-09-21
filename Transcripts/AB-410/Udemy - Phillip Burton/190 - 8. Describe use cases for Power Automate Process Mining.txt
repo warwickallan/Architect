@@ -1,0 +1,34 @@
+# 8. Describe use cases for Power Automate Process Mining
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 190 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at some of the use cases for Power Automate Process Mining. So what is Process Mining? Well, it allows you to analyse operational processes to identify ways of improving the process. So it can allow you to improve efficiency, including supply chain management, enhanced customer experience, optimise resources, and reduce non-compliant processes. Now as you can see, the price for the full process mining is around $5,000 per company per month, and that gives you 100 gigabytes of data storage.
+
+[00:40] However, in the standard paid for version, Power Automate Premium, you do get 50 megabytes, not gigabytes, but megabytes of Power Automate Process Mining data storage, so you can try it out for yourself. So if I go into Microsoft Power Automate, you can see Process Mining on the left hand side. So what can it be used for? Well, it can be used for telecommunications, to streamline the activation process, for example, financial services, manufacturing, to decrease the impact of supply chain disruptions, automotive, so you can identify inefficiencies in creating the product and customer service desk, identifying ways to reduce rework.
+
+[01:25] Now it can also be used in Power Platform to analyse Power Automate desktop flows, Power Virtual Agents, and to improve your Power Apps in terms of its performance. So that's all you need for the actual exam, the PO100 exam. Describe the use cases for it, but it might help if you knew a bit more about what it actually was and what data you need. So here is an example of some data.
+
+[01:54] So we have for instance, one case which starts off with the invoice entry. We check the customer payment, we credit them, we refund the customer and we reissue the invoice. So that would be like a refund note. A second case where the same happens. Another case where we do the invoice entry check but we confirm the payment is received first and refund with a special voucher.
+
+[02:22] We then complete the customer memo, approve the invoice, create the credit memo, fill it, and then reissue it. And you can see here sample start and end times that this happens. Now what you need for the Power Automate Process Mining data is a case id, so the computer knows all of these items refer to the same case. You also need an activity name.
+
+[02:50] So we know for instance, that when we go to credit memo entry, they're the same thing each time. And also timestamps. So if you are using event logs, then that will just be a start timestamp. If you're using activities, in other words, something with a duration, then you will have a start and an end timestamp. So what the computer does is go through each of these cases and puts them together, aggregates them. So these first two cases are identical except in terms of the time taken.
+
+[03:23] This third case is different. This fourth case is similar to this third case, so we get to complete the customer memo but then we reject the invoice and we are in a bit of a loop until we get to somewhere where we can get out of the loop. So let's put this in action. So we put it into our process mining, and I'm using a shortcut for this sample data, go to Top Picks and show me a finance process. It takes a few minutes, but here it is already done.
+
+[03:55] And we'll see here a Power BI dashboard showing that there are 10 different paths, so one path is going to down this invoice entry route here and then there are 133 different cases with a total value of $176,000. And we've got various other things that we can look at as well. But I want to concentrate on this map, and if I click on map, I can see it blown up a bit.
+
+[04:27] So if I zoom in a bit, we start off with 133 invoice entries and you can see it's 133 because we've got an arrow going from start to invoice entry. And we can see 133 in the arrow and 133 for this actual activity. And you can see this big ripple showing how many there are as well. 68 cases go down this route, so this is the straightforward route; check customer payment, credit memo entry, refund the customer and reissue the invoice.
+
+[05:00] However, 65 go down this alternate route; confirm payment received, refund of a special voucher, one of these two, and then complete the customer memo and then we go down into approve invoice, credit memo, creation, fill credit memo, and finally reissue the invoice. But some of these go into a loop as we have previously seen in the spreadsheet before finally finishing.
+
+[05:29] So this process mining allows us to map what is happening and get insights. For example, we can see the total count of how many times each individual activity happens, how many cases it happens. So complete the customer memo, it happens in 65 cases but because of the loops it happens 113 times and it happens a total of five times maximum in any particular case.
+
+[05:58] So you can see that there is perhaps an inefficiency that we can improve on. Now if I go to Performance, we can see that the total duration going from invoice entry into check customer payment for these 68 times is 3.8 weeks and 2.05 weeks for these 65 times. But what might be more illuminating is to see the average or mean duration.
+
+[06:27] So it takes 9.36 hours to go to this check customer payment but only 5.31 hours to go through this area but we have 21 hours going from refund with special voucher here to complete the customer memo. And you can see this with the thickness of the lines. We can also have a look at the maximum and the minimum duration. So a question that rises to me, why did it only take 39 minutes to go from one activity to another when sometimes it takes two and two full days?
+
+[07:02] And then finally, there is a rework layer in which you can see when activities have to be worked several times. So for instance, here you can see the major loop that we've got. And we've also got copilot on the right hand side which can also provide some insights into your process. So process mining, this allows you to analyse operational processes to identify ways to improve the process.
+
+[07:32] It allows you to improve efficiency, enhance customer experience, optimise resources, and reduce non-compliant processes. And as you can see, it can take input from quite a few sources, including the Power Platform.

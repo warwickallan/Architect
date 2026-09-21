@@ -1,0 +1,42 @@
+# 30. Create model-driven apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 154 (section 28: Create model-driven apps - App designer and main forms)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English [Auto]
+
+[00:08] Hello. And in this section, we turn away from canvas apps and start creating model driven apps. Model driven apps are based on dataverse tables, so we don't use the various connections that we use in canvas apps. Instead, our data needs to be in the Dataverse. So to create a model driven app, we go to tables and then we select a table that we want to use in the model driven app.
+
+[00:35] Now we can use multiple tables, but we start with just one table. So I'm going to use the account table. So I'll click on that. And then at the top I'll click on create an app. So we need to give the app a name. So I'm going to call this Accounts and Expenses model. So I'll click create. And it will just take a few seconds to create our initial model driven app. And here you can see in the live preview what our model driven app will look like.
+
+[01:10] And if I in the pages pane expand the account, you can see it is made up of a view, which is what you can see here and a form. And because this is a live preview, I can click on any of these items to go to the form and then I can go back. Now have a look at the right hand side. It says no forms have been explicitly selected. So what does this mean.
+
+[01:39] It means I can say right, we've got all of these forms for the account table, but I don't want you to use all of them. Instead, I just want you to use a selection. Now, if you don't specify that selection, then all forms will be available by default. And that's generally what you want, unless you've got very specific ideas for the forms to be used in this particular model driven app. Similarly, if I click on the view, you can see that no views have been explicitly selected. All of them will be available by default and the same for the charts.
+
+[02:14] Now let's just have a look in a bit more detail as to what we've got here. If I go into the navigation pane, then you can see that we've got accounts view and accounts form. Together they make up a page. A page used to be known as a sub area. And you may still see some references on the internet to that. When you create a page it automatically goes into a new group. And here you can see the new group which separates out various pages. Now we've also got something called an area.
+
+[02:47] An area goes on top of groups. And if I go to the navigation bar right at the top to settings and go to navigation, you can see that we've got show home show recent show pinned, enable Collapsible Groups and Enable areas. So let's see what happens if I enable Collapsible Groups. You'll see that new group now has a collapsible button which can hide all of the pages within it. If I go back into Settings and navigation, I can also enable areas.
+
+[03:22] And if I do so, you will see that the search over here in the top left changes to the first area. Area one. So let's close this now. I can also access that list by going to navigation within the pages pane. So there you can see my five checkboxes. So let's add a new area. So I'm going to go over to this area one. Click on the drop down.
+
+[03:49] And here I can edit the properties if I so wish. But what I'm going to do is add a new area which you can see underneath. So I'm going to call this the expenses area. So I'm going to now add a new page into this. So a dataverse table. Click next. I'm going to search for my expenses table. So there it is. And click add. At the bottom left of this preview screen I've got access to all of the areas, so I can click on area one to get access to the area view and form.
+
+[04:25] So I'm now going to navigate to area one over here in the top left hand corner as well. So let's click on that and rename this account. So there's the accounts area and the expenses area, each of which have got their own view and form. So let's have a look at some of the properties for the area. So we have got title.
+
+[04:53] We have got the default icon and we've got an internal reference. So I'm going to call this the account area. So knowing the internal reference can be useful for things like programming later on. Then we've got some advanced settings so we can have localised titles and descriptions. So this could be useful if for instance you're in a multinational company and you want to be able to present this in English and Spanish.
+
+[05:21] So I'm going to add a localized title. I'll set the locale. Now this is based on the number of eyes known as the locale ID. And we've got Catalan Spain here as 1027. But if I scroll down all the way to near the bottom, we will have Spanish Spain 3082. So if somebody comes in who uses the locale 3082, then they will see the title as cuentas. So let's click apply.
+
+[05:56] So there you can see my localized title. You can also localize descriptions as well. We have the same advanced settings for groups and for pages. We've got a few more properties. First of all we can say what is the content type. So we've got table dashboard custom page web resource. So something upload. So for example a HTML web page that you upload. And there's also a URL.
+
+[06:25] well so a website. So I'm going to add a new page by clicking on the new button in the top left hand corner. And I will have a link to Microsoft. It could just be useful to have as a handy link over here. So let's change the icon and you can use a web resource. So these are things that you can upload.
+
+[06:55] So you can add a new web resource if you want to. So I'm just going to use an existing icon. Now in addition to being able to change the locale. So the localized title and descriptions we've also got security privileges. So this defines whether a particular page is displayed based on a security role that the user has. We've also got SKUs and clients.
+
+[07:25] So in clients we've got a series of checkboxes which show which clients can display a particular page. Same for SKU based on the dynamics 365 versions and then outlook shortcuts. Again, this is for dynamics 365 outlook. So you can add an icon to render for the dynamics 365 outlook folder. And you can also say whether it is going to be available offline in dynamics 365. So most of the time you don't have to worry about the advanced settings.
+
+[07:57] So it's really the title that you probably need to have a look at at least initially. Now a couple of last things. Firstly, you see that the preview does not support the URLs, so I'm not able to click on this Microsoft website and open it up. Secondly, if you want to go back to the previous way that you could create model driven apps called the Classic experience, then you can do that by clicking on the dot and switch to classic.
+
+[08:29] This will allow you to go to the old site map. However, Microsoft really intend this modern experience to replace the classic experience, and they try to hide it as much as possible. So you can add comments to your model driven app, and before being able to use it, you should save, publish and play. So if you just click play, you can see do you want to save and publish your changes before continuing? So I will do that.
+
+[09:00] So take a few seconds and then it opens. So as you can see we've got the accounts page in the new group. So I'm going to change the view from my active accounts to all accounts. There we go. I can click on any particular item and go to it. And I can also change the area that I'm looking at. And then I can click on a particular sub area, for example, the Microsoft website, to open up a different URL.
+
+[09:28] So this could be for instance your help pages. So this is how you can create a model driven app using the modern experience.

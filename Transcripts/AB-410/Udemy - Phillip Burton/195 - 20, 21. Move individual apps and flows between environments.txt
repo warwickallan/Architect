@@ -1,0 +1,46 @@
+# 20, 21. Move individual apps and flows between environments
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 195 (section 33: Solutions)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in the previous videos, we created a solution, my unmanaged solution and we've pulled a few things into it. But what if you didn't want to have a solution which is there to package things up? Maybe you just wanted to export an individual app or an individual flow. Well, we can do this quite easily. So we're going to the apps and you can see the list of apps we've got. So I'm going to just take a random app, this one, and I'll click on the dot, dot, dot and next to it you can see export package.
+
+[00:31] It's also there at the top as well. So this will export it as a zip. So we have a name, so this is going to be my export for my package, the environment and description. Now I'm going to delete those, they're not actually necessary. Then we can go over here to the import setup. So the question is, do you want to update an existing app or is this new to the environment and therefore we're going to create this as new?
+
+[01:07] Well, in my particular case, we're going to create this new. So generally you'll probably just be updating an existing app. So that's why update is the default. These two icons on the right, that does exactly the same thing as what we've just seen. And you can also add a comment as well. So let's save this and export it, so creating your package, don't navigate away. So it might take a few seconds.
+
+[01:36] I'm going to do the same thing with our flows. So I've got the flow here. Remember we can't import instant flows that were created outside of a solution into a solution. So this is really the only way that we've got to export it. So I'm going to export this as well as a package. And you can see here, we've got the same thing. So this is my export flow. In addition to this import setup, we also have or what's happens to the resources.
+
+[02:07] So this flow has got a notification. So in this particular instance is saying select during import. So the connection of what exists in the environment and must be selected when the package is imported. What's happens if there is a connector which isn't so obvious like a notification? So if I go into my flows again and go to Twitter language count. So if I export this as a package, you'll see that we've got the Twitter connection and I'm going to export this one as well and we'll see what happens.
+
+[02:42] So this is my export flow too. So now they're all exported. What I'm going to do is create a new environment. So you can't do this if you've got the developer plan because you can't create environments. So I will go to the admin centre which is why you can do things with environments. I'm going to add a new environment, so this is my importing environment and I'm going to make it a production environment.
+
+[03:12] And I'm going to create a database for this environment as well. So everything else I'll just keep as default apart from I'll deploy sample apps and data. So this might just extend the amount of time it will take for the environment and the apps to be created. So you can see the new environment is getting prepared, it can be used once active. So it is running as opposed to ready, so I'm just going to pause the video just for a few minutes to allow the environment to be set up fully, but you can see that it hasn't been successfully created.
+
+[03:52] Right now you can see that the new environment is completely ready, so let's go into it. So going to my importing environment, so it's got no apps, but I'm going to import a Canvas app here. So I will upload my app, so there it is. So you can see uploading built navigating away. So here is our app so I can create as new or I can update.
+
+[04:26] So I've got the traits when I import. So the fact that I said one was part of the other, it shows the default now as that, but I can choose what I want. So I'll call it import component two, click save. So here we can see the comments that I previously put in, import. So you can see now importing your package, don't navigate away. And here you go. After a few seconds, all packaged resources were successfully imported. So if I go into my apps, well, it wasn't there originally, but by waiting a couple of minutes, just pressing refresh, you can see it appear.
+
+[05:02] And so I can click on it to play it and you might recognise it from a component that we created earlier with a calculator. And here it is. So just to show you what it looks like previously, so it's not just a component that we have imported. Here you can see we've got a screen as well as a component that you've got in our library.
+
+[05:33] So if I've got to insert there we can see the library component that we have got. Now, just a couple of more things about this. If I go to import, but it's not there because all of this is checked. So if I go to import and import it again, then if I say create as new and try to import, it says you can't, you've already created an application with the name.
+
+[06:01] So you can update it. Or if we go into the create as new page, we have the results name. So I can call this copy, for instance, I can change the name that it imports And then when you've imported it, if you don't want to wait those couple of minutes for it to appear in the list of apps, you can always open it straight away and you can also share it. So now let's go to the flows, So here I'm in Power Automate. So again, I'm going to change the environment, we're going to have to create a new environment says dove house right, I think it just needs updating while it's still just coming up with the two environments.
+
+[06:39] So what I've had to do is pays to be a cash or timing issue is go on to a different browser, Microsoft Edge. And here we can see we've got three environments, same user, you'll notice PP in both of them. So it will update. So I'm going to go to my flows and I'm going to import, so let's upload one of my flows, so let's see which one that I did first.
+
+[07:09] So that one, so uploading a package don't navigate away and here we can see the flow, create as new but notificatiOnSelect during import. So the package credit chose this setup, yes, from the one that I've got. So I need to create a new connection. So let's click on create connection and it's just the notification connection, I think.
+
+[07:36] So there it is. So let's create a connection refresh list, gone back, click on notifications and import. So again, importing your package don't navigate get away. So you can see it has been successfully imported after about 30 seconds. So it will take a couple of minutes to get onto that list. So I'm going to import the overwhelm which included the Twitter connection as well.
+
+[08:06] So uploading your package, so we've got the import set up as update this time. So that's the default, I didn't change it this time. So see what happens because it doesn't actually exist at the moment. And now I need to pin together the notification results with the one I've already got. And then I've got to create a new Twitter connection. So this means that basically I'll be using my own Twitter connection as opposed to the person who exported the package.
+
+[08:38] So I'll just type in my credentials, authorise app. So now I can go back and refresh the list and say, yes, please. And I can't click on imports. So let's just go back to this update. So it says the app or flow or it exists in the environment and will be updated. Well, that's not the case.
+
+[09:05] This is new. So I've got to change it. I've got to say, create as new. So it won't just create a new one if it doesn't already exist. So let's click import. And after about 30 seconds, all packaged resources were successfully imported. So let's run the flow to make sure that it's working. So if you remember, this is one that's going to look at a score also of Twitter tweets and say, okay, what language at the end.
+
+[09:35] But notice your flow was imported as disabled. So we need to enable it, so this run the flow to make sure it's working, isn't actually very useful. So we just have to wait a couple of minutes and it's done now to see the flows. So I will now enable this. So turn on, turn on and let's run this one. So everything is okay.
+
+[10:05] I need to put in a search term, I'll put in "Udemy" let's run the flow. We can see the run history, so it's still running. And it sent me a notification where it says English 19, non-English 1. So in this video, we've looked at how to move individual apps and flows between environments. So we can export individual flows by going to my flows or going to apps click on the dot, dot, dot, and go to export package.
+
+[10:37] And then we have to choose whether to have the default as create as new or to update. And as you saw with any flows, you also have to look at the connections and then when you import them, then you have to tie the connections to connections on your new environment.

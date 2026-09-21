@@ -1,0 +1,38 @@
+# 45. Using the Navigate and Back functions in the OnSelect event
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 101 (section 20: Expanding our canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Okay, so now we need a better way of connecting these two. They are connected but I can't use them. So what I'm going to do is I'm going to go onto the next arrow, and you can see what it says. OnSelect, so when it is clicked, then I want you to do this. I want you to select the parent. In others words, I want you to run the OnSelect with the parent. So what's the parent of this arrow? It's the gallery.
+
+[00:26] Okay? So why do I do that? Well, if I click on here, let's see what happens when I go to OnSelect. I select the parent. If I click on here, and go to OnSelect, let's see what happens. I select the parent and you can see that here in the advanced controls. So wherever I click, as long as I'm clicking somewhere in this area, I will be selecting the parent or it will take me there.
+
+[00:54] So what do I need to get through to this detail screen? I need to navigate. So the keyword there is navigate and then I've got say where I want to navigate to. Well, I want to navigate to the DetailScreen. So let's have a look at that again. Navigate, open bracket, DetailScreen, close bracket. Now, you can see that the computer's put navigate, a keyword in blue and put DetailScreen, which is one of my screens in italic and purple.
+
+[01:27] You don't need to do that, the computer does it all for you. So now let's see what happens. If I click on this arrow for Fabrikam, Incorporated, we now have Fabrikam, Incorporated. Okay, how do I get back? I can't, okay, that's not good. So I need maybe a back button. So let's insert an icon. So do we have something that looks like a back button? Well, I suppose this left icon is pretty good.
+
+[01:57] So I'll put it up here. And OnSelect, what should I do? Well, I can navigate to the BrowseScreen. So let's see if that works. So I will play this. Click on this arrow. So here's my Fourth Coffee sample, and go back. Click on Blue Yonder Airlines.
+
+[02:27] So I don't actually have to click on the icon but the icon is a handy, this is where you could click roughly 'cause it's not necessarily intuitive to click on the telephone number. But you can see now these two are connected. What I'm going to do, I really want that account name right to be at the top. So I'm going to go back into Properties, back into Edit Fields. I'm going to drag Account Name right to the top. Now, these are all labels and what I want to do is go to this particular label and make it bold and red or something.
+
+[03:03] But at the moment, I'm getting a card. So a card contains a title and the value for one column. If I want the label, I have to click again. So if I click on here, this will give me the card, if I click again, it will get me the label. So I want this particular label to be, let's say red. And a bit bigger.
+
+[03:30] Maybe put it in bold actually and a bit bigger. So now let's have a look. Click, so now we can really see Fourth Coffee sample big. Maybe I don't need Account Name there, I can delete it. So I will go into my DetailScreen, click on the label, and I can't seem to collect delete. It is locked.
+
+[03:56] You can see this lock symbol next to it. So to unlock it, I need to go into Advanced, click Unlock. And now I can delete it. Alternatively, what I could also do is just make it not visible but then I would have a gap, so I'd much prefer to delete it. There we go. However, this gives me a problem if I do that. We've got an X here, so something is wrong.
+
+[04:22] And we've got a little dot over here by the stethoscope. Something is wrong. So I'm not going to do that just at the moment. I'm just going to undo that and you can see I've made it invisible. Now, navigate BrowseScreen. This is great if I know specifically what screen I want it to go to. But suppose I had several screens in my app, each of which goes to the DetailScreen? So I have a BrowseScreen, I have a here are all the people in Dallas screen.
+
+[04:53] I've got a specific screen, which gives a bit more detail and I can click on that and I can go to the DetailScreen. The trouble is now if I navigate to the BrowseScreen, I'm always going to the BrowseScreen. Is there a way just to allow me to get back to where I was? And the answer is yes. To do that, I can change this, so instead of Navigate, it says Back.
+
+[05:21] And we can say open bracket and close bracket. You don't actually need anything in those brackets. So let's just have a look, see what happens. So I click on a particular item and I can go back to the previous screen. Now, you may have noticed that the computer says actually, there's something you could put in the brackets. And that thing is the transition. So how do I go from one particular screen to another? Well, the default, if I don't put anything is ScreenTransition none.
+
+[05:52] It just happens. But I can cover it. So I'll cover it from the left or cover it from the right. I can fade away or I can uncover it. So let's just see what each of those do in principle. We won't go through CoverLeft and then CoverRight, we'll just have a look at Cover. So I'll use the Navigate function for this. If I cover, so I go back to the OnSelect, I'm now going to cover to get to the DetailScreen and then under DetailScreen, I'm going to uncover.
+
+[06:34] So let's see what happens when I play. So that might be a bit better than just here it is, here's your new screen. So the alternative to covering and uncovering is fade. So if I put in fade instead, of course, you could have none, which is just here's your screen. So you can see, it just fades into the background in favour of the new screen.
+
+[07:05] So I can use that with both the navigate and with the back. So in this video, we've created a new screen. We've created a screen with a form. The form is made up of lots of cards, the cards are made up of lots of labels. And I've connected this screen to the previous gallery by going into Advanced, and selecting the Gallery.Selected.
+
+[07:36] So this is probably a good reason to actually have a really good name. So I'll call that the BrowseGallery, for instance. And you'll see incidentally, if I rename an item, it's updated and all of the formulas that it's used. And we've also had a look at the back and the navigate to enable us to go in between screens. Navigate, I've got to say a specific screen name. Back, I don't.
+
+[08:05] And in both, I can say how I want the transition to happen, and the default is none.

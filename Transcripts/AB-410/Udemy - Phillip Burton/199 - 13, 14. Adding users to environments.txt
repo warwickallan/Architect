@@ -1,0 +1,16 @@
+# 13, 14. Adding users to environments
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 199 (section 34: Configure Dataverse security and Secure a solution)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to look at how we can add users to an environment. And we can do that starting in the power apps by going to the gear settings, but not going to advance settings this time, we're going to the admin centre, admin.powerplatform.microsoft.com. So we can go to any particular environments so go to my user environment. And then on the right-hand side, you can see we can access security roles, teams, users, and apps.
+
+[00:31] However, I generally go elsewhere, I go to the settings and in the settings we've got users and permissions and you can see we have got even more options. So if you go to the users here, you can see all of the users which are in this particular environment. If I click on any particular user, then we go back to where we were last video, but we can also have a look at the security roles as well.
+
+[01:02] Additionally, I can click I'm not somebody and go to manage security roles, and we can see here on the right-hand side, we've got basic user and system administrator. So here, I can click on additional things I want and go to save. Now let's say I wanted to add a new user while I'd go up to the top and click on add user, but it's not there. That's because I've got a user selected. If I don't have a user selected, so I'll get rid of this check mark.
+
+[01:29] You can see that we've got add user, so now I'm able to click on it so I can add another user here. So let's add somebody else and click add. Now, Susan couldn't be added because she doesn't actually have an active licence. So I could assign one to her elsewhere in the Microsoft 365 admin centre, for example, and that we've seen before, when I was trying to get a free trial that is admin.microsoft.com, so it's not admin.powerplatform.microsoft.com, it's just admin.microsoft.com.
+
+[02:08] And I can go to my user, and I can assign additional licences if I so wish. Now, when I add a user that way there are given the basic user also sometimes known as a Dataverse user, and they're also being given the environment maker. So just as a reminder environment maker allows you to add a Dataverse, but it doesn't actually allow you access to any data.
+
+[02:37] So all you've got access to through the basic user is your own records and records that are shared with you. So, if you want to see a particular environment, then you can go to admin.powerplatform.microsoft.com, so go through the admin centre, and then you can go to a particular environment. And then you can have a look at your users, your teams, your security roles, and much, much more.

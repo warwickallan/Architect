@@ -1,0 +1,38 @@
+# 41. Communicating with the component
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 136 (section 25: Canvas Apps components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to look at how we can feed information into and out of a component. After all a component, if it's a black box, isn't very useful if you can't get the information out. If we have a text box, a text input, then we can get information out, we can get to what information the users put in. So what I'm going to do is I'm going to just resize this a little, it's a bit on the big side so let's move this all the way up to the top.
+
+[00:27] Now it could add a title like calculator and so forth but what I'm going to do now is resize it so I'm just going to make it fractionally smaller and fractionally less tall. And I'm then going to make the height about 430 and the fill I'm going to have a fill so we're going to have for instance, a nice yellow colour as the background.
+
+[00:55] This means we can distinguish it more easily on the page so we know this is the component. So I'm going to have a text input so this is going to be our initial value. So I'm going to say initial value since at the moment the initial value is zero and I'm going to say it's going to be formatted as a number and the default is going to be zero. So I need a way of feeding my initial value into this component and we do this by creating a custom property.
+
+[01:35] So here is my custom property pane and I can say that this is my property initial value. So is it an input property where you receive the values or is it an output property where the component can emit the value? Well, it's going to be an input. It's going to be a number type and when the value changes, I want the on reset to work. So the on reset of the component, if you remember, we have said set the running total calc to zero, well, we can now change that to set it to the initial property, except I can't do that, squiggly red underlines and major errors here and over here.
+
+[02:19] So why not? Well, the way that I have used property initial value is actually like a global variable but property initial value isn't a variable so what is it? It's a property. What is it a property of? It's a property of the component, the component name is calculator. So I need to have the name of the component at the beginning so calculator.propertyinitialvalue.
+
+[02:51] So if your component was called something completely different like calc then it be calc.propertyinitialvalue. So now we've got that, let's go back to our screen and when I click on this component, you can see that there is a custom property, the property initial value, so what is the property initial value? Well, it's going to be this, the initial value text input so I'll click in here.
+
+[03:23] So what that is equal to is the initial value which is a control, a dot, and then we will have the text there. So if I now change this so that the initial value if I play is 10 then you can see the initial value instantly being reflected there. Why is that?
+
+[03:50] Well, when I set up this component with the custom property, I need to click on number to change it. I said raise on reset when the value changes so when the value changes, it runs the on reset which resets the property initial value as well as resetting this particular text input. So when I change here, this value changes and when that value changes, the on reset happens.
+
+[04:24] So if I play with it now, so I'll put in an initial value of 10 and in here, I'll put in 20 and click to add to running total, click 30, it now becomes 60, if I change the initial value, it resets again. Now, what if I wanted the current total to be here as an output outside of the component? Well, I can do that as well so this then becomes another custom property but instead of it being an input custom type, it's an output.
+
+[04:55] So this is going to be end result so I can put the description the end result of the calculation, it is going to be a number. Notice raising on reset when the value changes doesn't make sense when it's output, just because something happens internally you don't want on reset to happen so let's click create. So end result, what is the value of end result? It is going to the running total which is this running total calc so the end result this property is going to be the running total calc.
+
+[05:41] So let's go back to our screen and we can see here is our input custom property which I can set but I haven't got the output custom property listed there. So what I'm going to do, I'm going to add in a text level, put this right to the bottom and this value is going to be based on this component or the instance of the component so this is calculator_1.endresult.
+
+[06:13] So now, I can say the end result is put an ampersand because I want it to be a string and there we go, so now let's test this so we can have an input value, we can make changes and we've got the end result outside of the component. So in this video, we've had a look at how we can add custom properties to a component so we can have an input and an output custom property and just look at the range of types we can input so we can input a text, number, Boolean so that's true or false, yes, no, date and time, a screen.
+
+[06:58] So imagine that you have your top bit of your screen so for instance, this bit, as a component, it has to be something which can be just internal so we'd probably have the background but maybe we have the text name and the left button and when I click the left button because I have this screen as an input custom property, you can say, okay, go to that particular screen, navigate open brackets, et cetera.
+
+[07:30] So what else can I have as a data type? I can have a record, a table, an image, a video, audio file, colour, or a currency and when I'm doing an input property, I can raise on reset when the value changes so that on reset for the entire component quite useful. So you kind of have as many input properties exposed as you want and they saw how they exposed when you insert the component. So they are shown here and you can also have as many output properties as you want and you can see we've got name of the component as we have inserted it, dot, and the output.
+
+[08:16] And similarly, if I'm using an input property, I can then refer to it with the name of the component then a dot and then the name of the property. So that is how we can get data into and out of a black box. Now, just one more thing, you might want confirmation that what we have in this component is indeed a black box. We have the set, it's the set variables only going to be for this one particular component.
+
+[08:45] Well, let's insert a new component so I do that by going to custom and calculator so there is a second instance so let's run this. So I'm going to start off with a number zero, I'm going to add 10, going to add another 20, and you can see this second instance, the current total remains at 100, that is the default value for my input and if I was to change this valuable, you can see its scope is being restricted just that one particular instance of that component used.
+
+[09:24] So this is how we can use components with input and output properties.

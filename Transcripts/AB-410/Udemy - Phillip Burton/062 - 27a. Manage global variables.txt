@@ -1,0 +1,30 @@
+# 27a. Manage global variables
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 062 (section 13: Create canvas apps)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, and in this section we will continue looking at canvas apps, including managing variables, collections, error handling and more. In this video we're going to have a look at variables. So variables are things that can contain values. So at the moment, if I go into my canvas app, you can see that we have got this expenses app. So if I click on it, with details and editing details, and all of these have got a yellow background.
+
+[00:40] Suppose I didn't necessarily want a yellow background. Suppose I wanted the end user to be able to decide what color background they want. Well let's insert a new screen, and this is going to be a title screen. So I will rename it title screen. And let's go into app, and the start screen is going to now be the title screen. So I'm going to insert a button.
+
+[01:12] And this would be saying start the app. And on select, we navigate to the expenses browse screen. So let's have a nice background. So let's click on both of these. I've selected control to be able to click on all of these. And here we can see we've got expenses app with a yellow background. But suppose I didn't want a yellow background.
+
+[01:43] I wanted to let the user be able to say what background they wanted. Well I'm going to insert a text label. And this will say color of background. And insert a text input. So at the moment this is a yellow background. So there we can see yellow.
+
+[02:11] Now what I can do is refer to this directly. So let's go to the fill. And this color is going to be color dot yellow. However I can't really say it should be color dot text input one. So I will call this color picker. So I can't really say that it is color dot color picker. It doesn't work.
+
+[02:41] So what I need to do is be able to assign a formula to this. So if color picker is equal to yellow then let's have color dot yellow. Otherwise let's have color dot green. So if color picker dot text. There it is. But what I can also do is assign this to a variable.
+
+[03:11] So maybe when I click on a button we will change the color. So if I insert a new button and this button will be called change the color. And I'm going to set a variable. So it's just set and then the variable name and the value. Now this is a global variable. So global variables can hold strings, numbers, records and tables. Only one variable can be set at once using the set statement.
+
+[03:47] So let's create a variable called header background and that's all you need to do to create it. You set it to a value and the value well let's call it color dot yellow for now. So that only happens when I click on this button and now I can say that the background is going to be header background. Now at the moment header background is blank.
+
+[04:17] So let's click on change this color. I'll hold down control and do it and now we have got a yellow color. Now if I go to the X in curly brackets on the left hand side we can see things such as named formulas and component variables that we have had a look at in a previous section. But we've also got global variables and here we can see our header background global variable. We can see the definition where it is defined and we can see where it is being used directly or indirectly.
+
+[04:53] Now if I click on this button at the moment I'm just setting the header background to color yellow. Let's set it instead to what we have previously created our if statement. So now if I play this and change this to green and click on change the color here we can see the new color. If I change this back to yellow nothing happens because I have not clicked on the button. So any changes to the dependencies in this formula do not actually get reflected.
+
+[05:30] So in other words just because I change this color picker dot text to yellow doesn't mean that header background is now yellow. It is the result of this formula at the time that the set is run. Now where can I use this variable? Well I can use this variable on other screens. Global variables are limited to the app but not just in one screen. So let's go to the tree view and go to the expenses browse screen and click on this background and go to fill and change this to the name of our variable header background.
+
+[06:12] So let's do this with all of the other screens as well. Now let's go back to our title screen and play this, click on this button and start the app and now we can see all of our headers are now yellow.
+
+[06:44] So in this video we have seen how we can set the value of a global variable. In the next video we're going to have a look at context variable.

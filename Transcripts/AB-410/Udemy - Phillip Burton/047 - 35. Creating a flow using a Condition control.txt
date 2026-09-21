@@ -1,0 +1,20 @@
+# 35. Creating a flow using a Condition control
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 047 (section 9: Using controls in Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video we're going to have a look at the condition control. So here I am in my flows and I'm going to duplicate my expense list. So I will click on the dot dot dot and go to save as. So this is expense list draft and click save. So I only want all of those expenses which have a status of draft. So as you can see there is a sort of faded background. I can't play it and there is this circle with a line through.
+
+[00:32] This indicates if I click on it that it is not running. So I can turn it on if I wish to do so. But instead I'm going to edit it. So I only want those rows where the status is draft. So a good place to do it would be in this list rows action because it means it retrieves fewer rows. Or indeed it might retrieve 5,000 rows but all of those would have a status of draft. However you don't need to know how to write all data style filter expressions for this exam.
+
+[01:07] So instead I'm going to look at each individual row and before appending it to the string variable see whether the status is equal to one two five four six and four zeros which I'll just copy. So what I need first of all before the append to string variable but inside the for each loop is the control condition. So what condition does is it evaluates something and then you can do actions if the condition results to be true.
+
+[01:41] So it is accurate or false if it isn't. Now just like with the switch I can add actions into the true or false. So I can add zero actions, one action or multiple actions. So I need a condition. So the condition is it's going to be dynamic based on list rows but I'm going to search for the word status and use claim status. So where claim status is equal to but it could be contains or is greater than greater than or equal to less than less than or equal to starts with or ends with or indeed all of the opposites of those.
+
+[02:20] So if it's equal to one two five four six and four zeros. We can have multiple conditions and use an and or an or and we can also use groups. So we could have if either of these is true and all of these are true as well then but I don't want to do that so I'm going to delete this group and delete this last condition except I can't. It's just going to remain blank.
+
+[02:51] So if claim status is equal to one two five four six zero zero zero zero then I want to append to the string variable. So I will drag that into the true. Now because I'm just looking for all of the rows with a claim status of draft I no longer need this switch. So I will right and click on it and go to delete and click OK. So there is my updated flow.
+
+[03:19] I'm just going to change one thing to this append to string variable. I'm going to add a carriage return at the end. So now let's save this draft, publish it, get the same warning as before and then test it. So let's go to the flow run page and we can see test succeeded and if I go into the send me a mobile notification and I copy the output then we will just see that there are four items instead of the seven items we previously had and they all have the same status and you can also see this on the mobile notification on my phone as well.
+
+[04:08] So in this video we've had a look at the condition control. So it evaluates a condition and then you can have different actions depending on whether it is true or false. So here you can see it has skipped the true action but if I go to another one here you can see the condition is true and therefore it has indeed appended to the string variable. To the string variable.

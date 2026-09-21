@@ -1,0 +1,16 @@
+# 41, 43. Adding other media assets to screens
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 140 (section 26: Other controls and other canvas apps topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:08] Hello, and in this section, what we're gonna do is wrap up our coverage of Canvas Power Apps, apart from one section, which is all about collections. So, firstly, I want to have a look at adding assets. So, what are assets? Well, we have assets already. We have added a picture. We added a picture in the background of a add picture control. We used an image control to contain it. But I can upload other things as well.
+
+[00:39] I can add audio, and I can add video files. So, exactly the same way. So if I just create a new screen for this, I can upload and if I go to my media folder. Here we have an audio file. So, if I just double click on this it imports, and then I can add it in just by clicking on it. So that inserts an audio control. Now, similarly, I can do the same with a video control.
+
+[01:11] So, an excerpt here I've got, it's a very short video, Both of these by the way, are attached to this particular video if you wish to use them. And so, I can just click on that and there it is. Now, notice some of the properties that we've got, we've got show controls, on and off. We can select auto start (piano music) and we can also loop so it goes back to the beginning, when you have ended.
+
+[01:41] So, you can see there it goes, it just loops. So, I'm just going to deselect those. You can also change the start time, and you can also say the display mode as well. So, you've got similar things for the audio control as well. And you've also got a media property as well. So, you can select different media file, or you can add new media files, and maybe you could have a button that changes the media file. Because you can just say it is equal to this variable and the button can set that variable.
+
+[02:12] Now, for some reason I'm having problems playing this WAV files so what I'm going to do is I'm going to add a media file. and I'm going to change it to an MP3 file. So if I now play this (people cheering) You can hear that the audio file works just fine. So in this video, what we've done is have a look at the media assets that we can insert. We can insert images, video, and audio. We can add to the canvas just by clicking on them or clicking on the dot, dot dot, add to canvas.
+
+[02:44] And if we want to delete them, you can do so. Additionally, in the canvas you can also change the media. And also, whether you're showing controls, auto start, loop and the start time.

@@ -1,0 +1,26 @@
+# 6. Using Microsoft Copilot when editing canvas Power Apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 147 (section 26: Other controls and other canvas apps topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In previous videos, we had a look at how you could create apps and table structures and sample data by using Copilot. In this video, we're going to have a look at two other ways you can use Copilot in your Canvas Power Apps. Do bear in mind that they may not be available in all environments yet. So the first one is to do with manipulating your current Canvas app. So for example, here, I've got my two screens, I could just go to New screen and insert a new screen.
+
+[00:34] However, if I go to the Copilot icon, if it's available in your environment, you can actually describe what you want to do with this app. For example, 'add a new screen' and either press enter or this button here, and that will then launch Copilot into working out what actions it needs to do to do exactly that. And in a few seconds, none of these are particularly swift, we should find a screen three as being created.
+
+[01:08] Now, you can be a bit more elaborate. For example, 'add a new email screen' and this will add a new email screen with particular component for two subject and message. You can always undo what it does. Now, it's not particularly fast and generally, just doing the individual action is probably quicker, except why you want to do more than one thing at once.
+
+[01:37] So for example, 'add a new screen with header, 'body and footer.' So yes, I could do all of this. I could add a new screen, then add components for the header and the footer, but I could let Copilot give it a go. And here, we can see that it has got a container and within the screen container, it has got a header container, a main container, and a footer container.
+
+[02:07] So let's add a button to this footer and also a button to screen three. Actually, I will ask it, 'add a button,' which when I click on it, goes to screen five. So it has to work out that screen five is the name of the screen and the power Fx formula that it needs.
+
+[02:37] And so in a few seconds, here is our button and you can see, it is put in the On Select, Navigate Screen Five. I can also do things such as click on a container and say, 'add a button to the selected container,' so it's not just to the screen, but to the individual container that has been selected. So there's our new button three.
+
+[03:08] Now, another way of saying I want to do lots of things is suppose I want a different style. So, 'change all buttons to grey.' And so I could click on each individual button and say, "This is going to be grey, "this one's gonna be grey," and so on. But instead, I can ask the computer to change them all at once and a few seconds later, it has done this just for one button.
+
+[03:40] Let's have a look at this one button. And you can see, it has got a grey background. If I go to fill, we can see, it is halfway between zero and 255 for red to green and blue. So that is grey, but that's not what I asked for. So I'll click Undo. And you can see, the undo was very quick. And I'll say, 'change all buttons on all screens to grey.' And so hopefully, it will change not only the button on screen three, but also the buttons on screen five to grey as well.
+
+[04:16] And you can see, it's still not worked. Maybe it can't work in containers, so don't expect perfection from this. But it can be quite useful if you have some tasks that would be much better for the computer to do rather than having to do them yourself. So if I put multiple buttons on this screen, hopefully, that will change them to grey. Now, the other Copilot that you can use while editing Power Apps is in the Insert menu.
+
+[04:51] And again, it's not available everywhere. It's not available in my display at the moment. And what it would do is insert a component that the end user can use to interact with the data. So for example, what is the biggest expense made last month? How many expenses has Jane made over the past year and so forth? So that would be here in the Popular section, saying Copilot Preview, and you'd also be able to search for it as well.
+
+[05:25] So in this video, we've had a look at another couple of uses for Copilot. You can use it to do actions to your existing Canvas app, and you may be able to insert a component, so that the end user can ask questions in plain English about your data.

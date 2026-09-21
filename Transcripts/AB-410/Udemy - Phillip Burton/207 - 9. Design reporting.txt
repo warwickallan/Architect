@@ -1,0 +1,16 @@
+# 9. Design reporting
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 207 (section 36: Other topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to look at the design output section. So first of all, design the data output requirements. So, you've decided you're going to create this app or this flow, and the question is, what do you want from it? So, this could be developed on paper. It could be developed in PowerPoint. It could be developed in an Excel spreadsheet. It could even be developed in something like Visio. If you are going to design a full flowchart of I want this, these are the steps that they go through.
+
+[00:29] You might also be using things like business rules, and business process flows to get there. This is a good stage to go through before you implement it in Power Apps because you need to have a full idea of this is what I want, and then if you want to simplify it into various stages so you could say, well, this is my stage one app and then I'll expand it to my stage two app. Once you've got those ideas then you can start designing well.
+
+[01:00] Defined requirements for visualisations, very important. Because for instance, we've seen that canvas apps have got relatively few charts. They just got a column chart, a line chart, and a pie chart. For everything else, you need to have a Power BI tile. So, for that Power BI we need a connection say to the Dataverse, and then you design it, and then you can bring it into your Power App. For model driven charts, again, the range of charts is a bit better but not as huge as in the Power BI.
+
+[01:37] So we have got Column, Bar, Area, Line, and Pie. So, similar to what we've got in the canvas app. We've also got Funnel, Tag, and Donut. Donut, being a pie with a hole in the middle. So again, you may need Power BI tiles, and we've had a look at how we can embed reports and dashboards into model driven apps. If we go to Power BI, you can see we've got many more visualisations including gauges, maps, tree maps, and we can use slicers, cards, multi-role cards.
+
+[02:20] We've also got the funnels, as we've seen in the model driven apps. But basically we've got access to many more different types of visualisation. And then finally identify repositories for analytical data. So, where are you going to put it? Well, you might put it into the Dataverse sites. Native to the power platform. Or we might put it into Azure. So, you might put it into a database, you might put into blob storage, you might put it anywhere.
+
+[02:47] But wherever it is, ideally it shouldn't be on your computer. If it is, then you'll need a gateway to get there, and that just has complexity. If it's online, however, it will be accessible 24/7. So, these are some considerations when we are designing output.

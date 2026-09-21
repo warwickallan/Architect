@@ -1,0 +1,46 @@
+# 43. Containers
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 146 (section 26: Other controls and other canvas apps topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at when you might want to use containers. Containers are controls that can contain other controls, and you can also have containers within containers. You would use containers to organise your controls in a tree view, to define areas of the screen for your app, and so you can copy a container and paste the container together with all of the controls that it contains. So, here I'm in the Power Apps portal in the Create section, and I'm going to go to Blank App, Blank Canvas App, and this is going to be my container app, which is going to be on a tablet format.
+
+[00:40] And click Create. So, the first thing I'm going to do is insert a container, but what type? Because there are three different types of containers. So if I go into Insert and Layout, you can see that there are three different types of containers; Container, Horizontal Container, and Vertical Container. So, let's have a look at the Container. Now, this is just literally a container for different items, and if you want to insert an item, you can click on the + in the middle, or you can drag an item in, or you can go to Insert.
+
+[01:19] So, let me just add a rectangle. So, I will click on the + and add in a rectangle. So, there is a rectangle, and you can see that in the tree view. Or I can go to the + on the left-hand side to Insert, and drag in a rectangle. And we can see from the tree view that this new rectangle is contained within the container. Or I can select the container. So, I can either select it here in the app or select it here in the tree view and go to Insert Rectangle.
+
+[01:49] Now, you'll see that the container, as opposed to the horizontal or vertical container, will allow overlapping objects. So it's more of a freeform design. So, I can copy this entire container and then paste it, and you'll notice that I'm pasting it with the contents, in other words, with the rectangles. So, here you can see I now have six rectangles in two separate containers.
+
+[02:20] Let's delete these containers, and insert instead of a standard container, a horizontal container. So you can see it looks fairly similar, but it stops when I start adding objects. So, if I add a rectangle, here we can see this rectangle. I'll now insert another rectangle. And notice it hasn't gone where the mouse is, instead it is going horizontally across.
+
+[02:54] And if I insert a third rectangle, again, I'll put it way at the bottom right, but it doesn't stay there. It now goes next to the other rectangles. And I'm going to change the background colour of these rectangles just so we can see some separation of them. Now, there are various properties that you can use with these containers. So, first of all, you can change the direction.
+
+[03:21] So, this is a horizontal container, but I can change it to be a vertical container. So, instead of the objects flowing from left to right, they flow from top to bottom. Going back to the horizontal container, the next property is justify. So this is in the direction of the direction. So if I change the direction, you can see the justify changes the direction. So, here I've got four separate values I can change this justify to.
+
+[03:51] Start so that all at the Left, Centre, End, so they're at the right-hand side, or Space Between. So this is justified. So you can see we've got a control, a rectangle at the left-hand side and at the right-hand side. We've also got a line, which goes in the other direction, so they can either be at the start, so the top, the centre, the bottom, or they can stretch all the way through the container.
+
+[04:23] Now, if I change this back to the default, which is start and start, we've also got a gap. So this is the gap between the controls, and is measured in pixels. So, you don't have to have the controls right on top of each other. Now, what happens if there are too many controls for the container to display in the width? You can see that the default is for any additional controls to be hidden.
+
+[04:56] The alternative is that you could have a scroll bar, and so be able to scroll through the other objects. So if I play. Here you can see I have to scroll to see the last object, the last control, whereas if I hide, then I would not be able to see the entirety of this last rectangle. Now, another property is the vertical overflow. So again, I can hide and scroll.
+
+[05:24] And then there is wrap. So, if objects are unable to fit in a single column or row, then if I turn Wrap on, they will go into an additional column and row. So that might be a second, a third, a fourth, and so on. So, this could be quite useful if you are developing a tablet app, which can also be used on a mobile, for example. So, if I go to my container and insert a few rectangles, that's fine for my tablet display.
+
+[05:58] It won't work as well if I'm on a mobile display. So, I'm just going to change the colours so we can see them more easily each individual rectangle. And if I play, here we can see everything, but if I change the form factor to an Apple iPhone, for instance, then it looks a bit too narrow. I can see everything, but it might not come up well on an Apple phone, for example.
+
+[06:28] So, if I go back into my app and go into Settings and Display, I can turn off Scale to Fit. So, if I do that and now play, I can no longer see any of the additional objects because they go beyond the display of the phone. No problem. What I'm going to do is I'm going to change the X property of this container to zero, so it is on the left-hand side, and then the width of it.
+
+[07:03] Not to be a hard figure, but to be parent.width. In other words, it will take the width from the screen. So, now if I play, because I'm looking at this on a mobile, the width is only, in this particular case, 375 pixels, so the width for the container is that, and therefore any additional items, any additional controls will be wrapped.
+
+[07:31] Whereas if I change this, so I'm looking at a tablet, I can see more on one particular row and then if I change it so that we are looking at it, the other orientation, landscape instead of portrait, I can see even more. So, this wrap is useful in starting to get your apps to be responsive to the screen size. Now, there's one other thing that I want to show you while looking at containers, and that is the width of the individual components.
+
+[08:04] So, at the moment, each of these have a width of 150 pixels, but I can change this. Obviously I can change it for an individual objects, I'll change this to 300, for instance, but alternatively, I can use what's called a flexible width. So, if I highlight all of these objects, all of these rectangles, I can have them as a flexible width, and then say I want each rectangle to be one out of eight in terms of the width with a minimum width of 150.
+
+[08:37] I'm going to change that down to 50, maybe make that actually 40. So, now this is even more responsive. If I play, then here in this iPad you can see it filling the entirety of the width even when I changed the orientation, or change it onto an Apple iPhone. So, we have got room for these seven rectangles to be on one row, and then the eighth goes on another, it spills down because of the wrap.
+
+[09:09] So, if I change the gap down to five, for instance, and play again, now we've got all of them available on one row in this Apple iPhone. Now, it doesn't mean that each of these objects need to be exactly the same size. I can say that this particular rectangle is going to fill two bits. So, now it is two bits out of nine, so it was eight, we've got eight rectangles, but I've said that this third rectangle is going to be two bits, so therefore the number of bits is going to be nine.
+
+[09:41] So, if I now play this. Here, we can see this rectangle is now bigger. So, containers. They allow you to organise your controls in the tree view. They allow you to define areas of the screen, and you can copy and paste an entire container. You can use the justify and align so they could go all the way down through the container.
+
+[10:12] So, that's another way of defining area of the screen. And if I insert a new screen, you can also insert containers within containers. So, let's have a container here. And this container is going to contain two vertical containers. So I'll click on the Container and go to Insert Vertical Container, and then click on my first Container and Insert a Vertical Container again.
+
+[10:41] And here we've got two vertical containers within a horizontal container. But you can also use the standard container, which also allows for overlapping objects, whereas these horizontal and vertical containers do not so allow.

@@ -1,0 +1,32 @@
+# 43, 44. Creating a canvas app using a template; start to build the app
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 092 (section 19: Creating a canvas app from a template, and creating one from scratch)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:08] Hello. And in this section we're going to create a canvas app using a template. And then we're going to create a canvas app using a blank canvas. So we can start adding in all of the various components that were in our previous canvas app, the one we created using a template. So first of all, we're going to take a look at the data. So in the previous section we created our environment. So I'm going to go to tables account.
+
+[00:40] And here we can see our account table. Now if I go to columns you can see we have got over a hundred different columns. And we've got columns for the account name. For instance the main phone number, the city, the primary contact and email addresses. There are a lot of additional columns, but we don't need to worry about that too much. If I click on account again, we can see the sort of data that we've got in this table.
+
+[01:11] So we've got account names, phone numbers, cities, primary contacts and zip or postal codes. Now all of this is completely fictitious data. Now the way to create a canvas app keeps changing. Indeed, the home page keeps changing and may have changed further. When you see this course, for example, it might look like this. It might look like this, or it might look something completely different. So I'm going to create an app by going to apps.
+
+[01:42] Start with an app template and from Dataverse. So next it asks me what table do I want to create an app for. And I'm going to click on accounts and then click on Create App. And that's all you have to do. Just point the computer to where the data is and what the data is. It's in the dataverse and it's in the account table. And there it is. We have our own app, so I'm going to just press Skip on the preview of this app.
+
+[02:15] So let's just have a look at what we've got. We have got three screens. We've got a browse screen a detail screen and an edit screen. Now if you can't see this then you may have got it closed, in which case all you have to do is click on the left hand side under tree view. Now if you want to actually see the words tree view, you can click on this hamburger symbol, these three horizontal lines. So you can see we've got all of these screens.
+
+[02:43] Now this particular screen has got various components. We have got for instance rectangle search icon a text icon. We have got icons for add sort up and down refresh. And we've also got a gallery. So a gallery gives you a list. So we've got ten items in that particular table. So this gives me a list and I can see six items on there. And notice we've got this breadcrumb trail at the bottom.
+
+[03:15] So I'm currently in Browse Gallery which is within the browse screen. And then within that we've got separators separating one item from another, a next arrow and three labels and the potential for an image. Now what I'm going to do is I'm just going to play this app, preview it. So I'll click on play and we can see that we can take any of these items. And I can click there or I can click over here.
+
+[03:50] I can then click on the edit. So this gets me to the third screen. And then I can submit the item or cancel the item. And then from this detail screen I can then go back and I can scroll up and scroll down and I can search for items. So maybe I want to search for all items in Redmond for instance. Now it doesn't search for everything. Suppose I wanted to look for datum.
+
+[04:20] It won't find anything. So this is a preview of our app, and I can click on the X to get rid of the preview. Now this is also interesting if you want to navigate your way while not in play mode. So while we're actually building it, you can hold down the alt key to activate buttons and other controls. So if I hold down alt and click this arrow, we get to the details screen. Click up.
+
+[04:47] Here we go back. So that is also a convenient way of going through the various screens. Now just looking at the rest of the screen. So on the left hand side we can insert controls and you can see they are grouped together. There's also an insert menu here, which I generally use more to be honest. I can connect to data sources, connect to media, image, video or audio files, and there are some advanced tools which we'll also be looking at later on in this course.
+
+[05:24] So at the top we've got the home menu so we can add new screens for instance or change a particular control's font bold color that sort of thing. And we can do this on the right hand side as well. So you can see we've got font font size, font weight and so forth. So this is a collapsible pane so we can insert lots of controls as well. We can view things like collections and variables.
+
+[05:55] We'll be looking at those later on in this course as well. We can have a look at some actions. And there are some settings about this app. And then there's the file menu, which allows us to save, open up new apps and so forth. So you can see this is a fairly basic power app, canvas app. And we don't really need to go in much more detail than the basic one for this particular course, the PL 100 certification.
+
+[06:26] So what I'm going to do starting in the next video, in order that we can have a better understanding of each of these particular items as far as we need to know them, we're going to recreate what we've got here, starting from a completely blank app. So what we're going to be doing is we are going to be creating each of these icons. We may do some tweaks along the way. We'll be looking at all of these controls. For instance, what does text, what does role do?
+
+[06:56] What does Onselect do? And by doing this, hopefully you can get to grips with what you need to create your own power apps. So in the next video we'll start again.

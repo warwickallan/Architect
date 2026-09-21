@@ -1,0 +1,10 @@
+# 25. Automate business processes from canvas apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 068 (section 13: Create canvas apps)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the past few sections we have had a look at various Power Fx functions that you can use to automate business processes. So for example we've had a look at the submit form function. There's also new form, edit form and view form to save a row, start to create a new record or edit or view data in a form. We've also used navigate and back. To move to other screens. We've also had a look at how we can to assign values to global and context variables by using set and update context.
+
+[00:44] We've also had a look at clear, clear collect and collect to remove, remove an ad and add rows to a collection. We've also had a look at if, is blank and there's also is empty to check for conditions and blank or empty states. We've also had a look at if error to run actions if there is an error in the action and notify to notify the end user. Other functions that might be of interest include patch. This allows you to create or update records directly together with defaults.
+
+[01:22] This is the base record for a new record and you can also add power automate flows. So if I go to the dot dot dot we can go to power automate and we can add existing flows and also create new flows and then use the flow name dot run to run the power automate flow. So in this video we've largely had a revision of the power fx functions that we have already learned and we can see how they can be used to automate business processes from canvas apps.

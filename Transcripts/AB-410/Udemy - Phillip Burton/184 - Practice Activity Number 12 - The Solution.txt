@@ -1,0 +1,28 @@
+# Practice Activity Number 12 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 184 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So, this is quite a simple practise activity, but you're getting to grips with how to create flows. So let's go into either My Flows or into Create, and I'm going to create a new flow. But what type of flow? Is it automated, instant, or scheduled? Well, I wanted so that when you create a new row in a Dataverse table, then something could happen. So that's not an instant flow because that means I'm basically pressing a button.
+
+[00:28] It's not a scheduled flow as that would run, say, every week. So it's an automated flow, it's reacting to events. So this is my device on loan. So I'm going to skip the rest of this and in fact, also I didn't put in the title. So I'll put in the title of 'device on loan'. So I need a trigger to start with. Triggers are always at the beginning.
+
+[00:55] So let's have a look for the Dataverse. So here we have the Microsoft Dataverse and you can see when a row is added, modified, or deleted. So hopefully in the next step, we'll be able to say which of those we want. So I'm going to say when a row is added, modified, or deleted. So choose when the flow triggers. So I'm going to say when it is created. What is the table?
+
+[01:24] Well, the table in this case is going to be the devices table. So I will scroll down and have a look for devices. And then the scope. So anyone can do this. So it's going to be the organisation. So when a row is added, then what do we do? Well, let's have a look at our actions in the Microsoft Dataverse. And what I want to do is update the row. So which table?
+
+[01:56] Well, it's the device's table. And which row ID? Well, it's going to be based on the previous step, when a row is added, modified or deleted. So here we have a row ID. However, that actually isn't the right one to use. Now, what we need, if I just delete this again, is a GUID, a unique identifier. So let's go back into the Power Apps portal and we can do this from here as well.
+
+[02:27] We can go into data table, but why not keep it simple and have two separate windows? And go into the right environment and into tables, into device, and have a look for a unique identifier. And you can see that it is called 'device', exactly the same as the table. So that is what we need to add. So let's search for 'device'. And you can see here, 'unique identifier for entity instances'.
+
+[02:57] So that's what we add in the row ID. So I want to update the device status column. It's not there, but I can click on show advanced options. So there is the device status. So I will change this so that it says on loan. Okay. So that's all we need. So we've said which table, which row, what's going to be updated.
+
+[03:25] So let's save this. And we test it by actually doing something, and you can see it says, 'perform the starting action'. So what I'm going to do is go back into my Power Apps and I'm going to go into, well, first of all, into the correct environment and then into our user and devices model.
+
+[03:54] So I'm going to play it. Go into our devices, add a new item. I think, first of all, I'll change this to my devices view. So you can see the device status at the moment is blank for all of them. So I'm going to add a new item. So this is going to be a laptop. There's my ID number. So it's going to be a laptop.
+
+[04:22] Add in a date purchased. I'm going to leave device status blank. Original asking price 777, current value 555. And save and close. Now at first glance, it looks like nothing's happened. The device status is all completely blank. However, it's important to realise that Power Automate doesn't happen instantly. For instance, you save the record and it doesn't immediately happen before you can see the view.
+
+[04:52] And in fact, you can see it took a second or so. Actually, took a bit more than that because it took a while for the computer to say, "Okay, a row has been added". But now if I go back in and refresh, we can see that the laptop is now marked as on loan. So in this practise activity, we've had a go at creating a Power Automate flow. And while you can get complicated flows, for instance, you can add variables, you can add conditions and that sort of thing, once you get an idea of this is what I want happening, this is when I want the flow to start, these are the actions that I want to happen, then it's not too difficult.
+
+[05:38] You just say, okay, I need to keep a track of this therefore I need a variable, I need to loop through all of these, well, therefore I need to loop and so forth. In the next section, we'll be going through the various triggers, various actions, common expressions, and sharing your flows. Please join me there.

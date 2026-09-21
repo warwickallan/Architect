@@ -1,0 +1,26 @@
+# 25. Share Power BI dashboards
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 204 (section 35: Create and consume Power BI dashboards)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now we have created our dashboard, we can share it with other people. It's very easy to share. We just go into the dashboard and click on Share at the top. If I share a dashboard with you, that means I need to have a Pro licence or Premium capacity and so do you. So I'm going to share this with a user that I previously set up, called Jane. So I'll just type Jane and allow the computer to autocomplete. Now, Jane is allowed to share this dashboard further.
+
+[00:31] I might not want that, so I can uncheck it. I can also allow Jane to build content with the data associated with this dashboard. So suppose she wanted a scatter graph. Well, she can't do that with these visuals at the moment, but if she could build content with the semantic model associated with this dashboard, then she could do. I can also send an email notification as well. So I'm going to click on Grant access. Now, if you wanted to find out who I have shared this with, then you can click on the ... at the top right of the dialogue box and go to Manage permissions so you can see who I have shared it with and you can add additional people there as well.
+
+[01:10] Now, you may notice that I can't actually remove people, which is a bit odd, but I can, if I go to the Advanced at the bottom right. And here you can see the permissions everybody has got. So I can remove Jane's ability to share this again, or I can remove her access completely. So let's go into Jane's profile, and it should be that I can go to Browse and Shared, but sometimes it doesn't seem to work.
+
+[01:40] So if this doesn't work, then what you can also do is send her an email. So if I go back to the dashboard and go to Share and go to the ... again, I can copy the dashboard link and you can see people with existing access can use this link. So I'll copy that. I'm still logged in as Jane. I will paste this and here we can see the dashboard.
+
+[02:10] And if I go back into Browse, you can see it's there in Recent. It's also there on the homepage as well. Now another way of sharing dashboards is by creating an app. Now an app is a collection of dashboards and reports. So if I go back to my workspace, you can see that I've got Create App. So if I click that, I can name the app. So I'm going to call it the Per User App. I can add a description, this is required.
+
+[02:39] This is my per user app. You can upload an app logo and a theme colour. And there are some advanced settings. There's a navigation pane, for example, on the left hand side, it could be expanded or collapsed by default. And you could instal this app automatically for the end users. And you can also check, Allow users to make a copy of the reports in this app. So I'm not going to do any of that.
+
+[03:06] I'm now going to click on Next Add Content, and I'm going to click on Add Content. And I'm going to select the dashboard and the two reports and click Add. We can also add sections, so divide up the reports and dashboards into sections. We can also add external links. Next I'm going to click on Next Add Audience, so I can share it with specific users or groups or, in this case, with the entire organisation, so everyone who logs in using this domain.
+
+[03:40] And if I click on Advanced, you can check Allow people to share the semantic models in this app audience and Allow people to create content with the semantic models in this app audience. So I'm not going to do either those, I'm just going to click on Publish App. And you can see typically the content will be available within five to 10 minutes. So it's been successfully published. I'm going to copy this URL and I'm going to click on Close. Next, I'm going to go back into Jane, and I'm going to go into Apps on the left hand side.
+
+[04:16] So here you can see some apps that I previously downloaded as Jane. Now I'm going to go to Get Apps, and here we can see my Per User App. So it didn't take five to 10 minutes at all, it took just a few seconds. So I'm going to click on this app and it is now installed. And here we will be able to see the dashboard and our two reports. And I can go from the dashboard into any of the reports, also by clicking on a visual that takes me to that report.
+
+[04:51] And then when I finished with this app, I can click on Go back, and if I want to get back into it, I can just click on the app in the app section here. So in this video, we've had a look at a couple of ways of sharing dashboards. We can share individual dashboards by going to the dashboard and clicking Share. Or alternatively, we can go to the workspace and we can create an app. We have the setup. We then look at the content and we can add additional content if we wish, together with links and sections.
+
+[05:23] And then we can say who it is going to be shared with. What is our audience?

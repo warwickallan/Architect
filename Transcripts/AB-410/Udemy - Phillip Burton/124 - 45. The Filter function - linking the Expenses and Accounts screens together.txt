@@ -1,0 +1,32 @@
+# 45. The Filter function - linking the Expenses and Accounts screens together
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 124 (section 23: Adding Expenses to our app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we added three new screens. We added the expense, browse detail and edit screen. But we've got these three other account screens. And at the moment, these do not talk to each other. So if I start in the account browse screen, there is no way for me to actually get to the expenses. But I want to be able to get to the expenses from the account. So let's put in a new icon here, that will get me to the expenses for this particular account.
+
+[00:32] So let's insert an icon. And we've got just a bit of the way down here, an icon relating to money. So let's add that up there. And so this is quite simple, we are navigating, just use the arrow keys just to get us a bit better, maybe just have to do that, we are navigating to the expense browse screen.
+
+[01:04] Right, so that seems easy. So what I'm going to do in the expense browser screen, I'm just going to change what is being shown here. So at the moment, it showing an image as well as a title, subtitle, let's just change that to title, subtitle, and body. And we'll edit headings here. So I'm going to say that this first thing is going to be the date of the expense. Let's put that actually right at the top, date of expense, there we go.
+
+[01:33] So this subtitle two, it's going to be the expense of value. And right at the bottom of body one, let's have at the description. So if I go into this one, we can see that this is an expense of 345 pound and a penny, can't see which account it is in. So I just added the account field and drag it up a bit.
+
+[02:08] This will become important as you will be able to see. So this is Adventureworks sample. So now let's test this. Let's go back to the account browse screen. So we start with A Datum Corporation, click on that, click on the dollar sign, we get all of the expenses. And this expense is for Adventureworks. Hang on. That's not what we clicked on. We clicked on pay date and cooperation. So what's going on?
+
+[02:37] Well, at the moment, there is no link between what we're seeing here in the browse screen and the accounts selection. So we are seeing everything. Now it would help if I could actually see the account here, but I can't, if I click on any of these, or click on the gallery itself and go to fields, there's no way that I can actually get the account. So what I have to do is edit the text here.
+
+[03:06] So at the moment, the text is item dot description. Let's change that to item dot account, or this item dot account, dot account name. So we're going for this particular item, but then we're going into the account, which is a lock up, which takes us to the accounts table, which then I can then say I want a particular field, so the account name. Okay, so we can see that this gives us Adventureworks. Whereas if I go through this, again, I'm clicking on A Datum Corporation, and I don't want to see Adventureworks if I'm doing that.
+
+[03:43] Similarly, if I'm adding a new value. So new value, I don't want to be able to add any account. I want to it just to be A Datum Corporation. So let's add that in. Looks like I didn't add a date. So let's just change that as well. So how can I get it, so I can only see what I have previously selected?
+
+[04:14] Well, we can do this by using the filter function. So let's click on the gallery. And let's go to items and items is the table called expenses. So what I need to do is filter this down, I don't want to see the entirety of expenses. So I want to see source expenses and then a logical text. So what is going to be true. Well account so as I look up, that gives us access to all of the accounts columns, account dot account name is equal to and let's go back to our tree view.
+
+[04:56] We want the account gallery dot selected, dot so, what in the account gallery do we want. So it's at the moment account gallery dot selected, that gives us an entire row, we just want to compare the account name with the account name. Let's close that down. So now you can see, it's only going to show those things which are in the expenses table, where the lookup from the expenses table into the accounts table and into the field account name is equal to what we have previously selected in the account gallery.
+
+[05:37] So now let's test it. I go into a Datum Cooperation, click on the money, I only see a Datum Cooperation. I think we need a back button as well. So let's add a button fairly easy to do insert icons. And let's have a look at a back button, a left there we go. And the unselect fairly easy, is just Back ( ).
+
+[06:07] So now if we test this by going to Adventureworks, we now have the Adventureworks item. If I go into Blue Yonder Airlines, we now have no items. So I can now insert a new item. And I still have to select the account, but that's okay. We can solve that in the next video.
+
+[06:37] And now we've got Blue Yonder Airlines working. So in this video we've managed to now have a better flow. So one of the requirements of the PL 100 exam, describe the user experience while I want to go from the accounts browse screen to the detail screen and then add or view expenses, however I wish. So this is getting much better. The only thing now I need to do is solve the account problem.
+
+[07:05] How can we get the account to be the account that we have previously selected. And we'll do that in the next video.

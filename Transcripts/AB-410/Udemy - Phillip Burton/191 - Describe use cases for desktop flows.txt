@@ -1,0 +1,30 @@
+# Describe use cases for desktop flows
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 191 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at another type of flow. And this is not a cloud flow, instead it's a desktop flow. And you can see this from create desktop flow. Now, if I click on this, you can see that you can create desktop flows for no additional cost, using a Power Automate Desktop app. So I'm going to launch the app, but nothing happened because I haven't actually downloaded it. So, it's a bit odd that that allows me to launch an app that I haven't actually got.
+
+[00:31] So, I'm downloading the app so you can see it takes a couple of minutes. Now, you will need Windows 10 or Windows 11 for this. Now you may see the terminology RPA, that is robotic process automation. You may also see attended up here, so attended robotic process automation. So those are some of the acronyms you might see. And you might also see it in the licencing agreement as well.
+
+[01:02] So, here we've got a per user plan with attended robotic process automation. Right, it's now downloaded, so I will just click on this. Now, part of the reason why it's going to be really short explanation is because we don't actually need to know how to do it, we just need to know when to use it. So, we'll click on next and that's all fine, agree to the Microsoft terms of use, click instal, allow for the app to make changes to your device, and in about 30 seconds it installed.
+
+[01:40] So two more steps before you start automating, you can instal the Power Automate extension in either Google Chrome or Microsoft Edge, or you could just launch the app. So I'm just going to click on launch and it opens up separately so I need to sign in. So I'll enter my email address and sign in, and enter my password and sign in.
+
+[02:14] So we get to this screen and it says that you don't have any desktop flows so I'll click new flow to get started. So this is my, Power Automate desktop flow, click create, and we got used to all of these styles that we've got off here, but this is the real thing. You can see on the left-hand side, what you can do things with.
+
+[02:42] So you can do things with folders, get files and folder, gets sub files, get sub folders, empty folder, copy folder, so you can manipulate files which are on your desktop. You can copy files, move files, delete files, rename files, and you can do all of this while having loops like a foreach loop or a infinite loop or specified number of times loop. You can wait for something to happen.
+
+[03:08] So, maybe you can wait for text on screen to be OCR, optical character recognition and therefore it's turning a picture into text. You can run the applications, you can log off users. And if I scroll down, we can do things with a web like download from web. We can select tabs in windows, we can unzip files. We can launch Excel, we can read from an Excel workbook, we can use these invariables.
+
+[03:39] We can open SQL connections. We can launch Outlook and respond to Outlook messages. So we can drag all of these actions up here, but we can also launch a desktop recorder to capture these actions. So let's do that. And I have a new screen over here, which will allow me to record. So if I click on record and I open up a Windows Explorer and go to a particular place, so I'm doing this off screen, I'm not doing it on screen to get to the particular place.
+
+[04:18] And I select a couple of files and you can see things are happening down here. So drag a UI element, a user interface element and drop it into a Nova folder, It's even recording when I pause my video. So, I'll click finish on this, and here you can see my actions have been translated into all of these different actions and here I can then modify, and if I want to do it again, then what I can do is click on run.
+
+[04:56] And it does all of these things. So let's just stop all of that, but you can see the things that it was going to do. Now, Microsoft's on website shows that you can record desktop and web actions in a single flow. You can then edit them, organise your flows logically, you can use some prebuilt actions, wave websites, and other systems. You can put in exception handling so if there are any errors, and you can review the logs to see if you're successful or not.
+
+[05:31] So, what can you use this for? Well, maybe you want to organise your documents, wave file, and folder action. So we've seen a list of various file and folder actions. Maybe you want to extract items from the web and put it into Excel. Maybe however you want to access a weather websites and see tomorrow's forecast and email it to yourself. Or maybe extract information from vendor's invoices.
+
+[06:01] So, this allows you to do what the cloud flows can do, but a fair bit more. However, you can see it's perhaps a bit more difficult to use. Certainly, it's not as easy to be able to do certain things, but then you are dealing with much more, perhaps you're dealing with windows for instance, and you want to click on a particular area, well, that requires a bigger interface. So this is a Power Automate Desktop, it allows me to record what's on my desktop, what's happening on my web browser, and then be able to say, "This is what you've done, "do you want to run it again?
+
+[06:42] "Do you want to modify it?" And other things like that. So that is the Power Automate desktop flow.

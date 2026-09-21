@@ -1,0 +1,30 @@
+# Practice Activity Number 9 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 158 (section 28: Create model-driven apps - App designer and main forms)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English [Auto]
+
+[00:00] So how did you get on with this practice activity? So in this section we'll be looking at model driven apps and forms. So first of all I asked you to create a model driven app. So I'll go to blank app in PowerApps. And it's a blank app based on the dataverse. So click create and I will call this User and devices model and click create. So in the background we have our app being created.
+
+[00:31] So the first thing I need to do is to add the users view and form. So I'll click on add page. Choose content for the page a dataverse table. Click next. And I want this to be the users table. So I'll just scroll down so I can see user and click add. And I've got sure in navigation checked as well. Otherwise it would be in the all other pages section. Next I wanted a second area. Now there is no button to add a new area unless you enable areas.
+
+[01:00] So I'll go to settings. At the top, go to navigation on the left hand side and check Enable areas. so I'll close that. So I'll click on this area one and click on the dot dot dot and go to Edit Properties. So I'll call this first one users. Next I will add a new area. So I'll click on users. And now click on new area. So this is now completely separate area with separate navigation. So I'll want to add a new page.
+
+[01:30] So I'll click on New Dataverse Table next. And I want to add the devices table. So in the select one or more tables I'll just type the first few letters of device. And that reduces the list of tables. So I can now just check it and go to add. So this is my users and devices model driven app. But I've got new group and new area. And that's not the most user friendly thing I can do.
+
+[01:59] So I'll click on new Group and I will call this devices table. And I'll click on the new area dot dot dot and go to Edit Properties. And you notice also I can change the order of the areas. I can move up and move down and remove from navigation, but I'll click on Edit Properties and I will call this devices. And now you can see at the bottom left we have got the area devices and we have got the group devices table with the page devices.
+
+[02:31] So I'll go into the other area, the users area, and I'll click on new Group and I'll change that to the users table. So now if I go in between these areas we can see that the groups and the areas are correctly named. Next, I asked you to create a new main form based on the devices table. So here I'm in the devices table, but I want to be in the devices table in the pages pane. So I'll click that.
+
+[03:01] I'll go into the devices form. And at the top I've got new form. Now I could go into PowerApps and go into tables, the device table and then click on forms. But I can also click on New Form at the top here. So I'll do that. And I'm going to create a new form so I can create it in a separate tab so I can come back to this tab later, or I can create it in the same tab. So I'm going to create it in a new tab.
+
+[03:31] So here is our form designer. So next I want you to drag in device name and device type. So I'll do that just by dragging them in. Alternatively I could click on the dot dot dot and go to add to selected section. I also wanted you to add in a new one column section. So on the left hand side I'll go into the components and click on one column section. And then I want to do to add date purchased.
+
+[04:03] So I'll click on the dot dot dot next to it and go to Add to Selected section. Then I wanted you to create a new one column tab. So I'll go to components and click on one column tab. And here and I wanted you to add device data. So I'll just click on the dot and go to Add Selected section. And you can see it's been removed from the Table Columns pane because it he says, sure, only unused table columns, but I can't see it.
+
+[04:34] And what it's done is added it to a section but not displayed the section. So I'll need to go to General and New tab. There we can see the section and I will also add in original purchase value and current value. And I said the name of the section should be Other Details. So I'll click on the new section and call this Other details and the name of the tab. So if I click on tab it should be other.
+
+[05:05] And going back to my general tab, the name of the one column section I've got down here should be dates. Next asked you to remove owner from the form, but I said you couldn't actually just click on it and press delete because you can't do that for fields or columns which are required. So if I was to add device image for instance, and then just press delete, it would remove it. But I can't do that for owner.
+
+[05:35] So instead I need to hide it instead. So I will hide. Not hide on phone, but just hide. Now you can see the hidden elements on the form. If you click on show hidden right at the bottom. And then I wanted you to make sure that device name was at the very top. So I'll click on device name and I'll just drag it to the top. Finally, I want to save and publish this form, but I wanted you to save it as small device form. So I need to click on save a Copy and type in here Small Device Form as the display name.
+
+[06:13] You can also type in a description, so I'll click save. Now I still need to publish it, so I'll click on Save and Publish. So this will publish this form as well. Once that is done I'll go back to my model driven app. And now if I go into the devices area and click on devices form there we can see my small device form. Now if you have problems with forms not being published in your app, then you can go to solutions and.

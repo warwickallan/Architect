@@ -1,0 +1,28 @@
+# Power Automate Licensing
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 174 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, and in this section, we are taking a step away from Power Apps and going into Power Automate. So, Power Automate allows us to have a certain processes. And you can see some of the things that you can do on the screen. Either when I click a button or when a certain event happens, or at a certain time, it could be repeated. Now, let's start by talking about licences. So firstly, do you have the licence to use Power Automate, which address is flow.microsoft.com?
+
+[00:34] I know my URL also has United Kingdom, but that's just where it has redirected me. It's just flow.microsoft.com. Well, it depends. If you are in the Power Apps Developer Plan, then yes, you are fully licenced. You can see, "Create apps and flows without writing codes using Power Automate." And then further down, "Power Automate. Automate workflows between applications and services." You also get support for premium and custom connectors and the Dataverse.
+
+[01:04] But this is just for testing purposes only. In other words, for us, our purposes is for learning. Now, if you want to buy Power Automate, then, the basic idea is you can buy it for $15 per month. So this is the Licence by user plan. So, previously, when we were looking at Power Apps, there was a Per app plan and there is a Per user plan. And the Per user plan was four times the Per app plan.
+
+[01:33] Well, here, the Per by user plan is $15 per month, but the by flow plan is $100 per flow. So $500 for five flows and then $100 there afterwards. Now the advantage of this by flow, is that you have unlimited users with reserved capacity. In other words, it's on your own capacity. You don't share with somebody. Whereas the per user, you are doing the flow on a server that Microsoft chooses.
+
+[02:07] You're probably sharing the server with lots of people. There'll be limited processing power, so you just have to share it. Now, there is also this, which is currently $40 per month, per user. And that is a per user plan with attended robotic process automation. Now, it also includes AI and AI Builder service credits. Now, for this particular course, we don't have to worry about robotic process automation.
+
+[02:36] Well, we all be using AI Builder later on. Now, you'll notice that there is a limited-time offer. This may or may not be there when you come to this website, but also, it's a minimum of 5,000 licences. So, what I'm going to do is I'm going to click on the Try free so I can have both the AI Builder and Power Automate. Now I would be doing the Try free, but that link is not working for me so I will click on Buy now instead.
+
+[03:08] And then I can fill in my work email address and all the rest of it. Now, you may be saying, "But hang on, you signed up to the Per user plan. Run unlimited apps per user for Power Apps. I thought there was something about Power Automate in there?" Well, there is, however, you only have the right to use Power Automate, including the premium connectors in the context of an app. So what does that mean?
+
+[03:36] Well, if we go back to one of our canvass apps, and go to Action, then we've got Power Automate there. And so, we can trigger flows in our Power App. Now, actually doing this is not part of the PL-100 requirements, it's part of the PL-200 requirements. So, we won't actually be connecting the two in this particular course, but yes, I have Power Automate use rights, but they are limited owning connection with an app.
+
+[04:05] If I want to do standalone apps, then I better get fully licenced. Alternatively, I can go to the office portal. So this is portal.office.com. And there we can see the active users. So that is my plan. And I can go down to Billing and Purchase Services. So if I type in Power Automate here, here is the Power Automate Per user, and here is the is the RPA and the non-RPA.
+
+[04:35] So if I click on this one, you can start a free trial of that. And if I click on this one, we can start a free trial of this. So, I'm going to try and buy it in here. So that other link doesn't work. So here I get 25 users, I only need the one. Try now. And there you go. I have now purchased it on the one month trial. So I will continue, and go to My user.
+
+[05:11] So Power platform plan, go to Licences and Apps. And there is my Microsoft Power Automate, free licence applied. So, there we go. So, now we've got that. So, there's lots of ways of getting it. So you can click on the Buy now, but there isn't the Try free here. So if you want the Try free, you have to go to portal.office.com.
+
+[05:40] Alternatively, you can buy this with the AI Builder, but also if you've got the Power Apps Developer Plan, then you don't need any of this, you've already got Power Automate. So, once you are fully licenced, then you can go into Power Automate, which is flow.microsoft.com, and we'll start making our first flow in the next video.

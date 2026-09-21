@@ -1,0 +1,18 @@
+# 38. Consume a prompt in apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 070 (section 14: Create prompts and models in AI Hub)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video we created this prompt. In this video we're going to use it in a canvas app. So let's go back to apps and our expense app. So what we're going to do is create a new screen. So on the left hand side we'll go to the tree view and then screens, new screen, blank and we're going to add a text input, a button and a text label.
+
+[00:36] So the text input is going to be the claim status. So I'm going to have draft as the default claim status and I will call this text claim status. The button is going to say find most expensive expense. So we just need to make that a bit deeper. So I'll call this btn expensive prompt and this label I will call label most expensive expense and I'll just do that again because the computer's reset it. Most expensive expense is going to hold the output when I press the button.
+
+[01:30] So the output is going to be stored in a variable called string str expensive expense. So I'll just copy that for later. So now I'm going to change the on select property for the button. I'm going to set, so what type of variable is this going to be? It's going to be a global variable. I might want to use it in other screens. The string expensive expense to be equal to something.
+
+[02:04] So how can we get the prompt into our canvas app? Well we use data. So we're going to data, add data and go down to AI models. So if I scroll down I'll then click on see all models and if I scroll down a lot further or use the search at the top there we can see my most expensive expense. So let's click on that. So now I'm going to assign this variable to most expensive expense dot predict and I need the claim status.
+
+[02:42] So I'll just have the word draft for a moment as a string literal. So what name of model dot predict does is it sends the contents of the predict, the arguments, into the model and then retrieves, if I press the dot, the result in text. You can also see the data used and why the prompt finished. So let's use text and close. But I don't want to use draft. What do I want to use instead? This text box. So that would be text, claim status, but that is a control and not the text.
+
+[03:24] So we also need dot text. So we've got dot two texts in a row, one relating to text claim status and the other relating to the predict. And you can see that the computer has worked out the response, it just hasn't set the variable yet. So now if I play this and press the button you can see it's working and my most expensive expense with a claim status of draft is my brand new laptop.
+
+[03:56] Let's change that to submitted. Again just take a few seconds and then approved. So in this video we've seen how we can consume a prompt in apps. Now do bear in mind that this will use AI builder or co-pilot credits, unlike the test which didn't. So first of all we needed to add the prompt into the model driven app by going to data, add data, AI models and see all models. And then we needed to consume it using the name of the prompt and then dot predict.

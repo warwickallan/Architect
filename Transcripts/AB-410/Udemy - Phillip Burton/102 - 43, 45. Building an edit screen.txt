@@ -1,0 +1,38 @@
+# 43, 45. Building an edit screen
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 102 (section 20: Expanding our canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, in this video, we're going to create a third screen. So this is a screen that we can use to edit what is selected on the Browse screen. So I'm going to go and insert a new blank screen. So we're going to rename this as the Edit screen. And we're going to insert another form. But instead of a display form, which displays fields in a read only form, we're going to have an edit form, which lets users edit existing fields and add new rows.
+
+[00:35] So here is our edit form. And we're going to do exactly as we did before, first of all, we need to data source the accounts, we need fields. So we can choose what fields we want. So let's say I wanted again, the email address. So we can just add that, and it just gets added to the form. So each of these individual cards, within each of these, we have got two labels. But you don't have to worry about all of that, if all you want to do is add in an extra field, extra items, all you need to do is click on the form, and then go to fields, edit fields and add fields.
+
+[01:14] And here, you can rearrange it as you wish. Now again, we need to link what we're looking at. So the item at the bottom here, so which item are using exactly the same item as before, we're looking at the Browse screen gallery. So gallery two dot selected. And as soon as I do that, then this screen populates itself. It's exactly the same way as at the detail screen does.
+
+[01:43] Right, so how we're going to get to this detail screen. Well, what happened in the original is you went from the Browse screen, to the detail screen, I can hold down Alt+click on something to do the relevant action. And now I want to be able to edit it. So what I need is an icon here. So I'm going to insert an icon. Now, I've inserted an icon here previously, which looks a bit like go back, it doesn't truly matter what icon I put in, it could be a completely misleading icon, it could be a camera.
+
+[02:16] But it should be something that actually helps the end user understand what it's going to be. So I'm going to click on this one, the Edit. So let's drag it over here. And hopefully you know what code we need and why we need it. On the unselect, we need to say, navigate to the Edit screen. And you can put in, if you wish, any sort of transformation.
+
+[02:44] Now you can see that there's squiggly red underlines. So that's telling me that something's wrong. I also have a look at the X here, and the dot up here in the stethoscope, that's telling me that something's wrong, too. So if I click on this, which is the app checker, you can see that there is something problematic with one formula. So name is invalid. And I can click on the arrow for more details. You can also see something about accessibility there as well, there are 10 accessibility problems, we'll have a look at accessibility later.
+
+[03:14] So the problem is there is no Edit screen. And the reason for that is I've misspelt it here. So keep having a look for all of these little red icons, but especially a red dot next to the stethoscope, which is always active when I am doing some editing in Power Apps. So now, if I click on this, so if I Alt+click, it takes me through to the Edit screen. So what I need to do now, while, I do my edits, but I've got at the end to say okay, yes, I want to save that.
+
+[03:48] And the way we do this, well first of all, let's add an icon again. So we'll make a checkmark. And on the unselect, we'll changes for false, false just means in unselect, don't do anything to submit form. So what submit form aggregates all the updates in the form control and submits it in other words it saves what you've got. So we need to say, okay, I want you to save what is in, and then the question is, what is in what?
+
+[04:20] Are we submitting the screen? The answer is, no. And then you can see the computer doesn't like that. What we're submitting, is the form. So this form is called form one. So that's what we need to say. So this is really when if you are using something like form one, you need to give it a name. So I'm going to rename it something better than just form one, form one could be from any screen. It doesn't know what that particular screen is, Edit form.
+
+[04:49] So let's have a look and see how we're doing. So if I play we have our Fourth Coffee. I can get the details. I can edit it, I'm going to now change it to Fifth Coffee. And I've saved the changes, or you can see the set changes worth saving. Oh, and then what? We'll have to go back. Well, first of all, has it actually done it? Let's go back to the gallery.
+
+[05:14] Yes, you can see it has saved it. Okay, so now what do we do? Well, I could say back. But why do I say back? Do we need another icon say back? And the answer is, no, we don't necessarily need that. We could put a semicolon and then say, back. Now as previously discussed, if you are in a non English locale, then you will need two semi colons. So whatever works on your computer.
+
+[05:45] So let's see if this works. So let's go back to the Browse screen. Let's play. So I'll click Edit, change this to Sixth Coffee, click the check mark. And we now go back to our details screen. And from there, we can now go back to our browse window. So far, so good, except, how do we know that the changes that have been made have actually been saved?
+
+[06:18] It just submits the form and then goes back regardless of if it's been saved. So something not quite there. So what we need to do instead is find out if it is successful. Now, if it is successful, then another event runs. So unselect event, submits the form, we then get an event to say whether it's successful or not, and that event is in the form.
+
+[06:45] So that event is called unsuccess. So if it's successful, then go back. If it's not successful, well, your choice, you could just say, do nothing. And that is what the standard form does. So let's just quickly go through that, again. We have an icon. When I click on it, it raises an event unselect, which submits the form. The form is then saved, successfully or not.
+
+[07:15] If it's successful, then edit form unsuccess, runs and have now chosen to go back to the previous screen, so the detail screen. And if it's not successful, then unfailure runs, and so it just stays exactly where it is. Now, suppose I didn't want to save the changes. Okay, let's get another icon, the cancel icon. So this cancel icon, instead of submit form, it's going to be reset form.
+
+[07:44] So bring it back to its save condition, and then go back. Now, it doesn't really matter to me whether it resets successfully, nice if it is, nice if it doesn't, but it's not going to save the changes and that's the important thing, because then we're immediately going back. So in this video, we've created an edit screen. The screen goes from the detail screen in this particular case, by clicking on the pencil.
+
+[08:19] We can then edit what we will and then we can submit the form and if it's unsuccess, we go back, or we can reset the form with the X and then go back.

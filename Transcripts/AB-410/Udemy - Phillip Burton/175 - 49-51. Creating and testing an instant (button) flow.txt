@@ -1,0 +1,34 @@
+# 49-51. Creating and testing an instant (button) flow
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 175 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, in this video, we're going to create a very simple flow. So if I go to Create, you can see the different types of flow we've got. We've got automated cloud flows. They're also known as just automated flows or cloud flows. So they're triggered by a specific event. They're probably the ones that you would use the most. We then have scheduled cloud flows, so when and how often it runs and then we've got desktop flows, we're not going to use in this particular course.
+
+[00:31] Business process flows, we're going to use that in a later section, and the one we're going to use now is an instant flow. So I can start with a tap of a button. Now, of course, we don't actually have any physical buttons. So it can be run when a virtual button is pressed on a mobile app. It can be done when a button is clicked with something else. For example, maybe a Power App. And it can be pressed when buttons are clicked with third-party options.
+
+[01:02] It basically allows you to run on demand. Now, these instant flows are also known as button flows. So I'm going to create a button flow and I'm going to just say this is SendEmail, and I just want to manually trigger this flow. So let's click Create, and there we have the manually trigger flow. So in other words, I just press a button. So that is our trigger.
+
+[01:30] Now, that starts the flow. Every flow must start with a trigger, otherwise how does it know when to run? So what I'm going to next do is have an email event. So I'm just gonna type the word email, and you can see send an email notification. So I'm gonna click that. So it's going to ask me to accept terms and privacy notice. So you should read those beforehand. So I'll click accept.
+
+[01:56] So who's it going to be sent to? Well, I want it to be sent to me. So I'm going to type in an email address. And the subject hello, and the body. This is an email. Now, we've got things called dynamic content on the right-hand side. So these are things that I can add in. And if you can't see it, then it's this little plus button that's here.
+
+[02:25] Now, the dynamic content is based on previous steps. So in this case, it is manually trigger a flow. And I can have the date, and I'm just going to enter these. The date, the timestamp, the full address, if the computer knows the full address. Country, region code, city, state, street, postal code. So those are things that it may or may not know. And I'm going to add them into my email.
+
+[02:54] We've also got expressions, which give an awful lot of functions. We'll be looking at functions later on in this course. Now, there's also show advanced options. So here we can see two names, CC and CC names, BCC and BCC names and attachments. And again, attachments could be based on a previous flow. So maybe you have just downloaded a picture and you want to send it as an attachment.
+
+[03:23] So these show advanced options, always useful to have a look. So there we are. I'm just going to now save this flow. You can see it says saving top left. Okay, flows are ready to go. We suggest you test it. So we've also got a save button up here. We've got a flow checker. So just like we had a app checker when we were looking at our canvas apps, so there is the app checker, we have a flow checker here.
+
+[03:52] So this flow checker can give us errors, can give us warnings and just like the app checker, there will be a dot next to this stethoscope, a red dot when there are errors, potential errors, and warnings. And when we see them, and we will see them as part of this section, we'll be able to click on them and find more information. Some problems that it may find are things like authentication failure and if I haven't configured an action correctly.
+
+[04:23] So now I'm going to test the flow. And very simple, we just click on Test. So I can test the flow manually or automatically. Automatically only works when I don't have a manual flow. So let's say I've got a flow when I add something to a particular table or something like this, I can run it automatically with a recently used trigger. Here going back over a previous action, just doesn't actually work.
+
+[04:52] All I can do is manually. So I'm going to test this. So you can see, I need to sign in. I can see a check mark here. So a valid connection. I could click on the dot, dot, dot if I didn't, and be able to edit. But I'm going to now continue. So run the flow. And my flow has successfully started. So to monitor it, I go to the flow runs page.
+
+[05:23] So I get to this page by going to my flows, click on the dot, dot, dot next to the flow. And see the run history. So you can see the test is successful. And now if I go to my email, here is the email that I've received, and you can see my text and all of the things that I've added. It does have my location underneath this Notepad. So you can see it is running successfully.
+
+[05:52] So if I want to run it again, I can go to my flows, and just press play. So run now, we'll get the same pane as before, and I receive another email or I can go to my mobile device. So here I'm on my tablet in Power Automate, and if I go to buttons and Flows, you can see no buttons, no flows. It's because I'm in the wrong environment. So I need to go to account and change the environment.
+
+[06:19] And then we can see we have got a button before start flows as well. So if I click on the button, I'd like to use Bluetooth. Yeah, fine, and it's done. The email has been sent. I'll just click it again to send a second email and then I'll go back to my desktop. So if I go back onto my computer, we can see if I go into the run history that there is my test, there is my running on the desktop and there are my runnings on the tablet.
+
+[06:54] So in this video, what we've done is we've created our first flow. We have created a manually triggered flow, also known as an instant flow, also known as a button flow. So this flow, if I want to edit it, I can just click on this edit icon. I've also got a few additional options down here. This is our first flow.

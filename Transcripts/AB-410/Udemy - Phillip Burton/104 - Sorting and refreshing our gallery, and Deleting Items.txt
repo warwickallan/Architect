@@ -1,0 +1,24 @@
+# Sorting and refreshing our gallery, and Deleting Items
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 104 (section 20: Expanding our canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now it looks like we are not doing a good job in terms of the order, and I don't know what order this is, but I can deduce it by looking. It seems to be in the telephone order, but I'm not entirely sure about that. So what I'm going to do is I'm going to click on the gallery and you can see that the items come up from the accounts table. So let's keep it there. But I want to sort by columns. So I want to sort the accounts table by.
+
+[00:31] And I want to just have a look. So we can just scroll down and we find name here. So this is the name of the account name in the column. So now you can see instantly that it has been sorted. We can have a third argument if we want ascending. Or descending. So I'll leave it for ascending for now.
+
+[01:11] Now, you should note that we've now got a problem. Let's have a see what the problem is. And the problem is, believe it or not, I didn't put a capital A on it. So there are some times where you really should probably just use the auto complete. It just saves trouble like that. Now there's a couple of things I want to add. Let's add an icon for refreshing the data in case somebody else adds information to it separately to this PowerApps.
+
+[01:43] Or maybe multiple users are using this power app. So I will find a refresh symbol. There are reload and put that there and it will be the refresh function. So what am I refreshing and refreshing accounts. And then finally let's delete. Let's get a delete symbol a bin. Maybe I don't want a particular item.
+
+[02:10] We're adding an item. Let's see if we can delete an item. So again let's see if we can find a trash bin. There we go. And I'm going to click inside the select on select. And this is remove from accounts that which is currently being selected. So we're talking about this gallery. So Gallery two dot selected. And then we probably won't need to see the screen anymore.
+
+[02:41] So I'll say back. So let's now test all of this. So we'll go back to here. We'll play I will add a new item. So first coffee house telephone number 5551234. We're in Orlando Florida. Email address coffee@now.com. So there we go.
+
+[03:13] Let's have a look. Do we have our first coffee? And yes, there it is. So I can click on it. I can look at it. Notice that it doesn't have a country, doesn't have a region. It doesn't have county because the edit screen doesn't include those details. So be very careful what you're putting in your edit screen. You probably need more than what's in your detail. So that's looking pretty good. I'll refresh the data.
+
+[03:42] There we go. Data is refreshed, no changes need to be made. And I'm going to bin this item. So you can see it's working. And now it's no longer there. So in this video we've had a look at some of the finishing touches that you might want to add. For instance, we added a rectangle that's in the shapes section of the insert menu where you can see all of these other shapes.
+
+[04:09] We've added a refresh button. We've added an add button which uses new form and then navigate to. There we've added a delete icon which removes what we're currently looking at and then goes back to the. Presumably the browse screen. And we've also sorted the gallery. We've sorted the gallery the items. It was originally just saying accounts. And now we are sort by columns accounts and we're sorting by name ascending. So you can see that this is now fairly similar to what we automatically had.
+
+[04:45] So here is our previous version. And of course if you can save time by having such a version instantly created then absolutely do so. But what we've done here is be able to go through various ways of creating these screens. So firstly we can customize it. Secondly, we're getting used to being able to use navigate and back and all of the forms the edit form, new form, reset form and view form and make your own app.

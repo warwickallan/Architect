@@ -1,0 +1,32 @@
+# 6. Using Microsoft Copilot in Power Automate
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 182 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to see how we can use Microsoft Copilot in Power Automate. Now, Copilot can be used to create your flow initially, and it can also be used to modify existing flows. Now, you can see on the screen, we can type in what we want our flow to do. However, bear in mind that you might not see it in your particular environment. Microsoft initially made it available for environments that were created in North America, but it is now starting to roll it out to the rest of the world.
+
+[00:32] If you can't see something similar to this, then you might need to create an environment which is based in North America. So let's see how we can use Copilot in Power Automate. Well, I can say I want to record the weather every 30 minutes to an Excel 365 Online spreadsheet. Now notice, I've missed a few details.
+
+[01:00] I've not said where the spreadsheet is. I've not said what weather I want to record, but the computer has created a flow. It starts with a recurrence, so every 30 minutes. It will get the forecast for today and it will add a row into a table in Excel Online. So you can click this is not what I'm looking for, or you can alter the suggestion if you wish. So I'm going to click on Next. And now it needs to connect to weather and to Excel Online, and it's using my saved credentials.
+
+[01:33] So I'll click Next. Otherwise, you would need to add any credentials. And now it's going to ask you for the information that you haven't given it. So I want the weather from Orlando, Florida, and I want it to be in imperial, so Fahrenheit. And where do I want it to save? I want it to save in OneDrive for Business and within the document library called OneDrive.
+
+[02:02] And in the file that I previously created called Book, and in the table called Table1 coming up here. So now that I've given the computer this optional information, I'm going to click on Create Flow. And now this creates this flow in the Power Automate window using a new preview editor. So if I click on recurrence, you can see it's set up for every 30 minutes.
+
+[02:30] Click Get forecast for today. It's Orlando, Florida. And add a row into a table. Here you can see the information. Now, suppose this wasn't quite right. Suppose I wanted not Orlando, Florida, but I wanted New York. Well, I could just change it here in this Properties pane, or if I just click away from that, I can use Copilot to change it. So I'm going to say change the weather location forecast to New York.
+
+[03:03] And Copilot artificial intelligence works on this and then says, "Well, what I'm going to change or have changed is the get forecast for today." So I'm not going to click on it while it's doing it, but there you can see, it has updated this action and I can undo it. Check these actions to see if anything needs to be set, and just to make sure that it's interpreted what you want correctly. So I'm going to click on Get forecast for today. And here you can see New York.
+
+[03:35] Now generally, for such small changes, it's better for me if I just click on the actual trigger or action and change it. So maybe I want it every 15 hours. Well, that can be changed very swiftly. So once you're done, you can close the Copilot. It's still there if you want to reopen it at the top right, and then I can save it. So it's currently saving as I want to record the weather every 30 minutes to an Excel 365 Online spreadsheet.
+
+[04:06] Now for me, this isn't complete because if I click on Add a row into this column, it's not actually saving anything. I would have to actually go into the parameters and say I want the date format. I want the pressure, I want the humidity. I want all of these things to be saved. So I'll save it again. So this is why it's really good to test everything. So here are some suggestions for prompts for Power Automate, Copilot.
+
+[04:36] First of all, when an email arrives from a particular address, then I want you to post it in Teams. When an item is created in SharePoint, send me a mobile notification. You can see that it gets my profile before doing so. Build a workflow that gets customer feedback from Microsoft Forms and adds the feedback into SharePoint. Send an email follow up to the submitter.
+
+[05:04] Include text in the body that thanks them for submitting feedback. When a user submits an event registration in Microsoft Forms, add the registration to the Dataverse, the database within Microsoft Power Platform, and send a confirmation to the form submitter with the event details. Automate the process of submitting, reviewing and approving employee expenses. Design a workflow that notifies managers when new expense reports are submitted in a particular database.
+
+[05:37] And then process reimbursement to the employee accounts. And you can see that we've got a condition based on whether the approval has been submitted or not with different emails and updates happening. Automate the IT support ticketing system, Generate a ticket upon user request, categorise it based on the issue type, and assign it to the appropriate support team for resolution.
+
+[06:08] Create a workflow that captures new leads from Microsoft Forms and adds them into the Dataverse. Set up an automated follow-up email sequence to nurture leads over time. Create a workflow that runs every day and gets items from the Dataverse. Put all of these items in a table and include a send an email action. And finally, build a workflow that routes or routes employee time sheets submitted in SharePoint for approval from the employee manager.
+
+[06:42] If the manager approves, then send another approval to HR. If the manager rejects, notify the submitter and end the workflow. So these are some sample. So in this video, we've had a look at how we can use artificial intelligence to create Power App flows, and then you can just start typing what you want to do. And then when you've done that, Copilot will create a flow, which you can then authenticate and customise.

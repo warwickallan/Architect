@@ -1,0 +1,32 @@
+# Implement common expressions
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 187 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at some of the expressions you can use. So, maybe you don't output an entire tweet. Maybe you just want the first part of it for instance. Now, you won't be required to memorise any of these. Remember, the PL-100 exam is for people who may not have IT training, but are comfortable with using technology. So, you should have a basic understanding of data models, user interface, and processes. You do not require to have memorised all of these functions for the PL-100 exam.
+
+[00:33] So, let's have a look not at the dynamic content, but at expressions. So first of all, let's have a look at the string functions. First of all, we've got concat. So, this joins two strings or any number of strings together. Now, I should point out these are based on Azure logic apps and the question mark that you can see here means that it is optional. In other words, you could concat just one text string. The double dot means you can keep going.
+
+[01:03] So, you can have three text strings, four text strings, and so forth. Substring but that's the equivalent of mid in say Excel. So, it can get the left middle of a string. So, if I have substring, put it up here, and I have the word 'hello' and I start at position number two, and I get three characters. While position number two, unlike Excel, position number zero is right at the beginning.
+
+[01:34] So normally this is the first character. But in Azure logic apps and in these expressions the first character is position number zero. So, this would be position numbers two or three characters. So you would get L L O. So if you did this in Excel and you said mid 'hello' like that, you would get these three characters, but in Power Automate, you get these three characters instead because of where position number zero, position number one it's zero based.
+
+[02:07] So looking at down at this list or not on this list is length that gives you the length of it of a string. Replace replaces some old text with new text. ToLower and toUpper that's conversion into lower case or upper case. StartsWith and endsWith, so this shows whether text starts with or ends with a certain text that comes as true or false. Split, splits a string using a separator.
+
+[02:35] So maybe you've got several items separated by commas. So that would split the string into all those different items. Trim gets rid of white space at the beginning and the end. And then formatNumber returns a number formatted as a string. Now you can use the format of Excel, so any of the standard Excel numeric func format strings. And you can also use the .net formatting as well. So those are the string functions collection.
+
+[03:05] These are for arrays conversion. These include array, binary, bool- which is a boolean, float, int and string. So a conversion from one type to another. Logical. So we got if, equals, and, not, or and we've also got less, lessOrEquals and greater and greaterOrEquals. We've got some maths functions. So, min and max.
+
+[03:32] We've got rand for a random number. And then we've got add, sub, mul and divide, div for addition, subtraction, multiplication and division. Now, only two arguments can be used. You notice it doesn't say comma dot dot dot at the end. So if you can add two numbers together so let's add three and four. If I wanted to add five to that then I would need to use some nested arguments. And do be careful with division.
+
+[04:01] So if I was dividing three by two, then the answer would be one, because three is an integer and two is an integer. So, the result would be an integer. If you wanted one and a half, then at least one of these numbers would have to be a floating number, and you can use the conversions for those. And finally mod returns the remainder and range returns an array. So range one comma three will give you an array with three lines: one, two and three.
+
+[04:34] Looking at date and time, utcNow gives you the current timestamp as a string but you can format that string as well. getFutureTime and getPastTime says give me the time right now, but add a few days, hours, minutes, seconds. But maybe you don't want to do that for right now or you can do that with a timestamp function.
+
+[05:01] So, addToTime, subtractFromTime. And then we can also add seconds, minutes, hours, days. We can convert time zones. So we've got functions like toUTC. UTC is Universal Time Coordinated. It's the GMT, it's the London time in the winter, for instance.
+
+[05:28] We also have a startOfHour, startOfDay, startOfMonth. We have the dayOfWeek, dayOfMonth, dayOfYear. So, your basic extraction functions there. If you are using a variable then you can get that by using variables. So maybe I want to add a variable which is called 'my first number', and I want to add that to another variable which is called 'my second number'.
+
+[05:58] So you do that using the variables function. So you've got other things, manipulation, workflow functions. They get inputs and outputs on flows. But, this is the basic sort of things that you can do in expressions. So hopefully, if you've got something that you need a little bit of manipulation for, you can use these functions, these expressions based on Azure logic apps. As I said before you won't actually need to know the details of them but, it's nice to know that they are there.
+
+[06:30] Just make sure you click the see more button to get a bigger list.

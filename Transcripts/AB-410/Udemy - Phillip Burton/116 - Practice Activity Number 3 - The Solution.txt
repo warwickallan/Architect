@@ -1,0 +1,30 @@
+# Practice Activity Number 3 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 116 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:01] So how did you get on with this practise activity? So I asked you to create a new table called device. So you notice none of these current tables have got anything in the plural so it's device as opposed to devices. So I go into the Power Apps portal, Data tables, New table. So I'll type in device. So the plural name is devices. Now I said it should contain several columns. The first one of which is the primary name column.
+
+[00:30] So that's one I have to say right now. So I'm going to call it ID device and you can see the logical name, the internal name is ID device without a space. So let's click Create on that and now we'll add a new column. So this column is going to be device name, it's going to be text, and I said this should be required, so I need to be able to put in the device name. So similarly I'm going to put in device type.
+
+[01:02] And again, that is going to be required. So this is going to be laptop, desktop, iPad, android device, that sort of thing. Serial number. So you can see the default is for it to be in proper text. In other words, to have a capital letter at the start of each word. So I'll suggest you do similar. So device status, date purchased.
+
+[01:34] So this is going to be a date, so date only. Now notice all of these are no longer required. They're optional. So it could be that we don't know when something was purchased. Original purchase value and this is going to be currency down there. Current value, again, this is currency and device image and this is going to be an image.
+
+[02:18] Done. So now you can see all of these that we have added. We can change the view. So we can just see all of the custom ones if wish to, but I generally leave it to default. Now I want to add a relationship to the user table. A single user may have more than one device but a single device will only be associated with one user. Well, I'm currently in the device table. So how many users will have how many devices?
+
+[02:48] Many devices to one user. So put which table are in first many devices to one user, so many to one. So I'm going to go down to the user and we can do things like changing the type of behaviour if we want to but I'm not going to do that here. The defaults are fine for me. So click Done and that creates this new relationship and it also creates a lockup data type as well.
+
+[03:19] So next I want a calculated column called depreciation. So let's just type in that word. It's going to be a currency because it's going to be the difference between two currency columns and therefore must be in that data format. So I'll click on Add Calculation. It's going to ask me to save the table. So yes I am. Then it's going to display a new form. So after about 20 seconds it appears.
+
+[03:47] So if something, then set this value. Now I don't have any if I'm just saying give me the difference between the original purchase value and the current value. I'm not saying if something happened, but if there was then I could put it in here. So I'm just adding an action. I can use the dropdown so I can find my particular column or I can just start typing. So I'll just start typing and say orig and just pause. So there's your original purchase price minus the current value.
+
+[04:20] Okay, Save and Close. And when that form disappears, click on Done. And there near the top here we have depreciation. All of these additional columns are also being created like base and other things to do with currency. That's absolutely fine. Then I need a rollup column in the user table. So I'll click on Tables, go to User. Notice we didn't need to save the table. It does that automatically when I create a calculated or rollup column.
+
+[04:53] So now I want to calculate the total original purchase price so click on New column and type in the name original purchase value total and the desk type is going to be currency. Change the behaviour from simple to rollup and click Save and Edit. After a few seconds, that pane disappears. I now need to go down to my column click on it and then click on Edit underneath behaviour.
+
+[05:23] So it saves once again. So it says, okay, what is your related table? Well, my related table is going to be the devices table. So let's just scroll down to that. And there it is devices, brackets, user. There's the relationship we want. And what I want in terms of the aggregation is a sum of the original purchase price. So it's only giving me the currency related table fields there.
+
+[05:55] So I'll check that and Save and Close and now it's processing. So in this section what we've had a look at is designing the data model. We've had a look at the high level design and then data models designing them, and how we've implemented them into the Dataverse. And hopefully you're getting really confident with this. After the next quiz, we're going to now add the expenses table that we've added previously into our Accounts Canvas app.
+
+[06:28] Please join me there.

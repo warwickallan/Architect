@@ -1,0 +1,16 @@
+# 32. Dataverse views: Enabling editable grids
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 160 (section 29: Create model-driven apps - views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] We've got read-only grid as our default control, but what if you could edit the data actually in the view itself? Well, for this, we need to go back. So I'll go to make.powerapps.com and we need to go to the Solution Explorer. So we go to the Advanced Settings in the gear, you go to Settings and Customizations, customise the system. So this is the old Solution Explorer.
+
+[00:31] And then we go into entities, the name of the table, so in this case that is expense and just click. We then have a controls tab and there we can add the editable grid. And so there we can set it up for, in this case, the web and the tablet. Then we can click Save and then Publish. When it allows me.
+
+[01:00] It says publish as customizations. So this should now allow main grids to be editable. So let's close this. And so what I'm going to do now is close everything. Just go back to the Power Apps portal. I'm going to go to my app. And I'm going to play it. Go to say Expenses.
+
+[01:31] Go to My View. And now I've got the ability to inline edit, so I can just click on something and edit it. Whereas if I go to any table where I haven't put in editable controls, by clicking on it, I'd get nothing. Double clicking on it, I go to this dashboard. So that shows the difference between editable and not.
+
+[02:00] And not everything is editable. So I can't edit this created on, for instance, because that's a system column. Whereas if I go to My View, I can edit other columns. So in this video, we've had a look at how we can enable editable grids, and we do that by going to make.powerapps.com, the Power Apps portal, going to Advanced Settings, and then going to Customizations, customise a system.
+
+[02:33] And then in the classic Solution Explorer, open up entities, that's the old name for a table. Go down to the particular entity. Go to the controls tab, and then you can add the editable grid. In the next video, we're going to have a look around our view in the model-driven app, and have a look at the advanced find as well.

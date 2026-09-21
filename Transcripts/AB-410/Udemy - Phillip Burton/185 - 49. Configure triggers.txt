@@ -1,0 +1,38 @@
+# 49. Configure triggers
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 185 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, and in this section, we're just going to take a step back from designing detailed flows. And we're going to have a look instead at the individual components that you can use. So we're going to look at triggers, actions, and expressions when you need to manipulate variables, for instance. So hopefully, after this section, you will have a few additional ideas of flows that you can create in Power Automate. So in this video, we'll be looking at triggers, and I hope you'll bear in mind that triggers, being the first item in a flow, it's the event, which starts the flow, can be very useful for business logic.
+
+[00:40] For example, maybe you want to be notified when a new role is inserted into the data for us. We saw that in the previous section. Maybe you want an email whenever your name is mentioned in Microsoft Teams. Or maybe onto mobile notification, when your boss sends you an email. Or maybe you want a weekly or daily roundup of whenever new files are added into SharePoint, what the new files are.
+
+[01:07] So in this video, we're going to have a look at various triggers. So I'm going to create a blank flow. I'm going to go into new flow, instant cloud flow, and I'm going to skip this step, so that gives me completely a blank slate. Now it's untitled. You will want to title it by clicking there and typing your own name for your flow. Now, if you don't, then the computer is going to give it a name and you don't want that, given the name that it uses.
+
+[01:39] So we got triggers and actions. Let's see if we can have an action as the first stage of a flow. So if I say, put a condition, control, says you cannot use an action as a trigger, please select a trigger. So the trigger is the thing that comes very first in the flow. So what can we do? We can manually trigger a flow. So we've previously seen that we can use a user input. So we can have text, for instance.
+
+[02:07] And we don't just need to just have one. We could have multiple questions that we can ask the end user. Alternatively, if I delete this, we could have a schedule. So a reoccurrence. So when some time has passed, every minute, every week, every month, so you could put in your own custom value. So how many intervals do you want?
+
+[02:35] So every week or something. So you can say you want it to be on a particular day if you have it for a week. So maybe you want it to be every week on a Monday or Wednesday, starting at two o'clock in the morning and maybe two o'clock in the afternoon. And maybe you want it in terms of number of minutes. So maybe we do it at two o'clock, and two o'clock and 30 minutes. So half two.
+
+[03:02] And you can see down here, in English, how it would run, how often. So it will run here, what, eight times a week? Now if I try to add another trigger, so manually trigger a flow, you'll see here, that we cannot choose a trigger as an action. So not only is the trigger the first item, it can only be the first item in a particular flow. So let's see what other types of triggers there are.
+
+[03:30] Well, it could be for a selected item. For instance, when an item is created. So maybe it's created in SharePoint or modified in SharePoint. Maybe it's created in a folder. Or maybe when it's deleted. Now another thing could be the Power Apps or Power Virtual Agent calls. So this particular flow will start when it's called on by Power Apps.
+
+[04:00] So you can see no additional information is required if I do that. So it could be terms of calendars. So maybe when an event is added into a calendar using Google Calendar, or Outlook 365, or outlook.com. Or equally, when there's a new event added to a calendar. Maybe you're using Microsoft Teams, and you want when a team member is added or removed. Or if you select a message and you execute it, this flow.
+
+[04:34] So perhaps I click on a message and click on the flow, and it does something to that message, maybe sends it out to lots of different people. Or maybe when I'm mentioned in a teams channel message, or maybe other parts of the Power Platform. For instance, when a button is clicked in Power BI or when Power Virtual Agents calls a particular flow. Now, whatever you're using, you will find that dynamic tokens are generated.
+
+[05:05] For example, for the on Power BI button clicked, then we have the dynamic tokens of user ID, username, user email, and timestamp. If, however, we have a manually press, so if I change this to manually trigger a flow and then add a notification, then we've got things like locations, city, state, street, postal code, country, region, and full address.
+
+[05:40] We've got date and timestamp, when the flow was triggered, and we've got username and user email. So in this video, we've had a look at triggers. We've got four basic types. When you manually trigger flow, when you trigger a flow in a different application. For instance, if you click an item and then say, okay, SharePoint, I want you to trigger a flow based on this item. You can do it on a schedule, or you can do it when an event happens.
+
+[06:10] So an item or file is created, or modified, or deleted, and if a part of the Power Platform calls, an event is added to a calendar, or when you're mentioned in a teams channel message. So let's just have a look at some more triggers for specific applications. So for instance, for Microsoft Teams, we've already had a look at that, you can get a trigger when you're mentioned in a channel message.
+
+[06:37] But you can also get a trigger when a new channel message or team member is added or removed. Or you can have for selected message. In other words, you click a message in Microsoft Teams, and then you click a button flow to do something on it. If you're looking at the weather, then we can have a look at when the current weather or conditions change. So what's the difference? Well, current conditions, that's just general. Current weather, you can specify it for temperature, UV index, humidity, or wind speed when that changes.
+
+[07:09] For instance, if the wind is equal to, go's over, or go's below a certain item. If we have a look at Microsoft Office Outlook, so we've got some triggers such as when a new email arrives, maybe in a shared mailbox when it mentions me, when an email is flagged, when an event is created or added, updated, deleted, or modified, and when an upcoming event is going to start soon.
+
+[07:38] For OneDrive for Business, then we've got triggers such as when a file is created or modified. And again, for a selector to file. So in other words, you click on it and then button flow, run, and then SharePoint. We've got things such as when an item is created or modified, when a file is created in a folder or modified for a selected file item, when a file is classified by a content understanding model, when a file item is deleted, and when a site has requested to join a other site.
+
+[08:16] And then looking at the Dataverse, we've got when a flow step is run from a business process flow. We'll have a look at business processes coming up. When a row is added, modified, or deleted, or when an action is performed. And then finally, in SQL server, we've got a trigger such as when an item is created or modified. So these are some of the different triggers that can start off your Power Automate flow.

@@ -1,0 +1,32 @@
+# Saving and loading data records into views
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 162 (section 29: Create model-driven apps - views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're just going to have a quick look around and see what else you can do in views. Well, you can group, so you can group on a particular description or a ID or when it was created or currency, for instance. You can use this at the bottom to narrow down what you're looking at. So maybe you've got the equivalent of a file of facts. It used to be in the 1990s and 2000s. So look for all surnames beginning with the letter G for instance, if you have enabled the editable grids, you can show this.
+
+[00:33] So click on show as, and you can say I want to show this as a read only grid. So double clicking on it gives me one of the forms. Whereas if I go to the editable grid and clicking on it this allows me to edit it. Now, clicking on share or paired. This is another way of sharing a view. We had to look at that right at the end of the previous video so we can delete. So individual items there may be more options available with this dropdown.
+
+[01:03] We can add new items. We can show a chart. So this shows a chart over here. We'll be looking at charts very soon. We can search for items. So we've got a find icon search icon up there. So this is probably more useful. If you say it went to the accounts and I'll go to all accounts or maybe I'm looking for the word adventure. So there we can see the account AdventureWorks.
+
+[01:36] We can run flows. So when we go into power automate you'll be able to create a flow or run a flow from here. You can refresh the data. You can email a link to the data and you can export to Excel. So what I'm going to do is I'm going to export this file to Excel. And here's the file. So you can see the information. What it's going to do, first of all, is I'm going to go to my personal view 79 and export this.
+
+[02:06] So previously we only had the two columns export because that was all which were in the view. Now you can see we've got four. So what I'm going to do is I'm going to use this table to create a new number. A new expense. So this is a moderate amount and I'm going to make this $60. So this is within the requirements of my personal view, greater than 10, less than 79.
+
+[02:35] So I'm just going to save that. And then I'm going to import from Excel. There are options available by the way. So you could open in Excel online, for instance. So exactly the same thing. It's just in the web browser. So what's it going to do is I'm going to import it from Excel. I'm not going to import a CSV or XML, though those are options. So now I need to choose the file upload. So it is this file, click open.
+
+[03:05] You will then need to select your primary key. You should select the ID. In this case, I'm going to show you what can really go wrong if you don't, you can allow duplicate. So I'll stop duplicates from happening but instead of clicking finish import what I really suggest you do is go to review mapping and then you can see what's going to happen with your data. So created on it. This isn't something that I can set. It's something that the computer manages.
+
+[03:33] So it's going to ignore it. It's not going to import anything but you can see ID description and expense value. It is going to import. So I'm going to click on finish import and you can see your data has been submitted for importing. And of course it's not actually happening right now right this second. If I click track progress, you can see what's happening. Here's a couple of tests I did earlier. It is currently passing. It is currently working out where if field stops and starts, they're just interpreting it.
+
+[04:07] It's now transforming the data, getting us into the format that it needs. And now it's completed with one success. So if I go back in here previously, we just had two items. If I click refresh, we still have two items but one of our expenses has actually been deleted. So this is really important, that you should be aware of this, make sure you know what you're doing make sure you've got backups.
+
+[04:34] So what I should do if I didn't want that to happen is set an alternative key. So the alternate key being ID. So here I would be saying, well we've got these two items you export to these two items. I'm going to import these two items. It's not necessarily going to be the same two items. So I would be very careful when using this import from Excel. It can, if you're not too careful delete some of your existing data, at the very least take a copy of what you've got.
+
+[05:07] So what you might feel safer with is exporting this to Excel. And instead of deleting what's there, appending to the end. So there is my new items. So this is a small amount. $10. So save that.
+
+[05:36] Import from Excel, choose the file. Click next. Don't allow duplicates. Have an alternate key as my ID. Review the mapping, click on finish import, wait a few seconds and then go to refresh. And there is our item again. So yeah, be really careful with the exports and imports, I'm just showing you that it can get out of your control very quickly.
+
+[06:07] So just import it at the end, any new data added appended to the very end of the spreadsheet and make sure you've got backups. I don't know, responsibility for any deleted data. Just want to show this can be a bit on the dangerous side. So in this video, we've had a look at how we can export and import from Excel. We've also had a look around some other things that we can do with views such as showing and hiding charts.
+
+[06:37] You can also do this uploading and downloading of Microsoft Word and Excel templates in the advanced find as well. So if I go to my saved views, I can go to an Excel template. I can create an Excel template. And from here I can say, well I want this particular table, this particular view, download and that will download the information there as well.

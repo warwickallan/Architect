@@ -1,0 +1,36 @@
+# 19. Quickly creating a model-driven app
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 012 (section 2: Signing into the Power Platform and creating an environment)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video we created a pixel perfect canvas app. In this video we're going to create a model driven app. Now while we have these over 1000 connectors that we can use in a canvas app, for model driven apps there's just one connector that we can use and that is a table within the dataverse. So if I go to the account table we can see we can create an app. Now there are alternative ways to do this as well.
+
+[00:28] You can go to the create page on the left hand side. But I'll click on create an app and I will call this the accounts model driven app and click create. So again this will just take a few moments. So here you can see our model driven app and we have the table accounts on the left hand side and we've got this view. From this view I can click on any of these items and go into a form which shows the information in that one particular row.
+
+[01:05] So if I click on back we can also create new rows as well. Now this preview is in the model driven app designer and we can see on the left hand side this view and form is contained within a group and you can see that on the left hand side. Now if I wanted to change the name of the group I can click on it and go to properties. You can see that collapsed on the right hand side so I will call this tables and press tab and press tab just to get the cursor out of this box and now you can see that the accounts table is within a group called tables.
+
+[01:45] Now model driven apps do not have to concentrate on the one table. I can click on new and I can add dataverse tables. This adds a connected form and view based on a dataverse table. So if for example I was to scroll down and add the user table I can also search for it here and click add. It will show in the navigation and here you can see the user view and the user form. I can move this user table above the accounts table by clicking on the dot dot dot next to the view and going to move up and I can also remove from navigation.
+
+[02:29] This temporarily removes it from the app user interface but doesn't actually destroy it from the app. However I can click on the dot dot dot and re-add it to the navigation or remove from app if I wish to do so. Now in addition to dataverse tables I can also click on the new and add web resources. So this is a file created by a developer. A navigation link so this is a URL a website link.
+
+[03:01] So for example suppose I wanted a link to Microsoft. So I will enter its website URL and also add in a title and a URL. And here we can see we have got a link to the Microsoft web page. We can also add in dashboards. We will be looking at dashboards in a later section in this course and also custom pages.
+
+[03:29] This is a single screen canvas app which you can add into your model driven app. We can also create generative pages using natural language. So artificial intelligence will add a page into our model driven app. We'll also have a look at that later on in this course. In addition to adding pages we can also add additional groups. To do that you go to an existing group click on the dot dot dot and go to new group. And again we can rename it in the properties on the right hand side.
+
+[04:04] So I will call this useful links. And I will click on the dot dot dot next to the Microsoft link and say move down. And there we can see the group which has at least one item in it. Now it might be that you've got a lot of tables a lot of links to add to a model driven app. And if that's the case this space could get very long. So what you can do is organize all of these into areas. But I can't see a way of adding an area.
+
+[04:35] And that's because by default that functionality is switched off. So if I go into settings. And then go to navigation on the left hand side. I can enable areas. I can also enable collapsible groups. So if I click on that as well and close this. Then you can see that we've got these little arrows next to individual groups. Now I'm going to turn that off.
+
+[05:02] I could go back into the settings by clicking on settings in the top menu. Or alternatively I can click on the dot dot dot next to navigation and go to settings there. So you can see I can also rename the app in settings. Add a description. An icon. Whether it can be used offline. And add a welcomes page. There are also some features you might be able to switch on or off. We've already seen the navigation.
+
+[05:29] We can also turn on or off the home recent and pinned links. And there's also an upcoming section which gives you some early preview features. So I'm going to turn off enable collapsible groups. And now you can see in the background that we no longer have these collapsible arrows. So now I've got an area. And we would see areas at the bottom left if there was more than one. So our default area is called area one.
+
+[06:00] So if I click on that and then click on the dot dot dot and edit properties. We can change this. So we can say accounts area for example. I can add a new area by clicking on an existing area and going to new area. And I will rename this new area as being user area. And within this area I have a new group which I will rename to again tables. And I will add a new page based on a dataverse table.
+
+[06:36] And this will be the user table. So if I just scroll down there we can see the user table. I will click add. And now we have two areas. The user area and the accounts area. And I can switch between them by clicking on this pages area setting. And as you can see there is a different set of navigation tables, views, forms and links. So if you go to the top right we can see we can add comments to the app.
+
+[07:09] We can save it and we can publish it. And once it has been published then we can play it. So now if I play it we can see at the bottom left hand corner all of the different areas that we have added. This is only visible if you do indeed have more than one area. And you can see there are different tables and links for the different areas. And then I can go into an item in the view.
+
+[07:39] I can click on it and see the form for that row and then go back and then go to another item. Finally I can close this. I can go back to the main PowerApps portal and then I can go to the apps page on the left hand side and then I can edit it and play it. And if you find that some of your changes aren't instantly available in the play version then you should go to solutions and click on publish all customizations.
+
+[08:09] So in this video we've seen how we can compose a model driven app. It is based on a table in the Dataverse and the app consists of among other things views and forms based on Dataverse tables.

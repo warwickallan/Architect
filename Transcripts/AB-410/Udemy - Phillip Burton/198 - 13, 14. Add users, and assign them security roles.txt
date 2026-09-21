@@ -1,0 +1,26 @@
+# 13, 14. Add users, and assign them security roles
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 198 (section 34: Configure Dataverse security and Secure a solution)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Well, now we've got these security roles. We need to use them. We need to apply them to users for instance. So if I click on users, just so reminder how I got here, was by going to the gear and advanced settings and then security. So I can do this by going to users. Now, this gives me a list of the users. Now I can't actually add new users here. You add them in the Microsoft office, 365 admin portal. So, let's find an existing user.
+
+[00:30] So Jane user, for instance, which I have created elsewhere. And this gives me information about the user. But if I click on this arrow I can also go to the security roles. So this user has got system administrator. so I can manage roles and I can add additional role, such as basic user, if I so wish. So that's users.
+
+[00:58] But in addition to users, I can also have teams. So teams are groups of users. So let's add in a new team. So this is my new team. Now, notice I can't actually add team members just yet. I need to have a administrator. So that's going to be me, power platform plan and then I'm going to save it. And as soon as I save it, then I can add team members. So I'll add a new team member, which will also be me, and another team member who will be Jane.
+
+[01:38] So now I've got my team. I don't have to click save. If I just close this and go back into it, you can see I've still got the same users. I can now go to this arrow and I can go to security roles and I can give the team roles as well. Now, in addition to the team, we've also got business units. So business units, we have the organisation at the top, then business units, which can have teams, which can have users.
+
+[02:08] So I can add a new business unit. So I will call this my business unit. I can't click on any of these until I click save. So the parent or business unit is the organisation. And then I can look at users and then teams and all the rest of it, but we don't have to go into any more detail for this, 'cause that level of security is more for PL-200. So just note that we have got users, teams and business units, and I can assign roles to each of them.
+
+[02:44] So, if I click on security roles, there I can assign whatever roles I want. But now we've got the concept of business roles. You can see now, if I go back into security and into security roles and look at any of the permissions that we've got, all of these different questions, we've got organisation, so all roles or records, we've got none of them, we've got user but then we've also got business unit.
+
+[03:12] So if I'm assigned a business unit then not only will I have user records. In other words, access to my own records, records that are shared with me and records in which I'm a team member, but also business unit records. So, unit plus access to information throughout the business unit. So this is general user for managers. You can see that there is another one. So these are business units shared, called parent child business units.
+
+[03:41] So these are usually for high level managers. So you get user, business unit plus all the subordinate business units, so if it's business units within business units. So that's why it's usually for higher level managers. So in this video, we've had a look at some of the security concepts. We've had a look at users, teams, which can include uses and business units, which can include other business units, as well as teams and users.
+
+[04:12] Just one more thing. Teams can also own records. This is why users can have access to team records. Also Azure Active Directory groups. Their card can have teams and they can also own records and both other teams and Azure Active Directory group teams can also have security roles assigned to the teams. They have full access rights to the records. And Azure Active Directory group types by the way, all security and office.
+
+[04:41] So you can even have divisions within the Azure Active Directory, however, as this is an, not an Active, Azure Directory, 'cause we don't need to dwell much further on that. So we have users, teams, which can include Azure Active Directory group teams and business units which can also have their own business units. There's just one more thing I do want to talk about it, when we're looking at power automates, you may have noticed, my referencing let me know by a mobile notification, when I receive an email from my manager, or how do I know who my manager is?
+
+[05:16] Or how does power platform does? Well, it does this through here, the user information. So you can see over here, the manager. So if I want to insert a manager, I can do so here. And that's how the computer will know.

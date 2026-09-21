@@ -1,0 +1,30 @@
+# 10. Updating our Primary Name Column, and Keys
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 111 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now we've created our expense table. We now need to add the columns that we need. So if you remember, a few videos ago, we had a look at needing a description column, a status column. Both of which are text, a value column, which is a number and a date of expense and also a ID column. So we've already got an ID column up but let's just have a look at it. So I'm going to click on it and you can see that this ID column is all that data type text.
+
+[00:29] And that's not actually very useful for me if I want the computer to auto generate it. Instead let's have a look at the auto number instead. So if I click on this, then you can see that the computer is going to start generating in this case numbers as a string. So we have a seed value. That's the starting value that we're going to be using for our auto number column. Then we have a minimum number of digits.
+
+[00:58] So if I change this to six, for instance then you can see that we start off not with the number 1000 but we've 0 0 1 0 0 0. Remember, this is a string. You can also have a prefix. So for instance, something like ID hyphen 0 0 1 0 0 0. Now that's not the only thing you can have prefixed. You could have a date prefix. So suppose you wanted the ID to contain the date that you're entering the information in.
+
+[01:30] So that is perfectly doable. So here, you can see year. And then here we have the date and the month. So it's not in a usual format, but you can change the format if you want. Usually I would have the year, month, day. In this case, we're having year, day, month but you can select a date format. So generally I would go for a string prefixed number. You could have custom this gets really complicated really quickly but if you need a particular format, then you can do so.
+
+[02:03] For instance, suppose I wanted the format to be a full sequential number, followed by a six sequential number, with a hyphen in the middle. It's doable, but let's just stick to a standard string prefix number. So I'm going to give it time to grow. So I imagine I'm going to be adding in this example more than 8,999 rows. So if I entered row 9,001, for instance then we want this to say 10,000 but we still wanted to be roughly in alphabetic order.
+
+[02:40] If you sorted alphabetically, as opposed to numerically. So let's just have some leading zeros at the beginning and right to the bottom we've got the description. So required name field you can see is the auto-generated description. There's also a few advanced things which we don't really need to go into much at the moment. So here is our new ID. It is auto number as opposed to text.
+
+[03:08] So that means that the computer will take care of it. It is required. So we've got three different things that we can have. We can have optional, we can have recommended. So there may be some sort of indication saying, yeah put it in and required. And then there'll be like a star asterisk. Sometimes when you say here's the field, please put it in. We've had a look at the star before in the practise activity.
+
+[03:38] So it's going to be required. That's usually good for a primary key. And so I'm now going to say done, and there you go. So that is how we can adjust the primary name ID so that it becomes auto-generated. Now in the previous video, I said that primary name columns are on a single column. But suppose you wanted a compound key. So you wanted for instance, to stop somebody the same person from entering an amount the same amount to the same person on the same day.
+
+[04:15] So for instance, if I entered that I paid John $50 on today and then entered it again. You could think that's probably a duplication. It should have said a hundred dollars. Well, you can do that. Just not with the primary name column. Instead, you can do that with keys. So you can have alternative keys and these can be single columns or compound multiple columns. So I can say, okay, here is my ID key. And it is based on the column ID.
+
+[04:47] So click done. It's a bit duplicatery, but you can do that. Now. Why would you want to create keys? Well, suppose we wanted everything in a particular column to be unique, like a primary key. So for instance, suppose I wanted it so that the combination of person, amount, who to, and date was unique. I couldn't add it a second time well I could then add a key based on those four columns.
+
+[05:18] And then it will ensure the uniqueness of those four columns when taken into combination. Now you can't insert a key if you've already got non unique data. So this is really good adding it right to the beginning. If you're adding it later, then you'll need to make sure that your column or columns are unique. Why apart from uniqueness why would you want to create keys? Or keys also act as an index so they can improve database performance especially when you're linking to external databases.
+
+[05:53] So in this video, we've had a look at primary name columns but we've also had to look at how we can add additional keys. Which can be based on a single or multiple compound columns. And the keys each time will be unique and required. So in other words, it's got to be unique there can't be another row wave at that particular value or combination of values and required you will have to enter in the information into the columns that we have said.
+
+[06:26] You can't just leave it blank.

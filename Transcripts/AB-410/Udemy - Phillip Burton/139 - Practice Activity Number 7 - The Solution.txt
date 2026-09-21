@@ -1,0 +1,30 @@
+# Practice Activity Number 7 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 139 (section 25: Canvas Apps components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So, how did you get on with this practise activity? So I asked you to create a new component, so we go to new component here, in an existing app. So I can create a component library and start it from there if I wanted to. But I'm creating it in this app so it just requires a date picker. So that's an input device. So there's my date picker. And I need to name it.
+
+[00:29] So that input date. So got to create a variable called Dat Date Seven, which adds seven days to the date and another called Dat Date 28, which adds 28 days, to that date now. Now, where do we create it? Well, it's whenever this gets changed. So that would be, scroll down, I'll put it into the On-Change property. So, I want to set my Dat Date Seven to be date add, the Dat Input Date, seven days.
+
+[01:15] But you notice the squiggly on the lines that tells me that, Dat Input Date, which is a control is expecting a date time instead. So let's put a dot after it and we can see selected date is the first item. So quite often, you'll be typing, you'll be making mistakes because you don't know that there's a mismatch. So have a look at what you've put in and then have a look at what it should be.
+
+[01:43] So I put in a control, it should be a date time, and then you can work out, well, what is it I need to do? So I also have got a Dat Date 28 and again, that is date add of dat input date, dot, select a date, comma, 28, comma, dates. So dat means that whenever this changes, the value of this changes, that these two variables will be updated.
+
+[02:13] So next, I've got to create output properties. So I do that by going over here to New Custom Property. So we'll call this Date Plus Seven. So it's an output property type and what is its data type? Well it's going to be a date and time. So you can see there's no particular option to just do date. So it's going to be date and time. So it's created and there it is.
+
+[02:40] Now, what is the value of date plus seven? If I click on it, you can see the default value is, Right Now, but I don't want it to be Right Now, I want it to be equal to Dat Date Seven. So that's all I need to write in. Equally, I want to create another custom property called Date Plus 28. So that is going to be 28 days later. So all I do, is create that output property and its value is going to be Dat Date 28.
+
+[03:15] So now let's test this. So go and create a new screen. So I need to insert this component. Now this component is currently called Component One, maybe not the best name for it. So I'm going to call it Date Picker Plus. So in my new screen, I'm going to go to Custom and I'm going to insert a date picker plus. So there it is. So I now need a couple of labels, which should give me this date picker plus component, which I need the outputs for.
+
+[03:56] So I'm going to name this Date Picker Plus Component so I know what I'm talking about. And then in this text, it's value is going to be date picker plus component dot date plus seven. And then I want another one, which is going to give me date plus 28. So you might just want some labels, some descriptive labels as well.
+
+[04:27] I also need to be able to get to it. So I'm going to add a button from here. So I will go to input, button, and let's put it in the middle. I'm going to call this the Date Picker. Add some navigation. Navigate to this new screen one, should rename that. So I'll call that the Date Picker Screen.
+
+[04:58] So let's go back to the main menu. Notice I can also get to the components this way as well. Play, go to Date Picker. Choose a date. Remember it will only show the variables of Dat Date Seven and Dat Date 28 will only happen on the, on change. So I'm going to change it to another day. And here we can see seven days later is the 23rd of July and 28 days later is the 13th of August.
+
+[05:33] If I want to have these variables shown right at the beginning then what I'd need to do is not only have this being shown in the unchanged, but maybe also add this in a few other places, like for instance, maybe on select or in the app. So maybe the app on reset, would also need to have that as well. Now, this method of creating components inside an existing app, Microsoft says it no longer recommends you do this.
+
+[06:04] It's going to, at some point, turn off the ability to export and import into existing apps. Instead, what it says is you should be using a component library, so you can create a new component library and you can create the components there. And then in your existing app, you can go to the plus and get to more components there. So in this video, we've had to look at creating a component, a black box from which you can have input and output parameters.
+
+[06:36] In the next section, we're going to be looking at adding additional controls. So we'll have a look at media assets. We'll have a look at all the controls and formulas that you need for this particular course, the PL100 exam, and then we'll have a look at version control. Please join me there.

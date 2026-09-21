@@ -1,0 +1,38 @@
+# 49-51. Creating a scheduled flow, tracking Weather using Excel Online
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 177 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, in this video, what we're going to do is create a scheduled or reoccurring flow. So here you can see a scheduled flow. So scheduled flows, they run every X number of months, weeks, days, hours, minutes and seconds. So I'm going to call this WeatherConditionsRecorded. And what I'm going to do is have this recorded every hour. So I will start at a particular time. So I'll probably, we'll just start it manually.
+
+[00:32] So I'll start it at say 3 PM. And I want it to repeat every, let's say 30 minutes. So you can see in English, this flow will run every 30 minutes. So I will create that. So here we are. I didn't really want it to have a start time, so I'll click on it, go into Show Advanced Options and get rid of the start time. So you can see, you can also specify a timezone as well. There's no red asterisk next to it like here. So start time is optional.
+
+[01:02] So next, I'm going to get the weather. So let's type in weather and here we have MSN Weather, Microsoft Network. And here we can see in Actions, get the current weather. So I'm going to get the current weather. So the location. So I'm going to get the location of New York City. And see what it makes of that.
+
+[01:29] And I can choose to have imperial units, so those are Fahrenheit, inches and metric units, so that's Celsius, centimetres. So I'm going to choose imperial units for this. So what do I do with this? Well, I want to save it and I'm going to save it in Excel. Now, there are two different types of Excel connectors. Excel Online Business, Excel Online OneDrive. Well, I have a Business account.
+
+[01:58] You might have a OneDrive account. So I am going to add a row into a table. So it is creating a connection. So now I have to select a location. You may have had to log in as well, by the way. A document library. Well, that's not making any sense.
+
+[02:25] Let's just click on the dot, dot, dot and I'm in the wrong connection. I want to be in the Microsoft Connection, so I'm going to click on that. So you may need to add a new connection if you have to have more than one connection. So let's have a look. That's better, OneDrive. In there, we have, no, I want the other OneDrive. Attachments and documents and so forth. So what I'm going to do now is I'm going to go to my OneDrive for Business and I'm going to create a new Excel workbook.
+
+[02:59] So this is it. I'm just going to save it as Weather. It is in my Documents folder. So there it is. Close it up. So let's have a look. There we go, Weather.Excel and I need a table. So there're no tables in there. So let's go back into here and create a table, insert, table.
+
+[03:31] And my table is headed, so there's my table. And you can see at the top, it's already saved, so I don't need to save it online. So let's now have a look at this dropdown again. Maybe open up this weather again. And after a bit of experimentation, I had to close it, go to a different file, go back to my original file so I can refresh.
+
+[04:05] We now have a table, Table1. So I'm going to add a row into this table. Now, what do I want to see? Well, I haven't defined the table well because I want to know what it is I can add. So I'm going to have a look at the dynamic content. So what I want, I want, let's say the atmospheric pressure. I want the humidity. I want the temperature. And I want the wind speed.
+
+[04:34] So maybe the conditions caption. So let's go back into my weather spreadsheet here and so I'm going to have columns for pressure, humidity, temperature, wind speed and conditions.
+
+[05:05] So you can see it's now saved. So let's get rid of that. Let's go to a different document again just so it can refresh the metadata. So that's the data about the data. Go to this table again and you can see that the columns have updated. So here's my pressure and humidity and temperature and wind speed and conditions, all of which I've badly spelt. So let's add in the pressure here, humidity there, temperature here, wind speed and the general conditions.
+
+[05:42] So you can also see latitude and longitude and when last updated and lots of other things. So this now will be adding the row into the table. So what I'm going to do is save it and I'm going to test it. So I will test it manually. So you can see this flow uses MSN Weather and Excel Online, brackets Business. So the flow started and in fact, it's run twice.
+
+[06:13] So here we've got the pressure, the humidity, the temperature and the wind speed. So now let's go out of there into my flows. So again, if I want to, I can just run the flow. So let's see what happens now when I've done that. So you can see we've exactly the same weather. So because it is going to be running every 30 minutes, what I'm going to do is I'm going to pause the recording and I'm going to let it record the weather for a few hours.
+
+[06:49] So it's now several hours later and you can see we have got a whole host of run history, all succeeding. So if I go right to the bottom, we can see we started at 3:08 PM. It's now 9:12 AM. And if we have a look at the spreadsheet, you can see that we've got all of these added. So you can see starting off, partly sunny, then going sunny and then clear over night. I think what could expand this quite nicely is if we add the time.
+
+[07:21] So if I go in and add time into this, so you can see it's saved and go back into WeatherConditionsRecorded, go to Edit, go into here and now we've got time and I'm going to add into that last updated, the date/time at which the provider created the current conditions or provided the current conditions, save it, test it manually, test, run. And we can see changes have been made, show changes.
+
+[07:56] And so there we go. So in this video, we created a scheduled flow. So we started off with having a recurrence every 30 minutes and then we got the current weather from New York City and then we entered a row into a table using OneDrive, which could be OneDrive for Business or the personal version of OneDrive and so we got a location, we got a document library, we got a file, we got a table.
+
+[08:24] So we had to set up the spreadsheet beforehand and then we could add all of these dynamic contents into the columns and add that as a new row into the table.

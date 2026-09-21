@@ -1,0 +1,22 @@
+# 33, 39, 40. Manage app security
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 200 (section 34: Configure Dataverse security and Secure a solution)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video we're going to talk about managing app security. So we've previously seen how to manage flow security.You can go to details and you can add honours and run on a users. What about apps? Well, let's have a look, first of all, about canvas apps. So let's have a look at this particular app and I'm going to click share so you can share apps with individual users and with Azure active directory security groups.
+
+[00:34] So you can enter names, email addresses, or in fact you can enter everyone so everyone can have access. So let me add Microsoft as well, my, other user. so individual users can become a core owners so they can use, edit and share the app but they can't delete or change the owner. Now you can't add co-owners to an entire organisation and you can't add co-owners commissions to a security group for a solution, wear app.
+
+[01:08] So an app that is in a solution. You also cannot share the app with a distribution group in your organisation or group outside of your organisation. Now, when apps are shared then you may also need to share things like the connectors. So here we've got it connected to Microsoft database so that people will need access to that. So, Here, you can see that this particular user has got some access to the data Files may need more may not.
+
+[01:39] If I share with everybody while I cannot sign a security role with everybody there may be some other connectors like one drive for business SQL server with Azure active directory, authentication, custom connectors and basically data, which not all users have access to such as a cloud Excel workbook. So those you will need to share separately. Now, when sharing that you will be asked for security roles as appropriate.
+
+[02:09] There are some things that will be shared automatically Microsoft automate flaws and some connectors such as SQL server with SQL authentication or windows authentication is just the Azure active directory authentication which isn't so shared. You can also send an email invitation to new users and co-owners get a second link in that email for opening the app for editing. Additionally, you can send makers an email when their just made that first flow or that first app so that they can be sure that They are in line with the organization's rules.
+
+[02:45] So that is canvas driven apps now for model driven apps. So again, I'm going to get to the share button. So I select the app and I select who I'm going share it with, and then you give it a security role. So this is another way of going into the manage security roles box, the dial-up box. So I can click on manage security roles and then I can locate tables add permissions.
+
+[03:16] If you remember, some of those permissions included read create, delete, write assign. So that's on a share that's access and a pen and a pen too. That's activities and notes to a role. and you can select and we've nOnSelected user business unit, parent, child business units, and organisation. So we've covered that in a previous video. So you select what the roles are going to have and then you can click share.
+
+[03:51] And here you can see sharing model driven app while successful. So in this video we've had a look at how to manage apps security. You just click on the dot, dot, dot next to the app and go to share for model driven apps that you click on the app and then the user and then grant whatever appropriate permissions for canvas apps, then you select who has got access to it. And then weather they're going to be a co-owner so they can use, edit and share the app but not delete or change the owner.
+
+[04:26] And then you have to look at your data permissions.

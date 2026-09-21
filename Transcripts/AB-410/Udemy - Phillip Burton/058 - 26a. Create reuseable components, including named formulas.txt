@@ -1,0 +1,16 @@
+# 26a. Create reuseable components, including named formulas
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 058 (section 12: Canvas apps: designing apps and creating reuseable components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video we're going to have a look at one type of reusable component named formulas. So the idea is that you can create these named formulas maybe have an unofficial library of them and then paste them into each canvas app and then use them when needed. So let's say I had a formula so I'll go to insert text label and the text is going to be user open bracket close bracket or parentheses dot email and there we can see the email of my user. Obviously this is a very simple example and you probably wouldn't use a named formula for that but let's assume it's a complicated example.
+
+[00:41] What I can do is go to app in the tree view and then change this to formulas and then I can create a new formula for example user email equals user open bracket close bracket or parentheses dot email and then I can use that named formula elsewhere so I can now say user email. So you can create formulas elsewhere for example you can create it in the on start property. So you can create formulas in the app dot on start property which runs when the app is started but there are advantages to using the app dot formulas property. Firstly the formulas are not calculated until they are needed so they are not needed necessarily right at the beginning when the app is loaded so this can improve app loading time.
+
+[01:40] On start is always run when the app starts. The named formulas can refer to other named formulas and don't have to be defined in any particular order. So I could say semicolon user email short equals left of user email comma four give me the first four characters and then I will insert a new text label and that will have in the text property user email short. So there we can see the first four characters.
+
+[02:19] However I could also say user email short is the first four characters of user email and then define user email. So the fact that this has been defined first doesn't matter. The value does not need to be manually updated for the formula. It is always up to date and the formula itself cannot be changed outside of app dot formulas. So I can't say set user email short to be something else.
+
+[02:51] So this can improve the security of this named formula. There is only one place where it will be defined. Now that doesn't mean that the formula's value cannot change. If for example my user email was to change then user email would change because it is dependent on user open bracket close brackets or parentheses dot email and I can have these on separate lines. So I can press enter and here you can see them on separate lines and it's just text so I can copy the name formulas from one app to another.
+
+[03:28] So in this video we've seen how we can create the reusable component named formulas. We go to app formulas and we say this is the formula name and it is equal to this formula.

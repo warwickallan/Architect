@@ -1,0 +1,26 @@
+# 32. Dataverse views: Advanced Find
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 161 (section 29: Create model-driven apps - views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at creating personal views. So in a previous video, we created a public view. So in this app, I can click on the current view I'm looking at and click on My View. So this is my public view. But suppose I wanted to modify that. Well, I can edit the columns and I can edit the filters. So let's click on Edit Columns first. So I want to add a new column. I want to add the date of the expense, so just click on it and click Close, and then click Apply.
+
+[00:34] You'll also notice there is a Reset to Default so reset to My View. So if I click Apply, now we can see the date of the expense, including where there are no date of expense. And notice that my view now has a star, an asterisk next to it. So this means that it is based on the view, My View, but has been modified. If I want now to save this, I can click on this dropdown and click Save As New View.
+
+[01:05] So here I'm going to change the name of my new view. It's going to be My Personal View, I can also add a description as well, and I'll click Save. So now this view is My Personal View. If I click on this dropdown, you'll see that personal views have a little head and shoulders here icon and are listed above the system and public views. Now there is a filter on My Personal View, and the filter is based on the expense value.
+
+[01:40] So let's click on Edit Filters. So we've got the similar dialogue box to what we've seen a few videos ago, so I will change this so that the expense value is greater, not than 99, but than 10. So again, I can add additional filters, Add Row, I can group filters together, so I can say an and or an all group, so all of the items in a particular filter need to be satisfied or only one at least of the items in a filter need to be satisfied, and I can also add a related entity related table.
+
+[02:15] So I'll click Apply. And now, we can see we've got additional items in My Personal View. And My Personal View again has a star or asterisk. So if I click on this dropdown, I can save the changes to the current view, so this will override My Personal View or I can save it as a new view. I'm going to save the changes to the current view. And here you can see, filters have been saved for the current view.
+
+[02:44] Now you can also start a new view by going to the Advanced Find. Now depending on how your administrator has set up Power Apps, you may find that the Advanced Find is here, a funnel on the top right hand corner of the screen or it might be a big search box in the top middle of the screen, and you can click on it and go to search for rows in a table using advanced filters.
+
+[03:11] Whichever you do, you'll be asked which table you want to search, so I've got the Accounts and the Expenses table available, so I'll click on Expenses, I'll check that and go to continue. And then, notice what happens to the view. It then defaults to the active name of table view. And from here, you can edit your filters as before, so if I go for the expense value, less than or equal to 11, and click Apply, here is again a view that you can save as a personal view.
+
+[03:49] So again, if I click the dropdown and go to Save As New View, I can save this as a personal view, so this would be Expenses 11 or less, and click Save. Also in this dropdown, we have got Manage and Share Views. So if I click on this, here we can see My Personal Views at the top, and if I click on the ... next to a view, I can hide a view, I can set it as the default view, I can edit info, but that only allows me access to the name and description, it doesn't allow me to edit things such as the sort and the filter, you just do that by selecting the view then changing it and then saving it, and you can also delete the view and you can share the view.
+
+[04:34] So if I click on Share and I type somebody else, here I have an additional user, and if I click on that and then check it, I can grant the user permissions, read, write, delete, append, append to. This allows you to attach, for example, an activity to a row, a sign that allows you to give ownership of a row to another user, and share, that allows you to give general access to another user while keeping your own access.
+
+[05:07] So these are personal views, so they're views that an individual creates, and then you can share them more generally if you wish. They are shown above the system and public views, and to create one, you can edit the columns, so let's add description and expense value, and apply, you can edit the filters, so let's say I want a filter where the expense value is greater than or equal to 10, and where it is less than or equal to 79.
+
+[05:49] Click Apply, and then we have got the star next to the view, I can click on the dropdown and go to Save As New View, and then I can give it a new name and a description. And if you want a bit more width, you can always hide the bar on the left and you can see all of the icons and the area at the bottom left. So these are personal views.

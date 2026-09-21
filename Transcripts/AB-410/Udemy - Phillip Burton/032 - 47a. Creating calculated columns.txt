@@ -1,0 +1,40 @@
+# 47a. Creating calculated columns
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 032 (section 6: Building relationships and calculated, formula and rollup columns)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video we're going to see how we can do calculations within the same table. So here you can see we have a subgrid with the amount before tax and the sales tax. So it would be nice to have a column with the total amount. Now I could add a new column and people could input that information, but what happens if somebody enters the wrong information? Say it was $1,000 before sales tax and $200 sales tax with a total of $1,300. Would it be the total that was wrong or the two other amounts?
+
+[00:34] So what would be better than allowing the end user to calculate that information is for the computer to calculate it. So let's go back into the portal. So make.powerapps.com, go into our table, go into the expense table and then create a new column. So this is going to be total amount and I'm going to make it a currency. Make sure you have the same data type as the other two columns.
+
+[01:05] And the behavior, well it could be simple. This would be a standard column. It could be roll up. We'll have a look at that in a later video. But it could also be calculated. So this uses columns from the current table or related parents tables. Now notice what it says. The calculator behavior is deprecated. It will be eventually discontinued. And we recommend using the formula data type for calculations instead. Now it's been that way for several years and it is interesting that you still have to have knowledge of the calculated behavior for this exam.
+
+[01:40] So that tells me that it's not necessarily going away anytime soon. But I would probably use the formula data type instead. But let's have a look at the calculated behavior. So let's save this column first. And then we can create the formula. Now what you won't have seen is the pop-up. If you go to the top right, you can see that there was a pop-up blocked. So I'm going to allow this pop-up and click done. And then I will edit this column.
+
+[02:11] So let's go into columns and edit this column. So it is a calculated behavior, currency data type, and let's click edit. So it saves the column again and now we've got the pop-up. And this takes us into the classic interface. So first of all, we can add conditions. So if something is equal to something else, or not equal, or contains data, or is greater than, or is less than.
+
+[02:43] So only if that happens, and only if something else happens. So we could have multiple conditions. So this and something else. So here we've got an and between them, but we can change that to an or. Then we do something. If this isn't true, then we can have an else. So in other words, if this is true, do something, otherwise do something else. So let's bin those because I don't actually want any condition.
+
+[03:15] I just want this to happen for all rows. So the action that I want is set the total amount to be equal to, and we've got these formulas. So first of all, we have got add days, hours, months, weeks, and years. We've also got further down subtract. So in other words, I could take a day or two days away from a date. We've also got diff in.
+
+[03:42] So the difference between two start and end dates, in days, hours, minutes, months, weeks, and years. There's also concat. So this is short for concatenate. In other words, having two strings put next to each other. So if we had one string with hello, another with a space, and another with there, then if we concat that together, we would have the single text string hello there. We've got now, which gives the current time.
+
+[04:10] And further down, we have got trim left and trim right. Now in other programming languages, trim or L trim or R trim removes spaces from the beginning of strings. So if we had a string of hello and put a trim around that, then we would just have hello. However, what we've got in trim left and trim right is different, in that it removes text.
+
+[04:41] So if you've got the text hello there, and the number six, then what will happen is that the first six characters will get removed. So we will just have the word there. Similarly, if I trim right, hello there with six characters, then we would have hello and a space. So outside of all of these formulas, what would I use calculated behavior for? Well, you could use it for multiplying, adding, subtracting or dividing columns, calculating total costs, like in this example, and calculating follow up dates.
+
+[05:19] So in seven days time, for example. So let's add two columns together. Now, all of my columns have pb underscore at the beginning. So I defined that when I created my publisher. So let's scroll down to pb. So we have got the amount before tax and add onto that the sales tax. And let's click the check mark and then save and close. This will just take a moment or two.
+
+[05:51] So now let's go back into our expense table and have a look at the data. So here we can see the total amount being the amount before tax plus the sales tax. So now let's go into the form. And we'll edit it and I will add the total amount. There it is.
+
+[06:17] But notice we've got this little lock symbol next to it. So I can't edit it because it is a formula. And I'm going to drag it up after amount before tax and sales tax. So let's save and publish. And once it is published, we'll go back. Go to our view. Go to the active expenses view and I will add the total amount. There it is. To our view. So let's save and publish.
+
+[06:51] So now let's go back into our app. So let's see if we've got this new column already in our expenses view. So there it is. And let's go into the employee form. And there we can see the total amount. So let's save and publish and then play. So now if I click on expenses, there we can see the total amount.
+
+[07:25] If I click on an expense, there we can see the total amount. And if I adjust the amount before tax, you'll notice that the total amount is not instantly recalculated. And that's because when using the calculated behavior, a figure is only recalculated when a row is saved. When a row is saved. So now I've saved it, you can see the amount has been recalculated.
+
+[07:54] So it's not recalculated when a field that it relies on has been updated. So let's create a new expense. So this is a per diem. That is an expense for being away from the office. That's what a per diem is. So that's the name of an expense, an allowance that you've got over in Britain and in other places. So I will put this into the 1st of August, 2028.
+
+[08:25] The amount before tax, 5. The sales tax, 0. Again, you can't see the total amount. So if I add this to Susan Burton and then save, now we've got the total amount. So in this video, we've had a look at how to create a calculated column. So we go to tables, the relevant table. We go to new, create a new column. And the data types you can use include text, choice, yes, no, whole number, decimal number, currency, and date time with the behavior calculated.
+
+[09:03] And then once this column has been saved, then we can edit the calculation.

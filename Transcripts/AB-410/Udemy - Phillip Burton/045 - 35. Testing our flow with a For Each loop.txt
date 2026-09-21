@@ -1,0 +1,16 @@
+# 35. Testing our flow with a For Each loop
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 045 (section 9: Using controls in Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we created a scheduled flow with a for each control. In this video, we're going to test our flow. So let's just have a look at our flow. So every so often, I want you to go into the Dataverse, into the expenses table. I want you to initialize a variable. Now this could be before going into the Dataverse or after, but it just needs to be before we actually use it. And then for each row, which is in the output of the list rows action, I want you to append some information to the parameter or variable email text.
+
+[00:38] And then finally, I want you to give me the email text variable. So let's see if there are any problems. So you can see flow checker, no errors, no warnings. So let's save the draft. Let's publish this. And once it's published, then it will start running every so often. So you can see I've got a warning.
+
+[01:05] The action list rows does not have a select query, filter query or top parameter. So basically, it's saying that I'm using this list row actions without trying to restrict the information that it accesses. So now let's test this. So I will manually run it. So even though it is a trigger which uses a recurrence flow, you can still test it and run it manually. So let's click on run flow.
+
+[01:33] And you can see that the flow has successfully started. So let's see if it is successful. So yes, test succeeded. And if I go into the flow and expand the for each, you can see that it has used the for each seven times. So it has taken two seconds to go through each of these seven rows. And finally, it sent me a mobile notification.
+
+[02:02] And here you can see the notification. So it starts off. The expenses are paper and the amount. So Â£10 or dollars before tax, zero tax and 10 afterwards. And then we've got status 1, 2, 5, 4, 6, 0, 0, 0, 0, a 15 inch monitor for my desktop. So what's happening here? Well, the reason we've got a number and then the letter A is because I need a carriage return and enter at the end of the append to string variable.
+
+[02:34] But what's this number 1, 2, 5, 4, 6, 0, 0, 0, 0 about? Why is that the status? Well, we're going to have a look at that in the next video. So in this video, we created a Power Automate scheduled flow. So we went into the dataverse and listed all of the rows in the dataverse. And then we added certain information from those rows into a variable using a for each loop.

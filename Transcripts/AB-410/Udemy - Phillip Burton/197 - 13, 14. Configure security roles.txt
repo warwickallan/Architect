@@ -1,0 +1,28 @@
+# 13, 14. Configure security roles
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 197 (section 34: Configure Dataverse security and Secure a solution)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:09] Hello, and in this section, we're going to have a look at security, and we're going to start with security roles. So let's have a look at security. So in the PowerApps Portal, I will click on the gear at the top right. And go to advanced settings. And then from there, I'll go to system security. So this allows me to work with users, security roles, teams and business units. Let's start off with the security roles.
+
+[00:39] So here are a list of mostly built-in security roles. So let's have a look at the predefined security roles. Now, there are two which can be used without a Dataverse database. So they're the environment maker and there's also an environment admin. So the environment maker, he can create new resources in an environment. So he can create apps, connections, custom APIs, gateways and flaws, custom APIs that you use in programming.
+
+[01:13] He can also distribute apps to other users. He has no right, however, to access the data. So if you have a look at this, you can see most of these items are this, nOnSelected. So he can read connection roles. He can read email templates, language, mail-merge templates and he can use user entity instance data and UI settings for users.
+
+[01:43] So really he hasn't got much, but he basically can create new stuff. You can see this, if we go to the customization, he has a lot of reading abilities and some writing abilities as well. Now that's the environment maker, creating new resources. The environment admin, he can provision a Dataverse database. He can view and manage all resources created in an environment.
+
+[02:10] He can set data loss prevention policies, called DLP policies, and he can add or remove users from the environment, admin, omeka roles. So those are two security roles, which can be used without a Dataverse database. Now, when you create a Dataverse database in your environment, there are some additional ones. The biggest one, being the system administrator. So, the system administrator has full permissions to customise and administer the environment, including creating, modifying and assigning security roles.
+
+[02:47] So, once a Dataverse database has been provisioned, all environment admin users will be assigned the system administrator role and they can view all of the data. So that's the system administrator, the big one with a Dataverse database. The system customizer has got the abilities to customise the environment, so they can add new tables but they only have access to their own records.
+
+[03:17] We then have a basic user. So basic users, are allowed to run apps and to read, create and write and delete their own records. So, not other people's records. And then there's delegate. Delegate means, you can impersonate another user. So by itself, you've got very little additional privileges. So let's just have a look at the differences between the environment and the system security roles.
+
+[03:50] So the environment roles are for environments with or without a Dataverse database, but the system roles are only for those environments with a Dataverse database. The environment roles have no access to data. The system admin has access to all data, the customizer only to its own data. They can all create cloud flows, but with varying degrees. And the system admin and system customizer can do things relating to the Dataverse database, like for instance, tables, model driven apps, solution frameworks, and so on.
+
+[04:26] So that's the difference between environment maker admin and the system admin customizer roles. Now, if you wanted to create your own custom security role, you can do so by clicking on new here. So, we enter a role. So this is my new role and you can select what degree people have got access to. So you can locate tables and add permissions, read, write, delete, create.
+
+[04:59] You've also got a pen to which gives ownership of a record to another. Share, so this allows you to give access of a record or role to another. Append allows you to attach an activity note, an activity or a note to a record and a pen to, allows you to have a record attached to an activity or a note. One final thing about these custom security roles. You can also have a different inheritance.
+
+[05:28] You can have team privileges only. So, you inherit the ability to create or view records with your team, not individuals. The team would then be the owner of those records. If you have user access, then you'll be able for instance, to create your own records. So these are the security roles. So I'm just going to leave that there, and you get access to this by going get to the gear and fan settings.
+
+[05:57] Go into settings security and security role.

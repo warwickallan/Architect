@@ -18,6 +18,7 @@
 |---|---|---|---|
 | AB-100 — Microsoft Learn (Georgia Kalyva, 16 eps) | `Transcripts/AB-100/Microsoft Learn/` | 16 / 16 | — |
 | AB-100 — Coding With Chuck (46 eps) | `Transcripts/AB-100/Coding with Chuck/` | 32 / 46 | eps 33–46 members-only; membership now held |
+| AB-410 — Udemy, Phillip Burton (193 video lectures; 81 AB-410 + 112 bonus PL-200) | `Transcripts/AB-410/Udemy - Phillip Burton/` | 192 / 193 | L41 no captions · cut in `references/udemy-ab410-burton-analysis.md` |
 | AB-100 — Udemy, Phillip Burton (97 video lectures) | `Transcripts/AB-100/Udemy - Phillip Burton/` | 97 / 97 | — · captions pulled read-only from the enrolled course 2026-09-19; playlist/cut in `references/udemy-ab100-burton-analysis.md` |
 
 Fetched via `tools/fetch_transcripts.py` (anonymous, fine for public videos) and, where that is rate-limited or the video is gated, Claude driving the signed-in Chrome tab. Commit `4376f49`, 2026-09-18.

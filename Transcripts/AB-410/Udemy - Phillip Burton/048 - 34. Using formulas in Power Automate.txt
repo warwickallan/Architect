@@ -1,0 +1,22 @@
+# 34. Using formulas in Power Automate
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 048 (section 10: Using formulas and approvals in Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at functions you can use in Power Automate. So I don't think you will have to know too much about them for the exam, but it's useful to recognize that they exist. So if I go to FX, you can see the type of functions that we've got here, and you can create an expression with Copilot. So you can click on that and then describe the formula that you want to create. So some of the functions you can use include concat, so that combines two strings together.
+
+[00:31] So hello space there would be hello there. Now you'll notice that text underscore two has a question mark after that. This means that it is an optional input, and all of these functions are based on functions used in Azure Logic apps. Substring returns a part of a string, so we could have substring hi there everyone, comma six, comma five. So it says start at index number six, where number zero is right at the beginning.
+
+[01:07] So that would be zero, one, two, three, four, five, six. So start at the letter R and then give me five characters. Further down in collections, we've got length. So that returns the length of a string. We've got replace, so that substitutes some old text for new text in a string. To lower and to upper to return lower and upper cased text. Index of returns the position of a shorter string within a bigger string.
+
+[01:40] So remember the first character is zero. If the string is not found, then it will return minus one. Starts with and ends with returns true or false. If a particular string starts or ends with a smaller string, it could be the same size string as well. Split creates an array, so that means multiple values. So it would split text by separator. For example, you could split a sentence by a space, and therefore each word would be a different element within that array.
+
+[02:12] Trim removes leading and trailing white space from a string. Not to be confused with trim left and trim right that we saw when looking at calculated columns in the dataverse. And we've got format table. So you may have noticed in our mobile notifications that when the cost was $10, it just said 10. So format number could convert it into $10. So we have the number and then the format and optionally the locale. For example, EN-US would be US-based English.
+
+[02:45] The format could be things that you use in Excel, such as 0,000.00, which would format it to two decimal places with a thousand separator. Or it could be a letter like C for currency, D for decimal, and so on. So we've got various collections functions. So they're largely for arrays. We've got logical functions such as if. So if a condition is true, then give me this value.
+
+[03:14] Otherwise give me that value. Equals returns if two objects are the same. And returns true if both conditions are true. Or returns true if either or both conditions are true. Not only returns true if the condition is false. And we've also got things like less, less or equals, greater, greater or equals, and so on. Conversion functions include array, binary, bool, float, int, and string. And we've got other functions as well, such as math functions and workflow functions, which gets inputs and outputs from flows.
+
+[03:55] So in real life, if you're creating an expression, then if you don't know what function to use, then you might want to create an expression with CoPilot. So for example, I want the first three characters of the description. And click create expression. So this will just take a moment. And here you can see that it's using the substring function and taking the pb underscore claim description and giving me from character position zero, which is the beginning, the first three characters.
+
+[04:31] I can then click okay. And if I was creating my own function, then another way of getting the pb underscore claim description is by using dynamic content. So I search for description and there we have claim description. So in this video, we've had a look at various functions you can use in expressions within Power Automate. So to access them, you click on the FX button.

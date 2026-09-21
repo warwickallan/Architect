@@ -1,0 +1,36 @@
+# 46. The Clear and ClearCollect functions
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 149 (section 27: Collections)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:01] In the previous video, we added a record to a collection. We didn't need to initialise the collection, just like variables, we just had to say add to a collection and that was sufficient to initialise it. However, we are able to add multiple rows, using the on start for the app. But maybe if I didn't want multiple rows when it started, I just want to have one row. I want to get rid of my collection and then add a new item.
+
+[00:29] Well, I can do that with the function clear. So clear and which collection you're going to clear. It leaves a blank collection. However, the columns that have previously been defined, in this case, image and text, remain. So now when I run on start, it clears the collection and then adds an additional record. Now, I can combine these two in one and that is the function ClearCollect.
+
+[00:59] So it clears the collection and then adds a record to it. Now, I say it adds a additional record to it. You could always have additional records as well. It doesn't need to just have one. So maybe if I wanted to have two, I can just paste it again and say please capture your images. So that would add two records.
+
+[01:31] So if I run start, there we go. Now, let's add a second screen to this. So a new screen and I'm going to put a form for the gallery, exactly as we did previously. So I'm going to add in a form. Let's make it a display form. It's not connected to any data yet. So we'll connect it to the collection, My Collection. And we'll add the fields. Oh, and there's a problem.
+
+[01:59] Unfortunately, you can't use forms with collections. It doesn't work. So instead, what we're going to have to do is have a label, so we'll go into text, there's a label and we'll have an image. So we go into media and get an image there. And then we're going to assign for the image, which image it is. Well, we're going to have the Galley, so we have Gallery1, the row that is selected, and the image from that particular row or record.
+
+[02:35] And same here. So let's put this centre aligned, make it a bit bigger and in the text, property again is going to be Gallery1.Selected.Text. So this is welcome to the app. So let's now add a back icon. So maybe I'll do a cancel one this time. And this will be OnSelect just a simple back and then we have this OnSelect.
+
+[03:13] So that selects the parent, so I'll select the gallery, then we'll go to OnSelect and we will navigate to Screen2 and we will CoverRight. So if you have a look at it now, we can go to a particular item. There we are, I think maybe Cover Left would be better, which is just called Cover. So let's just change that. Right, so I'm not able to add camera images here.
+
+[03:50] If was using a add picture control, I could always upload images that I've previously captured but I want to be able to test it on a tablet device. So let's save this. So we'll save it as collection, click Save down here, bottom right. Right, so that's saved. So I'm going to now close it. And let's go back into make.powerapps.com.
+
+[04:22] And need to refresh the list. And there is our collection. So what I'm going to do, I'm going to go back into this and edit it and hopefully, I'll see in my browser top left that this app wants to use the camera. So let's just have a look. So I'll skip that. Right, sometimes it's on the top left. Here it's on the top right. So this camera blocked, this page has been blocked from accessing it.
+
+[04:51] No, I want to access my camera. So we can see my camera here, a webcam, so let's click Done. So maybe if I click on manage, and automatically blocked. So we can see it is now being allowed. So there it is. Right, we have my camera working. So I have a snow globe. There we go.
+
+[05:19] So a Mickey Mouse. So I'm going to type in here, I'm going to play Mickey. And let's just do that again. Click that and now we have a Mickey photograph. So if I close this down, so I will leave, done. I can play this.
+
+[05:47] So you can see, needs permission to use your camera. That's where I was expecting it, so I'm going to click Allow and Allow. And here we go, so this is a live picture. We have the two records that have automatically been added. And let's click there, there's a third record. Oh, I should have said Mickey. There we go, there is Mickey.
+
+[06:17] Now, I probably need a button to clear all of this as well. So let's go back in and edit this again. We'll add a button to clear the collection. So we can see the camera is being used. So Insert Button. So I can make it more curved if I wanted to. We can see we've got just curved edges, so I'll make it a bit more curved.
+
+[06:46] You can see here the border radius. So I'll say clear collection. And OnSelect, this will be Clear, open bracket, MyCollection. Make it a bit more central, make that a bit more central. Save this. Need to publish it because saving is not sufficient. You also need to publish it if you actually want to use it. Let's go back in here.
+
+[07:20] Play. And I haven't got the Clear Collection button at the bottom. But at the top it says You're using an old version of this app. Please refresh to get the latest version. So always make sure that when you are testing that you've got the latest published version and that that version is live as well. And there we are, there is Mickey. Now, the problem with this is that if I go away from it and I come back in again, it's not saved.
+
+[07:56] My Mickey globe is no longer here. So we can't retain the data in the collection for the next session but we can actually do that with two functions. And we'll have a look at those two functions, save data and load data, in the next video.

@@ -1,0 +1,28 @@
+# 34. Dashboard - enabling global filters
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 169 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video, we're going to have a look at filtering and sorting. So first of all, we've got the time period filter here. So you can see if I say, last quarter, then this stream changes to the last quarter. If I said this quarter, then it changes again. We have visual filters. So if I load them up, you can see again, these visual filters, these charts are filtered by this timeframe.
+
+[00:30] And then if I click on a particular value, so for instance, I'm curious about this $1,937 for Redmond, then you can see it is built up of these of four values in these three accounts, and you can see the information about them. And of course, these are cards. So we had a look at how we can edit the cards, if you so which. Recently you notice that we've got the little image here on the left hand side.
+
+[01:01] So that was the image that we used, when setting up this expense, it was the expense receipt. So I'm going to clear this visual filter, and I can hide the visual filter again, if you so wish to. Then there are global filters. So global filters, you can filter on a particular column, but there's nothing set up. So how do we set it up, well, we set it up as part of the table definition. So let's say I wanted to go into the expense table.
+
+[01:31] So home tables, name of table, and I wanted to filter on expense value. In the Advanced Options, we have got appears in global filter in interactive experience dashboard. So I want to use this. So I'm going to just check that and click on Done. Now it should point out that not all things can be used. For instance, description can't be used as a text field, right.
+
+[01:58] So going to now save this table. we're going to refresh this, show global filter. And here, we can now see that we can filter on the expense value, and we have got the minimum and the maximum. Now bear in mind the expense value, I have not actually restrain the minimum and maximum. So they are really big figures. So you might want to have some more sensible values than minus 922 billion.
+
+[02:26] So let's say I'm going to show the global filter. And I want this to be Ctrl+A to select everything, between zero and 62. And now we can see we've got some icons, we've got a clear icon. So that resets everything. So I'll just do that again. Up here, we have got apply, we have again, clear all global photos, and save as a reusable filter.
+
+[03:01] So what we're going to do is apply all global filters. And you can see now, because this is the only one which is shown in the expense value that this is now being filtered. So zero to 62. So what I'll do again, I will show that and I will save it, maybe zero to 62 is important. So I'll save as a reusable filter, and call it zero to 62. So there we go.
+
+[03:28] We can now save that. So now it's saved. And you can see it comes up here in the saved filters. So let's change this. So now this is from 10 to 52. So zero, or 10 to 52. If you find things don't seem to work, just clear it and start again from the beginning. So now when I go back to my global filter that are previously saved, I can just click on the Apply save filter, you can also see Set as Default, and delete are also options.
+
+[04:02] So in this video, we've had a look at filtering, what about sorting? While I can sort here, currently it is sorted on modified on. But here have only got the one particular column, the modified on. So why is this? Is because I've not specified any columns to be included into sorting. And again, this is part of the definition. I have got a sortable in interactive experience dashboard. So I'm going to apply that to the expense value.
+
+[04:33] So I'm going to click Done. Save table takes a few seconds. And then when it's done, I will go back into my Power App. I'll refresh. And now when I go in, I can now have a look at the expense value sorting as well. So that's how we can sort by expense value. And I can sort it descending, or ascending. Now there's a little icon here with two checkboxes and some text.
+
+[05:05] If I click on that, then I can select Items. And I can do bulk things to them. So I can delete them. Or I can activate them to change the status to activated or change the status to inactive. A few other things, I can share, I can export the selected reports and so forth. So in this video, we've had a look at filters, we had a look at visual filters. So I can just click on a particular item and see how that's built up.
+
+[05:36] We've had a look at global filters. So I can go into a table and say I want to filter by a particular column. And we've also had a look at how we can enable sorting to happen from a column. It's all there in the table definition in Advanced Option.

@@ -1,0 +1,46 @@
+# 46. Global variables - seeing one account's expenses, or all expenses
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 129 (section 24: Expanding our canvas app further, including using variables)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video, we're going to add another screen, a menu screen. It's going to have some buttons on. So, it allows us to go to the accounts or to the expenses. So, let's add a new screen. So, going to rename this and I'm going to call it double zero menu, double zero. So, if I sorted it in alphabetical order, it will go right to top, but I'm just going to move it up to the very top like this. So, what we're going to have is some controls.
+
+[00:32] We're going to have, specifically, some buttons. So, we're going to have an input, insert input, some buttons. So, there's one button and I'm going to call this. So we'll go to the text, view accounts. There we go. And you can see we've got all sorts of different colours like for instance, the colour when you hover over it, and the colour when it's disabled.
+
+[01:04] In other words, when you are not allowed to press it. And we're going to have another one, and I'm just going to copy and paste that. And this is going to be view expenses. So, what's happens when I select this, then I want to navigate to the account browse screen. And when I click on this one, I want to navigate to the expense browse screen.
+
+[01:38] Okay, so far so good. Now, I can always improve this by adding text. I can add labels. I can add maybe some images or other things, just to make it look a fair bit better. But now, if I play it, I click on that. I get to this account screen, if I do to again, so I'll go back to double zero menu, and play again, click view expenses, and hmm. I'm not viewing all of the expenses.
+
+[02:09] Notice I can also go back to this screen, whereas I can't go back from the accounts. So let's just solve that problem first, cause that's an easy one to solve. So move that to one side, insert an icon, a left arrow icon, and that's just going to say OnSelect back. Right, so that's easy enough. But I want to see all of the expenses. I don't just want to see litware. So, it makes it not easiest thing to navigate, if I have to go to, say, City Power and Light and then go back and back and then go view expenses, and just see City Power and Light.
+
+[02:47] I want to see all of them. So, in other words, I want to have two sorts of modes. I want the mode where I'm viewing accounts, and that I go to a particular account and then I can add an expense for that account. But, equally I want to be able to see all expenses here, not just City Power and Light. So, what I'm going to do is create a variable. So, the variable is going to be use account yes, if I'm going to view accounts.
+
+[03:16] And then if I go through, I will get, for instance, the default account there. And alternatively, I want to have a view use accounts no, if I'm going to view expenses. So let's do that. Now this is going to be called a global variable. A global variable, as opposed to a context variable which we'll have look at later, can be used over multiple screens. Context variables are used for one specific screen.
+
+[03:46] So let's add in a variable here. And it's very easy to do. So I'll just put a semi-colon to separate one function from another, though obviously, if you're in a non-English locale, you may need two semi-colons. And the way to set and create a variable, is use the word set. So, this is the equivalent of let in very old languages, you were talking 1980s, where you would have the let command.
+
+[04:16] So, I'm setting the use accounts vulnerable to one, And then I'm navigating across. And equally, if I click on view expenses, I am setting the user counts to zero, and then I'm navigating through. Okay, so what can we use with this variable? How can we use it? Well let's go to the view expenses screen. So here, and we'll click on the gallery and you can see that the items are being filtered down based on the account gallery selected.
+
+[04:55] So, I'm going to put an if statement. So, if this is true then do something else, do something else. So, if the user accounts equals one, then we're going to use this accounts gallery. If not, then I just want the entirety of the expenses table. So, hopefully you can see how that works. I have a variable which I previously said, it is a global variable, so it can be used over multiple screens, if it is equal to one.
+
+[05:27] So, I've gone through the account section. Then all I want to do is see that one particular account, all of the expenses. If not I want to see the entirety of the table of expenses. So, now let's have a look at this, let's play. So, if I go through view accounts, go through Coho Winery, go through receipts, no receipts whatsoever. Let's just make sure it's working. We'll add a receipt. So, just $1 very cheap and select that.
+
+[06:01] And they are $1. However, if I go through view expenses, this gives me the entirety, including the $1 that I have just created. Okay, that's good. Now, if I add an expense, I want to be able to choose the account and I don't want to have a default. If however, I go through a few accounts then I don't want to be able to select my account. Okay. So, what we do is, we go to the expense edit screen.
+
+[06:40] So let's go into this combo-box, where we've got the DefaultSelectedItems as the gallery, account gallery dot selected. So again, if we are using accounts, so if user counts equals one, then give me that. If not, give me absolutely nothing, but you can see that doing two sets of speech marks, doesn't work in the Power Apps in this particular context, because we have a data type control, and then we have some text.
+
+[07:17] Those two aren't the same. So what I need to use instead, is blank open brackets, close bracket. So that is a Null data type. If you're familiar with Nulls, if not, it's just blank. So that gives me my default. Next, I want not to be able to edit this, if use accounts is equal to one, okay. So, we've got two different ways of doing this, We can either make it invisible, or it can make it un-editable.
+
+[07:46] So, let's have a look at making it un-editable. So, you can see this is part of display mode. So, if views accounts is equal to one, they give me a display mode of view. So, if I go through the accounts, I just want to be able to view it and, if I go through the expenses direct, then I want to be able to edit it. Equally, if I went into the visible, I could say if user accounts equals one, comma, false, comma, true.
+
+[08:16] In other words, I want to say, if I go through the accounts section first, then I don't want to see the account card here site. So, let's have a look, see how we do. So, if I go through view accounts and go through Sixth Coffee, and add a new Sixth Coffee, you can see I can see the account. I can't edit it. So, let's add an expense value. So, this is a small amount, make it $10, put in a date, click okay.
+
+[08:53] So, here we have our $10 amount and then let's go all the way back. If we're clicking a lot of buttons, we might want to put a home button to be able to go all the way back here. If I'm viewing expenses, I view all of the expenses. So here is the $10 expense. And then I want to add a new expense. And the account DefaultSelectedItems is blank. And I get to add my own account.
+
+[09:23] So, I can say which account I want. So let's add this in. And there we have our $11. And if we were to view accounts and Sixth Coffee and then going to expenses, we can see the $11. So, in this video we've been looking at global variables. So, global variables are assigned using the set function.
+
+[09:55] So, here I'm setting a new variable, use accounts to number one. Now I could be using a string. I could be using records, I could even set global variables to a table if I so wished. Now, it is despite the word set, which is used in some languages to make a link between this, the variable, and what you're setting. It's the equivalent of a let, there is no link.
+
+[10:22] So if I was to set, a variable to a record and then I changed the record, then the variable would not change, there is no link. Once I set it, then it retains that value, until I change it in the variable. And I can view all variables that I have created, by going to variables. So, here we can see the variable, the definition. So, in other words, when I've set it, the uses and indirect uses as well.
+
+[10:58] So these are global variables set using the set function.

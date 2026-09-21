@@ -1,0 +1,40 @@
+# 15. Create tables and table columns by using Copilot in Dataverse
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 117 (section 22: Other ways to create tables, and importing and exporting data)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English [Auto]
+
+[00:08] Hello. And in this section we're going to have a look at other ways to create tables and import and export data. And in this video we're going to be using Copilot. Copilot is Microsoft's version of artificial intelligence which it has put into a lot of different applications, including the power platform. Now, Copilot is there to sit beside you and do things such as designing tables and creating apps. So let's see how this can work.
+
+[00:38] If I go into the tables tab on the left hand side, I can click on Get Started with Copilot. And then I describe what business problem I want to solve. And it will generate the tables that I need. Now if you want to create tables and an app then instead of going to tables, creating the tables, using copilot, and then creating the app. We can do it all at once by going to apps and click on start with Copilot.
+
+[01:09] This will create dataverse tables and an app. So again describe what problem you want to solve. I want to track employee vacation time. And we've got various options. You can ask the computer to create one table or multiple tables. The table size could be small, medium or large. And you can include relationships. Now I'm not going to select any of those options.
+
+[01:38] And I'll just click on generate. And you'll see on the right hand side. Got it I'll create tables for you. So this will just take a few seconds. And you can see that the computer has created two tables employee table and vacation table and has put a one to many relationship between them. It has also defined keys as well. Now let's say I wanted to rename this vacation table to employee vacation.
+
+[02:13] Well, I can ask copilot to do this by saying if I click on View prompts, change rename the selected table to. I can also rename columns and change column types and relationship types. Instead, I can also click on the dot dot dot and go to properties. So here I can change the name of the table. So I will do that. I will call it employee space. Space vacation.
+
+[02:42] And if that name is not available then you can go into advanced options and change the internal name. So I'll call this employee vacation two and click save. Now I can also show data related to a table. So the computer will generate five rows of data. So if I click on the dot dot dot and go to View data, here we can see the data for this employee vacation table.
+
+[03:10] I've got vacation employee start date end date and status. And you can see from the icons the vacation column is text. The employee column is a lookup column using the related table. Start date and end date are date and time, and the status is a choice column. And you can change any of these options by clicking on the drop down and going to edit column.
+
+[03:45] You can also change them by asking copilot to do that. For example, I want to add a new column. So you can see I can create a table or multiple tables or rows or columns or create a relationship between. So I'm going to click on Create Columns for and that gets pasted into my prompt. So I'm going to say the number of hours on leave and press enter. So the computer will just take a few seconds.
+
+[04:17] But then it will come up with a suggested solution. So here we can see number of hours on leave. Now these all look like whole numbers. And if I go to edit column you can see that the data type is indeed whole number. So I can change it here. Or I can ask the computer to change it. So I can say change the data type of number of hours on leave to allow floating point numbers. Notice I'm not saying decimal and the computer then works on that.
+
+[04:54] And let's have a look at the new data type and the sample data. So we can see that if I edit the column, the data type is now flawed and the sample data has not changed, it is still whole numbers. Now if there is something done that you don't want to have done, there is an undo button. Now, I don't like the fact that an employee name is being used as the primary key. After all, there might be two Alice Smiths in your organization.
+
+[05:29] So let's go into the employee table. So I'll view the data there and say add a primary key such as employee 001, employee 002 to this table. And in just a few seconds we can see we've got a new primary key. So let's rename primary key as employee key.
+
+[06:08] And I'll click on the employee vacation table. Let's view the data and say change the relationship between the two tables. Tables so that it uses the employee key column. So you can see that it can't do everything.
+
+[06:42] So I'm going to now remove the relationship Between these two tables. So it has now been deleted, it says, but it seems to be still there. And let's go into the employee vacation table and say add a lookup column based on employee key in the employee table.
+
+[07:15] So you can see not everything can be done at this stage using copilot. However copilot keeps improving. And so there are things that you will need to do manually. So let's do some additional things. I want to add a column for the approver or manager because somebody has to approve the leave. And then after that I'm going to ask it to add another five rows. So this gives me ten rows of data.
+
+[07:47] But suppose I didn't like all of those rows of data. Well, I can say that I want to to remove row seven. And you now can see that instead of having ten rows of data, we just have nine. Now if you need to add additional rows or columns then you can do so. You can also change the row ownership from rows owned by a user or team to an organization. You can also change the table properties.
+
+[08:22] You can add new tables, maybe based on external data, or you can add existing tables from the dataverse. So here you can see a list of all of my tables. And then you can also create relationships between these tables. Now once you've got everything sorted you can save and open a canvas app or a model driven app. So I'm going to save these tables and open a canvas app by clicking on Save and Open app twice.
+
+[08:55] Now this will just take around one minute. So I'm going to pause the video until it's finished. So after a minute we have this power app. So if I play it I can have a look at the vacation requests and also the employees themselves. So in this video we've had a look at another way of being able to create an app. So I can do this by going into apps on the left hand side and clicking on start with Copilot.
+
+[09:32] And if you just want the tables to be created and not the actual app as well, then you can do that by going to tables and click on Get Started with copilot.

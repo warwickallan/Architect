@@ -1,0 +1,40 @@
+# 46. Context variables - adding a Sort icon
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 130 (section 24: Expanding our canvas app further, including using variables)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video, we're going to add an icon that we haven't previously added. And that icon is the sort icon. So at the moment, this is sorted in alphabetical order. Let's suppose we wanted it sorted in reverse alphabetical order. Well, it's very easy just to add the icon, it's in icons there is sort. So let's add that in. So what I could do in the unselect, is to use a set. So we could set a sort descending.
+
+[00:33] And we can say, okay, if it's already sort descending, then I want it to be the opposite. So you could say, if sort descending, is equal to one, make it zero, otherwise, make it one. And that would work, this would be a global variable. However, we have a sort ascending or descending here, in the accounts browse screen, we might have another one in the expense browse screen, we might have another one elsewhere.
+
+[01:04] Now, we don't necessarily want to have the same variable used in lots of different screens. We'd have the same view, so if I sort descending in accounts, it would sort descending in expenses, it would sort descending elsewhere, maybe they should all be independent, maybe the scope, or the variable should only be this one screen. And then when I got out of the screen, it loses the scope, if it gets the value.
+
+[01:32] So that means I can reuse it on different screens of exactly the same variable name, so I can increase reusability. So to do this, instead of using set, which is for a global variable, I use the one word updatecontext. Now we have a few other things we have to do. First of all, we have to put what I'm updating in squiggly brackets.
+
+[02:02] So here we have my sort descending, and instead of a comma at the end, I put a colon. So you can see that I'm now having a context variable called sort descending, if it happens to be number one, then make it zero, otherwise, make it one. Now, what I can also do at the end of this is have additional context variables so context one colon one context two colon two.
+
+[02:31] I've assigned the value one to a context variable called context one, and the number two to a variable called context two. I can't do this with set. If I use set, like I do with the menus, if I wanted to set another variable, I would have to put a semicolon and use another set function. Now, just like global variables, context variables are also available in file variables.
+
+[03:04] So you can see here I've got the context variables for the account browse screen. So there's a global variable, and there is a context variable. So let's go back to this sort icon. So I'll just keep it to this one item. And now let's click on the gallery. So I've got sort by columns, brackets, accounts, common name, comma, ascending, so it's this bit I'm going to change. So if sort descending equals one, then we sort descending, otherwise we sort ascending.
+
+[03:47] So there we go. So now let's give this a try. So we play this, go, view accounts, and click on sort and it resorts. So if I go into something like Safe Coffee, go back, we still have it descending until I tried to do otherwise. Now let's go and copy this into my expenses. So going to the expense browse screen, paste it in. I keep the same name sort descending, and this is my table.
+
+[04:22] It's getting quite complicated now but hopefully you understand why it's getting more complicated. So this is my table that I have created. And then I need what I'm going to sort it by, so I'm going to sort it by value. So I think that's this one expenses value. And let's sort it ascending. So hopefully in a few seconds, if we've got it right, we can now see everything.
+
+[04:51] So now we put in the same code here at the end, change ascending to if sort descending, then is one, then give it to me, descending otherwise, give it to me ascending. Close the brackets, get rid of that. So there it is, I'll just make this slightly deeper, so you can see it better.
+
+[05:19] Certainly we can format the text if you so wish. And I'll make this now a lot deeper, you can see how it is formatted. So at each level it is inserted a new line, and then done an indent based on the level of insertion. So you may find this easier, you may find it not. So that is there when you start getting really complicated formulas. So now let's have a test. So I'll go back to the menu.
+
+[05:47] So I'm going to view accounts and I'm going to sort it descending, I'm going to view expenses, and I'm going to sort it. So I'm not at the top so you can see now it's a bit clearer, 110 11, etc. Now, so that is ascending. And if I go back to view accounts, it is still descending, the scope is just that screen. So I'm using the same variable name.
+
+[06:17] But the fact is that I'm not altering what each individual variable on each individual screen has. Now one more thing about context menus. When I use the navigate, there are up to three arguments, I can specify, the first argument is required, where am I going? So which screen am I going to? The second is a screen transition. So the default for that is screen transition dot num. The third, which we haven't got to before is, are there any context variables you want to assign a value to?
+
+[06:53] So I could say sort descending zero. So if I copy this, and we say instead of just view accounts view accounts ascending, and then for this one, view accounts descending. So for this first one, I'm going to say sort descending zero, for the second one, I'm going to say salt descending one.
+
+[07:26] Again, it must be in squiggly brackets when you are using context variables, so no squiggly brackets for global variables, the squiggly brackets and column or context variables. And then I'm going to have a newer button, which is just going to be view accounts without this third argument. So sort descending is just going to be whatever it is. So now let's play and have a look.
+
+[07:55] So if I view accounts, you can see that at the moment it is descending. If I click view accounts ascending, well, go into that screen, and it's now sending, because the variable is ascending, so it might just help perhaps, if I insert a label right at the top, and this text is going to be sort descending. So you can see whatever it is set to zero or one. So if I click view accounts, it's set to zero, it is ascending, if I click view accounts descending, it is now one, it is descending, I can change that with the icon.
+
+[08:31] So now it's number one, If I just view accounts without altering the sort descending variable, it's just whatever it happens to be. So in this video, we've had a look at context variables. We've seen how it varies from global variables, global variables are for the entire app, context variables are for just one particular screen.
+
+[08:59] And you set global variables using the set command. You do the same for context variables using update context. Important you use update context, because update just by itself is a completely different function. It updates a record in your source data. And you have squiggly brackets around what you're doing and you use a colon to separate the context variable from the value. And in context variables, you can update more than one context variable once, with global variables, you have to have separate set functions for that.

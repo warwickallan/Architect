@@ -1,0 +1,20 @@
+# 1-4. Identify required Power Platform components
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 206 (section 36: Other topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello. And in this section what we're going to do is just have a look at the rest of the requirements for the PL 100 exam. And to be honest, most of the rest of the requirements we can do very quickly you'll already know all that you need to know. So first of all, determine the required Power Apps. Well, if you are going to ask for information then you're probably using a Power App as a Power Automate has more to do with flawless though you can request information that starts with a Power Automate flow.
+
+[00:29] But then the question is, do you want to use a canvas app where everything has to be pixel-perfect? So you want to be able to put things exactly in the right place, or are you using a model-driven app which is dependent on the views, the charts, the forms the dashboards that you create from data in the Dataverse. Identify existing resources and licences obviously. You would know what existing resources you've got and existing licences.
+
+[00:58] You know, that Power Apps costs $10 per user, per app, per month, or $40 for the unlimited plan per user per month. You've also got access to the develop a plan as well but that can only be used for development and non-factual production. You've also got the Power Automate licencing: the per user plan being $15 per user per month. You can also add robotic process automation and you can also licence by flow.
+
+[01:29] And Power BI can also be licenced as a free version. And then those are where you can share all of your visualisations, your dashboards, your apps. So that's $10 a per user per month or you can go for the premium. So that's $20 per user, per month or a premium capacity of around $5,000 per month upwards. Now some of these may also be included in of a Microsoft 365 packages.
+
+[02:00] Identify the gaps between existing functionality and requirements. So you obviously have a problem. What is the problem? Where is the gap? See where that problem is in terms of how power platform can solve it. So is it to do with automation in which case go for how to automate. Maybe people need to enter things in the right order, in which case you might have a business process rule or maybe there are some things which are needed in sometimes and sometimes not.
+
+[02:32] So that could be a business rule. Identify the required business processes, well hopefully the above will have got you to that. And then if anyways, accelerators Microsoft apps, and services and third party solutions, et cetera, things that you can get you to your end goal more quickly. So things like templates, for instance: Microsoft app and services. So maybe using Microsoft Teams to host your apps, so they can be more integrated with channels and third-party solutions.
+
+[03:04] While we had to look at a one third party solution for developing JSON and we've previously had a look at describing connectors including standard premium and custom connectors. So generally premium of those things that would cost money in the outside world on a monthly or annual licence. It also includes a Dataverse, database. Custom are things you design and standard things that are generally free on an open basis or powered by Microsoft 365, or the power platform.
+
+[03:35] So this is all you need to know in terms of identifying the required power platform components and having gone through this course you should be fairly confident in being able to do all of this.

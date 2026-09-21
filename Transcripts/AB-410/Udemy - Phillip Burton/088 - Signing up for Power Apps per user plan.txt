@@ -1,0 +1,16 @@
+# Signing up for Power Apps per user plan
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 088 (section 18: Installing Power Apps and Environments)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, I'm going to sign up to Power Apps and I'm going to use the per user plan. So I'm going to click on buy now. You could also try it free as well but I'm going to use buy now. So it's going to ask me for my work email address. So I've got one here. So it says that it looks like I'm already using this email with another Microsoft service. So if that's the case, I can sign in, if not, then you'll need to perhaps create your own Microsoft account but it will show you how to do that.
+
+[00:35] So there is my password and now it continues with the next stage. So can you confirm the location? So I'm going to confirm United Kingdom, Â£30.20 which is $40 per user per month. Create your business identity. It would have asked me, except I already have done. Now, it's going for payment and billing. So I'm going to click add a payment method, and now you can see that I need to enter my payment method.
+
+[01:06] Accept Visa, MasterCard and American Express. And then I will click save. And having done that you can now see the summary so Power Apps per user, about $40 and address sold to, payment method, tax ID if you want to add that, and here are my estimated taxes. This is value added tax in Britain. And then finally, do you want to receive information tips and offers from Microsoft?
+
+[01:34] So you can check or uncheck that. After that I'll click on placeholder. Now you can see we're adding products to the account. This will take a minute. And now assigning your licences and updating invoice settings. And now you can see I can start using this so I can click on, get started. And here I am at the homepage make.power.apps.com and that's a URL or web address.
+
+[02:05] I suggest that you memorised make.powerapps.com. You can see at the moment there is a particular preview but if you go to make.powerapps.com that will get you to the right page. So you can see make your job easier. Build custom apps in less than a day, considerably less I would say. You can automate routine tasks, predict new opportunities with artificial intelligence. However, it should be noted that the AI builder is $500 per unit per month charge.
+
+[02:40] And build on your data. Build apps connected to data from SharePoint, Excel, SQL, Dynamics, SAP Salesforce. Some of these are premium connectors. We'll go onto that into this course. And more so click let's go and here you are. So this is the environment for the Power Apps and this is where we will be when we want to go to the Power Apps portal homepage. So this is how you sign up to the Power Apps per user plan.

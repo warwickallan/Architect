@@ -1,0 +1,12 @@
+# Adding an Expense subgrid into the Employee form
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 031 (section 6: Building relationships and calculated, formula and rollup columns)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So you can see that we've got four expenses, three for me and one for Jane. Now if I go into the employees and click on me as an employee then you can't see my expenses because this is all about the employee. However I can go to related and expenses and there you will see my free expenses. Alternatively what I can also do if I go back out, so let's go back to make.powerapps.com is go back to tables, to the employee table and then go to the form, edit the form that I'm using and go to components on the left hand side and I will add a subgrid.
+
+[00:44] And this subgrid is about the expenses table and I will use the active expenses view. So let's click done and there we can see our subgrid. I'm going to change the label to call it expenses and if I didn't want this on the main page but I didn't want to use related then what I could also do is create a tab for example and have this in the tab. So let's save and publish this.
+
+[01:17] And then let's save and publish the app again and play. And if I go into an employee we can't see the latest form even if I hold down control and shift and one possible reason for that is because I may need to go out of this app designer. I may need to go into solutions and click on publish all customizations and just wait a few moments and now let's go back into our app.
+
+[01:58] Click on the employees form and there we can see our subgrid. So now let's save and publish and play this. And if I go to me as an employee there we can see my expenses. So in this video we have added the expense table into our model driven app and we have also added some data. So we have added it on the left hand side but we have also included it in our employees form using a subgrid.

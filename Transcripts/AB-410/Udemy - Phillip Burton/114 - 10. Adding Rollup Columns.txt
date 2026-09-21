@@ -1,0 +1,26 @@
+# 10. Adding Rollup Columns
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 114 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video, we're going to have a look at the other thing we can do which is a rollup column. A rollup is a summary of a series of rows. So for example, we've got this expense table which has expenses for a particular account or maybe in the account table, we want to know the total number of expenses so we can add that as a column. So total expenses. Make sure you get the data type right. It must refer to what the expenses is in this case which is a currency.
+
+[00:33] You'll see that if I get the data type wrong, I won't be able to do this rollup column. So, let's now add our rollups so we have to save the table and after a few seconds, this appears. So it says, "Where's the source entities or source table?" Well, it's the account. There are some advanced things that you can do with hierarchies. For instance, maybe a manager wants to know how many employees he's got.
+
+[01:01] That would be an hierarchy. So what's the relater table? Well, the relater table in this case is the expenses table and then what's the aggregation? What is the summary? So we can use sum min max average and you may also be able to use count as well for instance, count the number of rows. But here, I'm going to sum the expense value and you can see that that is the only column I can use. That's the only one which is a currency.
+
+[01:31] Now. let's just have a look at the bottom bit because this is quite important. So, this mass calculation job will be scheduled to run approximately 12 hours from the time that the row field is saved. In other words, it doesn't happen immediately. So, if you're finding that you need something while you've got an immediate output, well, I'm afraid a row field is not your answer so this is something where it can be delayed.
+
+[01:58] Now, once a mass calculation rollup field has done, then you could have a calculate rollup column job and what that does is it does incremental small calculations of rollup columns in existing roads for a specified table and that can be done every so often. Again, it's not automatically done instantaneously. It is automatically done, but it's just not instantaneous.
+
+[02:26] So let's check that, save and close and that is our total expenses done and you'll notice that we have got some additional columns added. So when was it last updated, for instance? What's the state? So the state could be the calculated value is not yet calculated or it's being calculated as per this time, or it failed because it overflowed or an internal error or some other error.
+
+[02:55] Now, if I try to do this again, so I'll call this, "Total Expenses 2," and I call this a decimal number. You'd think currency and decimal number, this should be relatable, but you'll find that when I try to do this rollup, I simply can't do it. So, I choose my relater table so my relater table is an expenses table and then I choose my aggregation. So, my aggregation is a sum of and it won't let me do any related columns because there are no related columns which are decimals.
+
+[03:32] It also said it does allow me to use a count. Just one last thing, I could add in a filter. So for example, where a particular field column contains data or doesn't contain data, for example. Or for example, if the expense value is greater than 500 or is greater than another column, then I want to only include those values.
+
+[04:01] Now, as I said, it doesn't automatically recalc immediately, it automatically recalculates but at a time chosen by your administrator, let's say. So, we can have a look at it by going into settings, advanced settings, and then in the system section, we have got system jobs. And if we change the view from all system jobs to all rollup field calculation jobs, you'll see that there are two jobs for this new calculation.
+
+[04:34] Firstly one for the column itself, this calculates 12 hours after updates, and that means that it calculates in non-operational hours of the environment. So, if I'm updating at eight o'clock in the morning, then it knows that eight o'clock clock in the evening is probably a good time to calculate. Nobody's going to be using it. It's going to be more processing power available, Calculate rollup fields, that's for the entire table and that does incremental calculations of all rollup columns in a particular table.
+
+[05:03] And if I click on any of these, you can see we've got various actions that we can do. So, rollup columns, largely they are there to have a look at one table in relation to another table. They can be used for hierarchies in a more advanced way. So here in the account, I'm asking the computer, "Okay, what is the total expenses "that were in the expenses table "for each individual account?" And that is a rollup column.

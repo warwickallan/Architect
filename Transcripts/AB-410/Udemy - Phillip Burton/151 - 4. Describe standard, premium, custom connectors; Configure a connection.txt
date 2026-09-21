@@ -1,0 +1,34 @@
+# 4. Describe standard, premium, custom connectors; Configure a connection
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 151 (section 27: Collections)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we are going to have a look at the different connectors that are available to us in the Power Platform. And there are around 1,000 different connectors. And we can see the connectors, if we go to the Power Apps portal, make.powerapps.com go down to table and go down to connections. So here is the connection that's I've already got. So I'm going to click on new connection and then we can see the variety of connections we have got.
+
+[00:30] And there's an awful lot of them. Now you could divide these connections up into three, they're standard, premium, and custom. So standard connectors are usually services which are available for free on an open basis or provided by Microsoft 365 or Power Platform. So they natively integrate. Premium connectors on the other hand and you can see the word premium all of the place. And sometimes you would see a diamond in other versions. So those both indicate premium connectors.
+
+[01:01] These are usually services which require a monthly or annual licence and is not part of Microsoft 365 or Power Platform. However, that does include as well, the Dataverse. Now premium connectors they are only available in the premium Power Apps, licence or the developer plan. So if you are using Power Apps, for instance with Office 365 and you haven't got a Power Apps licence or a developer plan, then you probably won't have access to these premium connectors.
+
+[01:34] And finally, this custom. So these are connectors which are not built in they're not included in the standard or premium. It's a connection that somebody has to design. So you can see examples of standard and premium connectors here. So let's see what sorts of things we've got. First of all, we've got Azure Active Directory. So that's the way of establishing your identity. I suspect because it is so widely used that's why they haven't put it as premium.
+
+[02:06] So Bing Maps, Dropbox. Now that might surprise you because hang on you have to pay for Dropbox. And as we'll see later then MailChimp and SurveyMonkey are premium. Well that's probably true, but Dropbox actually has a fairly generous two gigabytes of free service. And that's probably why it is in the standard connector. We're talking dynamics 365 Customer Voice that is standard, Excel and Excel Online.
+
+[02:37] You're talking a file system. So in other words, your own files connection to it. Anything relating to Google. So we're talking Google Calendar Google Sheets and Gmail, LinkedIn, Mail down here, Microsoft Teams and Microsoft Translator MSN Weather, Office 365 Outlook and outlook.com.
+
+[03:11] The Power Apps and Power Automate and Power BI, Power SS. So if you don't know what Power SS is suppose you got a blog and you keep posting to the blog. Well an RSS feed keeps track of what you've posted. It's available for anybody to look at. And you will find for instance, apps including Power Apps can connect to these RSS feeds. And then we're also looking at WordPress and YouTube, all standard connectors.
+
+[03:43] Now don't be mislead. There is a type of a here we say standard but you can see it is standard for all of them. Whereas, it's certainly not included in the premium things. So don't be misled by the word standard of the fact that all say standard. Now, premium connectors. So these will usually require monthly or annual licence. Premium connectors also include the data first licence. That is a premium connection as well.
+
+[04:11] So we're talking things like Adobe Creative Cloud. So obviously you do have to pay quite a lot for Adobe Azure products, but we're not talking care active directory and we're not talking Sentinel. So all do have, as you can see premium. Now, when we have a look at dynamics you can see Dynamics 365 Customer Voice is the only one which is a standard.
+
+[04:41] All the rest are premium. Talking things like MailChimp and SurveyMonkey. So yes, the fact is that these do have a free aspect but to get the most out of them, you have to pay. So that could be a difference between Dropbox which has a fairly generous two gigabytes of free space, whereas MailChimp, SurveyMonkey perhaps a bit more restricted.
+
+[05:07] So as previous said, we're talking about the Microsoft database and then we've got databases. So MySQL, PostgresSQL, SQL Server, the Oracle Database as well. And a bit but certainly for me, Word Online (Business) is also a premium connector. So there's no custom connectors here. That's something that someone actually has to design.
+
+[05:36] Now, another way of looking at connectors is that there are connectors which provide tables. So we're talking about Microsoft Excel, SharePoint SQL Server, and Dataverse. Connectors which provide actions and functions. So you can connect a control to an action using the items, property of your control. So we're talking things like Azure Blob Storage and connectors, which provide both to Office 365 users and Project Online. So what they provide might impact how you can use them in Power Apps.
+
+[06:10] So in this video, we've had a look at connectors, We've had to look at the three different types, standard, premium and custom. And they can provide tables and actions and functions. Now, once we've identified what connection you want to use then just go to the plus next to it. So let's say I wanted to add Dropbox. Then you can see it gives me more information about it. Okay, I want to create this. And then the computer's then asking for permission to use the files and the folders in my Dropbox, if I was trying to get to Microsoft Azure.
+
+[06:45] So I'm just now going to delete that one as I didn't actually want to connect to it but you could see that there was a problem when I tried to. So let's say I wanted to connect to Azure Active Directory. Then again, I would need to sign in. So if this is a Microsoft product I need to sign in with my Microsoft credentials. Again, just delete this. If this was a different product, say I wanted to sign in into Google mail, then I would have to sign in with my Google mail credentials.
+
+[07:19] So it's very easy to actually do. All you need to do is find which connector you want click on the plus, and then after accepting any terms and conditions sign in as appropriate.

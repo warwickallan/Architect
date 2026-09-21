@@ -1,0 +1,30 @@
+# 42. Describe modern controls and themes
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 145 (section 26: Other controls and other canvas apps topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English [Auto]
+
+[00:00] In this video, we're going to have a look at what are called modern controls. So we have built our various apps using the controls that were originally created in power platform, such as the text label, edit form and text input. However, Microsoft have been creating what they call modern controls. These are controls which are designed with a focus on accessibility, usability and performance to make them more visually appealing, highly functional and intuitive to use.
+
+[00:32] Now, it used to be that you went into the settings of a particular app and going to upcoming features and typed in modern. However, Microsoft have now changed it, so it is in the general tab. So if I scroll down here we can see modern controls and themes. So the themes we currently have are again these standard themes that have been around in Power Platform for quite some time.
+
+[00:59] So I'm going to switch these on. And now you can see that there is an additional tab on the left hand side in the insert tab called modern. And there is also an additional themes button. So let's have a look at the modern tab. So you can see that these controls are available on a preview basis. So they don't necessarily have all of the functionality of the classic controls. And Microsoft is continuing to improve on them.
+
+[01:31] So let's have a look and see what we've got in the modern controls. First of all we have got a button. So this allows you to interact with the app by clicking and tapping just like these other buttons. Now you'll notice that the properties on the left hand side are quite different, but they have the same sort of idea. So we've got font color, font font size, font weight, but they're not identical to what we have in the classic control.
+
+[02:02] There is a slider. So this is a control which the user can use to specify a value by dragging a handle. We have a link, so this opens up hyperlinks in a new tab. A progress bar which displays the progress and can be configured as determinate, showing exact progress or indeterminate for ongoing progress.
+
+[02:35] There's a tab list so you can select on a tab to move screens or take actions in a particular app. And then going to the preview section we've got a badge. So this is a visual decoration for user interface elements a checkbox. so you can select or clear an option to specify true or false. And yes, we have used checkboxes in the past in this course.
+
+[03:06] But again just notice the difference between the two in terms of things like the properties and the initial appearance. A combo box allows you to select multiple or single items. A date picker allows you to select a date. A dropdown allows you to select a value from a list of items, a form, so this is the equivalent of the edit form.
+
+[03:46] A header. So this is a control that creates a modern app header. So you don't have to do all of the individual elements yourself. An information button so you can use this control to provide additional information to users. A radio group. So this is an input control that shows multiple options of which users can only select one at a time. A spinner.
+
+[04:12] So this is a control with which the user can specify a value by dragging a handle a table. So this is sort of an equivalent of the gallery. It shows a set of data in a tabular or list format. But you can see we can check these individual roles. A text control you can display text on the app. And it can also be used as labels for fields and then text input, which is a box into which users can type text number and other data.
+
+[04:50] And then finally a toggle. So this is an on off switch. And at this stage, Microsoft just wants you to know that they exist and how you can switch them on which you can do that by going to Settings and General. So this also includes themes. So if I click on the new themes on the left hand side you can see the themes. And these themes can only be applied to modern controls. So if I was to select a new theme, it wouldn't actually apply to any of these classic controls just to the new modern controls.
+
+[05:24] Just to show you how much these modern controls are evolving, in October 2023, there was an update on things like the font size and color, property improvement to controls, field validation, so you couldn't just put in any old value into input controls, table control and form control being updated. And in January 2024, they announced that the plans for 24. First few months include adding additional components such as dialog and toolbar.
+
+[05:57] Improving header form and table. Adding built in label and required properties to text input, combo box drop down, and more. Update to modern theming and the transition of existing controls to general availability. At the time of recording, only five of these 16 controls are generally available. The rest are in preview. So in this video we've had a look at the modern controls. So I'll switch it on in settings generally.
+
+[06:26] And then you can use these. Just bear in mind that only a few are generally available. All the rest are still in preview. And also bear in mind that it's not the case that everything you can do with the classic control you can do with the equivalent modern control.

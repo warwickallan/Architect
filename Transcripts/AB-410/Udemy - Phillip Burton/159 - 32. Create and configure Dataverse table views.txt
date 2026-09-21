@@ -1,0 +1,44 @@
+# 32. Create and configure Dataverse table views
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 159 (section 29: Create model-driven apps - views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this section, we're going to have a look at views, and in this video, we're going to have a look at how we can create and configure Dataverse views. So here I'm in my model-driven app, and if I go into the Expenses area, you can see that we are looking at the Active Expenses view. If I click on this dropdown here in the preview, you can see I can choose Active Expenses or Inactive Expenses, and I can have a list of views.
+
+[00:28] But hang on, there's only two views here and there are six on the left-hand side. Now, there are three different types of views. There are personal views, system views, and public views. And we're going to have a look at personal views in the next video. If I want to create a new view, then I can either click on New view up here on the right-hand side, or if I go back to make.powerapps.com and go into Tables and into my table and then click on Views, this also gives me a list of views.
+
+[01:08] System views, these can be edited. They cannot be deleted or deactivated. The Power Apps uses them. And there are four types of these system views. There is the associated view. So this is for related tables for particular row. There is the advanced find view. This displays results when using the advanced find, which we're going to have a look at in the next video.
+
+[01:38] There's the lookup view. So that selects a row for a lookup table. And there is the quick find view. So that's the default view for the quick find. So these four types are not shown in the site map navigation. So when we go to the app designer and to have a look at views, you don't need to worry about the fact that they are shown here. They will be used, but they're not something that you can actually select.
+
+[02:07] You can just select things which aren't the system views. So what other views are there? There are public views. So you can see active and inactive, name of table, those are the default views that will probably be created when you create any new table. Now, you can create public views, but equally, unlike the system views, which you cannot delete. And you can also delete any public views that you create. So that's important.
+
+[02:36] You can't delete the active or the inactive. Those aren't ones you have created. You can however deactivate. You can set as a default view. So let's create a new view. So having gone to Add view, you can add the name. So this is MyView and a description and click Create. So this is fairly simple. You only have one item on the left-hand side.
+
+[03:05] These are table columns. However, these are not necessarily all of the table columns. So you can select all, default, and custom, but default's probably good enough. You can also hide any columns which you have already used. Now if I want to add a column, very easy. All I need to do is click on it. Or I can go over here to the View column and click on something there.
+
+[03:32] Now, you can change the column width, but the end user can do this as well. So this is a good default. But bear in mind that with model-driven apps, you are not in final control. Now, if you've got any related tables, you've also got this Related button. So maybe I wanted to go into the account and get this city. That can be added as well. So even though I'm in the Expense table, I can also see the city.
+
+[04:03] Now there are also various properties. So if I edit the property, you can see the column width. So I'll change that back to 171. But you notice what I can't do. I can't rename it, for instance. So the properties are very thin on the ground. You can also move columns left and right, or you can just drag them. You can just drag and drop. Now, you might not want to show absolutely every single item.
+
+[04:34] So we do have some photos and sort by. So if I click on Edit filters, I can say I want to only show those items which are. So maybe I don't want to show very small items. Well, I can add a row and say I want the exchange value to be greater than $99, for instance. Maybe I want to do something else. Maybe I want to show all items which are in Santa Cruz. Well, I can add a related table.
+
+[05:04] So in the account table, I want to show why this city is equal to Santa Cruz. Now you can see at the top we've got the word and. So this is going to show expenses which are greater than 99 and where we are in Santa Cruz. So if I click OK, that'll probably remove most of them. Okay, suppose I didn't want that. So let's just click on the X next to it, and say actually I wanted it to be in or.
+
+[05:34] Well, we can add a group and here we can change the and or the or. So I want to say where the expense value is greater than 99. And here you can see the problem. I can't add related tables to the group. So given that it is an and, you can only include photos where both are going to be true. So where this happens and where something else happens or where this account city is equal to Santa Cruz, for instance.
+
+[06:11] Now, just a word of these double dots. You can say make groups if you want to. So in other words, if you've selected multiple items, you could say, I want to make those to be a group, but that won't work where you've got related tables. You can also delete using the dropdown, and we can also collapse like this. So what I'm going to do is I'm just going to say all I want is where it is greater than $10.
+
+[06:46] So I'm just going to get rid of all of this. So click OK. In fact, because it's now saying advanced filters are present, I'm going to delete everything and just say start again where the value is greater than $99 and leave it at that. Now you can see a little photo symbol has appeared over the expense value.
+
+[07:13] So that's showing that it is being filtered, that rows are potentially being removed based on that column. Now, what if I want to sort? Well, I can sort just by clicking on the drop down arrow and say Smaller to larger, Larger to smaller. However, if I want some more complicated things, then you might want to use over here to say, okay, I want to sort by the expense value and then the ID.
+
+[07:41] Oh no, I want to change it by the ID, then the expense value. So now we know which way around it is going. So I'm going to now say this and publish this. So it takes a few seconds. And now I'll go back. So now we're back in the Power Apps portal.
+
+[08:08] And if I go into Apps on the left hand side and edit our accounts and expenses model, go into the Expenses page and click on the Expenses view, you can now see that we've got the public view, MyView available, and I can also use it in the model-driven app. If I click on the current view, I can change it to MyView. Additionally, if I go back, I can also use a view in a Canvas app.
+
+[08:40] So if I go back into my accounts app, click on the dot dot dot and edit, after a few seconds, we can now edit our Canvas app. And if I go into the Expense Browse Screen where we've got this gallery, our data source is a bit complicated at the moment, but I can change this back to the Expenses table, and then I can use a view.
+
+[09:08] So I can change this view to MyView, for instance, or Active Expenses, or Inactive Expenses. So using a view in a Canvas app allows you to filter the number of rows that will be used for the gallery. So in this video, we've had a look at how to create and configure views. So if I go back and don't save the changes and go back into our model-driven app, we can see that we can use our view, but it is a read-only view.
+
+[09:44] There are hyperlinks. If I click into a hyperlink, I go into a form where I can then edit any particular item. But what if I wanted to edit my data in line? How can I edit using the view? Well, we're going to have a look at how we can create an editable grid for a particular table in the next video.

@@ -1,0 +1,52 @@
+# Why do I need a Work email address? And how can I get one, if I don't have it?
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 008 (section 2: Signing into the Power Platform and creating an environment)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Here I am on the power platform page. Now if I click on Start Free and then enter an email address which ends for example, Outlook.com or Hotmail.com or gmail.com. Then we get the answer. Please enter a work account for the best trial experience. So these personal accounts outlook, Gmail, Hotmail aren't allowed to sign into power apps. You can see it says enter your work or school email to get started.
+
+[00:33] So why is that? Well, services such as the Power Platform or power BI or fabric allow you to share flows, apps, reports, and other things in your organization or tenant. Outlook.com is not my organization and therefore I can't use it to sign in. Now, if you have successfully signed in to the power platform, then you can skip the rest of this video.
+
+[01:01] If you haven't, then how can we create a work email address for free? Well, one way which seems to work for most countries with the possible exception of Nigeria, is signing up for a free trial of Microsoft 365 business. Now, I say it doesn't work in some countries because Microsoft has different rules based on different countries as to what free trials it will allow. However, this should work for, for example, India.
+
+[01:31] Now, what would be really useful is if you find a way that works for you, is for you to post a comment or a question to this video and let me know what country you're in and what works for you. So you can see that I've just googled Microsoft 365. So that's the new name for office 365. And I'll just go to this login page. But I'm not actually going to log in just yet. And I'm going to go to products for business, pricing for business. And this gives me this page which allows me to have a look at, for example, Microsoft 365 Business Basic and Standard.
+
+[02:09] Now notice what it gives me a custom business email address so you and your business.com. And you can see I can try it free for one month. Now of course the price will be different depending on what country you're in. For example, if you're in India, it will show this price and you'll notice we still have the free trial. Now the idea behind this video is to get a work email address for free. So I'm not actually going to pay this price for a month, let alone for a year.
+
+[02:43] However, if you find that you don't have a free trial, then you might just want to have a trial for a month. Now let's click on Try Free for one month. And here we can see the Microsoft 365 basic trial. You can add up to 25 users during the trial and it allows you to have email. So I'm just going to say yes to this and click on next. Next, I need to enter a work or school email address, but I don't have one, so I'm just going to enter my fictitious address.
+
+[03:15] Hello there at hotmail.com. And that just allows the computer to say, ah, this isn't a work or school email address. When I click next, we need to create a new account. So let's click on setup account. And now I enter information. Now if you don't have for example, a company name then you might want to put none or put yourself. So I'm just going to start typing in my details.
+
+[03:44] And the most important thing that I will need is my business phone number, because I'll be using that in the next stage. So I've entered all of my information, and you can enter company size as being one person as well. So it allows for businesses just to be solo entrepreneurs. So what have you put in. Let's click on next. And now it is going to have a text or call my mobile number. So I'm going to say text me and click on send Verification code.
+
+[04:16] Now we've got some reports of people in India having problems at this stage. And the advice that I've seen on the internet is try a different device or network. Sometimes issues with phone number verification can be related to the device or network you're using. Try using a different one and also make sure you're on a proper internet connection. Someone says I was trying on a 4G hotspot on mobile and it never worked. First time I tried on a wi fi fiber connection it worked using the same number.
+
+[04:49] Well, I've got my number, so I'll click verify. And now here's the important point to be able to make up your username and domain name. So I'm creating a username Philip Burton at Idu Data Limited 598. on microsoft.com. Now you can change the username and the domain name if you want, but you can't change the dot on microsoft.com. So I'm going to change the username.
+
+[05:21] So it's just Philip and the domain name. I'm also going to shorten as well and click save. And you'll see if your domain name is not available. It needs to be unique. So I'll add com after it. So I'm also going to add in a password. Now before you leave this screen you should copy your password which is the username the At symbol and your domain name.
+
+[05:51] And then finally dot on Microsoft.com. And also make a note of the password. You can always see it if you've forgotten it by clicking on this eye symbol and click next. Now you'll notice it says Creating Account and at this stage it has created the account. Now you could go back into the power platform and then sign in using your new username or email address and password.
+
+[06:18] However, I have had some problems with this. Other people have had success, but I have had problems. Alternatively, you can enter your payment details now. Notice no payment is due today and there won't be any payment if you cancel by the date which is shown on the screen. So they accept visa, Mastercard and American Express. It doesn't need to be a credit card, it can be a debit card. So I'm going to fill in my details and then click save at the bottom of the screen.
+
+[06:50] And then finally I'm going to review and confirm I've got a trial which will cost this amount per month, but I'm not going to continue it beyond this date. So at the bottom of the screen I'm going to click on Start Trial. So you can see it says assigning your licenses. So these are licenses to the web and mobile apps. It's now added products to my account, and now you can see it requires me to set up multi-factor authentication.
+
+[07:24] So let's click on next. And now let's sign in using my password. So I'm then going to click on next to set up the Microsoft Authenticator app. So this is something that you would need to download onto your mobile device. So click next. Next again. And I'm going to scan the QR code that's on the screen.
+
+[07:55] So this has now been added into my Microsoft Authenticator app. And I'm just trying it out by entering the number that's on the screen. And now I can click next and done. So now that it has been done, you'll see that you can manage your subscription in the Microsoft 365 Admin Centre. So we will be looking at that later on in this video, but I'm going to now click on start using the Microsoft 365 Business Basic trial.
+
+[08:25] So I'm going to sign in with my new address. And here you can see I am signed in. So now let's go back to Power Platform. So you can click on Start Free for the Developer Edition or sign in. So if I click on sign in and I'm going to copy and paste my email information together with my password. Then you can see that I am now signed in to the power platform.
+
+[09:01] Now let's go back into the setup wizard for Microsoft 365. And I'm just going to click on Exit Setup. And I'm just going to click Send and Exit. Now you'll notice where I am admin dot Microsoft.com. This is the Microsoft 365 admin center that this web page was talking about. Manage your subscription in the Microsoft 365 Admin Center. So from here I can go to billing your products.
+
+[09:34] There we can see the Microsoft 365 Business Basic subscription. Click on the dot dot dot next to it and go to Cancel subscription. I'll now then click on cancel on your trial end date. Your credit card will not be charged or your debit card. If you've used a debit card, click on next and then in the Edit Reoccurring Billing pane, I'm going to click on off.
+
+[10:01] Let this subscription expire on this particular date. Click save. Yes. And it's now editing the reoccurring billing. And you can see now your subscription will expire on this particular date. So I'll click done. And here you can see under renewal or expiration. It says the Microsoft 365 Business Basic will indeed expire. Now, this is just one of many ways of getting a free work email address.
+
+[10:34] Other ways include a free trial subscription to office 365 E3, or the Microsoft 365 developer program. However, the feedback that I've received over the last year or two is that these are not available in as many countries as the business version is. However, if you do have problems with the Microsoft 365 Business Basic, then you might want to have a look at these options.
+
+[11:01] Now, the option that I choose is to have my own domain, and you can buy it from a number of providers. For example, I've got this provider on the screen, and if I go to domains and SSL and I go to a dot. Co.Uk or.com domain, I can find my address. So type in your address there and you'll see whether it is available and what the alternatives might be.
+
+[11:28] So you can see I can get the British version for around 12 , 13 USD per year, and the American version for around 20 USD per year. So if you compare that with the around 5 or $6 a month that the Microsoft 365 Business Basic is charging, then you can see this is much better value. Longer term. However, it depends what your end goal is. If your end goal is just to have an email address, then this is free and you will be able to keep on using the email address.
+
+[12:02] Once the Microsoft 365 Business Basic trial has finished, that is your account. That is your email address. You just won't be able to use the additional features that it says. So these are various ways of being able to get a work email address, which you can use to sign in to the power platform and other Microsoft services such as power BI and fabric.

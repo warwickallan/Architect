@@ -1,0 +1,26 @@
+# Introduction to the Power Platform
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 085 (section 17: PL-200 Part 1 Introduction)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a quick recap if you've previously done the PL-900 certification or brief introduction to some of the important terms in the Power Platform. So the Power Platform made up of Power Apps, Power Automate, Power Virtual Agents, and Power BI. Now it also includes access to something called the Dataverse, previously known as the Common Data Service or CDS. And you may still see lots of references to this on the internet, and as it was only changed in November, 2020.
+
+[00:33] A lot of the terminology was changed as well. So it used to be that there were things called entities. These are now called tables. So we've got the Expense table. Used to have fields, these are now now columns. And records, they used to be called rows. Now you can create two sets of apps from these. So the first one is the canvas app, and you can use the Dataverse and you can use others. So the canvas app can use lots of different connectors, and if I go back to a particular screen, you can see that I can go from one screen to another.
+
+[01:10] I can add new items. I can even have related things such as expenses, and I can edit them as well. So this is a canvas app. And one of the good things about a canvas app is you can insert all of these different type of controls and have them exactly the way you want. So you can have the layout for a phone, or you can have a layout for a tablet device for instance. You can say what size tablet device it is as well.
+
+[01:41] Now, both Power Apps and Power Automate can use AI Builder, Artificial Intelligence Builder. So we'll have a look at that in a separate section. So in addition to using canvas apps, so these are pixel perfect, you can also use model-driven apps. Now these can only use the Dataverse as their data model, and you can design forms, views, charts, and dashboards using the Dataverse tables.
+
+[02:13] You can see here views, forms, dashboards, and charts. So this is an example of a model-driven app. So we can have a look at certain things. We can edit them as we wish. And we can also have a look at dashboards. And we can even pull things in from Power BI if we so wished. Now Power Automate, this allows us to do a sequence, so automated work.
+
+[02:40] So here I've got Power Automate, which, and these are called flows by the way, F-L-O-W. I start by manually triggering a flow. So now if I press a button, I initialise a couple of variables, I look at a table, and for each row I look, for example, is the Address equal to "Redmond"? if so I do some things. In this case, I'm using the AI Builder. If not, I can do something else. And then at the end, send myself an email notification.
+
+[03:09] So I can do that whenever I press a button or when something changes. For instance, maybe some information has been added into a row the Dataverse. Or maybe I'll do to on a scheduled occurrence. So, in other words, every half hour or so. So that's a Power Automate. It's all about flows. It's all about automation. Next, we got Power BI, and this is in two different varieties. First of all, we've got Power BI Desktop. So that allows me to load data in, get and transform data.
+
+[03:40] Once I get the data, it can be transformed in the sense of adding additional columns or transforming existing ones. So we got lots of functionality here. However, this is not a Power BI course. And so we'll just be looking at the capabilities of it rather than going into huge amounts of detail. We can build a model so we could have lots of different tables joined together. And we can have a look at the data as well. What we can also then do is use the Power BI Service which is Power BI on the internet.
+
+[04:13] So I can upload my visualisations. And I can take little elements of them. They're called tiles and put them onto a dashboard. And indeed, this is this that we have seen in the model-driven app. So in this video, we've had a brief recap of Power Platform. We've got the Dataverse, which is a database with rows and columns in tables. We've got canvas apps that allow us to have pixel perfect control of our controls.
+
+[04:45] We have got model-driven apps with forms, views, charts, dashboards, and a sitemap, so you can decide what you want down on the left-hand side. And then we've got Power BI, which allows us to visualise data. And Power Automate, which allows us to automate flows. So in the next video, we'll have some resources for you to download, and then we'll start by getting a licence for Power Apps, and then we'll create an environment where all of our apps and workflows can be saved.
+
+[05:21] And then we will create canvas apps.

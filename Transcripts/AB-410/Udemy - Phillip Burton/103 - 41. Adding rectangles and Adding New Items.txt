@@ -1,0 +1,26 @@
+# 41. Adding rectangles and Adding New Items
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 103 (section 20: Expanding our canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're just going to do a bit of tidying up. A bit of formatting and add I think one or two more icons. So first of all, this isn't looking particularly pretty. So what we need, is first of all we need to insert a label. So I can go insert label or I can go to insert text label. And I need to put in, let's just narrow this down just a bit, the name. So, this is the accounts that we're doing, isn't it?
+
+[00:28] So we're just going to call it accounts, so that belongs in the text. Now it's still not great in terms of formatting so What I'm going to do is I'm going to insert a rectangle and that's over here in shapes right at the bottom. So we've got pentagons, hexagons, there's our rectangle. So were going to inset a rectangle and put it on top of here.
+
+[00:56] Now we can't see anything unfortunately now. So what I'm going to do is right hand click on the rectangle and reorder and I can either send it backwards, which means it goes back one control which is good if you really want fine tuning. But actually I want it all the way to the back because I want to see everything on top of it. So now I've done that, color's a bit too dark for me.
+
+[01:25] So let's have a look at the properties. Go down to the colour, let's just make it a lighter colour. There we go. So I'm going to copy that rectangle, go into another screen and just paste it in. So control C, control V and send to back. Save the browse screen. Again I'll send that to back because I'll be putting some icons on top of this.
+
+[01:54] Send to back. And I'll also do that with this label as well so we can have consistency. So I can change this, that this is the browse screen for instance and then this one is the detailed screen and then we go to the edit screen. If you think that sort of thing would actually help the end user, it's worth putting in.
+
+[02:21] But do bear in mind this is for a phone. So it could be that you don't exactly have that much space to play with. So you can choose whether to have a darker screen or maybe to have these in white for instance or you can have a lighter heading and these to be in black. Awesome of a colour as you see fit. Now let's go back to the browse screen. I want an icon up here so that I can add a new item. So previously we have had, submit form, reset form, which changes a form to an edit screen, we don't need that for this particular app but there is also a new form.
+
+[03:05] So I'm going to now add a new icon in here. So let's add a plus icon. There we go have it at the top right. I can position it where I want. And in the on select, we say that the edit form has to be a new form, so I can add a new item. Now that won't actually take me there. We then need to have a navigate. We need to actually get to the edit screen.
+
+[03:34] So we need both of those to add a new item, a new form and a navigate. So, there we go. So let's test this out. So play. So if I click on this, we get to the screen and this is no longer an edit screen, this is a new screen. Let's change that. So we go into this edit screen, and what I can now say, I can use an IF statement.
+
+[04:00] So an IF takes an argument. It takes a Boolean result. Is this true or is this false? So what I want to know is, is this edit form mode, is this on the edit mode? If it is, then give it to me as an edit screen. If not, then give it to me as a new item screen for example.
+
+[04:31] So you can see how IF is used, exactly the same as in Excel. So give me a condition. So in this case we're looking at the form, are we editing? If so put edit if not put new. And that goes in the text, so what is being displayed. So let's have a look at it again. So we go right back to this browse screen, press play, and click on the plus. We have a new item. If instead I look at a particular item, we go to an edit screen.
+
+[05:00] So that's how we can use the IF formula. So in this video, we've added a bit of style adding those rectangles into the headers. And we've also added the plus icon, which allows us to create a new item. In the next video, let's look at the order of all of these items in the gallery and try and get it into alphabetical order, either ascending or descending.

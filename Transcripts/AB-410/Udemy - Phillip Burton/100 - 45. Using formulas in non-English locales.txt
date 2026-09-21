@@ -1,0 +1,20 @@
+# 45. Using formulas in non-English locales
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 100 (section 20: Expanding our canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, before we go onto the next video, I just wanna talk about what happens if you're in an English locale like the United Kingdom, United States, Japan that sort of thing, and a non-English locale. So talking French, German, Spanish. We're not talking of course necessarily about the language you speak but how your computer is set up and how Power Apps thinks your computer is set up with regard to your locale. So we basically divide this into two.
+
+[00:29] English locale and non-English locale. And you can see how important it is for Power Apps in just a moment. Now we're going to be talking about a function called navigate. To be able to get from one screen to another. So in Spain for instance, the word navigate is navegar. However, you still use the English function name I'm afraid wherever you are. Now, it's not like Excel.
+
+[00:57] Excel does translate formulas. Power Apps doesn't. Now, if you're looking at a number 1,234, in English locales, we use a comma separator. In non-English locales it's a dot. Now, we don't actually use thousands too much in Power Apps but it's important to know what's going to happen. With decimals, it's the other way around.
+
+[01:24] So if I wanted to say three and a half, then it'd be 3.5 and a 3,5 in non-English locales. This means that the comma has already been used. So when I have two arguments, let's say I have the navigate formula again and I'm navigating and it takes two arguments. Sometimes it takes one, sometimes it takes two.
+
+[01:51] So we have argument one and then a comma and argument two. However, the comma is already being used in the non-English locale to separate the integer from the decimal. So we can't use the comma this time. So instead, what we have to use is a semi-colon. Now, here's where it gets even more complicated. If I have two formulas, like this navigate one and another formula next to it, so we have a formula one and then formula two, all reacting to the same event, we have a semi-colon separating them.
+
+[02:35] But we've already used the semi-colon. So what do we use here? Well, we use two semi-colons. So, hopefully you can see that there are some differences, comma to semi-colon that is done in Excel, but semi-colon to two semi-colons isn't. So throughout this course, where you see a dot it's a comma if you're in a non-English locale, where you see a comma, it's a semi-colon and where you see it's a semi-colon it is two semi-colons.
+
+[03:09] Now that's not necessarily the case with string literals, so any strings inside text speech marks. So if you were to look at this formula for instance, you can see we've got highlighted all of the various things that need to change in a non-English locale. So we've got a dot 12.59, and then another comma and then the semi-colon and then lots more commas. So in a non-English locale, this would change to 12,59; semi-colon, two semi-colons and then single semi-colons.
+
+[03:46] So if you're in an English locale, feel free to copy what I'm doing, if you're in a non-English locale I'm afraid you are going to have to translate just a little. So the actual functions name will remain the same. If I use any decimals, then that will need to change to a comma, commas change to semi-colons and a single semi-colon changes to two semi-colons.

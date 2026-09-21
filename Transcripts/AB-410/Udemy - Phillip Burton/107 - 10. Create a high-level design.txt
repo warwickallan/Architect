@@ -1,0 +1,18 @@
+# 10. Create a high-level design
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 107 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:08] Hello. And in this section, what we're going to do is expand our accounts app. We're going to create another table. We're going to link it to our existing table and then expand our app accordingly. So let's just have a reminder of where we are. So I'm currently in make.powerapps.com, and I'm in my correct environment. So I'll click on apps, and here is my accounts app, and I can edit it or I can play it. So let's just play it.
+
+[00:37] So that's a reminder we've got all of these different accounts, and what we can do is we can have a look at the details. We can edit it. We can accept the changes or not. We can bin it. We can go back to the main screen. We can add a new item, which gets us back to the edit item window or screen, but it doesn't actually contain any values.
+
+[01:06] And we can refresh the data. So that's where we are so far. So we've got all of these accounts. Now, It could be that I'm doing marketing and I'm going to be spending company money on these accounts. Maybe I'm going to take some people, the marketing department, who knows, of a data corporation out for lunch. Right? Well that's okay. But I need to be able to register that lunch. I need to be able to, for instance, say these are the expenses for that lunch.
+
+[01:37] So what we're doing, we're collecting business requirements for our app. So we've got accounts and we're going to be adding expenses. So identifying data sources as well. The data source is going to be whoever adds in that expense for a particular account. So it could be a receipt. It could be that we just had some petty cash. So what we need to be able to do, is record items from that. So describe the real world objects as entities.
+
+[02:07] While we've got accounts as a table, we could also have expenses. Expenses can also be a table. Now within that table we might have other things. We might have columns previously known as fields. So we could have, for instance, the date that the expense happened. We could certainly need the value. We need to obviously have the account. We need to link it into that. We may need other things. For instance, maybe it needs to be approved by somebody.
+
+[02:38] We probably need a description, maybe where it was. So each of these would be columns in our table. So describe the user experience. Well, what I want to be able to do perhaps it's going to a particular account, maybe have a dollar symbol up here and then see a list of the expenses or do that and add a new one. So in other words, we've got some things fairly similar to what we've already got.
+
+[03:06] We just need to add in the extra screens into this app. But we could start off with a dollar sign icon here and then create a high level data model. Well, that's something we'll be doing in the next video when we have a look at determining the required entities, identifying relationships, and the fields and data types.

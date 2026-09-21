@@ -1,0 +1,24 @@
+# Practice Activity Number 10 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 164 (section 29: Create model-driven apps - views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So how did you get on with this practise activity? At the moment, we only have two views for our device table, active devices and inactive devices. Actually, that's not true, we do have a few more. We have advanced find views, we have associated views, we have lookup views and we also have a quick find view. But let's create a new view. So add view. So I'll call this my view or my device's view. Click create.
+
+[00:29] Don't forget it will be shown. Don't forget whatever name you give for the view will be shown to the end user. Next, I want to add a device name to the left of ID column. So I'll just drag it in here and it's a bit difficult. You need to ensure that there is a little marker shown. Now if you can't see the little marker which is you saw the equipment just there then drag it to the right or click on plus view column and we can add device name there.
+
+[01:04] And now we can drag it to the left. So that is, for me, a lot easier than trying to drag it from here. Then we need to add device type. Notice that the number of columns that we haven't included is getting lower. So then we put in serial number, date purchased, device status, original price, current price, current value, depreciation and then, finally, user.
+
+[01:45] So next we need to sort the roles by device type and then by device name. So we'll click on the sort by down here. So we sort by device type and then sort by device name. So where there is a tie. We can also apply photos if you want. For instance, maybe we only want to see laptops, for instance, in one particular view. So let's now save and publish it. So now that's been done.
+
+[02:18] If you go back to our app as is, you can't see it. If I refresh, there it is at my device's view. So there we can see, we didn't have to go back into the app designer for this, so I can click on any of these or double click and get to the form. But what if I wanted it to be editable? For instance, maybe I don't want it to say electronic key. I want it to say electrical key. Well, I could edit it here in the form but what if I wanted to edit it right here?
+
+[02:50] Well, that's why we need to go and make it an editable grid. So to get there, we need to go, firstly, back into the Power Apps portal, click on the star, go into advanced settings, and then after quite a while, this loads up. So we're going to customizations, customise the system, then we go into entities, the old name for tables, and we go into the device table, go into the controls, we add a control.
+
+[03:28] So you can see, read only grid is the only control that's there and add the editable grid. So let's publish that. Now you can see, we need to save it first. Let's do that, so save and then publish. So now that's been done, we can close this. Refresh my model-driven app and we should now have show as editable grid.
+
+[04:02] So if I wanted to change that to electronic key, I could do that just here. Next, I wanted you to create a new personal view which contains only the columns device name and user. So I'll do that by going to edit columns, clicking on the dot, dot, dot next to each of the other columns in turn and going to remove. So having done that, I'll now click apply.
+
+[04:32] You can see it says my device's view with a star or asterisk next to it. So I'm now going to save it by clicking on the dropdown there and going to save as new view. And I'm going to call this device name and user. So now if I click on the dropdown, you can see that there is my personal view which I can go back to whenever I want. So finally, I'll go into the my device's view and I'll export this to Excel.
+
+[05:04] And all it is is clicking on export to Excel and here you can see my data and I can edit it as I wish. So in this section we've looked at creating and using views in our model-driven app. In the next section, we're going to continue looking at model-driven apps and looking at charts, dashboards and database business rules. Please join me there.

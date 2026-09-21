@@ -1,0 +1,54 @@
+# 10. Adding Calculated Columns
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 113 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at something that I skipped over when I was creating a column. And that is this area, calculated or rollup. Now, this needs to be selected at the time of creating the column. So if I go back into one of my existing columns, so maybe Date Of Expense, you can see that that option no longer exists. Now, in this video, I'm going to concentrate on calculated columns. Well, what is a calculated column?
+
+[00:28] Well, it is a formula, which is calculated based on a value in this particular table or in related tables. And now we've got the relationship. We can have a look at that. So I'm going to add this column, so let's call it Date28. So I'm looking for 28 days after the date of expense. You'll see that we won't actually be able to do this exactly. So 28 days after the date of expense. So I'm going to call this a data type date.
+
+[00:59] So first of all, I'm going to add a calculation. When I do this, the computer says you must save the current table first. I haven't actually made any changes but it still wants me to save the table. Well, fair enough. Then a new window appears, which says okay, what is it you want? And this uses the older style of presentation. You can tell its older because it's got the word Dynamics in the URL, whereas the others have Power Apps. So let's create this calculated field.
+
+[01:29] So I'm going to say I want it to be 28 days after the date of expense. So I'll ignore the condition for now and in Action, I'll click on Action and you can see that we've gotten a range of formulas. So it's disappeared because I have resized the dialogue box. Let's just go back in again. So we have got lots of things relating to time. We've got add, subtract and diffin, so the difference between.
+
+[02:02] And these are in hours, days, weeks, months, years. And that's basically it. There's three formulas for text as well. Additionally, we can also see all of the columns that we've inserted. So what I want is a date 28 days after the date of expense. So I'm going to say ADDDAYS, I want to add 28 days to the date of expense. And there we can see it there using its internal name.
+
+[02:31] If I click this mark, that'll save the changes and we can then go on to the next video. Ah, we have a problem. You can only use a user local date/time type of field. So what I'm going to do, I'm going to change this to something else. I'm going to change this to the created on date and time. You'll notice the warning is still there, it's an error now. I just click on the checkbox and save and close.
+
+[02:59] So that dialogue box goes away and I click on Done and this will refresh this page. So what's happening? Well, if I go into date and time and into advanced options, you can see that the behaviour is date only. If I want it to be used in a calculated column, I need to change that to user. So I'm going to delete date of expense. There's no data in it in any case.
+
+[03:26] So let's delete the column. You can see the line goes through. I'll save the table, then add a new column called Date Of Expense, which is date only but this time, I will call it user local as opposed to date only. So now if I go back in to Date28, I can open up the calculation. So again, asking me to save to table. These things take lots of seconds if you are doing lots of these things.
+
+[03:57] Sadly it's not all integrated into the new version of the presentation, the powerapps.com. And I click inside that and I will now change this to DATEOFEXPENSE, there it is. Do the check mark and there we go. So save and close. So this could be, for instance, when I need to review the expense, the latest date.
+
+[04:24] So date to review. But hang on, maybe I've got some accounts, which are more important. I need to review those more urgently. So for example, maybe Adventure Works sample. I need to be able to review that within 14 days. No problem. Let's go back into the column, just click on Date To Review and open up the calculation, save the table.
+
+[04:51] And this is when we can go into the condition that I skipped over earlier. So what I can now say is if the account, so not this current table or entity as it refers to. Remember, it is the older version but if a account name is equal to the value of Adventure Works sample, and you can see we've got a few choices. First of all, we can choose what the table is.
+
+[05:20] I can choose what the column is because of field. I can say equals, contains, begins with, ends with, contains data or the opposite. And I can put in a value or I can refer to another column. So if this column is the same as this column, for instance. or it's greater than this column. Notice that we have a warning. I won't be able to sort by calculated columns that use local or related record fields.
+
+[05:49] Well, I'm using a related record field because I'm using a different table. But that's a small price to pay I think. So if that's the case, then I want this to be reviewed within 14 days. Add else. If this doesn't happen, then I want it to be reviewed within 28 days. So you can see you can get some fairly complicated calculated fields if you want, as long as it involves dates.
+
+[06:20] Yes, you can also get calculated fields that support text, choice, yes/no, whole number, decimal number and currency but it's really date/time that's got all of these calculations. Just think of the possibilities. Maybe I want an earlier review date if the expense, so the expense value is greater than 500. Okay, so let's add another condition.
+
+[06:48] So I can say if the account name is Adventure Works sample or if the expense value is greater than or equal to 500, then I want this to happen as well. So I could say if they both are true, if it's an and, or if the account name is Adventure Works and it's greater than 500 or I can say if the account name is this or the value is 500, then give me the 14 days.
+
+[07:18] But you can see, we've got some teething troubles at the beginning, for instance. We had the wrong date of expense. We had date only as opposed to user local, which meant we couldn't use the add date function. So it's really good to set up these calculated fields right at the beginning. So now it is a new column right there. So let's have a look and see what we can do if we've got a number.
+
+[07:45] So I'm not going to have this as an actual column, but just for demonstration purposes. So what I can do here largely is have two columns multiplied, added, subtracted and divided by each other. So for instance, I could say I want the expense value and I want to multiply it by 1.2, for instance.
+
+[08:16] So I can do that. So I will abandon that. I can multiply it by another column as well but I don't have those huge range of formulas that I had previously. So it's multiply, divide, add and subtract. So let's get rid of that, delete column. And then finally, there's three formulas that we can use with text and those formulas are CONCAT.
+
+[08:46] So what CONCAT allows us to do is join together two different columns, for instance, or two different strings. Or indeed, more than two if you want. And then we've also got left trim or as they call it in this version, trim left and trim right. Now this is where a bit of confusion might happen. Trim in other languages means gets rid of leading spaces.
+
+[09:16] So for instance, if I have got Hello, then trim left would get be just Hello without all the spaces. However, what trim left and trim right does is it removes the first or the last number of characters. So trim left, so suppose we had Hello and I was having one, trim left would give me Ello and trim right for the same thing would give me Hell, for instance.
+
+[09:45] So these are calculated columns. Now, there is just one big caveat that I do want to mention. How often is it updated? And the answer is it is recalculated when a row is saved. Okay, so let's just think about the implications to that. I am typing the information. I type the date, I press Tab or something to go into the next field. The row is not saved.
+
+[10:13] Date review is not updated because yes, I've updated the field but the row is not saved. It's only when I commit, it's only when I save that entire row that the calculated field gets updated. So don't think that just because I'm in an app, I put in your data, the date to review that any calculated fields will be instantly done. They won't. It'll only be updated when the row is saved.
+
+[10:42] So these are calculated columns. So it uses columns from the current table or related parent tables. You can use and/or and the majority of the functions you can use are related to add, subtract, and diffin time periods. However, you can also use CONCAT, trim left, and trim right, which removes characters, not spaces, and you can also multiply, add, subtract and divide columns.
+
+[11:13] So for instance, you might want to add two columns together. That can be done using a calculated column. There's just a few limitations. The maximum number of chained calculated columns is five. So what does that mean? Well, a calculated column can refer to another calculated column, which can refer to another calculated column but it can only go five deep. Additionally, a calculated column in this table expense can refer to a calculated column, for instance, in the accounts table but if that also refers to a calculated column in a third table, then that's far too many.
+
+[11:46] It's only two tables. While calculated columns can refer to other calculated columns, there can't be a sort of cyclical chain. So you can't have calculated column one referring to calculated column two, which refers to calculated column one. That doesn't work. And sorting is quite often disabled to calculated columns. So note that you won't be able necessarily to sort by a calculated column.

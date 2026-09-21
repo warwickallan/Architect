@@ -1,0 +1,32 @@
+# Practice Activity Number 8 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 153 (section 27: Collections)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So, how did you find this practise activity? So all of this was to do with working with collections. So I wanted you to create a new canvas app. So let's make it a tablet layout. And I wanted you to record date of meeting, time of meeting, location of meeting and who the meeting was with. So I asked you to use text boxes to allow the end user, to enter the data and labels for the description.
+
+[00:30] So let's introduce a few labels. So the first one is, date of meeting. Second one, time of meeting. Location of meeting.
+
+[00:59] And who the meeting was with. So with whom. I'm just going to select all of these, just extend them. So all of these levels are on the one line each. So next, we need to insert a date picker for the date of meeting. We need, I've suggested that you have a text input for the time of the meeting. There is a very long way of how to get something that looks a fair bit more professional, but it is moderately complex, so we don't need to do that, for now we just have a time of meeting, a text box and then I'll just copy that for location of meeting and with whom as well.
+
+[01:41] So for each of these, I'm going to say that the default is going to be blank and I can put it in the hint text. So time of meeting, location, and with whom, so attendees. Other than yourself. So I need a button, so I need an add button. So let's insert a button and it's just going to say add.
+
+[02:12] Now the unselect, I've got to use, what function? Got to use the collect function. So I'm collecting into a new collection. So the collection is let's call it meetings and the item. Well, I can have date of meeting and that is this value here. So what's this called? This is date picker two in my case.
+
+[02:40] So date picker two don't select a date. And then we'll have at the time of meeting, and that is going to be text input one. (keyboard clicking) Dot text. We'll have the location of meeting. So that's going to be text input one underscore one, dot, text, and with whom is going to be text input one underscore two, dot, text, close squiggly brackets, close normal brackets.
+
+[03:16] So this is when it's really good to actually have these with real names, text time, text location, text attendees. That date. So now that function is a lot more readable and we can make sure we've got the right things in the right column of the collection.
+
+[03:46] So next I want to display this data in a date table. So data table, so I'll click on data table. So there it is, I'm drag it to one side. So it's over here. So it's not connected to any data. So the data source is going to be the meeting's collection and it has no field at the moment. Well, I haven't actually run this. So I probably should run this and add in a date of meeting, a time of meeting, a location here.
+
+[04:16] And with whom, with you, so click add. So that's now added something to our collection. So if I edit fields, I can add fields, add all of those. It just makes working with the data a lot easier if I can actually see some data. Now I want to put in something for clear all, save data and load data.
+
+[04:43] So I can go insert button. And so this one is clear all again, might be helpful later on if we have names, but don't need to do that for now. So that is what function? That is the clear function. So I'm clearing meetings and then another button, save data. So this will be the save data function.
+
+[05:11] So I'll be safe, saving the meetings collection and I'll call it meetings file for instance. And then I'll copy that because for my button, number four which is going to be load data. It's going to be exactly the same thing, except it's going to be load of data. Now, the save data and load data won't actually work until it's on a mobile device.
+
+[05:40] So let's just click save. To save as is fine. And I'll call this meetings, click save. So that's done, and now I can test it in a mobile device. Well, it's taken a few minutes and a bit of refreshing, but there is the meetings app on my iPad. So I'm just going to click onto it and let's add a few things.
+
+[06:09] So let's add a date of 10 o'clock. Meeting here with whom? You, so click add, I can save the data. I can clear the data and I can load the data as many times as I want. And then I can add additional information here if I so wished. So I hope you enjoyed this practise activity and that you're getting really to grips with working with collections.
+
+[06:39] So that's the end of this part of the course that relates to canvas apps. We will be coming back to canvas apps later on, but in relation to other things. In the next section, we'll be looking at model-driven apps and we'll start by looking at the site map and forms. Please join me there.

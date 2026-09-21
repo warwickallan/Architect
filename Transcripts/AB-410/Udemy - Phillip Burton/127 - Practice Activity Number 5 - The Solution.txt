@@ -1,0 +1,30 @@
+# Practice Activity Number 5 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 127 (section 23: Adding Expenses to our app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So, how did you find that practise activity? In a previous practise activity, we put together the user screens with the devices screens. However, we haven't really linked them together more than just having an icon that allows you to go from one to the other, so let's do that. We need to link the user screens to the device screens. So, there isn't really a add device icon, but if I scroll down, then for instance, I can add a document, so that could be close enough, and I can put in the tool tip, add device, for instance.
+
+[00:39] So this will allow me now to navigate to my user detail screen. So now, on my user detail screen, I need to say okay, what is this for? Well, this is going to be for, instead of all devices, just a small number of devices and I'm going to be using the filter. So I'm going to filter the devices table, and what I really want to say is where the user table, where a record in the table, is equal to the user gallery, don't select it.
+
+[01:22] So that's what I want to say, but you'll notice there's a squiggly underline, and if we go on to this, you'll see that records cannot be compared with records, so we can only compare single fields or columns. So which field should we choose? Well, let's go into the user table and we can see that there are some possibilities. First of all, you could look through the keys. So if you've got some keys that say, that one particular thing has to be unique, then you can use that, so one particular column is unique.
+
+[01:57] Alternatively, you can have a look for the data type and have a look for the unique identifiers. So these have to be unique, there can only be one row with a particular value and then the next row has to have a different value. So what I'm going to use is the word user, also known as system user ID. So let's go back into here and I will put dot user. Now we are looking at GUID, so if I hover the equals, you can see GUID, so that's the unique identifier.
+
+[02:35] Does not equal a record, but now if I put, while we have got this record that we selected, I want to look for the user here, make sure it's capital U. Now you can see that a GUID and here you can see an example of a GUID is being compared with a GUID, so that actually works. So next we need buttons. So we need a button going from the user details form here, to the device details, and we also need a button going the other way.
+
+[03:11] So a back button. So let's use that as my button and that just gets back. Next, we'll go into the edit and new device screen, and I want to add the user field. So I click on the form again, I can click down here in the tree view, if it's a bit fiddly and edit fields and we're going to add, the user.
+
+[03:47] So there is the user. So if I just play, and start off, maybe right at the beginning, in the detailed screen, so I can click on any of these. We go through devices, add a new device and here we can see all of the users. But I want it to default to the user that I've got selected.
+
+[04:16] So to do that, we need to use the default selected items. So I click inside here and then click inside the dropdown itself. So you saw that the was no default selected items just when I was clicking on the card, but I need to go to the filter. And so this needs to be changed, but I can't do that because it's locked. So I need to unlock to change the properties.
+
+[04:44] So ,this is now going to be the name of the gallery. So we're talking about the user gallery here and dot and then we have the word selected. So that gives me the record and now you can see it appears. So now, if I test this, so I'll go to play and again, go to my power platform plan, click plus, add a new item.
+
+[05:12] So here we have my item ID, device name, my small computer, device type, computer. I can put in anything else I want to. So original price, $750, current price, $500. Now you will notice that the calculated column has not been updated that's because it only gets updated when it's saved, not when I edit the fields.
+
+[05:42] So let's save it. So now we've got this item, so I can click on that and go to edit, and you can see the depreciation there. Let's go back. I'll go to somebody else. I'll go to system. System's going to get a new device. Notice that there are no device allocated to systems. So it's not giving me absolutely everything. So system device, electronic key, $100 currently worth $75.
+
+[06:17] There it is, and now if I go right back to where I was at my professional platform plan, you can see that we've got the one item. So I hope you enjoyed refining our user device app. Now, just imagine the other types of apps you can do. Maybe you've got one for information. Maybe for instance, you've got one showing where everything is in a particular shopping mall or airport. It has been used for these sort of things.
+
+[06:46] And I hope you gets really confident and maybe even excited with all of the apps that you can create in your business. In the next section, we'll be developing this further. We'll be looking at adding pictures and image controls. We'll be searching for text and we'll be adding variables. Please join me there.

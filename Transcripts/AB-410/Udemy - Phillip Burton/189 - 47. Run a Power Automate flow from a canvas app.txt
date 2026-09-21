@@ -1,0 +1,40 @@
+# 47. Run a Power Automate flow from a canvas app
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 189 (section 32: Power Automate components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're gonna see how we can run a Power Automate flow from a Canvas app. So we've got here the Canvas accounts app that we worked on earlier in this course. What I'm going to do is add a button here that's going to run a Power Automate flow. Now, you can see on the left-hand side, we have got Power Automate, So I'm going to click on Power Automate, and you can see, I can add a flow from within Canvas apps. I'm going to click on add flow.
+
+[00:29] And if you make any changes to a Power Automate flow that is using a Canvas app, I strongly recommend that you go to any dot, dot, dot, and click on refresh. So I'm going to create a new flow, and you can see that there are some templates available. Add an item to SharePoint and send an email. Click a Power Apps button to create a new project in Microsoft Project Online. Run an SQL stored procedure. And click a Power Apps button to send a push notification.
+
+[01:00] So all of these can be quite useful, but I'm just going to create a simple flow from scratch. So create from blank there. And here I am in the Power Automate Canvas, albeit one which is still within Power Apps. So we start off with a Power Apps, and there's nothing to do there. So what I'm going to do now is just create a variable. So I might be doing lots of things. I might be tweeting, I might be sending an email.
+
+[01:29] I'm just going to create a simple variable. So I'll initialise a variable. So this is going to be called far string, string type. And I'm just going to get it to say, hi, for the moment. So let's click save. Now, the computer closed the flow without me being able to name it, but it's called Power App Initialised Variable because that was the only action that I put in.
+
+[01:58] So now, I've created it. I need to add this flow to this Canvas app. So I'm going to click add flow, and here's my flow. So I'll click on it. So it is now in my app. Now, I have, in the past, had trouble adding a flow into the app. If that happens, you might just need to click on add flow, and as I say, click refresh a few times and just keep trying. So there is my flow.
+
+[02:26] So I can edit it if I want by going to dot, dot, dot, and edit. And I'm going to rename it something a lot shorter, Canvas to automate, 'cause it's going from a Canvas app to Microsoft Automate. So I'll just save that. You can see, saving. Close this down when it's finished. Saved.
+
+[02:54] And again, you might need to refresh the list of apps. What I'm now going to do is click a button to run this. So if I have a button down here, and in the onselect for this button, I'm going to start typing in the name of my app. And here you can see it, Canvas to Automate. And then it's dot run, open brackets, and closed brackets. So that will now run this app.
+
+[03:23] So now, let's run this form or preview it, click the bottom. It goes white for a moment while the flow is running, and then goes to blue. Now, unfortunately, I haven't got any output, so let's remedy that. So I'll edit this again, and I'm going to add a new action at the end. And this action is from the Power Apps, and it is respond to a Power App or flow.
+
+[03:51] So this is the output. And I'm going to add an output. It's gonna be a text output. It's going to say, var output. So that's the name of the output. And the message, well, it's going to be my var string. So I've initialised a string here, and I'm going to now give it as the output to this flow. So let's save this. Style saved, close, and let's refresh this link as well.
+
+[04:24] So you can see, we have an X while it's refreshing, and then we're fine. So let's click on the preview, run the button. And okay, we've got the output, but we don't know how to capture it. Well, to capture it, we use the set command. So I've got this to run. So now, I'm going to say, set. And I'm going to create a variable called My Results, and it's going to be the output from this. So now, I have a variable called My Results, which has the output.
+
+[04:59] So again, I'm just going to refresh, and I'm going to add some text, a label. And this is going to contain, in the text, My Results dot, and there is my output, var output. So now, let's preview this. So I'll click on the button. If you remember, the button is going to internally create a variable, and then have an output variable.
+
+[05:30] And so, there is my output. What if we wanted input as well? Well, we can have that as well. So let's edit this flow again. And instead of having hi as the text, I'm going to have the email addresses, and notice I've got dynamic content here, and ask in Power Apps. And it's created a new variable called initializedvariable_value.
+
+[06:03] So I will need to provide a value to the flow. So let's save this. Again saving, wait till it's saved. Let's close it. Let's refresh it when it's available. And you can see that there was an X next to the button. This means I haven't provided the information that is needed. So I'm going to put in the brackets of run, and you can see, number of arguments received, zero, expected, one.
+
+[06:36] I'm going to put email address just as a string. So now, let's preview this. The email address is email address. So let's grab this particular email address. So if I click on this form, so I've done that by clicking on any element, and then I'm clicking on the hierarchy to get to the form viewer. Let's go to the properties.
+
+[07:05] And you can see, the item is accountgallery.selected. So I'm going to have in here accountgallery.selected.email. So that gives me the email address in the selected item of the gallery called account gallery. So now, let's preview this. Click the button.
+
+[07:33] And now, we have the input of this email address going into the flow. It's going into a variable, and it's outputting the email address is and what I've just put in. Now, I could be doing a lot more complicated things in the flow. I could be sending emails. I could be adding rows into the Dataverse. I could be tweeting. I could be doing a lot of things. So in this video, we've had a look at how we can run a Power Automate flow from a Canvas app.
+
+[08:02] So there needs to be a reason for it to run. And one possible reason is clicking a button, and then you've got it on the onselect. So I go to Power Automate. I add a flow. I can create a new flow. Once it's created, I can add that flow in, and then I use the name to run it within, say, the onselect.
+
+[08:29] If I want outputs, then I can set a variable for those outputs, and then use that variable later. And if I want any inputs, then I put it in the brackets in run. But I need to ensure that the flow is expecting the inputs and the outputs. For it to expect the inputs, then you can use, ask in Power Apps. And for the outputs, you can use, respond to a Power App or flow action.

@@ -1,0 +1,22 @@
+# 34. Creating public single-stream dashboards
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 166 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to build a dashboard. So a dashboard allows you to have multiple charts on the same page, as well as some other things. And we're going to start by creating a single-stream dashboard. In other words, as a dashboard which is associated with a table, one table, so that's why it's a single-stream, in the Dataverse. We can then use this dashboard in our model-driven app. So I'm going to go to my expense table and I'm going to click on dashboards, and then I'm going to add a dashboard.
+
+[00:33] And you can see how many columns do we need. Do we need two columns, three columns, or four columns? And then if you want three columns, do we want it so that it is of an equal size or do we want it so that one is a fair bit bigger than the other? So I'm going to go for this varied width, so you can see how much bigger it is. So we're now in this classic interface, so I need to call it, so I'm going to call it ExpenseDashboard1.
+
+[01:03] And so what I'm going to have in the centre is I'm going to have a view based on the active expenses. We're going to have a graph based on that view, and I'm going to create that chart. So that's a chart based on the active expenses. Now, either side, I'm going to have a view created on the My View, and on the inactive expenses. So it's exactly the same chart.
+
+[01:30] This one has no data but you can see that we've got these various charts there. Down at the bottom, we've got things called streams. What streams are basically are views. So I'm going to have the active expenses, the inactive expenses, and the My View at the bottom. Now, if I want to modify any of these, like for instance, I want a different chart, my advice is to click on the chart and click on delete, and then you can just create a new chart.
+
+[01:59] So I'll go back to creating one on the active expenses. It's difficult to overwrite it. You might be able to, but it seems difficult. So just delete it, come back in again. So you can see, you can filter by a time period as well. So you can set this up as well. So let's save and close this and refresh.
+
+[02:28] So there is our dashboard expense. I'm going to create another one, a two-column one. And so you can see, it's just got the two column for the visual photos. So two column. So I'll do this on my view and I'll insert another chart there of the same kind. We'll then add some streams at the bottom. So Active and My View. We're not gonna put inactive on this.
+
+[02:57] So now we've got two table dashboards. They're single-stream technically. By single-stream, I mean they're looking at a single table. You can't actually edit the table there. So I'll go to Save and Close, and click Done. So I'm going to close all of my other tabs, and go back into Apps and then go over to the dot, dot, dot next to the accounts and expenses model, and play.
+
+[03:27] If I now go to the expenses area, and click on the dot, dot dot, there is open dashboards. And this is where you can see the dashboards, the two columns, and the expense dashboard one. And if you're going, well, I can see the bottom bit but I can't see the charts that were at the top, then you need to click on Show Visual Filter. Now it says no data available. That's because of the date range that I have chosen or which was the default.
+
+[03:58] If I click on the dropdown and change this to this quarter, there we can see all of the charts. Now, if you want to simplify this bottom bit so we're not actually seeing each individual item, I can click on switch to tile view. And so that just shows a single tile, which I can then click on and get the details. So in this video, we've created a public single-stream dashboard. In the next video, we'll create a personal multi-stream dashboard.

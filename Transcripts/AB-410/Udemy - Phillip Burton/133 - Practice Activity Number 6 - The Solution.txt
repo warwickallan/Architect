@@ -1,0 +1,50 @@
+# Practice Activity Number 6 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 133 (section 24: Expanding our canvas app further, including using variables)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, well, how did you find this practise activity? So, let's take a look. First of all, I want you to go to the device edit screen. And I want you to add Add Picture control and to link it to the device image column. So, you could go to media and so forth, and you got add picture, but there is a quick way. Remember, we are using a form. So, if I click on the form there, all I have to do is add a field.
+
+[00:28] So, having added the device image, you can see the control type is Add picture by default. And if I scroll down there we can see if I click a few times, that this is an Add picture control. So, very quick to do. Next, I want you to create a new screen so that you can go to the users' gallery page or the devices gallery page. So, here it is.
+
+[00:55] So, I'm just going to collapse everything. And while I can't drag it to the top, I can move it up so it's in the right logical order. And I'm going to rename that to Main Menu. So, it doesn't have to be much, all I'm going to do is put in a couple of buttons. So, this first one, the text is See all Users. And the second one See all Devices.
+
+[01:28] So, maybe you could stylize this a lot more, have your logo on, have a rectangle at the top. And an introduction, you're welcome to whatever this is. Welcome to Users and Devices app. So, I put that in. Welcome to the Users and Devices app. And have that colour to be white.
+
+[02:05] So, there's a lot of styling you can do. We need to put in the functionality, however. So, for this button, it would be navigate to the user details screen. And for this, it's navigate open bracket and just wait, because the computer would then give you some potentially really good options. So, go to the device detail screen and close bracket.
+
+[02:33] Next, I want you to create a global variable. So, if we go to the devices gallery page, you would see all of the devices, regardless of who owns them. So, what I need to do is create a global variable, which says have I ever clicked this person or this button. So, I can say, set see all devices. And because this is a set, we now use a comma.
+
+[03:03] So, I don't want to say See all Devices is true, I want to say it's false so I'm using the zero value. It doesn't really matter what value you use, as long as you have the right logic later on. Now, if you're going to this button, so again, just put a few spaces, maybe a semi-colon, and I set the See all Devices. So you can see why I put the spaces, it allows the computer to give me a better range of options.
+
+[03:33] And I'm saying yes, this time I do want to set See all Devices to one as opposed to zero. So, you can see the differences between them. And then a single semi-colon or two semi-colons if you are in a Non-English locale. So now let's go to the device detail screen and in the gallery, we have this filter function. And that's fine if I have gone through the User screen. But if I go straight to the Device screen, I want to see everything.
+
+[04:04] So, if See all Devices is one. Then I want to see everything. What is everything? It's the entirety of the devices table. If not, then I want to see just the devices for the selected user in the user gallery. So, let's have a look at this. If I just play, if I go to See all Users, then I can see all the users, select somebody and here we can see the devices for that user, just one device.
+
+[04:38] Now, I'll also need a bank button here. So, this is a great way just testing to see if you're missing any icons or anything like that. So again, this will just have back. So, let's start again, go back to the main menu. So, See all Users, click on a particular user that I can see one device, go back, See all Devices and there I can see three devices.
+
+[05:09] So, next I've asked you to go to the user details screen and add a sort icon. So, let's just go to icons and there will be a sort icon there. So, when I click this, then it should change a context variable. So, it goes from ascending to descending or back again. So on select. So, you say that eighth variable and you can make up a variable.
+
+[05:42] So, sort ascending equals one. Then we need to update the context 'cause this is a context variable. We just want for one page of sort ascending to be zero. And we need squiggly brackets around it, as well as the normal brackets. Otherwise, we can update to sort ascending to be one.
+
+[06:15] So, there are other ways of writing this. So you could say, just use the one update context. So, update sort ascending to B, and then A sort ascending equals one, zero, or minus one. So, that just uses one context, update context function. So, whichever you find easier to use. Then we need to use this sort ascending here in the items.
+
+[06:43] And this is when we use sort by columns. So, sort by columns. So, sort by columns requires a source, the users, it requires a column, or probably some sorts of name. So, let's scroll down and see what name we've got. Maybe last name, perhaps full name, your entirely your choice. And then we need the order. Is it ascending or descending?
+
+[07:11] So, let's just say ascending for now. And hey, you can see it working in terms of full name as being sorted. So, if I can scroll down, got all the hashes at the top. But then we need to change ascending based on this context variable. So, if sort ascending equals one, then I want it to be ascending.
+
+[07:39] If not, I want it to be descending. So, let's go on and play this. So, See all Users and you can see it works. Now, also notice the default that came in. Started off with sort descending. So, you might want to flip it and like I did with the other canvas app and say, well, sort descending as opposed to sort ascending.
+
+[08:09] Alternatively, we could go into the main screen and we could say this is navigate. So, we'd navigate into the user details screen and we have the transition. So, we could add a transition if you so wished. So, let's start a transition of cover. But then we can add a variable, a context variable, so sort ascending equals one. So, that would work as well. So, that means that each time you go into this particular screen, it will always be ascending regardless of what we've done.
+
+[08:41] So, it's entirely your way of methodology, how you actually want your app to work. So finally, I want to put in a search function. So, I want to be able to search for individuals here in this gallery. So, let's add a bit of a room. We'll add an icon, a search icon just there. We'll add a text input. So, they will maybe make the border less prominent.
+
+[09:12] So, we should have border colour here, or maybe border style. So, change that from dot solid to dashed, or maybe even dotted. So, that looks a bit better. So, maybe we change that to dotted. And as I said, we can change the colour as well. And then we need to implement that into the sort by columns. So, here is our table, our source.
+
+[09:41] So now, we need to use the search functionality. So, we are searching a column or more accurately a table. We're searching it for text, or the text we're searching is this text input. So, public called text input one. And why are we searching in full name? And you can see we've got squiggly underline.
+
+[10:11] Is because I'm taking the entirety of text input one, which is a control. Shouldn't be a control, it should just be using texts. So, I need to say dot text. So, I have a log for all these data types and what data type is expecting if you run into a problem. Now you can see our gallery's currently empty that's because this text input currently has a default of text input. We don't want that. We want to get rid of it.
+
+[10:38] And so when it's blank, now we can see the entire gallery. And if I play this and search for somebody, like for instance Plan, we therefore have the PowerPlatform Plan. So, in this section what we have done is we've added pictures and image controls. We've added variables so we could do sorting. And we've also been searching looking for text. In the next section, what we're going to do is start looking at components.
+
+[11:07] So, components are standalone items, black boxes. So, just like for instance a text input is a black box. I can create a component and then I can use it, not just in my current app, but I can use it in other apps. So, it allows me to have reusability. And I can also update it and it can be updated in the other apps. So, that's all. In the next section, please join me there.

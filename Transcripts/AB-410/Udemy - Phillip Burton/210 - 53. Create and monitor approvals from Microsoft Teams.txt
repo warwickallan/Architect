@@ -1,0 +1,22 @@
+# 53. Create and monitor approvals from Microsoft Teams
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 210 (section 36: Other topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:01] Now in this video, what we're going to do is look at approvals in Microsoft Teams. So, I've got two different users here. So, I've got Power Platform Plan, and I've got somebody else, me. So, I'm going to just start a chat. So, I think you'll see why this is important in a few minutes. So, Hello. And there is my new chat and, hi back at you.
+
+[00:34] So, so far so good. What I'm going to do now is instal a new thing called Approvals so this is a new app. So, I'm going to make a request, so, a new approval request right at the top. And, I'm going to have a basic one while one that I have to do an electronic signature. So, I'll ask for my leave and my approvers again, are going to be me.
+
+[01:02] There we go. And, you can see if I put in multiple people, then, I have the option to require a response from all approvers, or just require a response from a single approver. So, can I go home early? And, you can have custom responses such as yes, why not? Or, no, you haven't finished But you can see also there's a character limit of 20 words, 20 characters so let's click on send.
+
+[01:41] So, my approval request has been generated. So, there it is. I had to send it a second time, it seemed to be delayed, but not four seconds, I can't do an approval in four seconds, something went wrong there. So, I can click on it to have a look at what I previously entered. So, my leave, can I go home earlier now? And, I can follow this up or I can cancel this request.
+
+[02:10] So, I'll just leave it as this. And, I'll go to my other person who has now received an approval. So, my first person has sent one. My second person has received one. So, let's have a look at it and yes, why not? No, you haven't finished so, enjoy and say, yes, why not. Submitting your response. So, the status has now changed.
+
+[02:40] And, if I go back into this person and just change something, there, you can see my status has now been updated to yes, why not? Now, let's go back to my chat. So, all I've done so far is say hello and hi back at you but what I can also do is if I go down to the bottom of the screen, is go to approvals, so I can do this in the middle of the chat.
+
+[03:12] Now, this can only be sent to people in the chat. So, at the moment there's only one person in the chat, that's the only person I can send it to. So, more time off. So, put in Microsoft, my other person, can I have more time off please? So, I'll use the standard responses. So, I haven't used approvals in this conversation before.
+
+[03:41] So, I agree to the privacy policy in terms of conditions and you can review those. So, click continue, and here we can see my request. And after a few seconds, these buttons come up as well, approve, reject, view details. So, if I view the details, I get exactly the same sort of things as I've had before, so I can approve or reject there, so I'm going to approve, And, you can see that I'm doing this in the same screen as a chat, so I don't have to go to the approvals app.
+
+[04:16] I can do this by just being in a chat with somebody or multiple people and clicking on the approvals down at the bottom. So, approvals in Microsoft teams, you can do this as part of a chat, but only with people you're chatting to or you can go to the approvals app. And, here you can see, you can monitor all of your requests.

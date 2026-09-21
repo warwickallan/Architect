@@ -1,0 +1,26 @@
+# Using card forms in the Classic interface
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 168 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at these: the active expenses in the all accounts. Now these are streams in the dashboard. The streams are, if I add another one, based on a view. So we have got a view called active expenses. And if I go back to the tables, data tables this is the Power Apps portal. You can see, we have a view of active expenses and there was only one item in there.
+
+[00:30] The reason for that is because there is a filter just here. We'll be looking at filters later on in the next video. So, if I change this filter you can see that we've got 10 items here. If I go to this view and click on it, you'll see that we've got the 10 items there. However, this representation here, in this view, is not what we can see here. What we can see here is a form specifically a card form based on that view.
+
+[01:04] So what happens if I want to change this? You can see, for instance, we can have more detail, if we so wished. But to do that, we go away from the view and we go into a form, a card form. So you can see here, we have a card form for information. Now, when I click this, then you can see we go into the classic designer. The reason for this, the new designer at the moment cannot support card forms. But have a look at what we've got.
+
+[01:33] Right at the top we've got the status reason. So you can see that right up there, active. Then, that's in the header, then in the details we've got the ID. So that's the ID number. And then in the footer we've got the owner and the created on. So where is the footer? It's this drop arrow. So if I click on this, you can see the owner and created on. So, let's now turn to this card view and say, okay what I want to do is add more things to either the header, the details, or the footer.
+
+[02:06] Now I don't want the ID to be in the details, I want it to be in the footer. So I'm just going to drag it up there. What I want in the details, I want the expense value. And I'll just drag it in the description, the date of expense, and in the footer I want the account as opposed to the owner. So let's get rid of the owner. So I can't drag it off like this.
+
+[02:34] I just have to press either delete or remove, but you can see the field you're trying to remove is required by the system or business. So it can't actually do that for everything. So what I'm going to do is I'm going to save this and then once it's saved, I can publish. Now, there are some additional things you can do but very little. You can see change properties is largely disabled. It depends on what you're clicking on.
+
+[03:04] Form properties that just shows the name and the description. So you see a card form for this entity so I can see read table. So really it's just the field information and you've got the separate things: header, details, and footer. You've also got a colour strip. So the colour strip, that is this on the left-hand side. So for you to add anything into colour strip it would have to be, say a series of choices.
+
+[03:33] So let's put the approval status in there which is to do with choices. Right, so I'm going to save it and I'm going to publish it. So publishing customization, so as you can see. So let's go back in and refresh this. And here you can see the differences. So, we have now got the status reason and the ID off of the top.
+
+[04:04] And I'll just change this filter so you can see more information. So for today it will be fine. On the left hand side, we have got the colour strip. Well, this just happens to be the one colour, the approval status hasn't changed in any of these. But then in the detail, we've got the expense value, the description and where applicable the date. And then in the footer we have the additional things that we'd asked for. So we have got to the account.
+
+[04:33] So if you want to modify the data behind this then that would be selecting a different view or creating a new view. If you want to modify how it actually looks then that would be going into the card form and then altering that and you do that using the classic environment. And basically you have a header which goes to the top.
+
+[05:02] Details, which are in the middle and then footer, which is hidden away.

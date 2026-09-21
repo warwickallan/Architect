@@ -1,0 +1,40 @@
+# 31. Create Dataverse table forms
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 155 (section 28: Create model-driven apps - App designer and main forms)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we created this model-driven app. And we have got these two different entities, or tables, the accounts and the expense table, as shown using forms and views. But which forms? If I click on the form, you can see that it says, "No forms has been explicitly selected. All forms will be available by default." Now, if you want to create a new form, you can do that by going back to our Power Apps portal, make.powerapps.com, go into the Dataverse and the relevant table.
+
+[00:40] So let's go into the expense table, and we can see that we've got forms over here. So, let's click on this form, Data Experience. And you can see that there are several different types of form. We can see three types have already being created, but there are in fact four types. First of all, there is the main form. This is the main interface for table data. Then we've got the quick view form.
+
+[01:09] These are used in related tables, so two tables which are related to each other. It can display additional information in the related form. So you will need a look-up field or a relationship which adds a lookup field, otherwise quick view forms will not be available. There are quick create forms, so this is when you're creating a new row. And then there is a card form. This is a compact form view.
+
+[01:37] It's good for mobile devices, it's good for dashboards, and you can also colour code them. So now let's create a new form for the expenses table. So we'll go to the top. So let's go for a new main form. And here you can see it's opening up in this window. So, this is a main form. It's the main interface for table data. So, over here on the left hand side, just like we've had with the canvas apps, we have a tree view.
+
+[02:06] So you can click on any particular item and show any item which is contained within those items. We also have the table columns. So you can see that there is a check mark at the top, Show Only Unused Table Columns, so those we haven't currently used. If I decheck that, you can see everything else, the ID and the owner come back into the list. So I'm going to add date of expense, and I just need to drag it in, just like that.
+
+[02:39] Also, the description, the related account. Now, you can let go of the mouse button once the area turns pink, it'll then be inserted. If the area turns white again, then you've gone too far. I'll also drag in expense value. Here's another way. You can drag it so there is a line with a little arrow on the left hand side. That will also insert the column. Now, if you go to any of these items, you can see in the properties over here, we can hide the label.
+
+[03:12] So maybe we don't need to see the word description. Maybe we're designing it for a mobile phone and you want a smaller view, so individual items can be hidden on the form. Or maybe we can just hide it by default, and it can be shown again using programming. So if I hide it, there it is. But how can I see it? Well, if I want to see it, to unhide it, you can click on Show Hidden at the bottom, or you can go into the tree view and you can see that there is this little symbol, this hidden symbol right next to it.
+
+[03:50] So, from here, we can show it again. Now, there's also locked. So what does locked mean? It means it cannot be deleted. So if I click on that and then I try and delete this field from the form, you can see locked form fields cannot be deleted. And you can make it read only so we can't actually edit this particular item. Now, we can add components as well.
+
+[04:20] So we can go to Components here on the left hand side or Components at the top. So we can add one, two, or three column tabs, or one, two, three, and four column sections. So if I drag in a two column tab here on the left hand side, it gets inserted before the General tab, and we've got these two sections. So from here, I'm able to add in additional items. So, this could be useful when you want to show different information in different places.
+
+[04:53] So I'll drag in description and expense value into these sections. So what else can you insert? Well, if I go back to the components and go to grids, you can insert a subgrid. So, this is a view of a related table. You can also make it editable so the end user can edit it. In Display, we have got Calendar. You can view related information in a canvas app.
+
+[05:25] So if you've got a canvas app that you want to embed into your model-driven app, you can do that. An external website through an iframe. You can have web resources, HTML or image web resources. A knowledge search, so, this is more used if you've got Dynamics 365. It allows you to search for relevant knowledge articles. A timeline which allows you to show activities such as emails and phone calls.
+
+[05:56] Only one timeline is available per form. And then we've also got quick views and forms that we can insert as well. In Input, we've got business card readers, which is part of the Artificial Intelligence Builder. We've got various check boxes and forms. Inputs, including pen inputs, star ratings, so from one to five stars, and a toggle, an on, off switch.
+
+[06:23] In Media, you can insert a map from Bing, and an image web resources. And you've also got categories for inserting Artificial Intelligence Builder and Power BI reports. Now, if I go back to the tree view, you can see that we've also got a header, and it says you've got a footer, but the footer is no longer supported. So, I can add items into the header. So let's go back to table columns and let's insert the status and the approval status.
+
+[06:59] Now, if you start adding a lot of items, then you might find your additional columns are shown in this flyout, this dropdown button. Now, let's go back to the tree view and have a look at the main form. And if I expand the properties, you can see that we've got events. Now, this is more for the PL-400 exam, but it might just be useful for you to have a brief overview as to what events are.
+
+[07:28] So, events allow you to attach code, like JavaScript code, to things which are happening in the model-driven app. So for the form, you have got on load and on save. So, when the form loads and saves. You've also got for individual fields when data in a field changes. And you can also have when the control loses focus, in other words, when you can no longer edit it.
+
+[07:59] So these are controlled using form libraries. These are JavaScript files. So you add a library and then you can add events, and you're seeing on screen what that can look like. However, you won't need any more detailed knowledge of this for the PL-100 exam, you just need to know that they exist. Now finally, I just want to show what's at the bottom. You can show hidden, as we've seen before. You can also zoom in and out.
+
+[08:27] You can show at a zoom that shows everything. And you can say what you're designing for, so, tablet, phone, desktop, or responsive. So, you've got the different resolutions there. So, let's save this. In the dropdown, you've also got Save As if you want to take an existing form, alter it, and then give it a new name. And then we publish it so that it is made available.
+
+[08:59] So, this takes a few seconds for each of these operations to happen. Once that's done, we can go back into our accounts and expenses model-driven app, publish it again, and then we can play.

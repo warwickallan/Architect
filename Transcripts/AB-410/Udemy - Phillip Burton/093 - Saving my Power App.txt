@@ -1,0 +1,22 @@
+# Saving my Power App
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 093 (section 19: Creating a canvas app from a template, and creating one from scratch)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, just before we continue with creating a canvas app. Just a couple of points. First of all, there are other places where you can create a canvas app. For example, we could go to create and then start with a page design. And you can see we've got a gallery. So that's a list connected to a table in the dataverse or in external data we can create a blank canvas. And we've got the choice of a tablet and a phone for example.
+
+[00:32] Additionally, we can go to apps and start with an app template. And here we can see other connectors that we can use SharePoint and Excel and SQL. There are many more connectors. There are over a thousand connectors that you can use to connect to data with canvas apps. And you can also start in a solution. So a solution is a holder of objects like canvas apps. So if I go to one of the solutions.
+
+[01:01] I can go to new app, canvas app, and I get the choice of creating a tablet canvas app and a phone canvas app. The app that we created in the previous video is a phone app, so you can see it is portrait as opposed to the landscape setting of a tablet app. Now let's go back to our home page and go to apps. Start with an app template. And from Dataverse again and again I'm going to connect to the accounts table and click on create App.
+
+[01:34] So you can create as many different canvas apps based on the same data as you want. Here is our table our app. And then what is fairly important is ensured that you save it. So at the moment it is unsaved and you could lose work if for instance, it's the end of the day, you go off, you come back, you find that the Power Apps has timed out.
+
+[02:05] It gives you no opportunity to save and you because you haven't saved it in the very first time. You've got no opportunity. So to save it, go to File Save or Save As and give it a name. So I'm going to call this Accounts app two. And you see you can't take an app which already exists. So I have now saved my accounts app. So I'm going to say accounts app two.
+
+[02:32] And I'm going to save it to the cloud. So power apps. So once it's now saved what then. Well it will auto save if we go to settings. And scroll down you can see that auto save save changes every two minutes is on. So while that's on if you make any changes now that it's saved it will auto save. Secondly, let's say I close the app so I'll leave.
+
+[03:04] There are other ways I could go to file close, for instance. If I go back to the apps and I will just refresh this page, I don't even need to do that. It's done it for me. You can see in apps, I can get back to my app, and then I can click on the dot, dot, dot next to it and I can go to edit or play. So play runs the app. Edit takes me back to the screen that I can continue editing.
+
+[03:33] Alternatively, I can click the check mark here, and then at the top I can go to edit and play as well. So at this stage I'll suggest that you save your app and then you can check that it's saved. If you go back into the Power Apps portal, make dot Power apps.com and you should see it there. So why not?
+
+[04:01] Now go to File Save or Save as.

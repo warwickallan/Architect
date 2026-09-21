@@ -1,0 +1,24 @@
+# Licensing for Power Apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 086 (section 18: Installing Power Apps and Environments)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello and welcome to this section about Power Apps and environments. And the first thing we need to do is have a look at the licencing requirements for Power Apps. Is it free, or do you have to pay? And the answer is maybe a bit of both. So let's have a look at the Power Apps website. So you can see I've just done a Google search and we have this powerapps.microsoft.com web page. So we've got on this web page quite a lot of information about Power Apps, including if we keep scrolling down lots of different data sources that you can use.
+
+[00:35] And these are connectors that you can connect for your data sources. However, for me, the most interesting thing is right at the top where we have a look at pricing. So there are two basic subscription plans and a pay-as-you-go plan. So first of all, if you want unlimited access, you've got a per-user plan. $20 per user per month. You can run unlimited apps and portals for this one fee. Alternatively, if you want to licence individual apps, then you can do that for $5 per user per app per month.
+
+[01:06] So that's good if, for instance, you've got three users who only want to use one particular app. It only costs $5 for that particular app. Alternatively, if you want a pay-as-you-go plan, you can have one for $10 per active user per app per month. So maybe Charles only wants to use an app every quarter or something, just once. Well, it might be this pay-as-you-go plan would be better for him. So you can see the difference is what you can licence. Most of the other things are about the same.
+
+[01:36] So use pre-built and custom connectors. So you can connect to your data. Use on-premises connectors and gateways. What does that mean? Well, suppose I've got SQL Server on my network. So to be able to connect from the cloud, I would have to use an on-premises connector to go from the cloud to the gateway and then get access to the data on SQL Server on my network. So there's a bit of variety, variation here when we come to looking at the maximum data limits.
+
+[02:09] But that's not a huge difference. Not really important for this particular course. Now, further down, you'll see we've also got information about portals. We're not using portals in this course, and the AI Builder. And we'll be touching on the AI Builder later on in this course. You've also go Power Automate use rights. So what does that mean? Well, when you're creating flows, which run from a Power App, then you can use Power Automate from the Power App.
+
+[02:37] However, if you want to use Power Automate flows in their own right without any connection to a Power App, then there would need to be separately licenced. So you can see, we've got these different plans. However, that's not all. There is also the Power Apps Developer Plan, and this allows you to get a free environment for individual use. So you will have Power Apps and Power Automate developer tools. And you will also be able to share and collaborate with others, equally doing the development and testing.
+
+[03:08] What's not allowed is to distribute apps for production purposes. If you want to do that, then you will need one of the paid-for plans. However, it gives you access to a huge amount, and this is a much better deal from May 2021 when they extended what they could do. Before that, you couldn't share but now you can. And you can see lots of yeses. There's just a few nos but indeed, Developer Plan, you can do basically everything that you can do in the original Power Apps, the paid-for version.
+
+[03:44] Now, in this particular course, we will be installing both the Developer Plan and the per-user plan. Now, just one more thing about Power Apps licencing. You may see that you can also get Power Apps for Microsoft 365. Well, this is just so you can use Power Apps and Power Automate in the context of Microsoft 365. You can't use it outside of that context.
+
+[04:12] So you can create applications and flows based on Microsoft 365 data but you can't go outside that. Equally, there's also a Power Apps and Power Automate for Dynamics 365. But again, this is to customise and extend applications in Dynamics 365. It's not for anything outside of that. So in this course, we'll be looking at the developer plan, which gives you a free development licence for individual use for development and testing purposes, and we'll be looking at the standalone plan.
+
+[04:46] So that's either the per-user plan or the per-app plan.

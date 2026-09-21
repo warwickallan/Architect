@@ -1,0 +1,20 @@
+# 44. Default and DefaultSelectedItems
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 125 (section 23: Adding Expenses to our app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at how we can go from this Browse Screen so I can go from City Power and Light, click on the Dollar Sign, click on the Add to have City Power and Light automatically shown in the account, how can we do that? Well, we've previously seen several times that it is accountgallery.selected, which drives this. So let's go to this card, this particular card. Now, you can see it is locked.
+
+[00:30] So, what does lock mean, it avoids tampering, unnecessary tampering, you have to unlock it if you want to make some changes. Why should you avoid tampering? Well, it's all been added by this fields, Edit Fields button, it's all added automatically, and it's there to ensure that everything is as per the automatic, so if I want to change it, I need to unlock it, just click on Unlock in the Advanced section, and that's all it is.
+
+[01:01] Now, if you go back into the field, you will see that this is now a custom card. That just means that we're able to edit properties. However, we can't re-lock it afterwards. If we want it locked again, then we have to delete it and then re-add it, so now we've unlocked it, let's see what we can do, so let's have a look at Default. So the default here, it seems blank, okay.
+
+[01:30] So, let's put in accountgallery.selected, okay. And, you can see Data Type Record. So, let's play this, so going to City Power and Light, the Dollar Sign, and Add, and there we have City Power and Light, simple, right, easy. So, I'll put in the expense value, and a description, and click on this check. Oh, that seems easy, okay, we'll add another item.
+
+[02:01] Oh, it's disappeared, it's because that's what it was previously, so let's go to the Coho Winery and click on the Dollar, click on the Plus, it hasn't added it, ah, it looked like it was going to be so easy, but no, unfortunately it was just from the previous time, so that hasn't worked. Okay so, let's go back into here, so if it's not in Default, maybe it's in DefaultSelectedItems, make sense. It is a combo box, we've got various items to select.
+
+[02:31] So, I'm going to put in here accountgallery.selected, and here we can see Coho Wine Sample. So, let's go back to our Account Browse Screen, go into a different one just to make sure it's working correctly, so Contoso Pharmas, Pharma logical, whatever this is, and click on the Dollar, click on the Plus. And, there we have Contoso, great, so we'll add in the, a value, add in the description, click on the check, and there we go, you can see that it has automatically been added and let's just make sure this works, we're going to Fabrikam Ink Sample.
+
+[03:10] And again, going to the Dollar, click on Plus, and there we have Fabrikam Ink. And, let's put in some things, click on the check, and there we go. So, we have got two properties here. So, the first property, we've got is Default. And so, Default is the initial value of a control.
+
+[03:42] So, if I wanted the initial value of these expenses to be minus one, then I could unlock this, put in minus one into Default, however, for things like combo boxes, and other things where you can select for multiple values, you might find Default doesn't work for you, in which case, you need to go to DefaultSelectedItems.

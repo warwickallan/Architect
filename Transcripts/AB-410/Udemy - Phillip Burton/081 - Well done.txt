@@ -1,0 +1,8 @@
+# Well done
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 081 (section 16: Congratulations)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Congratulations! You completed the course. Let's quickly review what we learned. First of all, we created our own environment with a Dataverse database and sample data. Then we created from scratch some Canvas PowerApps. We had a look at the model-driven PowerApps, creating forms or views, charts, dashboards and database business rules. After that, we went to Power Automate with some instant, automatic and scheduled flaws. We created database solutions, importing and exporting apps and cloud flows, the AI Builder and much more.
+
+[00:39] Where would this take you? Consider trying the official practice test to see how far you've come. Then maybe even sit the exam. Remember, if you're a US college student, you might even get college credit for passing this exam. I wish you the very best of luck, whatever you choose to do. Thank you for joining me in this course. I'm Philip Burton. I do data and so do you.

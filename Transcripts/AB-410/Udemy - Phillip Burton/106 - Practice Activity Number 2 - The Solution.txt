@@ -1,0 +1,42 @@
+# Practice Activity Number 2 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 106 (section 20: Expanding our canvas app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Right, well, how did you get on with this practise activity? So first of all, I wanted you to add a display form into our existing screen. So here we go. Insert and within in input there's Display form. And I'm going to move it to the right-hand side, so I'll just drag it and I'm going to set it up so that these two do not overlap. Now, the form isn't connected to any data. So what I'm going to do is go to the data source and click on Users.
+
+[00:30] Now, I need to have it so that it displays the information on one particular item in the gallery. So I'm going to go into Advanced and into Item, I'm going to find out the gallery name. So Gallery1 at the moment, okay? You may wish to rename these and .Selected. So this is how it looks. I'd prefer in this particular instance for there not to be three separate columns. So I'm going to change that going into the properties and I'm going to change number of columns to one so they can be underneath each other.
+
+[01:05] Next, I need to add a couple of fields, so go into Fields, Edit Fields, click on Add Fields and I'm going to add in the principal email. So primary email. And the licence type. So next, I want an icon at the top, so I'll put a bit of space and I'll put a bit of space for the gallery as well.
+
+[01:33] Let's have them at the same level. So I'm going to insert an icon so I can edit the data that's there. So I'm going to put it all the way here, so let's just move this. Click on the form itself. Down a bit more. Same for the gallery. Now, when I click this, it should go into a separate screen. So I'm going to add that separate screen first. So go to New Blank and then I will insert an edit form.
+
+[02:02] Again, I'm going to select the data source. Again, I am going to go down to Item and I'm going to say Gallery1.Selected. Obviously, if yours isn't called Gallery1, then you will need to say what it is. And I'm going to add the additional fields again, the principal, primary email and the licence type as well.
+
+[02:35] Now, that's not a lot of space, especially to enter the primary email. So again, you should consider how many columns you need. So should it be two columns? But what I'm going to do is change it to one column but with the layout being horizontal. So I think that gives me the best of both worlds. It allows me to have space and yet not have a huge amount of height. Right, so now we've done that, let's connect these two screens together.
+
+[03:05] So we've got this icon, which at the moment does nothing but in the OnSelect property for the icon, we can say navigate and I want to go to Screen2. Now, Screen2 obviously, not perhaps the best name for it. So let's rename these screens. So I'm going to call this DetailScreen and I'm going to call this EditScreen and you will notice when I go back to the icon that it has automatically updated the formula, so it no longer says NavigateScreen2 right, so now let's add in working submit and cancel icons at the top of the screen.
+
+[03:51] So I'm going to go into the icons and I'm going to go check. So that is my submit and what I need to do is I need to submit the form. So I'm not submitting the screen, I'm submitting the form. So the only form I've got is Form1. Again, you might want to rename that, so EditForm perhaps. Now, once you've clicked on it, you don't want the form still to be there.
+
+[04:18] You want it to go away, so you could have back, one semicolon or two depending on your locale or you could go to the form and go to the OnSuccess. So if the form has been successfully saved, then you go back. So similarly, we're going have a don't save button. So let's go to the icons, click on the X.
+
+[04:49] And OnSelect, here we're going to reset this form, so we get it back to where it was. So we have the EditForm and we also go back. So we can test this now and if we go back to the DetailScreen and I go say on me, so PowerPlatform Plan. So I can change it.
+
+[05:15] You can see that works. So I'll click on Edit. I will put in a new title, so Mr, for instance. Check that and now you can see it is saved. And I'll put in a new main phone as well. So 0123456789. There we go, great and let's just do one more change, put in a zero at the end and press this X button instead and you can see it hasn't actually changed.
+
+[05:47] So that all works. Now let's have a look at just prettifying it a bit. So I want some rectangles in the background at the top. So I will insert and do you remember where rectangles were? It's in icons. So I'll insert a rectangle. Now, notice, it's gone above the icons. So I don't want that.
+
+[06:13] So I'm going to write and click and go to Reorder and Send to Back. Also the actual colour is a bit too strong, so I'm going to change this to a light green. Now, let's also add a title, so I'm going to put in some text, a label. So this is going to be the edit screen. So I can just say edit user details, for instance, in speech marks.
+
+[06:45] So similarly, I can go to the DetailScreen, add in two rectangles as I think that might just aid in navigation so people can see actually there's something on the left and something on the right. So there's one. I'll just leave a bit of a gap. And then add in another rectangle. Move it over there. Again, I will send this all the way to the back, so we can see the icon that we've got, the pencil icon.
+
+[07:19] Again, I'm going to change the colour. So I'm selecting both by clicking one and holding down Shift and clicking another. That alters the properties in both and I'm going to again have in label. So this could say something like all my users. And this one over here could say the user you've clicked on. Or maybe current user.
+
+[07:50] So that just might help the end user navigate the fact that there are two different things on the same screen. And then finally, I want a refresh icon. So let's just have a look for the word reload. There we go. Put it over here. So again, having the icons in the same place on the right-hand side of the rectangles also helps the end user go okay, I have a section on the left and a section on the right and OnSelect, I have refresh.
+
+[08:20] But what am I refreshing? I'm refreshing a data source. What's my data source? Users. So now that just refreshes the source data. Maybe it's changed elsewhere. So if I play, I can click on all of these. I can scroll down and up. I can go to my current user. I can edit it. I might have a lot more fields than just what I'm seeing in the details section and then I can change what I want and have it saved or I can do changes and abandon those changes and it looks a bit more stylish than it did previously.
+
+[08:59] And finally, what I'm going to do is I'm going to save it. I'm going to go to File, Save. And just make sure it's saved. So in this practise activity, we developed our canvas app further. In the next section, we're just going to take a step away from canvas apps themselves and have a look at designing the data model. We'll go into the Dataverse, we'll create new tables, new columns and add calculated columns and roll-up columns.
+
+[09:28] Please join me there.

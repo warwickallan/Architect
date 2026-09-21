@@ -1,0 +1,20 @@
+# 19. Import a Dataverse solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 194 (section 33: Solutions)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to look at how to import a Dataverse solution. Why might you want to do this? Well, you might want to go from one environment to another, maybe a test environment to a production environment. Now I'm going to create a simple Dataverse table. So this is going to be my import table, and I'm going to just save it. I'm not going to add any additional fields or data. So there is my table.
+
+[00:29] Next, I'm going to create a solution. So I'll go to solution and click new solution. So this is going to be my import solution. I'm going to select a publisher, and add the version number, and click create. And then in that solution, I'm going to add my existing table. So I'm going to add my import table. I'm going to include all of the objects, including the table metadata.
+
+[01:06] So there we have a very basic solution. If this was something more complicated, like a Canvas app or model-driven app, then there may be dependencies. So you might need, for instance, if you are exporting a Canvas app that relies on tables that you've created, then you probably need to have those tables as part of the solution. So you can see any dependencies by checking the object, and then going to advanced and show dependencies.
+
+[01:35] However, this is a newly created table, there won't be any. So next, I'm going to go to my import solution, check it, and I'm going to now export it. So there's a lot of nuances with exporting that we don't need to go into for the PL-100 course. I'm going to export it as a managed solution. So I'm moving to a production environment, and I want things to be more locked down.
+
+[02:04] So you can see at the top it says, currently exporting this solution. It will take a few minutes. So I'm just going to pause the video here. All right, now it has exported successfully but not downloaded. So let's click on download, and it gets downloaded down here, and it's just a zip file. So if I open it up, you'll see a few files, like XML files. So now I've exported it, I can now import it.
+
+[02:36] So I do that by going to a different environment. So this environment does not have my new table, so if I look for it, it's not there. So I go to solutions and import solution. I browse for my zip file, click next. And it's at this stage that if you have any dependencies that you haven't included, you'll get an error message.
+
+[03:04] So I haven't got an error message here, so I'll click import. And now you can see at the top it is currently importing the solution. So again, I'm just going to pause the video. Well, now you can see that my solution has been imported successfully. So I'll click on it and it has this table. But you'll notice you cannot directly edit the objects within a managed solution. But if I click on it, here we can see that the table has been successfully imported.
+
+[03:37] So in this video, we've had to look at how to import a Dataverse solution. All you do is go to the right environment, and then go to solutions, import solution.

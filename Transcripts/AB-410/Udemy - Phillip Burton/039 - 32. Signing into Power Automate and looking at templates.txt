@@ -1,0 +1,22 @@
+# 32. Signing into Power Automate and looking at templates
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 039 (section 8: Creating an instant (button) cloud flow)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, and in this section we will be turning to Power Automate to create flows. Now Power Automate is separately licensed in the Power Platform. If we go to pricing you'll see that it is $15 per user per month, but there is a free trial as well, and also if you have the PowerApps developer plan then this also allows you to use Power Automate. So let's start.
+
+[00:34] So assuming that you are in some way licensed for Power Automate including the free trial or the developer plan, let's sign in. And that takes us to make.powerautomate.com. So you can describe a flow and click generate. Sometimes Power Automate knows roughly what you want, but sometimes it doesn't. So another good starting point is to go to templates. And here you can see some of the templates, and if you go through some of these you'll be able to see what Power Automate can do.
+
+[01:08] So for example, when an email comes into your Outlook.com account, save the attachments to your OneDrive. So we need two connectors, Outlook and OneDrive. So if I click on this, you'll see that here. And you can see that you can sign in, you may already have a connection which you need to fix, or you may need to create a new connection. Similarly you can save email attachments to Dropbox.
+
+[01:39] If I click on button, so these button flows are immediate flows, in other words I press a button and the flow runs. So send myself a reminder in 10 minutes. So that produces a notification after 10 minutes. Or follow up on a message from Microsoft Teams. Schedule a reply to send. Save a message to OneNote.
+
+[02:07] If I go into data collection, create a tasking planner from Microsoft Forms and post a message in Teams. So you can see how all of these different connectors can interact with each other. Insert a row in Excel when a new email arrives in a shared mailbox. On a reoccurring basis, so every day for example, look at a table in SQL Server and refresh the items on a SharePoint list.
+
+[02:38] If I go to email, then we've got for example, email yourself new tweets about a certain keyword. Now it should be noted that the connector to X requires a separate license. Forward your emails to a channel. Analyze sentiment, so whether it is good or bad, from emails and send the result to Microsoft Teams. If I click on calendar, then email me with a list of upcoming calendar events on a reoccurring basis. Automatically schedule a meeting with a message sender so you don't have to do that work.
+
+[03:13] If I go to notifications, then notify and email me when a new file is uploaded to OneDrive. So you don't have to be constantly checking with OneDrive. You will instantly receive notifications when something is uploaded or updated for example. And then if we go to productivity, trigger a flow with a Power BI data driven alert. So when data changes in Power BI, then you can do something.
+
+[03:42] If I go to social media, then get the weather when what's the weather is asked in a chat. So somebody just types what's the weather and then receives a reply. If I go into sync, then save your completed documents to Adobe, or when an existing SharePoint list item is modified, update SQL Server. So in this video, we have signed into Power Automate and we have had a look at some of the use cases.
+
+[04:15] And from this, you should be able to evaluate and recommend connectors for your flow.

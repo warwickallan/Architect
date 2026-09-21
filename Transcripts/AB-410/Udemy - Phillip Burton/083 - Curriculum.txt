@@ -1,0 +1,24 @@
+# Curriculum
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 083 (section 17: PL-200 Part 1 Introduction)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello and welcome to this course! So, what are we going to learn in this course? Well, I generally leave that to the experts, in this case that's Microsoft. So let's have a look at a Power Platform Certification. So Power Platform is things like Power Apps, Power Automate, Power BI, Power Virtual Agents. We won't be doing Power Virtual Agents in this particular course. Now, there is an exam called the PL-900. This is the power platforms fundamentals and this gives you a broad outline of everything to do with Power Platform and if you haven't done the PL-900, then it might be a good place to start.
+
+[00:41] However, this course is designed so you don't have to start with a PL- 900 if you don't want to. We will have a quick recap of some of the important things in that, However, the PL-900 shows you building solutions in Power Platforms. So in other words, that includes Power Apps, Power Automate, Power BI, and Power Virtual Agents and it's a good curriculum, allowing you to describe the business value of the Power Platform, the co components of the Power Platform, the capabilities of Power BI, the capabilities of Power Apps, Power Automate, and Power Virtual Agents.
+
+[01:21] So that's the first stepping stone. The second, which is this course, is the PL-100 and I needed to scroll down just a bit to get to there. There are other exams above this like the 200, the 400, and so on. So... What is the focus of the PL-100? Well it's to create apps. So, let's just have a look at what's here. You fit this profile, the app maker, if you're self-directed and solution-focused, Teams there will be 4 or 5 videos which uses Microsoft Teams and other tools.
+
+[01:58] Although you might not have formal IT training you want to solve business problems such as creating Apps and automated work flows analysing and visualising data and implementing and managing Apps and automated work flows. So what does this mean in more detail? Well lets have a look at the certification skills outline. And it's divided up in to three main topics. Design business solutions, create business solutions. That' got the majority of the marks. And analyse and visualise data. We'll be spending most of our time starting off with the data verse.
+
+[02:40] which used to be called the common data service. Then we'll be looking at canvas Apps, model driven Apps power automate and then solutions. Following that we will look at things like power Bi, the IA builder , Microsoft Teams, there's a few things dotted around for Microsoft Teams and then a few other things. Really most of these design solutions are very high level.
+
+[03:13] there are just a few that will need a bit more attention. So coming up, what we are going to do is have a very quick recap of the Power platform because if you haven't been in the PL-900 I want you to know what all the major terms are. Because I will be using them throughout this particular course. Then we will get our hands dirty immediately. We'll install Power Apps We'll get a license we'll create a Canvas App We'll do one from a template and then we'll recreate it our selves bit by bit. We'll look at designing data models and then adding more into our Canvas App.
+
+[03:53] After that we'll have a look at the model driven Apps and after quite a few sections then the Power automate flows so you can see we are spending lots of sections on actually making Apps. making Power automate flows Then we are looking at business logic solutions, the Data verse which is a Database in the cloud, looking at Power BI, AI builder Microsoft Teams and some other topics.
+
+[04:23] So coming up next we're going to have a quick introduction a quick recap of the Power platform the various parts that we'll be using in this course in this certification. Then we've got some resources for you to download and then we'll sign up to create our very first power Apps. Welcome to the course They're we're looking at business logic solutions, the Dataverse, which is a database in the cloud.
+
+[04:55] We're testing apps and flows, importing and exporting data, looking at Power BI, AI Builder, Microsoft Teams, and some other topics. So coming up next, we're going to have a quick introduction, a quick recap of the Power Platform, the various parts that we'll be using in this course, in this certification. As I say, Virtual Agents is not part of the PL-100. It's part of the PL-900, part of the PL-200.
+
+[05:23] We don't need to consider it in the PL-100. Then we've got some resources for you to download and then we'll sign up to create our very first Power Apps. Welcome to the course!

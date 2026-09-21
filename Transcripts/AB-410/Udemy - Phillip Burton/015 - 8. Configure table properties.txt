@@ -1,0 +1,16 @@
+# 8. Configure table properties
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 015 (section 3: Creating Expenses tables in the Dataverse)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video we created this employee table. In this video we're going to have a look at the table properties which we can access by clicking on the table and going to properties. So we've already had a look at the display name, plural name and primary name properties. So if I click on advanced options you can indeed see that these options the schema and logical name, the type and record ownership are no longer editable. So if I scroll down we have these advanced properties.
+
+[00:32] So first of all you can apply duplicate detection rules. So you can ensure that the information you're entering has not already been added into the table. Then there's track changes. You can find out what has changed since it was first extracted or last synchronized. There's provide custom help, which web page users will see when they click help in your app. Audit changes to its data. So log data creation changes or deletion if auditing is enabled in your environment.
+
+[01:05] Leverage quick create forms if available. So users can create new rows in a model driven app by clicking the create button or new in a quick create form. And enable long-term retention. This would move some data to long-term storage. You can also make this table an option when creating a new activity. So this associates activities to rows in the table. And there's a little one next to this and a previous item. This means that once this has been turned on and I've clicked save it cannot be turned off.
+
+[01:40] You can do a mail merge in Microsoft Office Word. And you can set up SharePoint document management for the table to integrate with SharePoint. You can also say that rows in this table can have connections. So it shows what table rows have connections to rows in other tables. You can have a contact email. So this means that there will be a column in this table that will be of type email, which can be used as a contact for that row.
+
+[02:10] Have an access team, create a team template. Can be linked to feedback. This allows users to write feedback for a row or rate rows within a defined rating range. Appear in search results, for example, in Dynamics 365. So you might want this table to be hidden from search results. So I will check that. Enable for mobile offline. Can be taken offline for phone and tablet apps.
+
+[02:40] And can be added to a queue. So this can assist with routing or routing and sharing work. So once you've made all of the changes, you can then click on save. So this is how you can configure table properties. You go to the table and in table properties, you click on properties. But do have a look in the advanced options for more properties.

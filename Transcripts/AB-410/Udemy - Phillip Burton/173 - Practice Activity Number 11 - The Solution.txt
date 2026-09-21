@@ -1,0 +1,32 @@
+# Practice Activity Number 11 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 173 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So how did you get on with this practise activity? Well, at the moment we don't have any chance for the device table, so let's create one. So if I go back to the Power Apps portal page, go back into this particular table, the device table, make sure I'm in the right environment and I go to chart and I add a chart.
+
+[00:29] So we're going to call this My Devices Chart. Notice, we've got a view used for the chart preview. I'm going to use the My Devices view. That won't actually affect how it is shown in the actual model-driven app because you'll be looking at a view while you are looking at a chart. So in the series... So this is a thing you aggregate. The sum, for instance. I'm going to put the original purchase value and then I'm going to add a second series for the current value.
+
+[01:02] And then going across, so this is the access levels, I'm going to add the device type. So you notice that we are summing the original purchase value and the current value and we can have columns or we can have areas. I'm going to stick with column. So I'm going to save and close this, click done. And then I'm going to refresh my model-driven app, click show chart.
+
+[01:31] And there is my chart. So if there are a lot of items here then I'll be seeing the summary of that. So all of the computers would be in just two bars. All of the laptops would be in another pair of bars and so forth. Next I'm going to create a dashboard. So it's going to be a fairly simplistic dashboard. Just make it a two column overview. So I'll call this My Device Dashboard and I will be adding my only chart into the photos.
+
+[02:05] And into the streams, I'll be adding active devices as well as my device's view. So you can see at the top the charts are also visual filters. So I will save this, close it, go back into my model-driven app. And you can see at the moment there isn't a section for dashboards. So what I'm going to do is I'm going to publish all customizations.
+
+[02:37] Cause that seemed to work last time after creating dashboards. So that's in the Power Apps portal solutions. And we'll be looking at this solutions page a lot later in this course. So now you can see, published all customizations successfully. So if I refresh this now you can see that now got open dashboards as an option and here is My Device Dashboard.
+
+[03:04] So we've got the active devices and my device's view and we can show visual filters. So I can filter it down, for instance, just on a particular device such as laptop. So I'll clear that filter now and hide the graphs. So the last thing I've asked you to do is create a new Dataverse business rule. So if I go into business rules and add business rule. So I want a condition.
+
+[03:32] So this is my value condition and the condition is that my current value field, the question is, is it greater than the field called the original purchase value? So is the current value greater than the original purchase value? If so, then I want to show an error message. So the error message will be on the current value and saying, this cannot be greater than the original purchase value.
+
+[04:13] So let's apply that. Notice I'm reading this business rule as I go along and I've realised I forgot to click the apply button for the condition. Very important to keep looking at it. So even if you make a mistake you need to be able to correct it fairly swiftly. Otherwise you never know what might be going on. So if the current value is greater than the original purchase value, then show an error message.
+
+[04:40] So I'm now going to save this. If it isn't, of course, you don't need to do anything. So we can validate it. Validation successful. Let's activate it. So the scope is the entity. So this will work for canvas apps as well as model-driven apps as well as others. Your programming for instance. So it's now activating. So it's now activated. So if I go back and refresh, you'll see that we've got this new business rule.
+
+[05:11] So let's create a new device in here. So let's click on new. So we can see we've got this here. So my device name is My iPad. So here's my device number, here's my device tab, mobile device. Purchased, so I can put a date of purchase on whenever I want.
+
+[05:37] And other, I will put the original value as $100. Let's say I got it secondhand and its current price is $200. And here you can see the big error warning. Error, current value, this cannot be greater than the original purchase value. So if I change it to $90, then that disappears. If I have $100, exactly the same value, that's fine. But it's just when I go 1 cent over $100.01 then it says, nope, don't do that.
+
+[06:08] So now I can save and close that and this is my new device having been inserted. Well, I hope you enjoy this practise activity and you really get into grips wave model-driven apps. And that's it for the model-driven apps for this course. Though, we will be coming back to it in combination with other components and other services. So in the next section we're going to turn to the power automate and we're going to start creating some flaws.
+
+[06:35] Please join me there.

@@ -1,0 +1,8 @@
+# 19. Creating a model-driven app based on the Employee table
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 017 (section 3: Creating Expenses tables in the Dataverse)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous videos we created this employee table. In this video we're going to quickly create an app based on this table. So I'll go into the table and click create an app, give the app a name. So this is going to be the employee and expenses app. We'll add expenses later on in this course. And now it is creating this app. So we are just going to have it based on this one table. So here we can see the view and the form and you might notice that there are some columns missing. But for now we're just going to leave it there and we're going to publish and save this power app and then play. And now I can add a new employee, so I will call it Philip Burton and I will click save. So the save and close that returns you to the view and save keeps you in the form. So now if I go back we now have an employee.
+
+[01:07] And if I go back to our table, so if I now just go back to tables and go to our table, we can see here that we do now have an employee. So in this video we've created a very basic model driven app, but we've also seen that lots of columns that we want are not included. So in the next section we are going to be looking at model driven apps and we're going to expand their functionality.

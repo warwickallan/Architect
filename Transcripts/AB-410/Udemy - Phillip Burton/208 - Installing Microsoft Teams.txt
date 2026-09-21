@@ -1,0 +1,26 @@
+# Installing Microsoft Teams
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 208 (section 36: Other topics)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this section, we're going to start looking at Microsoft Teams and you're probably thinking, "Okay that's not part of the Power platform", and it isn't. But when you get to the Microsoft Teams licencing page and scroll down, you'll see that part of it includes chat and collaboration, which the free version has as well. And if you have a look at that, 250 or more integrated apps and services for Teams, and that includes things like Power Apps.
+
+[00:33] So to download Microsoft Teams on your desktop just google download Microsoft Teams. So, here we've got my page, so I will download for the desktop, download Teams. And it's a fairly easy instal. You may already have it on your computer, of course, as you may have been working from home and your company may use Microsoft Teams. So I'm just going to pause the video until it downloads. All right, so it's finished downloading.
+
+[01:02] So just click on it to open it. And here you can see it's starting to be installed. So enter your work, school or Microsoft account and click sign in. If you're not on Teams, you can see there's a sign up for free button as well. So I will now enter the password and sign in.
+
+[01:36] And stay signed in to all of your apps and allow my organisation to manage my device. I'm going to say no, I don't want somebody else to be able to manage my windows. So I'll click okay. It says, "Hold on while we register this device with your company and apply policy". We'll I've said I don't want any policy to be applied. So hopefully it won't be doing that. There we go. We've added your accounts successfully. So that's all done.
+
+[02:04] So now it's loading Microsoft Teams and there we go, it's installed. Now on the left-hand side, we have got apps. And if I go up to search all apps and type in the word 'power', you can see that we've got Power BI, Power Automate and Power Apps. So you can click on any one of these and click on open and after a few seconds, you get to the home screen, "Empower your team, one app at a time.
+
+[02:38] Create a low code app in minutes". And you can click start now. And then it invites you to select a team for your app. "This is where your app will live, team members can't see it until you publish it." Well, I don't have any Teams. So what I need to do is create a team. So on the left hand side, I go to teams and I click create a team from scratch and anyone in my organisation can join and I'll call this the Power Platform Team.
+
+[03:12] So then it invites you to add more members to your team. Well, let's add one more member. There you go. There was a skip button at the bottom if you didn't want to do that. So there is our team now created. So now I can go into Power Apps, start now. Select a team for this app.
+
+[03:41] So you're the first person to create an app in this team. We'll do some setting up and the loading time will be a bit longer than usual. Right, so I've got the message, success, Power Apps is ready. You can see we're in the build section, and now you can see you can build your own apps within Microsoft Teams. So this would be my Power Apps Teams.
+
+[04:11] Click save. And now you can see it's a similar environment to the one that you've been used to. So you can insert on the left hand side, you can connect to data and you can also connect to media there. So this is how you can build Power Apps natively in Microsoft Teams. Now, if you go to the apps again and have a look for Power Automate.
+
+[04:41] So again, I'll just click on 'add' and this is the homepage that you get. Again, it looks very familiar, except all of these are related to Teams, so they all have a Teams connector. And then you can create, including on the right-hand side, create from blank, to get to a very familiar page. And then again, if we go back to the apps and have a look at Power BI, so open that, again, we get to a very familiar interface.
+
+[05:25] So once you have opened up for the first time, if you click on the dot dot dot, you'll see them under recent as well. So you no longer have to go down to the apps to have a look at those things that you have opened moderately recently. So this is how you instal Microsoft Teams on your desktop and how you can add Power Apps, Power Automate and Power BI into Microsoft Teams.

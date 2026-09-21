@@ -1,0 +1,14 @@
+# 19. How to compose a model-driven app
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 018 (section 4: Create model-driven apps forms and views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, and in this section we will develop our model-driven app that we created in the previous section. In this video, we're just going to have a look at all of the different things that can make up a model-driven app and how you should compose it. First of all, in between these two sections, the employee and the expenses table that was created in the data workhouse has now been deleted. So I'm going to rename the employee table. I'll go to properties. I'll just rename it as employee and click save.
+
+[00:42] So what makes up a model-driven app? Well, first of all, there is the data. So you need to model your business data. So tables, columns, relationships, choice columns with single or multiple values. You need to work out what security you need, including national, state, and local data regulations, and any company and trade regulations. Then there is the user interface. So if we go into this user interface, so I will click on edit, you can see that there is the app. So we've got various components, properties, and the various settings you can include. And then there are pages and navigation, including form and views. Form being the data entry for a single record or row, and then views being a list of records. And you can click on one of the records or rows and then go into a form.
+
+[01:43] You should also define your business processes and logic. So for example, business rules, column requirements, whether columns should be shown or hidden, how to validate data. And then you can also have a business process flow. This shows the user how to go through submitting a row. It can guide them through the process. Does the user need approval for an invoice? If you do, then you might need to use a power automate flow. This is an automated workflow.
+
+[02:11] And then you can build the app. In addition to views and forms, you can have charts or graphs, dashboards, which can include one or more visuals, and you can even expand it further. While it's not part of this course, you could, for example, embed Power BI tiles and dashboards into your model driven app. And all of this can be designed in the app designer. So I know we've not done things like business rules, business process flows, automated workflows, charts, dashboards, but we will be doing some of those in this section and some in later sections.
+
+[02:45] So in this video, we've had a look at the design process for composing a model driven app, and we're going to start in the next video by designing a form.

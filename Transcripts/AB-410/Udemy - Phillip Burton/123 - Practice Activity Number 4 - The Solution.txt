@@ -1,0 +1,44 @@
+# Practice Activity Number 4 - The Solution
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 123 (section 23: Adding Expenses to our app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So, how did you do? I asked you to create another two screens for the device table this time. Now, I did say it's probably going to be easier if you manually add some data so you've got something that you can work with. So I'm going to do that by going to my Power Apps platform, Data Tables, Device, Data, and then Add Record. So you can see, it's just giving me a form. I'll just type in an ID number, Save and Close, and Refresh Data, so there is something.
+
+[00:35] Now, I could have a look at all columns, and I could be editing further, but let's just stick with that. So let's add in a new screen. So this is a new blank screen, and we're going to have a gallery. So it's going to be connected to a new source data. So this is going to be the device table. Now, notice that it's calling it devices, plural, even though it is actually called Device.
+
+[01:06] So it's given me the plural. So let's move this so it covers half the screen. Give a bit of room at the top. We'll probably want something like title, subtitle, body, but I'm just going to just leave it roughly at that. That's because I haven't got any real data that I've entered using the system. This is just really dummy.
+
+[01:33] I just wanted to be able to see something. Next, I'm going to insert a Display form. So we move that to the other side. And again, this is going to be connected to the device as a table or device. And again, I'm going to set it up how I wish. I want to have the ID Device. I don't want Created On, so I'm going to remove that. And I'm going to have Device Name, going to have Device Type, and Device Status.
+
+[02:12] So notice that even though I put it in Device Name, Device Type, Device Status, that it looked like it was happening in alphabetical order, so Device Status would come second. It actually put it in the same way that I have added them into the Add field. So you could choose to have a horizontal layout if you so wish. We're missing any data. That's because we need to go into the item, and the item should say the name of the gallery, which is currently Gallery2.Selected.
+
+[02:44] So there we are. So now, we'll be able to better see wherever a horizontal or vertical layout would work. Now, just like the other app, the one we're doing in the main videos, it's now difficult to see whether I'm in the user or I'm in the device. So I'm going to rename this and put user at the front, and do the same here. And here, I'm going to now call this Device Detail screen.
+
+[03:16] And we're going to change these galleries as well, so User Gallery and Device Gallery. Then, we got Edit form here. I'm going to change that to User Edit form. Right, so we've got this. So we need yet another screen, so insert new screen. So this is going to be an Edit form, not a Display form. And so, again, device source.
+
+[03:49] So, as this is going to be an Edit screen, we're going to have an Edit form. So let's rename these right at the beginning. So this is our Edit screen and our Device Edit form. That's connected to the device data. Again, put it horizontal. And again, we're going to have fields. So let's get rid of the created On Field. I don't want that. And the columns, this time, it's basically all of them.
+
+[04:20] So we've got the ID Device. We've got the Device Name, Device Type, the Serial Number. Now, I'm putting more into the edit because this is where we actually want more than just a summary screen, because this is where we're actually going to add all of this data, whereas the browse and detail screen, this is just a summary.
+
+[04:48] We don't need to actually display absolutely everything. Do be careful where you click. If you accidentally click outside of this box, you might be cancelling what you are doing. So, nearly there. That's the lot. So I'm not adding Device Image in yet. So, wait a few seconds. Here's everything. So you can see three columns really doesn't work. Let's put it into one column, and we can see, yes, much better. Now, you can see the computer has added in the time as well for Date Purchased, so I don't want that.
+
+[05:21] So I can just set the visibility to none. And you notice that I don't have to unlock it to do that. Regardless of the fact that these are inserted in a card, I can just set individual elements here, as you can see visible none. If I wanted to select them again, then I can go in the left-hand side, and I can select them there in the tree view. Now, we need some icons linking them. Well, before we do that, we haven't actually put in the item number.
+
+[05:49] So we need an item that this is going to show. So here, we have Devicegallery.Selected So let's now link these two. So I'm going to insert an icon, a Edit icon here. So let's move that to the top. So these can go down slightly, and this can join it, the same top. So what this does, we want to go to the Device Edit screen. So that is navigate to the Device Edit screen.
+
+[06:23] And if we want to put in a transition, we can do so there as well. Additionally, we want another icon up here. So this is going to be for a new item. So there, we need the new form. And so this is a new form for the Device Edit form. So you can see, the best thing is not actually to type, but just to see what the dropdown is, and then press one or two semi-colons depending on your locale, and then we navigate to the Device Edit screen.
+
+[07:06] And while we're at it, let's just tidy this up a bit. Let's put those rectangles that we've had previously, and maybe we'll give this a different colour scheme to show we're in a different place. So go into the colour and maybe make this that colour. And let's just copy and paste this across as well. There we go.
+
+[07:33] And add some titles. So we're going to Text, Label. Going to call this Devices and Current Device. So let's copy that plus that, go into the Edit screen, have that at the top.
+
+[08:04] Let's change this so it is fractionally down. So move this across. And I'll just call this Device Details. I won't have anything more than that for this particular practise activity. So, Device Details. Right, so we've got icons now linking this screen to this one.
+
+[08:36] So next, we need icons that submit or not submit. So let's have the check mark over here. So in the On Select, we will have the Submit form of the Device Edit form. In the x, so, again, go to icons, so cancel, we will have the Reset form for the Device Edit screen, and then we'll go back.
+
+[09:11] And then, for the form, so yeah, I'm in the right place, On Success, then I want to go back. So, let's test this. So I'm here on this item. I want to edit the item. That's fine. I can submit the item, but you can see Device Name is required, Device Type is required. So, My Laptop 1, and Device Type, Laptop.
+
+[09:42] So I can enter in all of these new things that I want to enter in. I'll put an original purchase price and a current value as well, and a purchase date. Check that. So here, we can see things are being updated. Now, just as an aside, let's just add in another field. Let's add in the Depreciation field that we put in the previous practise activity.
+
+[10:13] And here, we can see depreciation is working correctly. Depreciation here, 250. It's a non-editable field. This just shows that what we did in the previous practise activity works. Well, I hope you enjoyed this practise activity. And now, we have got in the one app, screens from two different tables. However, they're not linked together as well as they could be. And in the next few videos, we will improve that linking.

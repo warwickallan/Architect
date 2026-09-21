@@ -1,0 +1,36 @@
+# 41. Exporting and Importing components
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 137 (section 25: Canvas Apps components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English [Auto]
+
+[00:00] So let's say that you've created this brilliant component and you want to use it in other apps. So let's go back to PowerApps. And I'm going to go to create and a canvas app from blank. So this is where I'm going to import my component. So I'll click create. Wait a few seconds and then I can go into the components and see if it's there. So no it isn't.
+
+[00:32] And if I click on Add New component it will be creating one from scratch which is not what I want. So what I need to do is go back to my accounts and expenses app and go to my component, and I want to export it. So you can see there isn't an export feature here, but there is next to new component. So I can export components.
+
+[01:00] So you can see my file is now ready. So I can download it. So there is my component. And then when I go into my other component pane I can then import the component. So I'll go into my downloads I will upload the file. There it is. So I click on it click open. Wait a few seconds.
+
+[01:27] And there is our component which I can then use in a new screen or an existing screen in one of my other apps. So there it is. Now that import export, it works. It's not the most efficient thing I can do. Notice also the other options I can do. I can duplicate the component. If I want to make some minor changes to it, I can delete it, I can rename it and I can copy and paste. There is a way of creating a component library.
+
+[01:57] If I go to more and then discover all. Scroll down and I've got under App Enhancements component libraries. So I haven't got any component libraries. So I will create one so I can do it at the top left or this big button here. And what is my name? Well this is going to be my component library. And you can see there are a few characters you can't choose. So click create.
+
+[02:26] Getting things ready. Wait a few seconds. And here I am in what looks like a new app. Except it isn't. It's a component library. You can see the name of it, so I'm going to delete what's there. Actually I can't because it's the only component. So I want to import my component. Wait a few seconds. And now I can delete my previous one the blank one.
+
+[02:55] And though it is so, I can now save my component library. So let's close that. Let's create a new app. So if I just refresh this, we'll see that we actually do have a component library. So let's create a new app.
+
+[03:23] Going to create start from blank again. So this is my import component to. Wait a few seconds and then I go into components I'll add a new component I'll import a component but it's not there. So where is it. Well it's in a different place and it is in the insert section. Microsoft has recently changed the location of the Get More Small components icon.
+
+[03:55] It is now at the top of the insert menu. So if I click on that, you can see we've now got access to my component library. So I'm going to import my calculator component. So now it's there as a library component. So you can see it's still not there in the tree view I haven't inserted it yet. It's just available to me. Just like text labels are available to me. But I haven't actually used them. So let's insert a library component.
+
+[04:25] You can see it's not there. You have to go into the insert section on the left hand side. So there it is. And now I can use it just like any other thing, like a gallery or input button or that sort of thing. Still not there in the component tree views. It's just there as a standalone. So it's completely separate to how everything else looks. So there is my calculator like a control. So what is the advantage of using a library?
+
+[04:55] Well, it allows you to have everything into one place. You can see there aren't any more components for me to import. But what happens if I change the component? So here's my original component. Let's go into the component library that I've got. And let's edit this. So I'm not editing it in the as an app I'm editing.
+
+[05:24] It is a component itself. So a standalone component. And what I'm going to do I'm just going to change the background color. So let's go into the fill of the background and change it from yellow to green. Maybe a different sort of green. That's very dark. So there we go. So what I'm going to do now is save this or changed from yellow to green. Click save.
+
+[05:57] It's saving and then I can publish it. Publishing will make this version available to everyone who has can use permissions. So I'm going to publish this version. There we go. So now if I go back into my app nothing seems to have changed. So let's just save this. Close it. And then go back into it again.
+
+[06:28] So there it is. So I'm editing it. And now you can see at the top I get notification a component library update is available. Whoa. So somebody elsewhere could be me. Could be somebody else has updated this component library. Let's click on review. And you can see changed from yellow to green. That's my description. Do I want to update? Yes I do click update and it gets updated. So that's the great thing about component libraries.
+
+[06:58] You get pushed information, push notifications rather than you having to import and export. It just operates a bit more seamlessly. So this is how we can add components from other apps into your new app. So you can do it by going to your component that you've created in your app, going to new component and going import and export. And what you can also do is create a component library, create standalone components in there or import them into there.
+
+[07:33] And then you can use the component library by going to insert and get more components. And then you'll be notified of any changes which have been made to that component. And you can update if you wish.

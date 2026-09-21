@@ -1,0 +1,34 @@
+# Creating a basic calculator
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 134 (section 25: Canvas Apps components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Hello, and in this section what we're going to be doing is creating a very basic running total calculator. So, nothing really difficult here, except how we're going to keep track of the running total. So what I am going to do is create another screen, so we've got to insert new screen. And here's my new screen. We're going to rename this as running total. And I'm going to have a button going from the menu to the running total screens.
+
+[00:36] So, I'll just call this calculator. And, we change unselect to, that's right, navigate, and where do we navigate to? Running total. And you can also add a transition afterwards as well. So, here we are with a very brand new screen. So really, all we need is a place for you to be able to type in what you want to add, a button that says okay please add it, and then your running total.
+
+[01:07] So, let's get a place where you can enter. Where can you enter? Text input. Right, so here is my text input, so, I may also have a label on top of it saying "Please enter a number." So the default should be blank, the format I want it to be a number, you can have some hint text.
+
+[01:36] So, this will be displayed in your text input if you haven't put anything. So, "Please enter a number." Maybe "to add to the total." So that could replace the text label if done really well. If it's intuitive to the end user. Now we'll add a button which says "Add to Running Total." And then we need a running total.
+
+[02:11] So that will be a label. So we'll call that "Label Running Total." So all we need to do now is find a way to have a running total. So what can we do? We've already covered this. We can have a variable. A variable to this one particular screen. What sort of variable is that?
+
+[02:41] It's not a global variable, it's a context variable. So when I click on this, in the unselect, what's going to happen? We're going to add to the running total. So I'm going to say "RunningTotalCalc," let's call the variable that. We need to use a function, what function are we going to use? Don't say set, that would be for a global variable.
+
+[03:10] This is a context variable. It would be "UpdateContext." What do we need next? Open curly brackets, and then? Well the name of the variable, and then? Colon, and what do we finish it? What's the new way? It's going to be the current total plus what's in here. So I'll just call that one for now. And this is text input two. So I'm going to change this to "New Number," something like that.
+
+[03:44] And so this becomes, "RunningTotalCalc+NewNumber." Right, so that updates our variable, now what we need this to say is the variable. So we need this to say "RunningTotalCalc" and we might also want to prefix it. So the current total is, colon, And then we've got zero.
+
+[04:14] So why do you think we got zero? I've used a plus, a plus means it's arithmetic. If I want it to join as a strings, I use an ampersand. Now I could also use a function called "concatenate," which would be concatenate this comma, and this converted to a string, it won't work with a number. But this works quite well for now. So, let's have a play with it.
+
+[04:43] So I'm adding the number 5, add to running total, the current total is 5 because the variable has increased and this is a former linked variable. It just works! So now let's go out and in. So I start from the menu, click on calculator, and we have the same figures. So, I need a back button as well, so let's have a back button.
+
+[05:14] There we are, left. And for that, very easy, it's just back. So the question is when I go to the calculator, do you want to see a current running total or do you want to have a blank running total? And if you want a blank running total, then here, we say navigate on the bracket "RunningTotal," comma, any screen transition, comma, and then what happens?
+
+[05:47] In squiggly brackets, I can say "RunningTotalCalc" is reset to zero when I go into that button. So now, we can see it gets reset. Now suppose I don't want this number to be there each time as well. Well, we can go to the screen, and we can go to the un-visible property.
+
+[06:21] So, this is what happens when the user navigates to a screen. So I'm going to say that I no longer want what's here in the new number. I'm going to go back to running total in un-visible and say reset new number. So when that happens, then new number goes back to the default which is no value, or blank. So let's test this now.
+
+[06:47] Go into the calculator, put in 10, 20, go back, go back to calculator, and there we go. So in this video, what we've done is created a simple calculator. So, we have a context variable that keeps being updated. We reset the running total through use of the navigate function. And we also reset this text input through use of the un-visible property of the screen.
+
+[07:22] In the next video, we're going to change this from being a screen to a component.

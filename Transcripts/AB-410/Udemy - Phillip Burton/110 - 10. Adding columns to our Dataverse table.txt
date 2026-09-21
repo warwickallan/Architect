@@ -1,0 +1,52 @@
+# 10. Adding columns to our Dataverse table
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 110 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to add a few more columns. I'm going to start with the description column. So I'll click on Add Column. So you can see, I've got to enter a display name. So description. Make sure you don't use any that you've already got. So for instance, don't have a column called created on. It just causes a bit of confusion. You can also put in the description. So in this case, it's the description of the expense. We have then got something very important, the data type.
+
+[00:32] So we have got text, so that is a single line of text. So if I use text, we go to advanced options, and right at the bottom we can say I want the text to have a maximum number of characters, a max length. Alternatively, you can have a text area. So again, we can have a maximum length. Difference between text and text area? Text area is for a multiline text box. So up to 4,000 characters.
+
+[01:04] If you want more than 4,000 characters, then use multiline text. So you can see we've got three different types of text. Text for single line, text area, basically for paragraph, and multiline text. That will take you up to a million characters, technically 1,048,576. So we have got those as possibilities. We've also got email, so that's a validated email address.
+
+[01:33] So you won't be able to just put anything in. You'll have to put in an email. Same with the URL. So a validated website and phone. So that's a validated phone number, which can be called using Skype. You've also got a ticker symbol if you want to put in a stock market ticker symbol. So let's keep this as text. So you can say optional, recommended, required. I'm going to say recommended. So I'm not going to enforce you to put in a description.
+
+[02:01] It's just something that I want to do. Now, note particularly that we've got the option here enable column security. We'll have a look at that a fair bit later when we have a look at security. So I'm going to say done. And then our description column will be added, here you can see. So let's also add in the status. So status, but we've already got status here, so make sure that the internal name is not going to be the same.
+
+[02:30] Now, let's just actually have a look at this status column. Maybe you will do everything that I want. And the answer is no because you can see we have a data type of a choice. What is a choice? Well, previously it was called an option set. And what choice allows you to do is to say, okay, these are my particular items, active, inactive and I want you to choose one of them.
+
+[02:58] So really this is for the internal workings of the table. I don't want it to have that but I do actually want to use choice for my status. So I'm going to call it approval status, let's say. So we're going to call it choice. Now, it used to be that there were data types called option sets and multi-select option sets, pick lists as well. And then that changed into data types of choice and choices.
+
+[03:29] And now you just have the one data type called choice. So the difference between choice and choices used to be that you could select more than one option. However, now it is just one data type and you can say whether you want the user to be able to select multiple choices. I mentioned this as you might see the old terminology in articles on the internet talking about choice or choices. Now there's only choice.
+
+[03:57] So now I've put in choice. Well, what am I going to choose from? I could say yes, no, or I could say a particular day. So that'll gimme the choice of seven days but I'm gonna say a new choice. And this new choice, well, I'm going to say approval not needed, pending, approved, and rejected.
+
+[04:28] So click Save. So those are the choices for this particular approval. And you'll notice, there is a separate section for choices here. So we can define choices outside of creating columns and then say, well, my choices is going to be, in this case, approval states 'cause it's a choice. Default value. I'm going to say, well, none of them to be honest. I could perhaps say pending but I'm just going to say no default value. I'm going to leave it as optional for now.
+
+[04:56] So let's say done. So next I'm going to put in the value. So expense of value I'm going to put in. Now this is going to be numeric but what sort of number? Could it be a whole number? Hmm, maybe if I want to charge $50.24. So whole number's not great. So then I have a few more choices down here. So I've got currency.
+
+[05:23] So here is when I can choose a precision level. So for instance, do I want to have the precision based on the currency? So if I was using yen, then I would be going to zero decimal places. If I'm using dollars, then I'll probably be going to two decimal places. So I could also have an organisation standard as well. So that's currency. I could have a decimal number so that this allows me up to 10 decimal places.
+
+[05:52] And you can choose how many decimal places you're going to use. Or you can choose a floating point number. Now, be very wary of using floating point number. Yes, you can go up to five decimal places. However, it's an approximate figure. So if I put in 12.34567, the value that's gets stored might not be 12.34567. It might be 12.3457 or 12.34562 or something like that. So why would you ever use a floating point number?
+
+[06:25] Well, it can improve performance based on the decimal number. It is better performance. You can also say minimum and maximum values for these numbers. So for this, I'm going to use a currency. So there we go. And again, I can put in a minimum value or a maximum value. I'm going to leave those as is at the moment. We'll be putting some things in Power Automate that will prevent me from saying, okay, if I put in $50,000, maybe that needs to be reviewed by somebody special, so I'm just going to leave those as is.
+
+[07:01] But you should work out what the minimum and maximum value sensibly should be. But bear in mind, these then become limits. Nobody can enter a value greater or less than those minimum and maximum values. So there's our expense value. So the next column I'm going to add is the date of expense. So again, field type, data type, quite important. So we have got, for instance, a duration.
+
+[07:32] So this is to the nearest minute. So if you've got an event which is going on for two minutes, two hours, two days or 2.2 hours or 2.2 days, that can be inserted into duration. We've also got date and time or date only. So is the time really that important for an expense? Probably not. So date only is probably fine. Now, when it comes to date and time, then the behaviour, is it going to be based on where the user is or is it going to be time zone independent?
+
+[08:09] So I'm not going to worry about any of those. I'm just going to say date only. So let's change the behaviour to date only. So I'll click Done, and I'm going to add another column. I'm going to call this the receipt. So I want people to be able to capture an image of the receipt if they so wish to do so. So this is going to be an image data type. Now, the literature says that each table can only have one image column but it's a bit hard because if I create this, and then create another column, so I'll call this image two and say image, I'm able to create a second image.
+
+[08:57] So maybe things have changed since that particular web page was written. Indeed, I've found another one which it says that there could be multiple image columns in a table, which certainly reflects what I've been able to do. There is also a primary image indicator, so which is the main image for a particular table? So I'm going to say that this one is my primary image. And if you're wondering what sort of graphic types you can use, it's the standard stuff.
+
+[09:27] JPEG, GIFs, TIFFs, BMPs, and PNGs. So let's just have a look at the other data types. Well, we have got yes/no, so that's another version of choice. Yes/no, used to be called two options. And you can see that it's not necessarily going to be yes/no. For instance, I can change it to French just like that. Or I want this, I don't want this.
+
+[09:59] And you can see that you can put in the default value and whether it is required or what. So if it's on the on position, I want this, if it's on the off position, I don't want this. So additionally, we've also got language. So this is from a list, which has been enabled for the environment. We've also got a few other things that we won't actually need for this particular course.
+
+[10:28] I just want to highlight one of those lookup, which the computer will automatically give me when I'm creating a relationship. So in this video, we've had a look at how to add various columns. So we've had a look at how to add columns of text, so single line, multi-line, or huge number of lines possible, various validated versions like email and URL and phone and ticker symbol.
+
+[10:56] We've had a look at how to create a whole number or decimal number up to 10 decimal places or floating number, up to five decimal places, but an approximate figure. Date and time and date only. And then choice and choices with yes and no. We've also had a look at how to create an image column as well. Now, one final note, when you have created these columns, each time you create a column, the table automatically saves.
+
+[11:25] And once a column has saved, then certain of its properties become uneditable. So I can't change the data type from choice to text, for instance. And it's the same with tables. Once you have created a table, then certain of its properties again become uneditable. So I can edit the display name, for instance, but I can't edit the logical name behind the scenes.
+
+[11:54] So there are other things you can do, but if you need to edit something that is no longer editable, then you would need to delete the table or delete the column and start again with that table or column. So this is how we create columns. We go into the columns and click on new column, and then importantly, we choose its data type.

@@ -1,0 +1,36 @@
+# 49-51. Creating an automated flow, using a Dataverse table
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 176 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:01] Now in this video, we're going to have a look at what happens if somebody adds a row into a table in the Microsoft Dataverse. Can that be a trigger? The answer is, yes. So I'm going to create a automated cloud flow. So automated cloud flows are triggered by an event. So it could be new email, it could be a Twitter post, it could be a request for leave.
+
+[00:28] And those could be called approval flows. It runs when data has changed. So talking things like SharePoint, dynamics, Outlook, and in this case, the Dataverse. So I'm going to call this my Dataverse flow. And you can see, choose your flows trigger, lots of triggers here SharePoint, RSS as a blog feed, Gmail, Teams, Azure DevOps. So I'm going to look for the Dataverse. And so you can see here, when a row is added, modified or deleted.
+
+[01:00] So using the Microsoft Dataverse, not the Microsoft Dataverse legacy. So I'm going to click Create. So I need to sign in to create a Dataverse connection, however, it's going to check whether mine is sufficient. And yes, you can see. So let's fill in the gaps. So what happens? When I create a row in the table, and I'll go down to the expenses table, and then we've got a sculpt.
+
+[01:31] So who actually makes a change, it might be you yourself, or it might be anybody, the organisation, for instance. So when this happens, and here, you can see, you can filter the columns or rows and other things. Then, well, let's stick to our email. I want to be emailed. So again, I'll put in an email address.
+
+[01:59] And this is my Dataverse row, changed. But now look what we've got in terms of the dynamic content, because the previous step was all about the Dataverse. So it's got things about the row that has been added, modified or deleted. So you can see, for instance, the expense receipt, could that be added into the attachments, for instance, because it is a picture, we're gonna find out.
+
+[02:32] If I type up here, expense, then we can see we can insert into the body, the description, the expense, identify, no, I don't want that, the expense value, the date of the expense, and so forth. So I'm going to enter "new data received". So I'm going to now save it. So you can see saving, and it's ready to go.
+
+[03:03] Now, if I go into my flows, there it is, five second ago, automated flow. So what I'm going to do now is go back to my Power Apps, I'm going to just insert this directly into the table, rather than using the Power App. Make sure I'm in the right environment, always the case with the power platform, at Power Automate. So I'm going into the expense, going into the data.
+
+[03:32] And I'm going to add a new record. And you can see, when I add a new record what this has taken me into. This has taken me into the form that we have previously built when we were looking at the model based app. So this is going to be ID 9999, data of expense, the account, the expense values. So, 999.999.
+
+[04:00] And you can see that unhides the description, I need to put the description here because the other one is locked. So this is a very big purchase. And you can see also that you can get flows running from Power Apps, model-driven flows as well. So I'm going to save and close that.
+
+[04:28] So that has now been added and if I refresh the data. Here we have 999. Let's go back to Power Automate. And I want to see the run history. And here you can see it has run five seconds ago, but whoo, status failed. So these are important, you need to know why it has failed. And you can see it's failed because the attachment didn't work. So it's important that you can look at these flow runs and go, oh, yes, we got to tick there, or check mark, but then we've got an exclamation mark and something has failed.
+
+[05:03] So you couldn't have found this out by looking at the flow checker. Because it's like, syntactically it was correct. So what do I mean? Well, suppose I had a sentence in English, the ceiling elephant is on the roof. Okay, that makes syntactical sense, it makes absolutely no sense, what is a ceiling elephant. Thus here, we have got the syntactical sense of this Dataverse flow, it does make sense.
+
+[05:34] And the flow checker doesn't show anything. But when you test it when you run it, nope, does not make any sense. So just double click that a few times, go into the Advanced Options. Get rid of that attachment. Save it. Let's go back into Power Apps. So we've seen that it does work when we enter data directly. What about when we enter data through a Canvas app? In other words, the flow run, the fact that it failed was neither here nor there with regards to whatever the connection between the Dataverse and Power Apps working.
+
+[06:12] So what I'm going to do is, I'm going to view expenses, I'm going to add a new expense. So this expense was created at a certain day, the expense failure was 999.98. A fairly big expense, the account, let's say safe coffee, I could add a receipt of a wish too. But let's just add this. So now that has been created.
+
+[06:39] So if I sort, there it is. So let's now go back to Power Automate, go back to my flows. Have a look at the run history. There are 12 seconds ago, it succeeded. So again, I can click on that. And I can see all of the stages that run. Now it's fairly simple at this stage. It's just the first stage and then the second stage and the third stage.
+
+[07:09] But yeah, that's fine when you've got one path it go down. But later on, we'll be developing some Power Automate flows where there may be more than one path that it can go down. So it's useful to see which particular path it went down. And if I now go into my emails, you can see we have received, new data received, a fairly big expense, and the price and a date. So in this video, we've created a Dataverse flow, we have connected the Dataverse wave Power Automate.
+
+[07:41] So no longer is your Dataverse data just sitting there. And people enter data and delete data, and you don't know really what's happening. Now you can monitor it. You can have a connection between your Dataverse and Power Automate, and know when something has been created, deleted or updated in a particular table.

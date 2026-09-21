@@ -1,0 +1,24 @@
+# 41, 43. Build canvas apps screens - Inserting a Gallery
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 095 (section 19: Creating a canvas app from a template, and creating one from scratch)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to start populating this screen by adding a gallery. Now, first of all, let's make sure that we've got this the right way round. If I go into settings and go into display, then you can change the orientation. We can't actually change the size because we said that we wanted this for a phone. A telephone. Now you can see scale to fit skills, the app to fit the available space. We can lock the aspect ratio and lock the orientation even when the device is rotated.
+
+[00:33] Now, if instead we created a canvas app from blank and use the tablet form, then we would have a few more options. We would also be able to change the size because obviously not all tablets are made the same. 16 to 9 is a default, but you could have a 3 to 2 for the service pro 3. 16 to 10 widescreen 4 to 3 for some iPads. And you can also have custom while you can actually say what the width and the height is. So let's have a look at our phone.
+
+[01:06] Canvas app. So what I want to do is add a gallery. So what is a gallery? A gallery is a list of the data from your data source. So all I need to do is go to insert gallery and then I can select a particular type of gallery. So you can see we've got vertical ones, which is what our previous example was, horizontal ones, ones with a flexible height and then blank ones. So ones where you haven't got all of these components which are added to the gallery already there.
+
+[01:40] So what I'm going to do is I'm going to create a blank vertical. Before I do that, If I go to insert, you can see that we've also got a vertical gallery there. We haven't got all of the of options though. So all of these just basically reflect what we've got up here. So we'd have to go into layout to get the of our options. You'd have to start digging to find out why all of these options are. So let's insert a blank vertical. And here is my.
+
+[02:09] Gallery. Now it's got no data whatsoever. I'm just going to resize it. We can resize it using these eight little circles and I want to resize it so it's all the way down to the bottom and a fair bit up if you. Accidentally go away from it, just click on to it again. Now it says, I haven't got a data source, which is correct. So I can either select my data source over here or in this property section, I can go to data source. So either way.
+
+[02:41] So I'm going to select the accounts data source. And nothing much has happened because I've said, okay, this is where the data comes from. I haven't said what data I want. Now, we can do this in several ways. First of all, if you've got a view set up, we can say, I want you to use the view. We'll be looking at views a fair bit later. We can say, okay, I want these particular fields, so let's click on edit fields and you can see we've got no fields already here.
+
+[03:13] So that's when we turn to the next area, which is layout. And this layout section gives me a lot more customizing than I can do here. So I'm going to change this layout so that we have a title, a subtitle and a body, not just three items, three different columns. Now, I can do exactly the same thing with images as well. And I can also use ones in several columns if I so wish.
+
+[03:43] So I'm going to use title, subtitle and body, and I click on that. And look, we've got our data source already connected. We have got ideas of what the computer thinks we might want to look at. Now I can change the layout at any time, let's say, Oh, I've actually got an image. Oh well, just click on the image and now we can see we've got an image capability as well. Maybe these aren't the right fields.
+
+[04:09] Well, no problem. We'll go to Fields edit. And here we've got four individual items that we can put in the body the image, the subtitle and the account name. So maybe we don't want the second one to be main form. We want it to be something else. Maybe email address. Well, that's very easy to change. I'm just going to undo that by clicking on the undo button right at the top. So in this video, we've had a look at how to insert a gallery.
+
+[04:39] In the next, we're going to have a look at these individual labels and see what formatting we can do for those.

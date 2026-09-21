@@ -1,0 +1,20 @@
+# 23. Quickly creating a canvas app
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 011 (section 2: Signing into the Power Platform and creating an environment)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video we're going to have a brief introduction to one of the two different types of apps in PowerApps, canvas apps. So if I go to create on the left hand side you can see that you can create both canvas apps and model driven apps. So in this video we're going to have a look at canvas apps. So I could start from blank but instead I'm going to start from some existing data that we've got. So if I go back into tables and into the account table you can see that we do have some data. So I'm going to go to start from data, Dataverse.
+
+[00:34] Now there are many places that we could start an app from and indeed Microsoft do change the location of where you can start apps from. So it may be that by the time you're watching this video it may be that this interface for how to create an app may well have changed. So I'm going to connect to a Dataverse table. So I will click on that and then I'll go to the accounts table and say create app. And this will create a basic canvas app based on that table.
+
+[01:07] So this will just take a few moments. So now you can see that this canvas app has been created. So what is a canvas app? Well it allows us to create pixel perfect apps. Now you can see various different types of control here. So if I click on the insert either on the left hand side or at the top you can see we've got things such as text labels, galleries, that's what this is.
+
+[01:34] We've got various ways that you can add data, display data. We've got various icons, layouts and more. We've also got right at the bottom AI builder components as well. And we can also alter whatever we want. So for example suppose I wanted this to be a different color. Well I can go to the properties on the right hand side and if you can't see the properties then click on this properties icon and I can change for example the background color if I scroll down to be something else.
+
+[02:12] Now there is a play button at the top right. So this allows me to preview the app. So I can click on any of these items and get information about it. Now admittedly the information that was initially created is not that useful but you can alter it as you want. And you can also preview it on different tablets, phones and on your computer. So if I look at this app on a phone for example here we can see that I can go backwards and forwards between these different fields.
+
+[02:48] So I'll just click the x button at the top right. So what I'll do now is save this. So I can click save or click the drop down and go to save as. So I will call it accounts canvas app and click save. So we can see it is saving at the moment it hasn't actually saved yet. We've got to wait until that circle disappears and now you can see all changes were saved. And now I can go back and the computer is not asking me do you want to save the app which it would ask you if it hadn't saved but instead do you want to leave the app.
+
+[03:26] So I will click leave and then if I want to go back into that app I can go to apps on the left hand side and there we can see my new canvas app and I can edit it. So that returns me to the canvas app editor or I can play it. And if I log in again here we can see that I can use the app. So in this video we've had a look at how we can create a canvas app from existing data. So you go to create and then you can select the data source and that will create a pixel perfect canvas app based on that data.
+
+[04:04] Now what if you want to create a canvas app based on data other than these data sources? Well you can create it from blank and use a connector. So if I go into more on the left hand side and go to connections and click on new connection then you can see that we have over 1000 different data sources which you can use with canvas apps.

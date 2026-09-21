@@ -1,0 +1,30 @@
+# 41. Add Pictures and Image controls
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 128 (section 24: Expanding our canvas app further, including using variables)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:09] In this video, we're going to see how we can incorporate sales receipts pictures into our app. It's fairly simple. We have in our table a column called Expense Receipt or something like that. Here we go, yeah. Which we can say we've posted as the primary image. So all we have do to this form is add in that expense receipt.
+
+[00:37] So you can see that the expense receipt looks like an image over here. So let's click add. Now what's happened is that the computer adds in an add picture control. So you can see the add picture control here in the media gallery. So, this is in the edit form. Also want to add it into the detail screen as well. And again, just select the form and then you can add in the expense receipt image.
+
+[01:09] There it is. So how does the add picture work? Well, you will be asked to upload a picture. If you're on a mobile device, then you'll be presented with a choice of taking a photo or selecting one already available. So let's see how this works. So if I run the app, go to City Power and Light. So this is where we are. Add in an expense and you can see right at the bottom tap or click to take a picture.
+
+[01:39] First of all, I'm going to put a particular day and a value; 1234.56. Description. This is with an image. And I will go down to tap or click a picture. So this gets me to my dialogue box. I have a sales receipt here that I'd like to add, there it is, so I can change the picture if I so wish. And now, when I click on save, it takes just a bit longer because it's got to upload the picture.
+
+[02:08] So let's have a look at this now. And here, you can see that we have successfully added the image. So, adding images into your forms, very simple. All you need to do is have an image in your table and then you can go into the form and you can edit the fields and add the image and they will automatically add an add picture control. If you're viewing it, it won't add in an add picture control.
+
+[02:38] Instead, it will add an image control because we don't actually need it to take a new picture. Now, you might be interested to know that actually, it adds more than that. It adds an add image control. So here it is, and you can change what it says. So it says at the moment, tap or click to add a picture. You can change it here. And there's more in the advanced section. So you can see change picture.
+
+[03:05] If you want to change those words, you can do so here as well without needing to unlock it. But there's also an image underneath because once you've added the picture, it needs to be able to show the image. So, just have a look at this. If there is no media, no votes, if it's blank, we haven't taken a picture, then just give me Parent.Default. Otherwise give me the media itself. So what we have added for add picture free but suppose I didn't want Parent.Default.
+
+[03:37] Parent.Default was empty. Well, we can change what is here in the image, the default image. So, if I just go into Microsoft Word, and this is just for very quickness, I will put a plus button here. Fill it in a background colour and add a border to it as well.
+
+[04:08] So this is a really quick picture. So what I'm going to do now, let's just go down a bit, is capture that as I say it's not the best picture in the world. It's not meant to be the best picture in the world. So I'm going to use the Snipping Tool. That's this. And I'm going to get a rectangular snip of this picture. Obviously, you can save a picture from the internet.
+
+[04:36] You can do other things but this is my very quick thing. And I will save this and I will call this Need to Add Picture. All right. So what I can now do going back to Power Apps, on the left hand side, we've got tree view, insert, data, and advanced tools. We've also got media. So what I can do is I can upload image, video, and audio files to use in my app. So if I upload my Need to Add picture, so there it is.
+
+[05:08] Now, what I can do is if I go back into the tree view and if I click on the image, so there is my Parent.Default and unlock to change the properties. I can change this from Parent.Default. Let's just delete that to Need to Add Picture. And you can see it's need to add picture not need to add picture.png So now if I go through, so you can imagine you've got your own friendly sign at the front saying, submit your receipt here or something nice.
+
+[05:52] So, I'll go into Litware, I'll add a new receipt. So you can see in the background, we have got this tap or click to add a picture. I will add the same sales receipt and there it is. So let's put in some data. With receipt. And check that and it's done so we can look at it and there we go.
+
+[06:22] So that's how you can get a different background if you so wish when there isn't a picture already there when you want people to add it. It does require unlocking the properties but if you then go to the image that's down here and go to images, you can add your own picture to something that you have already uploaded in the media section.

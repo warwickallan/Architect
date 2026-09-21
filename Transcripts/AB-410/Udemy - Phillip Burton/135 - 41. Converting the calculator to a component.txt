@@ -1,0 +1,30 @@
+# 41. Converting the calculator to a component
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 135 (section 25: Canvas Apps components)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now, there may come a point when you go what I've just designed is brilliant. I want this particular combination to be included in lots of my different apps, and this is great for code reuse. You don't have to invent the same thing over and over again. And what we do then is create a component. So just like these controls, we can insert a component onto a different Power App or indeed, in multiple places in the same Power App.
+
+[00:29] So what I'm going to do is I'm going to highlight all of this and press Control and X. So that copies it into the clipboard. So there is a problem up here because I've got Reset NewNumber, so I'll just get rid of that and put in the word false. So now, I am going to create a new component. So this is a standalone thing, just like, for instance, a text input. A button will be standalone.
+
+[00:56] So I'll create a new component and here you can see the new component and I'm going to now paste what I've previously got. So there we have our controls but you may notice a few Xs and over here in the app checker, we have three formulas, which look a bit wrong. Okay, so invocation of unknown or unsupported function. And the function that is unknown to this component is UpdateContext.
+
+[01:27] So while context variables are very important when you're talking about a screen, here we're talking about a component. We can't use context variables in components. So we'll have to update this. So we say set the RunningTotalCalc to be the TotalRunningCalc plus the NewNumber. But hang on, I thought you said that set was bad if we are trying to use something in multiple places.
+
+[01:57] Well, imagine components as being a black box, just like, for instance, the label, the text input, we can't get into the internal workings of those. We've no idea what variables they are using internally. Similarly, when we use set, it is global. However, instead of it being global to an app, it is global to one instance of a component. So we now can have a look, see what else we've got.
+
+[02:25] Any other issues? No, we seem to have solved all of the issues with just correcting the one formula. So that's why it's really important to have a look at the app checker. If I just paste all of that again so we get to the error again, then look at what we've got. We've got one formula that's run 61 accessibility problems and seven performance problems. So let's delete all of those things. And you can see that the formula problems go away but we've still got all of these accessibility and performance problems.
+
+[03:01] Very important to have a look at at some point. Right, so back to this component. So we've got this component now. Hopefully everything is working. So if I got into Text, we have the CurrentTotal is RunningTotalCal. So what we need to do now is use this component, which I'm going to rename as Calculator. I'm going to add this to our now blank screen.
+
+[03:31] And we do that very easily in Insert, Custom. So here we have our calculator. So notice, I can't click on any of these individual controls. As I say, it's a black box. Now we've got it as a component. We don't know anything about it. So we'll see how to open it up in the next video. So let's have a look at the calculator. So we can just use it. So add a number 10, add another number 20.
+
+[04:01] Okay, let's go back, let's go back here. So all of these things that we had previously put in, like for instance, the navigate here, we're having get a context variable here. That no longer works because there is no context variable on the screen. So what we'd have to do is go into the component, so this is my component and you can see that there are very few properties but there isn't OnReset.
+
+[04:35] So OnReset, then I want the CurrentTotal. So my RunningTotal to be zero and I also want this NewNumber to be reset. And then I can go back to this screen and say OnVisible, and what's this called? This is called calculator_1.
+
+[05:07] I want to reset calculator_1. So now let's have a look and see what happens. So that creates an event, which the component then uses to go oh, I need to do something. So let's just play. And here we go. So I did 30 add 40. Go back, go back in, it resets. So in this video, we've had a look at how to create a component.
+
+[05:35] We've seen that you can't use context variables within a component but that's okay because we will be using set global variables but it's only going to be global to that particular component. And we've also had a look at the OnReset. So this is an event that can be triggered from outside and we can do things to variables and also to our controls within the component and we've also seen that we can insert a component into our screen and then it becomes a black box.
+
+[06:11] So I can't actually click on any of these items or change the logic. All I can do is raise events. In the next video, we'll look at how we can pass information into our black box, into our component and back out again.

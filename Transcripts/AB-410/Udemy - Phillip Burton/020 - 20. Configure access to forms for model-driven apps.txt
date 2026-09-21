@@ -1,0 +1,32 @@
+# 20. Configure access to forms for model-driven apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 020 (section 4: Create model-driven apps forms and views)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we created a form. However, we can't see the form in our app. So I can save and publish it, and I could go into the app, but I still can't see it. So what's wrong? Well, let's go back to our form. So I'll go into tables, name of table, forms, and then I'll click on the dot dot dot next to the table, and I'll go to form settings.
+
+[00:28] And here we can see a possible reason, security roles. At the moment, this form has two security roles assigned to it by default, system administrator and system customizer. Only these security roles will have access to this form or system view. So this means that you can create lots of different forms, but only have particular people have access to them. So let's have a look at some of the security roles that you can have within the Power Platform.
+
+[01:01] And we're going to start with security roles for environments without a dataverse database. So there is an environment maker security role. This allows you to create new resources in an environment, including apps, connections, custom APIs, application programming interfaces, gateways, and flows. And they can distribute their apps to other users. However, they have no rights to access data. There's also an environment admin.
+
+[01:29] They can provision a dataverse database. They can view and manage all resources created in an environment. They can set data loss prevention policies. So these are policies which stop data from, say, the dataverse from going out elsewhere into particular social media, for example. And they can also add or remove users from the environment admin or maker role. So those are roles without a dataverse database. Once you create a dataverse database, then we also have the system administrator.
+
+[02:01] This gives full permissions to customize or administer the environment, including creating, modifying, and assigning security roles. Now, you may be curious as to why the environment admin role wasn't there. Well, because we now got a dataverse database. When a dataverse database has been provisioned, then all environment admin users will be assigned this system administrator role. The system administrator role can also view all data.
+
+[02:30] There's also the system customizer. So this role can customize the environment, for example, adding new tables, but it only has access to its own roles or records, not everybody's. There's also the basic user. So this can run an app and read, create, write, and delete its own records in standard tables. And there are many other security roles, including, for example, the delegate role, which allows you to impersonate another user.
+
+[03:02] So I think for this particular app, and at least for testing purposes, I'm going to let everybody use this form. We can then narrow down who can use it later. In the form order tab, you can select the order of the forms. You can drag up and down. This is used when a person has access to more than one form. So which form do you want to use? And you don't just have to concentrate on main forms.
+
+[03:30] You can look at the other type of forms as well. But what if somebody has access to zero forms? They haven't got access to any of the security roles in the forms, but they have access to the dataverse table and the app. Well, this is when a fallback form comes into play. So the fallback form can be used if a user does not have access to any forms. And this should only be used if there are multiple forms for a table.
+
+[03:59] So I'm just going to have the default information form as the fallback form. There's also the form access checker. So I can check a particular security role. So I could say, for example, system administrator, and see what forms that role has got access to. If I change this to a basic user, then you can see they've only got access to the information form. That's because I've not saved and published the changes that we've made to the security roles tab.
+
+[04:31] So let's save and publish. Just need to wait a few seconds. And because we're making changes to forms and perhaps views and other things, we might also want to go into solutions once this is finished and go to publish all customizations, just to make sure that everything has been published. So this will just take a few moments.
+
+[05:03] So now let's go back into apps. Let's play our employee and expenses app. Click on the new employee. And here you can see, it still gives me the information form. However, there is a dropdown and I can change that to the employee main form, all details. And here we can see all of the information. Employee name has got a red star next to it because it is business required.
+
+[05:33] The start date has got a plus next to it. That's because it is business recommended. So we set that up when we were creating the columns. So I will give it a start date of the 1st of February, 2025. You'll notice my level is staff. That's because that's the default value. Again, we set that up when we created the choices for that particular column, but I can change it if I wish to do so.
+
+[06:01] We'll add my salary. So I'll say 30,000. And I've got an expense approval limit. I'm going to say 500 pounds. So my record or row is currently unsaved. So I'm going to save and close. And if I go back into that record, here we can see all of the information. So in this video, we've seen how we can configure access to a form. So we go into the tables and the relevant table, go to forms, click on the dot dot dot next to a form and then go into form settings.
+
+[06:39] We can then assign security roles. We can have a look at the form order, assign a fallback form. At least one needs to be selected. And we can also check what security roles have got access to which forms.

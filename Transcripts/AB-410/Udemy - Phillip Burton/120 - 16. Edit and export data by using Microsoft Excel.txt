@@ -1,0 +1,24 @@
+# 16. Edit and export data by using Microsoft Excel
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 120 (section 22: Other ways to create tables, and importing and exporting data)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at how we can edit and export our data. So to edit it, we can just go to Edit either at the top where we can edit, or edit in a new tab. So that will be displayed in a new tab at the top. Or we can just click on either Edit to open it up in the existing tab. We can then check any of these items and click on Edit raw using form. So this will open up the form which is attached to this particular table and then, we can edit it as we see fit.
+
+[00:36] Now, to export the data we can export in two different ways. If we're in the table, we can go to Export and we've got Export data now, this exports a static view. In other words, it is not an interactive view. It is simply what is at the moment. So if I click on Export data, you can see Exporting your data, and then, in my case, a few seconds later we'll have notification that the data is exported successfully and I can click on Download exported data, it downloads it as a CSV file, a comma-separated values file within a zip.
+
+[01:18] So if I was to open that up, we'd see all of our data. But notice the headers, the headers are being shown with the prefix at the beginning, and also some of the formatting is not quite what you want. So I'm going to change this formatting so it is month and year, for example, but you can see all of the data has been exported. Now, another way of exporting the data is to do so in a way that is interactive, so you can actually interact with the data and edit the original data.
+
+[01:58] So we do this by going to the dropdown next to Edit and Edit data in Excel. It is a much smaller file than the other file that we exported because it doesn't actually contain any data instead, it contains a link to the data. So here we've got our table and I can click on Enable Editing because it came from the internet. And then on the right-hand side we've got this Microsoft Power Apps Office add in pane. Now, if you've got an earlier version of Microsoft Office, you might have an indication saying, can you please download this add in?
+
+[02:34] But here you can see this add in is included in my version of Excel. So I'll click in Sign in it says, Sign in with your Common Data Service user account. That's your Dataverse account. So I'll click Sign in, and then I will sign in using an account that has got access to this data. So here we can see the data and if I was to go to something like the latest data, so if I go into the Date column and just look for 2016 November, and if I was to change something, so I'll change Merseyside to Merseyside Area, for instance, then nothing actually happens to our original data.
+
+[03:21] So if I refresh, you can see we still have Merseyside in the most recent set of data. So we have November 2016, it still says Merseyside. However, if I go back to Excel, you'll see that there is a Publish, I can also refresh, add a new record and filter down what I'm seeing. But I'll click on Publish and you can see at the moment data cannot be published because some of the rows are hidden or filtered.
+
+[03:51] So I will remove that filter and then publish again. You can see it's publishing and it's made a change. The workbook has been updated as well. So it's published the changes and then gone back to the original Dataverse source and seen if there are any additional changes to be made. So if I refresh this now, the region name Merseyside will now be shown as Merseyside Area as all of the changes have now been published.
+
+[04:24] So this is another way to interact with your data to edit it. Now there is a wheel icon here, and if I was to click on that and go down to the Data Connector section, you can see that there are various options. We can auto size columns, so they're not all the same size, they are the size that are needed for the data. We can refresh the spreadsheet or workbook when it opens, and we can confirm that you really want to publish when you click on Create, Update, or Delete.
+
+[04:57] So that could be useful, you could accidentally do some creation and want to confirm that yes, I do want to publish when I create a new record as well. So in this video we've had a look at two different ways of editing and two different ways of exporting. So we can edit using Edit or Edit in new tab. We can export interactively, which allows us to edit by going to Edit data in Excel.
+
+[05:29] And we can get a static view so one that is not interactive by going to Export, Export data and it exports in CSV format, comma-separated values format, which Excel can read.

@@ -1,0 +1,22 @@
+# 33. Testing our approval flow
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 050 (section 10: Using formulas and approvals in Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In the previous video, we created this approval flow. In this video, we're going to test it. So now let's save this. We can then publish it. Just takes a few seconds. And let's see what happens when I click on test this time. I can try clicking manually and test, but then it says to see it work now, perform the starting action.
+
+[00:32] So what I'm going to do is go back into my table, back into Power Apps. So here is my table, and I'm going to change one of these items from draft to submitted and just click elsewhere. So now let's go back into Power Automate. So this might just take a few seconds to start. So you can see that we now have the trigger when a row is added, modified, or deleted, and it's gone through the condition.
+
+[01:05] We've got true as the answer. We are starting and waiting for an approval. And if I go to my emails for this account, here we can see a new expense has been requested with the date, the amount before tax, and the claim description. So I can approve it or reject it. So I'm going to approve it and I can enter comments. So that's fine and click submit in the email itself. So now you can see the action completed successfully, and we now have updated this row.
+
+[01:40] So let's go back to our tables and you can see here is the row. It currently says submitted, but if I refresh, now it says approved. So I'm going to do this again. So I will edit this and I will just change this approval because I saw a typographical error. So let's save this draft.
+
+[02:10] This is why I test things just to see if things have gone wrong. I then publish it. I will test it manually, click test, and then go back into my table. And I'm going to change this $80 item into a submitted claim. Let's go elsewhere. Make sure it saves the row. And then I get a new email and here is the new expense, $80.
+
+[02:46] Do I approve or reject it? I'm going to reject it and say, this is way too much and click submit. So you can see the action completed successfully and it should then go into the updater row one to update this row. So number six with $80 from submitted to rejected. So in this video, we've had a look at how we can create an approval using a cloud flow.
+
+[03:27] So you can start a wait for an approval or you can approve text or you can start an approval and then later and then wait for an approval. And we've got these different approval types, approve or reject. Everyone must approve first to respond or custom responses, wait for all responses or for one response. We've also got sequential approval as well. And finally, if I do this again and then go out of this flow, I get another email but on the left-hand side, you can see that I've got approvals.
+
+[04:02] So if I click on approval, here we can see my new approval and I've also got all of the history approvals as well, these two previous approvals. So if I click on my latest approval, here we can see the details and I can select my options, approve, reject or reassign it to somebody else. I'm going to approve this and say, Philip needs a new monitor. Click confirm and it has now been approved.
+
+[04:37] And here we can see the claim status of approved.

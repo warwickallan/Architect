@@ -1,0 +1,34 @@
+# 35. Create model-driven charts
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 165 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:09] Now in this video, we're going to create charts for our data. And there's not much functionality in here. So we can create charts by going to the relevant table and going to charts. Or in the app designer, we can click on charts and go to create new. So either way, we'll get to this page. And it doesn't give you a lot of functionality. Firstly, what chart are you wanting to create?
+
+[00:38] So in other systems, this might be add a chart. No, here we have one chart and you get to say what that one chart is going to be. So, we've got for instance, a column chart with three different variants, a stacked chart where each of the series are shown on top of each other, a column chart, which is where they're shown to the side to each other, and a 100% stacked chart where all of the bars go up to the top.
+
+[01:08] So really that's good for showing ratios as opposed to absolute values. Bar charts, exactly the same thing, except it goes on the left instead of column charts, which go from the bottom. We've also got area charts, very similar to column charts except they're more connected. So that's quite useful, for instance, for having dates. If your categories going across word dates, then you could have the difference between 2025, 2026, and so forth, all joined together.
+
+[01:39] Line charts, again, very similar to area charts. Pie charts: these I would only use if you've got, say, six or fewer categories. So they're not really useful for a huge number, and then funnel, that's used for when you have categories going down in quantity. And so that could be useful, for instance, how many people do we telephone? How many people do we telephone a second time?
+
+[02:07] How many sales do we get from those people? We've then got tags. So you can see that extracts words, and then donuts. So that is similar to a pie and a tag. So what I'm going to do is I'm going to create a simple column chart and that column chart the series is the value. So I'm going to select the expense value. And we can have the sum, the mean, the max, the average, or it could just count, count where there are values and count where there are values or where they are blank.
+
+[02:43] So that's the series, that's the values. So what's running across the bottom, well maybe we're going to have the account or if that gets a bit too busy, maybe we'll simplify it and have the city. Now this is a preview. And you can say what view you want to use for the chart preview. So obviously this chart gets saved at the table. So you can use the same chart with multiple views. So you can see the difference between this view which is active expenses.
+
+[03:14] There are six columns. And this one where there are only four, because I have filtered some out. Additionally, we can show just the top X or the bottom X. So if I go back to the active expenses where we can see all of them and you can see some really small values. I'm going to just have the top three items. So that results in just those three, or you could have the top five items, or you can specify the number of items that you want.
+
+[03:44] Similarly, you can have the bottom three items, for instance. We can also clear the rules. Now at here, this series, we have two icons on the right-hand side which just duplicates the functionality here. So we can change the chart, and we can change whether we use the top, the bottom, or we clear the rules, which is what I'm going to do. We can add additional series, add additional values, and we can add additional categories.
+
+[04:13] So that's these running across the bottom. So what we're going to do is I'm going to save this. So I can see at the bottom left, this chart is saved. So I'm going to now save and close. Let's go back into here, refresh. And now we have this new chart so expense value by address 1. So I've got very few options.
+
+[04:39] All we can do is delete it, or we can look at it. But now in the app designer, if I refresh this and click on charts, we now have this chart. Similarly here, if I refresh this, nothing happens. I have to republish this app for that chart to be available. However, I can make a new chart inside here for so we get exactly back to the same location, but that is very useful if you're creating a view and you want to create a chart on the fly, if you just want to create it right now.
+
+[05:18] So what I'm going to do with charts, I'm just going to select that one. I'm going to save. I'm going to publish it, and then I'm going to play. So you can see that this app designer is largely there for the site map and to restrict the forms, views, charts, and dashboards that you can use. So now when I play, I go to the expenses. So this is the different area. I go to show chart, and there is my chart expense value by city.
+
+[05:49] And that's largely all you need to know about charts. In the background, you may wish to know that there are personal charts and system charts, and there are organisation and user owned charts. So this is a system chart. It's also an organisation chart. Organisation charts are available across the organisation, and you need system administrator or customizer role to create these. Meanwhile, a user owned visualisation you can do by just clicking on the new, and this will be your own chart, your user chart.
+
+[06:23] So for instance, if I create this chart and so this is my chart and I select the count of the IDs by the account. So I can do that. Click save, close it, probably have to refresh. And after awhile, I now have access to my user owned visualisation, I had to refresh a few times.
+
+[07:01] But that visualisation, my chart, is not one of the charts which is included with the table. So in other words, this is a user owned visualisation as opposed to an organisation chart. So, charts. Fairly simple to setup. We don't have too many options. You can select from column, bar, area, line, pie, funnel, tag, and donut. You can select the top or bottom values and that's it. So you notice no colour configuration, for instance, no font size configuration.
+
+[07:34] It's just very straightforward, but fairly limited as well in terms of the things you can do. However, they are very useful for sitting next to a view as you can see here, or as we'll find out in the next video, in a dashboard.

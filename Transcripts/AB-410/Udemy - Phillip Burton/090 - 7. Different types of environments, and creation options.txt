@@ -1,0 +1,30 @@
+# 7. Different types of environments, and creation options
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 090 (section 18: Installing Power Apps and Environments)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So here we are in the Power Apps portal, make.powerapps.com, and we have an environment. So what is an environment? Well, environments allow you to store, manage, and share within the Power Platform: data, apps, and flows. Now, you can see I'm currently in the developer plan, and my environment is the company name but I have a second plan. So Power Platform Developer, that's my username, environment.
+
+[00:30] Now I can switch between environments just by clicking on an environment and selecting something else. Now let's try and create a new environment. Now have a look at what it says at the top. This is an individual environment and not meant for production use. And just a reminder we're in the developer version. And now I'm going to click on the settings, the gear at the top, and go to admin centre. And that takes me to the Power Platform admin centre, admin.powerplatform.microsoft.com.
+
+[01:06] And again, that's probably another URL you probably should memorise. So make.powerapps.com, admin.powerplatform.microsoft.com. And here, you can see I'm in the environment section. So here's my environment, and you can see the type is developer. So I'm going to uncheck this and I'm going to click on new. So this allows me to create a new environment. So I'm going to say MyNewEnvironment, click save, and we have a problem.
+
+[01:38] The user does not have a licence that allows for environment creation. So what is this? Well, because I'm in the developer plan, I am allowed just one individual environment, and that is the one which has been set up for me when I signed up for the developer plan. So if you want to create any more environments, you can't do this in the developer plan. Now let's go instead to my user plan, and you can see it's got PP on the right hand side as opposed to PD for power platform developer.
+
+[02:14] So I don't have a second environment. So let's go and set one up, and again, I go to the settings, admin centre, which gets me to the Power Platform admin centre, and new. So, first of all, I need to name my environment. And just a reminder, you can't do this if you're on the community plan, so you can't create any new environments. So I'm going to call PerUser environment, so this is PerUser environment.
+
+[02:44] And then we have a type. So there are three different types shown here, but actually there are many more. First of all, there's the default environment. So that is this. You can see it says brackets default. It is the environment that is automatically created. It cannot be deleted. It kind be backed up, cannot be restored. No users will be automatically added to any security environment admin role. They'll all be added to the environment maker role.
+
+[03:13] We'll go into what this means later on when we have look at security, but basically admins can't restrict access to the default environment. You might just want to rename it as general. It's not an environment you really should use unless there are very specific circumstances. So, first thing you should do is create a new environment. So apart from the default environment, we have got a production environment.
+
+[03:41] So this is for permanent work, and you need one gigabyte of available database capacity. You've certainly got that at least for the first couple of environments. A sandbox environment, this is for development and testing, and it offers features like copy and reset. So this is a good place for developers. Trial, now this is intended for short-term testing needs.
+
+[04:12] They expire after 30 days and are limited to just one user. So you've got sandbox, which is for people who wish to develop. You've got production, which are the real thing, permanent work. Trial, that will expire in 30 days. You've got your default, which I suggest you don't use unless you've got particular needs. And then if you are on the community plan, then you've got access to developer, which are special environments that can only be used by you, a single user.
+
+[04:47] So, what I'm going to do now is go back into the Power Platform admin centre. I'm going to say this is going to be a sandbox for development. I need to select my region. Why do I need to do that? Well, for instance, suppose I'm in the United Kingdom or another part of Europe, well, I have something called the GDPR, General Data Protection Regulation. And I want all of my data to be in the European Union.
+
+[05:17] United States could have their own laws, especially in California, where their data needs to be. So generally, have the environment where you are going to access it. Yes, you can also get quicker data access, but you may also need to have this particular location. You can create a database for this environment, but we'll do that in the next video. So just remember, this is one way of creating a database, but I'm going to say no for the moment.
+
+[05:47] And now I'm going to click save. And now it is creating my environment. So, we have got several different types of environment. A default, so that's the default for each tenant, so there's one for the entirety of your organisation. A tenant is another name for the organisation. You have got a developer one if you are on the community plan. You've also got a trial one which expires after 30 days, and it's limited to one user.
+
+[06:16] You got a sandbox, which is for non-production environments. And you have got a production intended for permanent work. You've also got one for Microsoft Dataverse for Teams, which is created if you use an app in Microsoft Teams as we will be doing in later sections of at this course. So this is how to create an environment. We go to the wheel, admin centre, environments, new.

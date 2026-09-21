@@ -1,0 +1,26 @@
+# 53. Extend our Power Automate approval flow by using Microsoft Teams
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 180 (section 31: Create Power Automate flows)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to expand this flow by monitoring the approval process in Microsoft Teams. So we're going to post a message as well as send an email. So first of all, we need to download Microsoft Teams. So to download Microsoft Teams on your desktop, just Google download Microsoft Teams. So here we've got my page. So I will download for the desktop, download Teams. And it's a fairly easy instal.
+
+[00:31] You may already have it on your computer, of course, as you may have been working from home, and your company may use Microsoft Teams. So I'm just going to pause the video until it downloads. Right, so it's finished downloading, so I'll just click on it to open it. And here you can see starting to be installed. So enter your work, school, or Microsoft account.
+
+[01:02] Then click sign in. If you're not on Teams, then you can see there's a sign up for free button, as well. So, I will now enter the password, sign in, and stay signed into all of your apps and allow my organisation to manage my device. I'm going to say "No, I don't want somebody else to be able to manage my windows," so I'll click okay.
+
+[01:32] It says, hold on while we register this device with your company and apply policy. Well, I've said I don't want any policy to be applied, so hopefully it won't be doing that. There we go, we've added your account successfully. So that's all done. So here we are in Microsoft Teams for work and school use. So what I need is to create a team. So I'll go to Teams and I will add a new team and I'll create a team from scratch. Now, I should point out there are various different Microsoft Teams user interfaces, so yours might look different to this.
+
+[02:07] So I want this to be a public team. Anyone in my organisation can join. So this is my Approvals team. Click create and then I'll be able to add people to my Approvals team so I could add somebody else if I wish to, and click add. So the important thing here is that I have a new team called Approvals and a chat channel called General, and I can start a post.
+
+[02:39] So, "This is my chat, hello." Now what I'm going to do is to add a post when my approval has been done successfully. So I'm going to click on the plus, add an action, and then in this pane I'll type in Teams and click on see more for Microsoft Teams. And I will post a message in a chat or channel. So I'll post as a flow bot, I could use something else, but I'll just use a flow bot and I will post in a channel and then the team, just loading the teams, there's my Approvals team.
+
+[03:19] And then the channel is my general channel. And I will say, here is the results of the approval process and then add in the outcome. So let's now save this flow and we'll test it. So wait till it finishes saving, got the green, "Your flow is ready to go." I'll test this manually.
+
+[03:53] Click continue, run flow, and my flow has successfully started. So let's have a look at where we've got to. So it is sending the email out for approval, or it will be doing so in a few seconds. So I've now received the request, so I'm going to say "Yes please, have a good time." Click submit.
+
+[04:28] And then we can see it is sending an email, but it is also posting a message in the chat or channel. So let's go to my Teams. And here we can see this is the result of the approval process, " Yes, please." Now you can also do an approval process within Teams as well. So if I click start a new post, I can click on the plus symbol and add a new app, and I can add the Approvals app.
+
+[04:57] So if I click add and add, again, I can then have a basic request. Again, the user interface continues to evolve, so it might look different to what you're seeing. So I'll click a basic request. "Can I have lunch early?" And I'm going to have me as the approver, just so you can see it all in one screen. "I will get back early, as well." So that is my request, click send.
+
+[05:31] And there we have a request via Approval. So it is requesting, then I will receive the request as the approver and this will change from requesting to requested. And now we have got my options. I'm going to approve that. And then I will receive the results of my approval. So in this video, we've had a look at Microsoft Teams. We've had a look at how to instal it, how to create a new team, and then we've seen how we can use Power Automate to post a message in a chat or channel, which also allows us to monitor the results of the approval process.

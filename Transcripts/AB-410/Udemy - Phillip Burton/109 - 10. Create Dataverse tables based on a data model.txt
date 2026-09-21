@@ -1,0 +1,40 @@
+# 10. Create Dataverse tables based on a data model
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 109 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now in this video we're going to create a Dataverse table based on the data model that we just had to look at. Now, if I go in make.powerapps.com, the Power Apps portal and go to Tables, you can see that we've already got a lot of tables created. Now, bear in mind, this is not all of the tables. If I click on the view you can see that the view is currently the default view. If I click on all, you can see that there is a huge number of additional managed tables that have also been added.
+
+[00:34] So these tables are not customizable. So I can't click into one for instance and add a column; simply not possible. They've been imported into the environment when I created this Dataverse. So let's go back to the default. So you can see we've got standard, managed, and we've also got other things like system. If I go back into our default, you can see that we have got two main types, standard and custom.
+
+[01:09] So standard, these are several standard tables. They also called out-of-box tables. They're included in the Dataverse. So they're the base set of tables created in the Dataverse. So what we can do with those, we can add additional columns, but we can't delete them. But we can change the display name if we want. And if we've got certain amounts of security, we can also hide these tables.
+
+[01:37] Now we've also got custom tables. So these will be your blank tables, which can then be populated. So for instance; Here, we have got a particular table, which the computer has populated with a lot of different columns. Now, there are three other types of tables. There's complex. This contains service side business logic and may contain workflow or plugins. This is largely for Dynamics 365 licences, but you can also get them if you're on the per user plan.
+
+[02:07] There's also restricted. Now this stores data, which is normally inside Dynamics 365 maintained in a very special way. Again, that requires a Dynamics 365 licence and there's also virtual tables. So that's a table from an external source such as Azure SQL database. So we've got standard, custom, complex, restricted virtual tables. Custom is the one that we will be creating when we click on new table.
+
+[02:37] Now we've also got things called activity tables. So activity tables, they are things, tasks. Things with a time dimensions, so a start, a stop, a due date, a duration. It could have a subject description and it could have a status opened, cancelled, or completed. And the standard activity tables that we have got include appointment. So these have a commitment representing a time interval with start and end times, and durations.
+
+[03:10] We've also got email. So this is activity which is delivered using email protocols. And you can see the sort of columns I've got here attachments and that sort of thing, reminders. We've also got fax, so activity that tracks call outcome and number of pages for a fax and may also store an electronic copy of the document. We've got letter. so activity that tracks the delivery of the letter and may also contain an electronic copy of the letter.
+
+[03:38] We've got phone calls, so activity to track telephone calls. So is build, for instance. Is this a regular activity? That sort of thing. We've got reoccurring appointments. So is there an appointment which reoccurs? And then we've got the generic task work to be done. So that's a quick look at the tables which have automatically been added to our Dataverse. So now if I click on new table, I can create the display name.
+
+[04:10] Well, this is for expenses. So I'm going to keep it in singular, because we've got the account here rather than accounts. You can see the computer is doing its own display name all plurals. You've also got a primary name column. So I'm going to call this ID and we're actually going to do some adjustments to that in the next video. So this is a single primary name column, so if you're used to things like SQL databases, you know that you can have compound primary keys.
+
+[04:45] So one's built on more than one column. That's not the case here. It's only one per table, in one column, it's then automatically created. In fact there is another primary key called GUID. That's G-U-I-D. So that's one of those really long names with lots of numbers and letters. The computer creates that as well. Now there are additional settings that we can have a look at.
+
+[05:13] So for instance, you could create a description, but it's really table type that is the major thing to have a look at when creating the table. So for instance you have got the standard table or the activity table. So the vast majority of the time you will be using the standard tables. The activity table is something with a particular activities or start, end. We've seen the various instances like fax and letter, but the majority of the time you'll be using standard tables.
+
+[05:45] And then we've got, who owns the table? So we've got two choices, we've got organisation owned. And if you have that then access level is at the user level. So the organisations can say this particular user can have it. Or it is owned by a user or team-owned. So what our teams? Teams are owned at the business unit level. So you have organisation below that business unit, below that, you have the teams and users.
+
+[06:16] And business units can also have additional business units under it. So when you are having the user or team, then access level is either at the organisation level. So everybody in the organisation can see it, the business unit level. The businesses unit and any business units underneath it. Those are called child business units Or it will be the users on records only. Now a couple of things about this.
+
+[06:45] First of all, if you create an activity table then you cannot have an organisation owned. So if we were to do an activity table it's always going to be at the user or team owned level. Secondly, when we created this ownership, this happens right now, when the table has been created. It cannot be changed later. So you have to be fairly confident whether you want it to be organisation owned, so whether the data belongs to the organisation or whether the data belongs to a particular user or team.
+
+[07:23] So there are a few other things in here, but we won't need them for the P L 100. Though, I do want to point out the Enable for Mobile Offline. It's something you can set up at the table level and you can see that it puts track changing enabled. So it's a bit more complicated when you want tables to be available offline, but it is possible. So most of the time, the only things you will need to a have look at are the display name.
+
+[07:55] You then have the internal name. You then have a primary name, so I'm going to turn that back to ID. And then is it a standard or activity table and who controls, who belongs to the data? Is it going to be controlled at the organisation level? Does the data belong to the organisation or does the data belong to a user or team? So I'm going to stick with the default settings and then I'll click create.
+
+[08:24] And you can see it is provisioning your table in the background. So if I just pause the video now and then a few seconds later the computer has created all of the columns that it needs. All of the standard columns to track everything. So for instance, when I create an expense, it's going to know when it was created and about when I actually typed in the entry. it's going to know who owns it and other things.
+
+[08:53] So in this video, we've had a look at the tables that come standard as part of the Dataverse and we've created our own table. In the next video we're going to be adding additional columns, so that we can actually use our expense table in our Power App.

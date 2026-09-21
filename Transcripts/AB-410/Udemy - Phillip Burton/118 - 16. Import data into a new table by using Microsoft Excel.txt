@@ -1,0 +1,24 @@
+# 16. Import data into a new table by using Microsoft Excel
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 118 (section 22: Other ways to create tables, and importing and exporting data)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English [Auto]
+
+[00:00] In this video, we're going to have a look at how we can import data by using Microsoft Excel into a new table. So first of all, let's have a look at the Excel workbooks that we will be importing. And these workbooks were attached as resources back in section one of this course. So we can see we've got a workbook called power BI Source Data F and it contains two spreadsheets table HP admins and table HP region.
+
+[00:30] Now table HP admins has the date, region name, area, average price index, 12 month percentage change, and the sales volume. And it goes from the year 1995 up to October 2016. We've also got an additional workbook that we'll be using in the next video called power BI Source Additional. And this contains November 2016 data.
+
+[01:00] So let's say I wanted to import this data Into the dataverse. Well, I would go to tables and then I can create with Excel or CSV file comma separated value. I can also click on Create New Tables. And again I can click on import an Excel file or CSV. So now it's asking what the file is. So I will click on select from device.
+
+[01:29] And I will select my workbook and click open. So now you can see the file is loading. Now you remember that there were two spreadsheets. However I've only got one table imported. And the reason for this is that this way only imports one table at a time. If you want the second spreadsheet, then go to new table file and I will open the same workbook. And now you can see the file is loading.
+
+[01:59] But instead of loading the first spreadsheet a second time, it imports the second Spreadsheet or range. Now I'm not going to keep this. So I'll click on the dot dot dot and go to remove. Now notice what options we have got. We can import xls, xlsb, xls and csv files. So CSV or comma separated value files. So these are text files xls.
+
+[02:28] So this is the standard Excel workbook up till Excel 2003. Still used by many applications. Dot xls x is the standard workbook from Excel 2007 onwards, and Xlsb is a binary workbook which is a more compressed version of the standard Excel workbook from 2007 onwards. What's not included in that list is xls m. So if you've got a macro enabled workbook, then you'll have to save it as one of these other types before you can import it.
+
+[03:03] So here we can see our table and I can click on it and view data and this just shows the first few rows. There's actually over 1000 rows in my workbook, and I can rename the table by going to properties. You'll notice that it's got a name of real estate price record, though that name was not in the spreadsheet at all. I'm going to call it table hyphen Excel and click save. And you can manipulate this just as we can with any other table.
+
+[03:37] We can add new rows, new columns, and we can edit existing columns including the data type. So let's click cancel on that. And we're going to create this new table. So I will click on Save and Exit twice. Now this will take around a minute. So I'm just going to pause the video until it's imported. So here we can see our new table table Excel.
+
+[04:07] And if I click on it you can see we've got a few rolls and then ten additional rolls. But hang on. There was over a thousand rolls in our spreadsheet. Where have all of the other rolls gone? And the answer is that they are still being imported. It is happening asynchronously, so it is not waiting for all of the data to be imported. So you'll probably have to click refresh a few times and wait for all of the remaining data to be added.
+
+[04:39] So I will just pause the video for a few minutes. And now you can see after about a minute we now have ten rolls plus 1562 additional rolls, making 1572. All of our data. So in this video, we've had a look at how we can import an Excel spreadsheet into a new Dataverse table. We go to tables and then click on create with Excel or CSV file. And the dataverse will then import the first range or table in the file.

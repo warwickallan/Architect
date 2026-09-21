@@ -1,0 +1,14 @@
+# Signing up for Power Apps Developer Plan
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 089 (section 18: Installing Power Apps and Environments)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, I'm going to sign up for the Power Apps developer plan. Now, it used to be called the Power Apps community plan but it was renamed in May 2021, as some of the capabilities were expanded. Now, one of the key capabilities that was expanded was the ability to share apps for the first time with teammates for development and testing purposes. Now, you can see that this is a development and testing environment so it's free for development testing and you will get Power Apps, Power Automate and the Dataverse.
+
+[00:36] So, let's sign up, I'll click on get started free. So, now I've got to enter my work email address, so I'm going to enter a work address, click sign up and it knows that I've already got another Microsoft service, otherwise I'd have to sign up for the Microsoft services, so I'll click sign in. So, here I need to sign in with my username and password or my credentials.
+
+[01:08] So, I'm nearly there. So, would I like information tips and offers about solutions and businesses and organisations? Would I like information from select partners? So, I'm going to say yes to one and no to the other. So, click start and it says one last thing and then I'll be there in the portal. So, it just says what's my country and do I want the latest Power App tips and information, click accept, and I'm in the portal and here I'm in the portal.
+
+[01:45] So, we've got this initial welcome screen to make your job easier, automate with artificial intelligence, and build on your data with connectors. So, I'll say let's go and there we are. So, I'm in the Power Apps portals in less than two minutes. So, the Power Apps developer plan, very useful if you want to do development and testing, you get access to Power Apps, Power Automate, Dataverse and all you need is an email, which is a work email, so not something like Google Mail or outlook.com or Hotmail, but something else.
+
+[02:24] And that's how you instal the developer plan.

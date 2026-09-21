@@ -1,0 +1,36 @@
+# 12. Expanding our Dataverse business rule
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 171 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Okay, let's change this amount to $600. So now we are over 100. Description should appear, and no it doesn't. Okay, why is description not there? Well, the reason is I said what to do if the expense is under 100. I haven't said what to do if the expense is over or equal to 100. So I said set the visibility to false, I haven't said anywhere, well, if you change your mind, set the visibility to true.
+
+[00:29] So I need now to add something else. Now I can't change this at the moment. And the reason I can't edit it is because it's activated. So this is when it might be quite useful to save it as another rule, edit this over deactivated rule so that this rule continues. Activate the second rule, deactivate the first. But I don't need to worry about people editing right now, so I'll just deactivate it just for now.
+
+[00:57] And now, I will be able to edit. So what I'm going to do is I'm going to say set visibility of the description to yes. So, is more than 100. So let's save that, let's activate it. You can also see the validation is successful.
+
+[01:24] I've filled in everything, and we'll go back to our form here. So I'll just go back, refresh, always useful, and going into here. So we can't see a description here, change it to 600, press Tab, description appears. So you can see, instantaneous. Now suppose the expense is more than 1,000, okay?
+
+[01:55] Maybe we should do something else, maybe we should have a recommendation for the description. So I'm going to add another condition, and you can see I can't add another condition here. Conditions can only be placed, as you can see, in certain places. So right at the beginning. So if I want to say, here's the expense, is it less than 100?
+
+[02:22] So now I'm going to say, is it greater than 1,000? So if the expense value is greater than or equal to 1,000, then okay, yes I want to set the visibility. And I'll need to do that for the false side as well so let's set this visibility. But in addition, so I'll say call that is more than 100, and this one is more than 1,000.
+
+[02:59] In addition here, I want to have a recommendation for the description. Now I've not actually got a real recommendation for the description, I just want to show the process. So here we have the recommendation title. So more than 1,000. This expense is more than $1,000, now let's apply that. But there is something within this recommendation.
+
+[03:27] And if I click on the details, you can see there is a new action. So in other words, I've just said there's a recommendation title, there is a recommendation details. But what I want to do, if the person accepts a recommendation? Well, I want to have the description to be changed to this needs urgent reviewing, a big expense.
+
+[03:55] So let's apply that. So now you can see the logic I've got. If it's less than 100 and high description, else if it's greater than or equal to 1,000, then we have a description shown and a recommendation for what that description's going to be. Otherwise, just show the description. So you can probably work out your own logic that you want for your particular tables and apps. So let's activate that, go back into our form, refresh, find that always good.
+
+[04:38] So let's see what happens, currently we've got $60, $600, description appears, back to $60, description disappears, $6,000. We now have a light bulb next to the description. If you've got a lock symbol or something, you may need to refresh. So let's have a look, we can see that there is a recommendation. This expense is more than 1,000, it says our title, there's a description, and if I apply, then the description gets updated in line with what we have said, this needs urgent, reviewing a big expense.
+
+[05:09] So hopefully you can see the sort of things that we can do with business rules. Just a few more words. First of all, we can zoom out and zoom in. We have a picture down here of what it looks like. So when we are zooming in too much for the screen, you can see the entirety anyway. You can collapse this business rule text view if you want. You can also fit to canvas, you can get a snapshot. So a snapshot saves what you are seeing to an image.
+
+[05:41] So here you can see the image that we have just created. You can cut, copy, and delete certain things. So I can't do this at the moment because it is activated. You can add a by clicking on the add up here, as well as dragging in the components from the right hand side. Now you should know that not all of these seven are applicable to canvas apps.
+
+[06:11] So the show and hide, the set visibility, or the enable and disable, so the lock or unlock, or the business recommendations, they won't actually be used in canvas apps. All you've got are the validate stored information, you've got the set and clear field value, and you've got the sure error messages for invalid data. If you've got an error message, by the way, shown, that means that the data you've entered will not be saved.
+
+[06:43] Now there's just one more thing to talk about business rules, and let's go back to our data. So here's our data. So here in the Power Apps portal, I can click on a business rule and I can edit it, I can turn it off, I can delete and I can do some other things, show dependency and publish table. These can also be done by clicking on the ... next to the business rule. So business rules, they allow you to apply business logic at the data layer, not the app layer.
+
+[07:14] So they can be used in Power Apps, Power Automate, or in programming. To access them, you go to data, tables, business rules. So if I add a new business rule, you can see all of these things are available for model-driven apps. You can also set the scope as well to all main and quick create forms or a specific main form. However for canvas apps, we need to keep this to entity and you can validate stored data, you can set and clear field values, you can show your messages.
+
+[07:46] It's only in model-driven apps that you can show or hide or enable or disable fields and create business recommendations.

@@ -1,0 +1,30 @@
+# 45. The Search function - Searching for text
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 131 (section 24: Expanding our canvas app further, including using variables)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] Now we've just got one more icon to add to our app and then it will replicate the original. And that icon is a search icon. So very easy to add a search icon. So we just looked down here, you could do a filter or you've got a search right at the top. It'd be very handy if you could actually search these icons rather than going all over the place and trying to find them. So there's my search icon.
+
+[00:26] Next, I need to have an input. So instead of a label, which displays I'm going to have a text input which allows me to enter things. So there's my input. Now, do I need that border? Maybe not, but maybe lighter who knows. I'm going to rename that. I can rename it over here. So I will say this is my search input. So that is the actual controls.
+
+[00:54] So all we need to do now is add that functionality to here because at the moment I've just got somewhere where I can type and that's it. So I could search for adventure, press enter nothing happens. So I also need to get rid of what's there to begin with. So the default is clearly text input. So let's get rid of that. So let's go to the items of the gallery. And currently we are sorting by columns.
+
+[01:23] The table we are sorting is the counts. It's a source. So it doesn't need to be a table. We'll have look at that in a bit later, we are sorting by name and we're sorting either ascending or descending. So this doesn't need to be a table. It could be, for instance, a filtered table. So a filtered table would be good if you can structure it exactly right. But there is a better function for us than the filter. And that is the search function.
+
+[01:53] So the search function allows us to search for some text. Okay. So we're going to search for the search input. So there's our text, then the question is, where are we going to search? And that's actually a good question. So let's go back to our data set. So here is our data and we need to go to in this case, the account data. So let's search for instance, in the name, the account name.
+
+[02:25] So it can't see it on this view. We need a different view. So all, so there is account name. So if you search by name, so I'll just type in name and you can see that the computer is just using name. Now search input itself. That is a control. It is not text. So we need to extract the text from that. So search input dot text. So that gives us data type of text.
+
+[02:53] Where as search input gives us a control these sorts of indicators are very useful, make sure you have got what you're expecting to have. So let's just go into this again. So if I type in adventure you can see instantly I haven't had to press enter. In fact, it was doing it when I was typing. Maybe I want all of those, which are in Santa Cruz. I was looking for just the name, I wasn't looking for the location.
+
+[03:22] Or can I look for the location as well? And the answer is, yes you can you can look for anything within here, multiple things. So let's have a look at this sort by column search that we've got, we're searching the accounts. We're searching for this, where we're searching is in the name, but we can then add additional columns. So another column would be the city, for example.
+
+[03:54] So that's is the address one underscore city. So it's just type city, it's not coming up, address one underscore. There we go. So with these, you have to work out what it is exactly you need it to search for. So now let's have a look for this. So Santa Cruz, there we go. Redmond.
+
+[04:22] And you can add additional and additional fields or columns as you so wish. So you can really extend this. In fact, the original is looking for the account number as well as the city as well as the entirety of the address. But the original is not actually looking for the name. So if we have a look at the original so its the computer generated one and I play this and I look for Contoso.
+
+[04:54] It's not there. So we know how to add that in if we so wish. So select the gallery and just add in name and that will allow Contoso to appear as well. So the search function it allows you to filter down a table, but instead of having to work out more complicated filters. Here we can take some text and say, I want you to look for that text in this column and this column and any additional columns you choose to have a look at.
+
+[05:28] So we can also put that in to the expenses if we wanted to if we wanted to search through the description. So this is how we can do the search. I'm just going to change the boarder on this. I think it's just a too bold. So let's make the thickness one, I think that's looking better. We might also want the colour to be say a grey, dim grey. Just so it's not so completely intrusive.
+
+[06:01] So this is how you can use the search function.

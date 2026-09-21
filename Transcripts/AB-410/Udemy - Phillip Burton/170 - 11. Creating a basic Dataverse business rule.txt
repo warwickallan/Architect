@@ -1,0 +1,32 @@
+# 11. Creating a basic Dataverse business rule
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 170 (section 30: Create model-driven apps - charts, dashboards, card forms and business rules.)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we're going to have a look at the one thing in this table section that we have not looked at, namely business rules. So business rules allow us to have some sort of logic to the data that we put in. For example, let's suppose that I say I want you to have to put in a description, if a figure is over $100. If not, I don't even want to see the description field.
+
+[00:29] So here we have our model-driven app and we've got a description here. Now I put this in, in the canvas app. If you remember going back a few sections, I put it in here. But if I was using the model-driven app, I might want to say I don't want to see the description if the expense value is under 100. Well we can do this with a business rule. So let's create a new business rule. So I click add business rule and this loads in a new tab. Now you can see the business rule here.
+
+[00:58] If something, then do something and to do some things, we can make a recommendation, we can lock or unlock a field. So in other words, I can enable it or disable it. I can show an error message. I can set or clear a field value. I can set a default value. I can say that it is business required and I can set it's visibility. So in other words show or not show a particular field.
+
+[01:27] So let's have a look at the condition. So I'm going to click on this condition. Well, first of all, let's name this rule. So I'm going to call this expense 100. So I'm going to say is the expense over or below $100? So that's my description. It's just nice to be able to name it. So here we have our condition. So this condition is the expense 100. Now that's just the display name, I could put whatever I want there.
+
+[01:57] So the entity is the expense because I'm was editing in the expense table, so my rule. So in the expense table is the expense value less than a particular value, you can use a field, you can use a formula but that gets more complicated than we need. Is it less than $100? So you can see the text field at the bottom is the expense value less than 100?
+
+[02:28] Now this is the most impulsive bit. Click the apply button. If you move on to something else, it will not save. So I'll click on apply and now you can see if expense value less than 100 then let's go back to the components. So then what I want to do is I want to set the visibility. So we've got two little things here, we've got a is true and is false. So I'm going to set the visibility so you can see one of them dragging this in, we have these pluses.
+
+[02:58] So this is where I can drag my components. So I can drag it on top of things as well but I'll drag it right here. So here we have is less than 100. So that's the name instead of it saying new action. And I'm just going to click apply not going to actually fill in everything. And I'm going to click on validate and this validate is very useful, it says if I've got errors in the process, so you can see I haven't filled everything in.
+
+[03:28] And I generally leave the validate on certainly do it before you save because it is very easy to not click the apply button. So what's one to do if this is true then I want the description visibility to be no. Okay, so let's apply. So now it says, if the expense value is less than 100, then hide the field description. So I'm going to apply that, I've have already done it, but why not?
+
+[03:54] Now let's have a look at the top right. Firstly, I've got save, I've got validate and I've got scope. So what does scope mean? Scope says, where does it apply to. Now, entity means the table. So it will apply to everything, it will apply to canvas apps. It will apply to model-driven apps. It will apply if you're using power automate, it will apply if you're using programming using an API, that's an application programming interface.
+
+[04:25] So in other words, it will apply all the time. Alternatively it can comply to all forms. Now this is all model-driven forms, so not canvas apps. So it's actually the forms or you can have for it to apply to a specific main form. I wanna say all forms by the way, that's all main forms and all quick create forms. Or you can apply to a specific form but it's a specific main form.
+
+[04:53] So I'm going to just leave it to the entity for this. So, because I'm not saying, narrowing it down to a particular model-driven app or form then, I'm saying, okay see entity so it applies when a record is saved or record is created in a canvas app, in a model-driven app, in Power Automate, in APIs or if I even do it in the portal if I go to data here, it would also apply here.
+
+[05:22] So if I add a record. So, let's go back, so I'm going to save. Now saving, yeah, it saves it, it doesn't actually make it happen. Notice now I've got two additional things I can save as. So I can save it as another file and then I can alter the second rule or I can activate it. And it's only activating that actually makes it do something. So hey, it's activating and we've got this dial up box saying, are you sure you want to activate it?
+
+[05:51] Yes, I'm sure. So now it is activated and if got into here and the back into business rules and I refresh we will see that we have got our new business rule with the name expense 100, it is activated, right. So let's go back here and we'll look at 001020. So double click on that and you can see description gone. There is no description.
+
+[06:20] So in this video we've created a basic business rule and we can see that it works. However it needs expanding as we'll see in the next video.

@@ -1,0 +1,32 @@
+# 46. The Collect function - Adding records to a collection
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 148 (section 27: Collections)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:08] In this section, we're going to have a look at the use of collections. So what are collections? Well, we've previously been using the Microsoft Dataverse as our data source. So, that is a source on the internet. Now, for my app to get the information, it has to communicate through the internet, interrogate the Dataverse, get the information back. Obviously, that takes time. And what if your app that you're using on your iOS or Android device, what if your device was offline, it couldn't get to the internet?
+
+[00:45] After all, not everywhere has a good mobile phone signal. Well, one way is to have your own data source incorporated into your power app. And that is called a collection. So what we're going to do, is we're going to start by a canvas app from blank. So you can see, I'm in make.powerapps.com. Canvas app from blank. So I'm going to call it 'my collection'. And this is going to be a tablet format. Obviously, if you don't have a tablet, if you've got a phone, feel free to do a phone format yourself.
+
+[01:18] So, let's click create take a few seconds to get things ready. So we're not starting with a data source in mind. But we do need to have an idea of what we're going to do. What is the purpose of this particular app? Well what I'm going to do is I'm going to take pictures and I'm going to add them to a collection. So for that, we need a camera. You can also do add picture, if you want to try this from your laptop or desktop but I'm going to use camera.
+
+[01:52] Now, the difference between camera and add picture on a handheld device is that camera will always give you the camera, add picture will give you the option to get pictures from your library. So let's click camera. So there is my camera. So I'm going to rename it as 'camera', I'll call it 'device'. Now, I also want some texts to go with this. So for this, we need text input.
+
+[02:21] So we're going to allow you to type in some text. So, type in photo text. Yeah. And then what do I want to do? Well, when I click on the camera, so let's make it nice and big and I click on the camera then it should add it to a collection. So let's go to OnSelect.
+
+[02:46] So when I click on the camera that's the OnSelect event or property. So what we're going to do is now add it to a collection and it's very easy to do that, we just call collect. So collect, adds an item to a collection. So first of all, it needs to know what the collection is going to be called, so this is just like a variable. So you can name it what you want. So, 'my collection', let's say and then, what is it going to collect?
+
+[03:17] So, because it's going to be a record it needs to be in squiggly brackets. So let's close the bracket at the end. So what is it going to collect? Well, it's going to collect a picture. So let's call this an image. The image, and again, this is just a column so you can call it what you will, so it's a column within the collection. The image is going to be this. So the camera device dot, and you can see that it's given me photo.
+
+[03:46] So that's a good idea. And I also want some text. So the text is going to be, and I'm going to use this, now can't remember what this is called, so I'll just put two quotation marks for now for blank screwing, so this is called text input, so I'm going to call it photo description. So the text is going to be photo description and I could put dot text, as well.
+
+[04:15] So, when I click this, it goes into collection. So, we need to be able to see the collection, otherwise we won't be able to know whether it's gone and you just have to take my word for it. Well, we can add this to a gallery. So here is a gallery. So I'm going to use a vertical gallery, drag this over to the right-hand side, drag it down. So it's just going to be an image and title. Data cells is going to be 'my collection', which is a collection.
+
+[04:45] And if we're going to field, you can see it's got image and title. So image and text there. Now we can also see the collections which were being used by going to variables and collections. So here's my collection. And it's a bit difficult to actually work with because I can't see anything. So let's add a dummy image up. So, we'll go to media, I'll upload and I'll upload the sales receipt from earlier, why not?
+
+[05:15] So that gives me an image. Now I need to populate the collection. So 'my collection'. So to do that, I go to the app and you can see, I can run the OnStart. So in the OnStart I'm going to give it a start. I'm going to say, how do I add a new item to collection? Collect. So collect, you can see it's auto completing my collection, comma.
+
+[05:47] So what do we have? We have image. The image is going to be whatever I called it here, 'sales receipt' and the text is going to be, 'welcome to the app'. There we go. So, if I run OnStart, let's see what happens. We now have one image added to the collection and it's got some text saying, 'welcome to the app'.
+
+[06:21] If I run it again here, it'll add a second one. Because collect adds a row to a collection Now, the collection doesn't need to be a new collection, It can be a pre-existing collection. And if we now go back into variables and collections you can see here's a preview of the first five items in this collection. So the collect function adds a new row into a collection.
+
+[06:48] So because it is a record, strictly speaking, then, we have to put it in squiggly brackets, and then we say, this is our column for our row or our field for our record. And this is what I want inside of it. So this is our first steps into a collection. The function collect adds a new row to an existing or new collection.

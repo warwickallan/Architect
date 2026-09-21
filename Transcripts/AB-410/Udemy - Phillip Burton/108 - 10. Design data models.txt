@@ -1,0 +1,26 @@
+# 10. Design data models
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 108 (section 21: Designing data model)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] So in this video, we're going to have a look at designing the data model for our app. So we've already got to the accounts, which is a table, and we can see, that it's got various columns. So for instance, we've got an Account Name, and I think this has a space in it. If you're not sure exactly whether there's space or anything like that, you can go back into the make.powerapps.com go down to data, tables, and have a look at the account table and you can see, all of the different columns that we've got here.
+
+[00:37] So here is our ID, and if I expand this you can see it is Account Name So that is our primary name column. That is a thing that uniquely identifies a particular row. So that is our column, and there are various other things. For example, we have got the city, the main phone the county, the country region, email, and so forth. And you can identify the display name and the internal name, if you wanted it here.
+
+[01:10] So this would be the address1_city, for instance, and we can also have a look at existing app and see what it uses. So all of these are columns. Now, I also need an expenses table. Why is it going to be a table? Well, what we're going to have for instance, is one particular account and it's going to have multiple expenses. So zero, one, or more than one.
+
+[01:39] Now, if it was just one, every single account is going to have one expense. Then, it could just be a column, in this table. However, it's not going to be the case, and some accounts may have no expenses but you can imagine we probably will have multiple expenses. We probably won't just be able to stick with one. Now, are going to have the table called expense or expenses? Well, the name of our table here... I put the word Accounts, it's actually Account singular.
+
+[02:07] So let's keep it in the same style, so we have the singular. So, what sorts of things do we need in our expense table? So, what sorts of columns? Well, we may be looking for instance, at the description. We could be looking at the value, maybe the status or does it need approving, for instance.
+
+[02:36] Has it been approved? Is no approval needed? We need the date of the expense and there probably will need to be a primary ID column. It's a primary key, and we also need to be able to link to the account table. So, this would be a relationship rather than a column and in the Dataverse what happens is that this also becomes a lookup.
+
+[03:08] So, the Dataverse handles the relationship. We just need to tell it that there is going to be a relationship between these two tables. So let's draw a line between the two. Now, one account can have multiple expenses. Now, could it be that multiple accounts can have the same expense?
+
+[03:36] Hm, I wouldn't do that. It really gets complicated if you go away from the one to many relationship. For instance, if I said, "Well we had these two different accounts and we wined and dined everybody there and it came to $50." Well, you can split it $25 each to keep the one to many. If you say, "Well, both of them had the advantage of the $50." You then start to get fairly complex in database terms.
+
+[04:07] So let's try and avoid many to many wherever we can. So we determined that the required entities we've got columns and a relationship between them. We have identified the columns themselves. The data types, well description is going to be some sort of text, The value is going to be some sort of number status text. The date of the expense is going to be a date type column. The ID, well, this is going to be the primary key.
+
+[04:37] So we're going to see if we can get something that the computer can automatically generate for us. So we don't have to be worried about that, and then the account table relationship lookup... We're going to handle that separately. So we have had a look at the data model that we need for this high level design. So what we're going to now do in the next video is create the expense table in the Dataverse and then we can refine what all of these column types are going to be.
+
+[05:12] For example, are there more than one type of text number and date column types?

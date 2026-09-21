@@ -1,0 +1,52 @@
+# 41. Adding Expenses screens into our Accounts apps
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 121 (section 23: Adding Expenses to our app)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:09] In this video, what we're going to do is add in the expenses screens into our existing accounts app. So, just as a reminder, we have got the account screen and we can view details of the screen and we can edit it and we can make changes and that sort of thing. So, exactly the same thing that we need for the expenses, but we're going to have this in the same app. So, let's go to our app.
+
+[00:37] So, make sure we close it first. So there is our accounts app, so I'm going to edit it. So I've gone to Power Apps. I've clicked on the dot dot dot, and gone to edit, there's also an edit icon near the top as well. Now we're not going to do anything new in this particular video. So if you are comfortable with the things we've done, you might want to skip to the next video. So, we've got a browse screen, a detail screen, and an edit screen, so I'm going to rename these four accounts.
+
+[01:09] So I'll just put the word accounts right to the beginning of each of these. And then we'll need the same screens, but for the expenses. So I can just duplicate these screens and then change what I need. So I'm going to duplicate this screen and it's going to be called "expenses of browse screen" and so forth.
+
+[01:35] Now the advantage of this sort of thing is that I then have got these icons all in place however, they're all pointing to the wrong place. I want this to point to the expenses and so forth. So what I can do is I can change the data source. So, at the moment it's on "accounts," so I'll change that to "expenses" except I need to add in the data, first of all so, let's do that.
+
+[02:05] Let's go into our data section that we currently have got the accounts. So I'm going to add in my expenses there. So now when I go back to here and say, "okay what is this gallery going to be based on?" It's going to be based on expenses. So let's make sure that names correct. And, let's just get rid of the sort to begin with. We just have expenses.
+
+[02:33] And you can see there are problems with this sort of thing, yes, we get the same functionality but, I don't particularly like doing that unless I'm fairly secure with what I'm doing in terms of making sure all of the changes, all of the icons are changed, but we saw in Practise Activity One it was fairly quick to be able to do this from blank. So I'm going to add in a expenses browse screen. So all I have to do is insert in a gallery and I need to be able to link it to data.
+
+[03:11] So the data in the expenses. Drag that down. And then I need an add icon. That these sorts of things because it's a bit bitty, I'm going to copy them all. So I'm clicking on the first one, holding down shift and clicking on others, copied them and then just paste.
+
+[03:43] So there is our expenses browse screen. There we go, dragged up to the top. What I'm going to do is click on "text" over here. It's just, actually, just taking a few seconds to update. I'm going to get a new screen. So this is going to be the detailed screen. So it's taken quite a long time.
+
+[04:12] So I'm going to add in a display form. So this is connected to the expenses data. There we go. And it's, what's in some things that are things that I might want to know I don't particularly want either of those to be honest, but I will add in the date of expense maybe the date to review as well, the approval status, these are just read-only.
+
+[04:42] Description, the expense buyer and maybe the expense receipt, as well. So, let's just click "add onto those," see what happens. There we go. And then finally, what we need if I go back to the tree view is another screen. So, this is the expenses edit screen. And so we have an edit form.
+
+[05:12] Again, we connect to this data, but we have to do it over here on the right-hand side. And I'll put in things that I want to add in such as the date of the expense, I don't necessarily need to put in the date to review, that's automatically added, but let's just add it in anyway. And the expense of value and things like that description. So there we go, now we just need a few icons which allow us to go from one to the other.
+
+[05:44] So, let's start with the expenses browse screen. If I am adding something, then I want to change the form. I want a new form and to navigate, but again you can see it's going to the edit form and that's fine when edit form is for accounts, when that's the only thing you've got, but when we've got accounts and we've got expenses, then again we need to be much more careful about how we refer to things.
+
+[06:13] So I'm going to call this the account scullery. So these sorts of things they're useful to set up right at the beginning so that when we add new things, we're not necessarily getting confused as to why we are. So there's expense gallery, so this one down here is going to be the expense edit form. So let's go now back to our browse screen.
+
+[06:40] So here it's going to the accounts edit form and the accounts setting screen we can see that very clearly now. So all we need to do is change that to the expense edit form and the expense edit screen, and make sure you are using the singular or plural each time here, I've got expenses browse screen, so I'm going to change that to the expense browse screen. So that one that works now, the refresh icon that needs to go into the refreshing of the expense table, which is I believe called expenses, and then I click on this.
+
+[07:18] So that goes to the OnSelect for the parent. The OnSelect for the parent, currently false. I want to take that to the detail screen so we can go back to this gallery and the OnSelect, and we can have a look at the Coulter is just a simple navigate. So, if we take that navigate, I came to here and say, "navigate to the expense." And again, I think putting the plural expenses for our screen.
+
+[07:56] So let's change all of these from plural to singular including the accounts quality account. As I say, you can choose singular, you can choose plural, just make it consistent throughout, otherwise you start getting into trouble as you go, "okay, well, is this a singular or a plural?" So then here is our detail screen.
+
+[08:25] So what it's going to do is go back to this detailed screen. I'm going to, again, take all of the things that I've got, copy them, and go back to here, paste them much quicker, thank goodness. And, let's go to the text here. So that saves expenses detailed screen, go back, that's fine. This one, again, we just change this to the expenses table and the expense gallery Here, we navigate to the expense edit screen here again, we need the check mark and the X marks again, going to copy all these.
+
+[09:19] So you see another way of highlights of the lot, just draw an area over it. So, go back to this text and you can see we've got this "are we editing or are we not?" Or is this a new, in other words. And then we submit the form, or we reset the form and go back.
+
+[09:50] And, if we submit the form, then what happens? So, go to the form itself, not the screen and you can see on success and on failure. So on success, we just go back. So we add that in. One thing I want to add to this, by the way, is the account.
+
+[10:24] So we've got account up there and you can see when it comes up, that it is a dropdown. So it's linking to the other table. So, let's just see if it got everything correct. So I've not done anything new in this. What I've done is just add in the expenses into this app news coming up, don't you worry. So, can I add an expense? Yeah, so I'll add an expense for this particular day.
+
+[10:52] The expense value is this much, description "Hello," and the account you can see is listing that the accounts that we've got there in the previous table, so submit. So there is our first item, so I can view it, but it says no item to display, so let's go into our screen, or more accurately I want to go into the form viewer and you can see the item that's selected is the account gallery dot selected.
+
+[11:24] So I need to do a similar thing to this gallery, So, it's called the form. So let's click on the form, and we changed that to to the expense gallery dot selected. So let's go back, let's test it again, testing is very important so you can see if there are things that you've missed. So there we go. So I can edit it again, I need in this edit screen to have what we had previously, so let's go back to the edit form, and you can see the item, again, is expense gallery dot selected, at least that's the one that we need.
+
+[12:00] So let's go back into here. So I'll enter expense gallery dot selected. So now let's have a look at it. So if I start from the expense browse screen, go through to this, I can edit that, I can make any changes. I can bin it, I can go back, I can refresh, I can add, I can do what I want.
+
+[12:36] Right, so, in this video what we've done is add the three same screens a browse screen, a detailed screen and an edit screen to the app. However, what we've not done is connect the two and we'll look at how we can start to do that in the next video.

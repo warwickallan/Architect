@@ -1,0 +1,34 @@
+# 16. Import data into an existing table by using Microsoft Excel
+# Udemy — AB-410: Intelligent Applications Builder Associate exam prep — AB-410 — lecture 119 (section 22: Other ways to create tables, and importing and exporting data)
+# https://www.udemy.com/course-dashboard-redirect/?course_id=4049210
+# captions: English
+
+[00:00] In this video, we are going to import additional data into our table that we imported in the previous video. So, this data goes through to October, 2016. In the spreadsheet called PowerBISourceDataFAdditional, we have November, 2016. So, let's say we wanted to add this into this existing table. Now, if we went the route that we previously did, going into Tables and then New Table, this will actually create a brand new table.
+
+[00:33] It won't add it to an existing table. There is not that option here. So instead, we go into the table, and we go to Import, and we can import data that will import it from a variety of sources, we'll have a look at that later on in this video, and import data specifically from Excel. So, if I do that, first thing you will be asked is, what file are you uploading?
+
+[01:01] So I'll click the Upload button. Now, let's say I wanted to upload the file that I've just imported. So, there is my PowerBISourceDataF file. If I click Open, you'll see that upload has failed, and it says, "The file could not be uploaded. An Excel file with more than one sheet is not currently supported." So, I couldn't upload the original data, even if I wish to. However, this new data has only one sheet, so let's click Upload and select this additional data.
+
+[01:35] And what we next get is, "Mapping errors exist." So what does that mean? Well, the computer does not know how to relate the Excel column name region name with the Dataverse table column name region name. You'd think it would be able to give it a go, but it doesn't. If I click on Map Columns next, so here you can see all of the columns in the Dataverse which have not been matched to Excel.
+
+[02:03] So we've got 12 month percentage change. So if I click on 12 months percentage change on Not Set, you can see the unmapped Excel columns include something very similarly named. You'd think that Dataverse would be able to just have a look at these two sets of columns and say they're a match, but apparently not. So I'll set the area, the average price, the date. Now, the import sequence number, that is an internal column. I don't need to map that to an Excel column.
+
+[02:33] And then I've got index, region name, and sales volume. Everything else is going to be set to Not Set. I'm not assigning it a value from Excel. Now, incidentally, the presentation you may see might look slightly different, as you'll see on the screen, but it's functionally the same. So, once you have done this, then you click on Save Changes, and now you can see mapping was successful, and then import.
+
+[03:02] Well, it's only six rows, so it should be fairly swift to import. And just a few seconds later, we'll see that it has indeed imported. And here you can see inserts and updates, six imports completed successfully. If it wasn't successful, then you would see an error message, and you'll be able to download the reasons why individual rows were not able to be processed. So I'll just close this and refresh.
+
+[03:31] And now you can see that the latest date that we've got is November, 2016, so these four rows have indeed been imported, as indeed have all of the other rows that were previously importing. Now, the other way to import an Excel spreadsheet is by going to Import, Import Data. Now, this can import from Excel, but it can also import from a huge range of other connectors. Now, this uses something called Power Query, which is something that you can use in Power BI.
+
+[04:03] You can also use it in Excel, though it's got a different name in some versions of Excel as Get and Transform, but it's there in the Data tab. So, what you can do here is you can import from various sources, including Excel. So, rather than clicking on Excel or any one of these other sources, what I'm going to do is I'm going to upload my file. So, I'll click Browse, and here is my file, and click Open.
+
+[04:33] And you can see the computer's filled in all of the things that needed filling in, like the connection credentials. You can also link to a file on the OneDrive, OneDrive for Business, specifically. So I'll say Next, and then it allows me to select which table. So this is the only way if you have got a workbook with more than one table or range, without saving the data into its own workbook. So I can say I want table one additional, for example.
+
+[05:03] So here's my data, click Next, and then I can transform my data if I so wished with a variety of steps such as multiplying numbers, splitting columns, that sort of thing. But I'm not going to wait for that, I'm just going to go to Next again. And then it gives you the option to load to a new table or load to an existing table. If you load to a new table, you have to specify the table name and the display name.
+
+[05:34] You can also specify the description. And it is also going to say these are the destination columns and their type, the column type. Or you can load to an existing table. So if I select my existing table, now, it's called Table-Excel, but it won't be under the Ts. Instead, there is a prefix. So, you've got to look for your prefix, and you can select the table name with a prefix and an underscore.
+
+[06:04] And here you can then map the source columns with the destination columns as before. There is also an Auto Map button that would've made life so much easier in the other way of importing. And then we click Next, and then Publish. And we can say we want it to refresh manually or automatically. I'm just going to say refresh manually.
+
+[06:31] I don't want to have to do it every so often, so I'll just refresh manually. Now, the thing about this is, again, it is not done immediately. If I click Publish, it is then put into a data flow. So if I click on More and go to Data Flows on the left hand side, you'll see that we've got a new data flow set up, and it is publish in progress. So I'm just going to wait for this data flow to actually run, so I'll pause the video until then.
+
+[07:04] So, now you can see that it has been published, and the data is now importing. So in this video, we've had a look at another two ways of importing data into an existing table. And you go to Tables, the name of the table, and then you can Import Data if you want to use Power Query and potentially manipulate the data, but a much simpler way is to go to Import Data from Excel, upload the file, and then map the columns.
