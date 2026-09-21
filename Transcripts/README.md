@@ -9,6 +9,7 @@ Raw course transcripts used as study material, one folder per exam, one sub-fold
 | AB-100 | Udemy — Phillip Burton | [AB-100 exam prep](https://www.udemy.com/course/ab-100-agentic-ai-business-solutions-architect-exam-preparation/) (enrolled, paid) | 97 |
 | CPMAI | Udemy — Sanal Mathew John | [Introduction to PMI CPMAI - Master Class](https://www.udemy.com/course-dashboard-redirect/?course_id=6658161) (enrolled, paid) | 41 of 60 — 19 lectures have no caption track |
 | AB-410 | Udemy — Phillip Burton | [AB-410 exam prep](https://www.udemy.com/course-dashboard-redirect/?course_id=4049210) (enrolled, paid) | 192 of 193 (L41 has no captions) — lectures 1–81 AB-410, 82–213 bonus PL-200 |
+| AB-410 | Microsoft Learn (official prep) | [Course AB-410T00](https://learn.microsoft.com/en-us/training/courses/ab-410t00/) — 4 paths, 17 modules, 147 units | syllabus + objectives, not transcripts — `AB-410/Microsoft Learn/` |
 | PMP | Udemy — David McLachlan | [The Best PMP Prep Course: 35 PDUs](https://www.udemy.com/course-dashboard-redirect/?course_id=5188420) (enrolled, paid) | 398 |
 
 The Udemy sets were taken from the enrolled course's own caption files (English / English [Auto]) via the logged-in course player on 2026-09-19 — not YouTube, so `fetch_transcripts.py` doesn't apply; the manifest entry records it. Committed at Warwick's decision (2026-09-19).
