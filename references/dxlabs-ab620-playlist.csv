@@ -1,0 +1,62 @@
+n,module,videoId,len,seconds,title,objectives,use,mode
+1,1-0,3kn7OYSe2Jg,4:44,284,The UX Upgrade & The Deployment Reality,AB620-1.3.2 AB620-1.3.8 AB620-1.1.3,SKIP,LISTEN
+2,1-1,5C4IuNN8zsQ,7:57,477,Design Rich Interactive Agent Responses in Copilot Studio,AB620-1.3.2,USE,WATCH
+3,1-2,KJnNENPgDQw,6:11,371,Formatting Agent Messages in Copilot Studio,AB620-1.3.2,OPTIONAL,WATCH
+4,1-3,3rdIU0cs3g0,7:55,475,Creating Interactive Adaptive Cards in Copilot Studio,AB620-1.3.8,OPTIONAL,BUILD ALONG
+5,1-4,f8LVTvLPkG8,7:53,473,Designing Informational Adaptive Cards for AI Agents,AB620-1.3.8,USE,WATCH
+6,1-5,siX5E5MsRgM,7:46,466,How to Use Adaptive Cards Across Channels in Copilot Studio,AB620-1.3.8 AB620-1.1.3,OPTIONAL,BUILD ALONG
+7,2-0,LgjHf5w4dlY,5:02,302,The Integration Blueprint & 100 Seconds Wall,AB620-1.3.1 AB620-1.3.3 AB620-1.3.6 AB620-1.2.1 AB620-1.2.3,USE,LISTEN
+8,2-1,ZsO93udGblw,8:12,492,"Copilot Studio Actions: Connectors, Agent Flows, & HTTP Request Nodes",AB620-1.2.3 AB620-1.3.6,OPTIONAL,WATCH
+9,2-2,wbPDcBb3BB0,7:16,436,How to Call Tools from Agent Topics in Copilot Studio,AB620-1.3.3,OPTIONAL,BUILD ALONG
+10,2-3,XaAbTwMig9E,6:03,363,How to Trigger Agent Flows from Topics,AB620-1.3.1 AB620-1.2.1,OPTIONAL,BUILD ALONG
+11,2-4,gwvYKlt2PG4,7:54,474,Using HTTP Request Node,AB620-1.3.6,OPTIONAL,BUILD ALONG
+12,3-0,9UdrQWRosqI,4:09,249,Copilot Studio Architecture Overview,AB620-1.3.7 AB620-1.3.5 AB620-1.3.4,USE,LISTEN
+13,3-1,JpP4oyzLXXM,9:18,558,Generate AI-Powered Agent Responses in Microsoft Copilot Studio,AB620-1.3.7,USE,WATCH
+14,3-2,LHXulnnc1wQ,5:51,351,Generative Answers Node in Copilot Studio,AB620-1.3.7,OPTIONAL,WATCH
+15,3-3,CmzEu4gZeRg,5:56,356,Adding Custom Knowledge Sources for AI Responses,AB620-1.3.5,OPTIONAL,BUILD ALONG
+16,3-4,QcNvItTTH6o,6:19,379,How to Shape AI Responses with Custom Instructions,AB620-1.3.4,OPTIONAL,BUILD ALONG
+17,3-5,zapj8e4la_0,5:31,331,How to Author Custom Prompts in Copilot Studio,AB620-1.3.4,OPTIONAL,BUILD ALONG
+18,4-0,uWdFArPHwTU,7:21,441,Multi-Agent Architecture,AB620-2.3.1,USE,LISTEN
+19,4-1,Lbgop7zdhJk,7:48,468,Design Multi-Agent Solutions in Microsoft Copilot Studio,AB620-2.3.1,USE,WATCH
+20,4-2,zWm_ECaojlM,6:47,407,Multi-Agent Architectures Explained for Copilot Studio,AB620-2.3.1,USE,LISTEN
+21,4-3,tTv1T2HdFQ0,8:17,497,How to Design Multi-Agent Solutions with Child Agents,AB620-2.3.1,OPTIONAL,BUILD ALONG
+22,4-4,R8sGJ95zkdQ,7:09,429,How to Design Multi-Agent Solutions with Connected Agents,AB620-2.3.1,OPTIONAL,BUILD ALONG
+23,5-0,uk4KMC_9TXk,6:17,377,Sub Orchestration Domains - The Tool Capacity Loop,AB620-2.3.1 AB620-1.2.5,USE,LISTEN
+24,5-1,kzUCKkcLjvQ,6:59,419,Delegate Agent Tasks Using Child Agents,AB620-2.3.1 AB620-1.2.5,OPTIONAL,BUILD ALONG
+25,5-2,rlYshUvgoOU,7:33,453,Child Agents Explained: Why They Matter in Copilot Studio,AB620-2.3.1 AB620-1.2.5,USE,LISTEN
+26,5-3,tRLtn8H6eFI,7:27,447,How to Create Child Agents in Copilot Studio,AB620-2.3.1 AB620-1.2.5,OPTIONAL,BUILD ALONG
+27,5-4,qqE4foXqfBQ,8:01,481,"Child Agent Inputs, Outputs & Triggers Explained",AB620-1.2.5 AB620-2.3.1,OPTIONAL,WATCH
+28,5-5,NEgPOelgliI,6:04,364,How to Test & Fix Child Agent Routing in Copilot Studio,AB620-2.3.1 AB620-1.2.5,OPTIONAL,BUILD ALONG
+29,6-0,v31yg2JkIJY,7:37,457,Engineering the Multi Agent Network - Cross Platform Orchestration,AB620-2.3.1 AB620-2.3.2 AB620-2.3.3 AB620-2.3.4,USE,LISTEN
+30,6-1,_nPbp51m5DE,9:02,542,Build Multi-Agent Solutions Using Connected Agents in Copilot Studio,AB620-2.3.1 AB620-2.3.2 AB620-2.3.3 AB620-2.3.4,OPTIONAL,BUILD ALONG
+31,6-2,ZHhIeLL6U6M,6:16,376,Connected Agents Explained: When & How to Use Them,AB620-2.3.1 AB620-2.3.2 AB620-2.3.3 AB620-2.3.4,USE,LISTEN
+32,6-3,fJf_l9X-sS0,10:12,612,How to Connect Existing Agents in Copilot Studio,AB620-2.3.3,OPTIONAL,BUILD ALONG
+33,6-4,4apJnGu1XXg,5:28,328,How Microsoft Foundry Agents Integrate with Copilot Studio,AB620-2.3.2,OPTIONAL,WATCH
+34,6-5,5zyLeYIBOow,7:05,425,Using Microsoft Fabric Data Agents in Copilot Studio,AB620-2.3.4,OPTIONAL,BUILD ALONG
+35,6-6,quL_2UnnhuQ,6:56,416,How to Test & Debug Connected Agents in Copilot Studio,AB620-2.3.1 AB620-2.3.2 AB620-2.3.3 AB620-2.3.4,OPTIONAL,BUILD ALONG
+36,7-0,3vczNkYX-As,6:25,385,Boundary Delegation - The Session Leak Vulnerability,AB620-2.3.5,USE,LISTEN
+37,7-1,R3v7qFZ3VKc,10:17,617,Build Cross-Platform Multi-Agent Solutions with the Agent2Agent Protocol,AB620-2.3.5,OPTIONAL,BUILD ALONG
+38,7-2,hV0eqvs0DVA,7:49,469,How Agent2Agent (A2A) Really Works in Copilot Studio,AB620-2.3.5,USE,LISTEN
+39,7-3,uYPlNVslca4,6:12,372,Connect Copilot to an A2A Agent,AB620-2.3.5,OPTIONAL,BUILD ALONG
+40,7-4,A0jDPD1sFlQ,6:45,405,How to Test an A2A Agent Connection,AB620-2.3.5,OPTIONAL,BUILD ALONG
+41,8-0,qxt8X_kGy9Y,5:25,325,The Copilot Studio Integration Matrix,AB620-1.1.1 AB620-1.1.2 AB620-1.1.5,USE,LISTEN
+42,8-1,MsCczaCcVEQ,8:58,538,Design Integration Strategies for Agents in Microsoft Copilot Studio,AB620-1.1.1 AB620-1.1.2 AB620-1.1.5,USE,WATCH
+43,8-2,CBxYdmr5ECU,6:40,400,Copilot Integration Landscape,AB620-1.1.1 AB620-1.1.2 AB620-1.1.5,USE,LISTEN
+44,8-3,O5thv_EFi5w,8:57,537,Integration Patterns,AB620-1.1.1 AB620-1.1.2 AB620-1.1.5,USE,LISTEN
+45,8-4,mRyqY5ImYWo,7:09,429,Authenticate & Govern Agents,AB620-1.1.2 AB620-1.1.5,OPTIONAL,BUILD ALONG
+46,8-5,0gT9DwzaYkI,6:46,406,Enterprise Integrations,AB620-1.1.1,USE,LISTEN
+47,9-1,Ac0X5tRr_4U,7:39,459,Take Action in External Systems Using Connector & REST API Tools,AB620-2.2.4 AB620-2.2.3,USE,BUILD ALONG
+48,9-2,VePxX-8ZjEc,6:04,364,Connectors & REST API Tools,AB620-2.2.4 AB620-2.2.3,OPTIONAL,BUILD ALONG
+49,9-3,0WYSA5qxcOc,5:00,300,Adding Connector Tools,AB620-2.2.3,OPTIONAL,BUILD ALONG
+50,9-4,pZ7yGq7P-ik,5:55,355,Authentication for Connector Tools,AB620-2.2.3,OPTIONAL,WATCH
+51,9-5,BLLi1tfOPYQ,7:05,425,Adding REST API Tool,AB620-2.2.4,OPTIONAL,BUILD ALONG
+52,10-1,gRylJl_hivM,9:28,568,Ground Agents with Enterprise Knowledge Using Connectors & Azure AI Search,AB620-2.1.3 AB620-2.4.1,USE,WATCH
+53,10-2,DEyc50uaIiU,7:06,426,Choosing Knowledge Sources,AB620-2.1.1,USE,LISTEN
+54,10-3,aWdALxXkyoc,6:57,417,Adding Copilot Connectors,AB620-2.1.1,OPTIONAL,BUILD ALONG
+55,10-4,5KGDyqza4Vo,5:44,344,Real-Time Connectors,AB620-2.1.2,OPTIONAL,WATCH
+56,10-5,ryVdfzzax4o,6:20,380,Connect Azure AI Search,AB620-2.1.3,OPTIONAL,BUILD ALONG
+57,11-1,A3ammVhc8W4,7:40,460,Integrate Agents with External Systems via MCP in Copilot Studio,AB620-2.2.2,OPTIONAL,WATCH
+58,11-2,FD2O4kDv1Vs,6:50,410,Understanding MCP & Copilot,AB620-2.2.2,USE,LISTEN
+59,11-3,PPL8bj9Suak,5:00,300,Connecting Agent to MCP Server,AB620-2.2.2,OPTIONAL,BUILD ALONG
+60,11-4,ABegd9XwNDc,6:29,389,MCP Server Authentication,AB620-2.2.2,OPTIONAL,WATCH
+61,11-5,Di3oApW1F_c,5:46,346,Enable and Manage MCP Tools,AB620-2.2.2,OPTIONAL,BUILD ALONG
