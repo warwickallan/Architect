@@ -1,6 +1,8 @@
 # Dashboard
 
-**Updated:** 2026-09-20 · **Stage:** Foundation → P01 discovery · **Method:** v0.2.1 · **Register:** [`REGISTER.md`](../REGISTER.md)
+**Updated:** 2026-09-24 · **Stage:** Foundation → P01 discovery · **Method:** v0.2.1 · **Register:** [`REGISTER.md`](../REGISTER.md)
+
+> **Session handoff (Yoga → HP), 2026-09-24.** All work in *this* repo is committed and pushed (`f9ee53c`), tree clean. On the HP: `git clone`, then `cd products/p00-architect-os && npm install` before running the OS (`node_modules/`, `dist/` are git-ignored and rebuild locally). Two things do **not** travel via git: (a) Claude's memory files (machine-local to the Yoga) — the repo itself carries continuity via `CLAUDE.md` → this dashboard → `PROJECT.md` → `method/README.md`; (b) the git-ignored Architect OS build artefacts (rebuild as above). **In flight from this chat:** CPMAI audio — 13 scripts drafted (`Transcripts/CPMAI/audio/architect-cpmai/`), awaiting an ElevenLabs key in `tools/narrate/.env` + a voice pick, then `tts.py`; DX Labs AB-620 playlist audited as a *selective supplement* (`references/dxlabs-ab620-playlist-audit.md`) — USE-cut fetch and the DX Labs AB-100 audit both await Warwick's go; Coding With Chuck eps 33–46 need a **Pro-tier** membership upgrade (see below).
 
 **CORE** Architect programme · Architect OS (v0.2, still at `products/p00-architect-os/`) · Architect LMS (v0.1, [own repo](https://github.com/warwickallan/architect-lms))  ·  **PROJECTS** P01 Tech PMO AI (candidate)
 
@@ -10,7 +12,7 @@
 2. Fix what the first real use exposes (record shape, questions, UI) — Method v0.2 → v0.3 from evidence.
 3. Explain-backs for ADR-0001–0008; L000 orientation lesson; concept lessons as they unlock.
 4. **Architect LMS** — v0.1 shipped 2026-09-20 (Assessment Console + telemetry). **Discover** added the same day: paste a YouTube URL or web page, it is verified against the source before ingestion, and out come a timestamped transcript, a ~12-minute narration script ready for ElevenLabs, and reviewed questions that cite the minute of the source that taught them. Proven end to end on the 4h24m freeCodeCamp AI-900 course — 8 of 10 questions approved by the independent reviewer, £~1.15 of model time. 49 tests. **Not yet seen on screen:** Chrome could not reach localhost in this session, so the Discover UI builds and typechecks but has not been rendered — that is Warwick's first check. Commit `a602be5`, not pushed.
-5. **AB-100 transcripts — finish the gap:** Coding With Chuck eps 33–46 are channel-members-only (Warwick joined 2026-09-18). Pull them through the signed-in Chrome route once YouTube's rate limit resets (~2026-09-19), then drop the `access` flags in `Transcripts/AB-100/manifest.json`.
+5. **AB-100 transcripts — finish the gap:** Coding With Chuck eps 33–46 are members-only at the **Pro tier**; the account holds a lower tier, so they stay locked until the membership is upgraded to Pro (confirmed 2026-09-22 — it is a tier gate, not the earlier rate-limit assumption). After upgrade, pull via the signed-in Chrome route and drop the `access` flags in `Transcripts/AB-100/manifest.json`.
 
 ## Study material
 
@@ -19,7 +21,10 @@
 | AB-100 — Microsoft Learn (Georgia Kalyva, 16 eps) | `Transcripts/AB-100/Microsoft Learn/` | 16 / 16 | — |
 | AB-100 — Coding With Chuck (46 eps) | `Transcripts/AB-100/Coding with Chuck/` | 32 / 46 | eps 33–46 members-only; membership now held |
 | AB-410 — Microsoft Learn official prep (AB-410T00: 4 paths / 17 modules / 147 units) | `Transcripts/AB-410/Microsoft Learn/` | syllabus + objectives captured | official paths cover 36/48 objectives — 12 gaps curated in that README |
-| AB-410 — Udemy, Phillip Burton (193 video lectures; 81 AB-410 + 112 bonus PL-200) | `Transcripts/AB-410/Udemy - Phillip Burton/` | 192 / 193 | L41 no captions · cut in `references/udemy-ab410-burton-analysis.md` |
+| AB-410 — Udemy, Phillip Burton (193 video lectures; 81 AB-410 + 112 bonus PL-200) | `Transcripts/AB-410/Udemy - Phillip Burton/` | 192 / 193 | L41 no captions · tiered cut + streamlined order in `references/udemy-ab410-burton-analysis.md` §G |
+| AB-620 — DX Labs Global playlist (61 videos, 7h06m) | audit only — `references/dxlabs-ab620-playlist-audit.md` + `.csv` | metadata mapped; transcripts not fetched | **selective supplement** for Area 2; no Area 3/computer-use/HIL; USE-cut fetch pending decision |
+| CPMAI — Udemy, Sanal Mathew John (60 lectures) | `Transcripts/CPMAI/Udemy - Sanal Mathew John/` | 41 / 60 | 19 have no caption track · **13-chapter audio course scripted** in `Transcripts/CPMAI/audio/architect-cpmai/` |
+| PMP — Udemy, David McLachlan (398 lectures) | `Transcripts/PMP/Udemy - David McLachlan/` | 398 / 398 | parked — not a current focus |
 | AB-100 — Udemy, Phillip Burton (97 video lectures) | `Transcripts/AB-100/Udemy - Phillip Burton/` | 97 / 97 | — · captions pulled read-only from the enrolled course 2026-09-19; playlist/cut in `references/udemy-ab100-burton-analysis.md` |
 
 Fetched via `tools/fetch_transcripts.py` (anonymous, fine for public videos) and, where that is rate-limited or the video is gated, Claude driving the signed-in Chrome tab. Commit `4376f49`, 2026-09-18.
